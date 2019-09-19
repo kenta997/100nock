@@ -44,8 +44,10 @@ result = []
 for sentence in lattice:
     for chunk in sentence:
         if chunk.dst != -1:
-            result.append("".join([morph.surface for morph in chunk.morphs if morph.pos != "記号"]) + "\t"\
-                    + "".join([morph.surface for morph in sentence[chunk.dst].morphs if morph.pos != "記号"]))
+            if "名詞" in [morph.pos for morph in chunk.morphs]:
+                if "動詞" in [morph.pos for morph in sentence[chunk.dst].morphs]:
+                    result.append("".join([morph.surface for morph in chunk.morphs if morph.pos != "記号"]) + "\t"\
+                            + "".join([morph.surface for morph in sentence[chunk.dst].morphs if morph.pos != "記号"]))
 
 print("\n".join(result))
 
