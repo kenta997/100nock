@@ -17,12 +17,12 @@ class Chunk:
         self.dst = dst
         self.srcs = []
 
-    def add_src(src):
+    def add_src(self, src):
         self.srcs.append(src)
 
     def __str__(self):
-        return "形態素:\n{}\n 係り先文節インデックス番号: {}\n係り元文節インデックス番号: {}".format(
-                "\n".join([str(x) for x in self.morphs]), self.dst, self.srcs)
+        return "形態素:\n{}\n係り先文節インデックス番号: {}\n係り元文節インデックス番号: {}".format(
+                "\n".join(["\t" + str(x) for x in self.morphs]), self.dst, self.srcs)
 
 
 with open("neko.txt.cabocha", mode="r") as f:
@@ -31,17 +31,16 @@ with open("neko.txt.cabocha", mode="r") as f:
 lattice = lattice.split("\nEOS")[:-1]
 lattice = [x.split("* ")[1:] for x in lattice]
 lattice = [[y.split("\n") for y in x] for x in lattice]
-lattice = [[y[0].split(" ") + [z.replace("\t", ",").split(",") for z in y[1:]] for y in x] for x in lattice]
-lattice = [[Chunk([Morph(z[0], z[7], z[1], z[2]) for z in y[1:] if len(y) == 10], int(y[0][1])) for y in x] for x in lattice]
+lattice = [[[y[0].split(" ")] + [z.replace("\t", ",").split(",") for z in y[1:]] for y in x] for x in lattice]
+lattice = [[Chunk([Morph(z[0], z[7], z[1], z[2]) for z in y[1:] if len(z) == 10], int(y[0][1][:-1])) for y in x] for x in lattice]
 
 for x in lattice:
     for i, y in enumerate(x):
-        dst = int(y.dst[:-1])
+        dst = y.dst
         if dst != -1:
-            y[dst].add_src(i)
+            x[dst].add_src(i)
 
-for x in lattice[7]:
-    for y in x:
-        print(y)
-
+for i, x in enumerate(lattice[7]):
+    print(i)
+    print(x)
 
