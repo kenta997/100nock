@@ -50,19 +50,10 @@ for i, sentence in enumerate(tqdm(lattice)):
         for j, chunk in enumerate(sentence)])
     dot += "".join(["\tnode{} -> node{};\n".format(j, chunk.dst)
         for j, chunk in enumerate(sentence) if chunk.dst != -1])
-    # for j, chunk in enumerate(sentence):
-        # if chunk.dst != -1:
-            # dot += "\tnode{} [label=\"".format(j)
-            # dot += "".join([morph.surface for morph in chunk.morphs])
-            # dot += "\"] -> node{} [label=\"".format(chunk.dst)
-            # dot += "".join([morph.surface for morph in sentence[chunk.dst].morphs])
-            # dot += "\"];\n"
-            # dot[-1].append("\t" + "".join([morph.surface for morph in chunk.morphs]) + " -> "\
-            #         + "".join([morph.surface for morph in sentence[chunk.dst].morphs]) + ";\n")
     dot += "}\n"
-    with open("dot/{}.dot".format(i), mode="w") as f:
+    with open("dot/{}.dot".format(str(i).zfill(5)), mode="w") as f:
         f.write(dot)
 
-    graph = pydotplus.graph_from_dot_file("dot/{}.dot".format(i))
-    graph.write_png("png/{}.png".format(i))
+    graph = pydotplus.graph_from_dot_file("dot/{}.dot".format(str(i).zfill(5)))
+    graph.write_png("png/{}.png".format(str(i).zfill(5)))
 
