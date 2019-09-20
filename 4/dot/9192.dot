@@ -1,0 +1,7 @@
+digraph graph9192 {
+	node0 [label="無理を"];
+	node1 [label="通そうとするから"];
+	node2 [label="苦しいのだ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

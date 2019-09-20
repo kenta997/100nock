@@ -1,0 +1,35 @@
+digraph graph367 {
+	node0 [label="また"];
+	node1 [label="いわんや"];
+	node2 [label="同情に"];
+	node3 [label="乏しい"];
+	node4 [label="吾輩の"];
+	node5 [label="主人のごときは、"];
+	node6 [label="相互を"];
+	node7 [label="残り"];
+	node8 [label="なく"];
+	node9 [label="解すると"];
+	node10 [label="いうが"];
+	node11 [label="愛の"];
+	node12 [label="第一義であるという"];
+	node13 [label="ことすら"];
+	node14 [label="分らない"];
+	node15 [label="男なのだから"];
+	node16 [label="仕方がない。"];
+	node0 -> node16;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

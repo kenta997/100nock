@@ -1,0 +1,15 @@
+digraph graph7476 {
+	node0 [label="　寒月君は"];
+	node1 [label="それとも"];
+	node2 [label="知らず"];
+	node3 [label="座敷で"];
+	node4 [label="妙な"];
+	node5 [label="事を"];
+	node6 [label="話している。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,15 @@
+digraph graph3760 {
+	node0 [label="「東風君僕の"];
+	node1 [label="創作を"];
+	node2 [label="一つやらないか」と"];
+	node3 [label="今度は"];
+	node4 [label="寒月君が"];
+	node5 [label="相手に"];
+	node6 [label="なる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

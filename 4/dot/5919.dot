@@ -1,0 +1,27 @@
+digraph graph5919 {
+	node0 [label="今度"];
+	node1 [label="赤十字の"];
+	node2 [label="総会が"];
+	node3 [label="あるので"];
+	node4 [label="わざわざ"];
+	node5 [label="静岡から"];
+	node6 [label="出て来てね、"];
+	node7 [label="今日いっしょに"];
+	node8 [label="上野へ"];
+	node9 [label="出掛けたんだが"];
+	node10 [label="今"];
+	node11 [label="その"];
+	node12 [label="帰りがけなんだよ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

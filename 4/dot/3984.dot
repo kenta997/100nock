@@ -1,0 +1,27 @@
+digraph graph3984 {
+	node0 [label="もし"];
+	node1 [label="相手が"];
+	node2 [label="この"];
+	node3 [label="野蛮な"];
+	node4 [label="振舞を"];
+	node5 [label="やると、"];
+	node6 [label="向って来た"];
+	node7 [label="ところを"];
+	node8 [label="覘いすまして、"];
+	node9 [label="いやと"];
+	node10 [label="云う"];
+	node11 [label="ほど"];
+	node12 [label="張り付けてやる。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

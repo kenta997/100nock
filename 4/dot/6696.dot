@@ -1,0 +1,7 @@
+digraph graph6696 {
+	node0 [label="「おや、"];
+	node1 [label="よく"];
+	node2 [label="早くから……」"];
+	node0 -> node2;
+	node1 -> node2;
+}

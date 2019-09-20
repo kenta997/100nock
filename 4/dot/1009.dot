@@ -1,0 +1,5 @@
+digraph graph1009 {
+	node0 [label="「いや"];
+	node1 [label="失敬。"];
+	node0 -> node1;
+}

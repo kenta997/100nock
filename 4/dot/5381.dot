@@ -1,0 +1,25 @@
+digraph graph5381 {
+	node0 [label="こう"];
+	node1 [label="覚ったから"];
+	node2 [label="平生"];
+	node3 [label="かかりつけの"];
+	node4 [label="甘木先生を"];
+	node5 [label="迎えて"];
+	node6 [label="診察を"];
+	node7 [label="受けて"];
+	node8 [label="見ようと"];
+	node9 [label="云う"];
+	node10 [label="量見を"];
+	node11 [label="起したのである。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

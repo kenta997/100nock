@@ -1,0 +1,23 @@
+digraph graph9077 {
+	node0 [label="「きっと"];
+	node1 [label="出る"];
+	node2 [label="事に"];
+	node3 [label="します、"];
+	node4 [label="僕の"];
+	node5 [label="作った"];
+	node6 [label="曲を"];
+	node7 [label="楽隊が"];
+	node8 [label="奏するのを、"];
+	node9 [label="きき落すのは"];
+	node10 [label="残念ですからね」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

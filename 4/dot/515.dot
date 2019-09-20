@@ -1,0 +1,23 @@
+digraph graph515 {
+	node0 [label="坂本竜馬のような"];
+	node1 [label="豪傑でも"];
+	node2 [label="時々は"];
+	node3 [label="治療を"];
+	node4 [label="うけたと"];
+	node5 [label="云うから、"];
+	node6 [label="早速"];
+	node7 [label="上根岸まで"];
+	node8 [label="出掛けて"];
+	node9 [label="揉まして"];
+	node10 [label="見た。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

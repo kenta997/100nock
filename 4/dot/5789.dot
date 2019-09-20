@@ -1,0 +1,7 @@
+digraph graph5789 {
+	node0 [label="愛人も"];
+	node1 [label="汝を"];
+	node2 [label="棄つべし。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,13 @@
+digraph graph2184 {
+	node0 [label="「標札は"];
+	node1 [label="ある"];
+	node2 [label="ときと、"];
+	node3 [label="ない"];
+	node4 [label="ときと"];
+	node5 [label="ありますよ。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

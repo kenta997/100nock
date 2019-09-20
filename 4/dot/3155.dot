@@ -1,0 +1,7 @@
+digraph graph3155 {
+	node0 [label="これが"];
+	node1 [label="多々良君の"];
+	node2 [label="特色である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,15 @@
+digraph graph1786 {
+	node0 [label="しかのみならず"];
+	node1 [label="吾輩は"];
+	node2 [label="寒月君に対して"];
+	node3 [label="はなはだ"];
+	node4 [label="同情の"];
+	node5 [label="至りに"];
+	node6 [label="堪えん。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

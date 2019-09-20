@@ -1,0 +1,11 @@
+digraph graph7418 {
+	node0 [label="「御客ですか」と"];
+	node1 [label="寒月君は"];
+	node2 [label="やはり"];
+	node3 [label="顔半分で"];
+	node4 [label="聞き返している。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,7 @@
+digraph graph7383 {
+	node0 [label="僕を"];
+	node1 [label="侮辱した"];
+	node2 [label="ものである。"];
+	node0 -> node1;
+	node1 -> node2;
+}

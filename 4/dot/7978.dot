@@ -1,0 +1,9 @@
+digraph graph7978 {
+	node0 [label="「みんな"];
+	node1 [label="食ったら"];
+	node2 [label="日も"];
+	node3 [label="暮れたろう」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

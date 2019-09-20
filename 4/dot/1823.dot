@@ -1,0 +1,11 @@
+digraph graph1823 {
+	node0 [label="こいつは"];
+	node1 [label="剣呑だと"];
+	node2 [label="水桶の"];
+	node3 [label="裏へ"];
+	node4 [label="かくれる。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

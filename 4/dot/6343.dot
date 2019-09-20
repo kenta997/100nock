@@ -1,0 +1,27 @@
+digraph graph6343 {
+	node0 [label="「こう"];
+	node1 [label="自分と"];
+	node2 [label="気狂ばかりを"];
+	node3 [label="比較して"];
+	node4 [label="類似の"];
+	node5 [label="点ばかり"];
+	node6 [label="勘定していては、"];
+	node7 [label="どうしても"];
+	node8 [label="気狂の"];
+	node9 [label="領分を"];
+	node10 [label="脱する"];
+	node11 [label="事は"];
+	node12 [label="出来そうにもない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

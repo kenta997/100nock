@@ -1,0 +1,27 @@
+digraph graph659 {
+	node0 [label="吾輩は"];
+	node1 [label="しばらく"];
+	node2 [label="恍惚として"];
+	node3 [label="眺めていたが、"];
+	node4 [label="やがて"];
+	node5 [label="我に"];
+	node6 [label="帰ると同時に、"];
+	node7 [label="低い声で"];
+	node8 [label="「三毛子さん"];
+	node9 [label="三毛子さん」と"];
+	node10 [label="いいながら"];
+	node11 [label="前足で"];
+	node12 [label="招いた。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

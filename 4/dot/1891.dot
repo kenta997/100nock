@@ -1,0 +1,5 @@
+digraph graph1891 {
+	node0 [label="——"];
+	node1 [label="金田だってえばさ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,9 @@
+digraph graph8883 {
+	node0 [label="「大きな"];
+	node1 [label="碌で"];
+	node2 [label="なしの"];
+	node3 [label="部ですよ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

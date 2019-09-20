@@ -1,0 +1,15 @@
+digraph graph8769 {
+	node0 [label="また"];
+	node1 [label="夫の"];
+	node2 [label="思い通りに"];
+	node3 [label="なるような"];
+	node4 [label="妻なら"];
+	node5 [label="妻じゃない"];
+	node6 [label="人形だからね。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

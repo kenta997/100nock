@@ -1,0 +1,35 @@
+digraph graph4473 {
+	node0 [label="これは"];
+	node1 [label="正しく"];
+	node2 [label="熱湯の"];
+	node3 [label="中に"];
+	node4 [label="長時間の"];
+	node5 [label="あいだ我慢を"];
+	node6 [label="して"];
+	node7 [label="浸って"];
+	node8 [label="おった"];
+	node9 [label="ため"];
+	node10 [label="逆上したに"];
+	node11 [label="相違ないと"];
+	node12 [label="咄嗟の"];
+	node13 [label="際に"];
+	node14 [label="吾輩は"];
+	node15 [label="鑑定を"];
+	node16 [label="つけた。"];
+	node0 -> node16;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node16;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+}

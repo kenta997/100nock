@@ -1,0 +1,13 @@
+digraph graph319 {
+	node0 [label="しかし"];
+	node1 [label="彼は"];
+	node2 [label="まだ"];
+	node3 [label="雪隠で"];
+	node4 [label="写生は"];
+	node5 [label="せぬようだ。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

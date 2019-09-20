@@ -1,0 +1,5 @@
+digraph graph6733 {
+	node0 [label="「ただ"];
+	node1 [label="怒るばかりじゃないのよ。"];
+	node0 -> node1;
+}

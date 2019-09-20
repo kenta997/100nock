@@ -1,0 +1,7 @@
+digraph graph5748 {
+	node0 [label="が"];
+	node1 [label="そこが"];
+	node2 [label="訓練である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

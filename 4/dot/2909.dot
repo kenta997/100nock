@@ -1,0 +1,19 @@
+digraph graph2909 {
+	node0 [label="女房なんどは、"];
+	node1 [label="どんな"];
+	node2 [label="汚ない"];
+	node3 [label="風を"];
+	node4 [label="していても、"];
+	node5 [label="自分さい"];
+	node6 [label="宜"];
+	node7 [label="けりゃ、"];
+	node8 [label="構わないんでしょう」"];
+	node0 -> node8;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

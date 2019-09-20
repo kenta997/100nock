@@ -1,0 +1,9 @@
+digraph graph5152 {
+	node0 [label="「以後"];
+	node1 [label="注意しますから、"];
+	node2 [label="今度だけ"];
+	node3 [label="許して下さい」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

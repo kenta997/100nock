@@ -1,0 +1,17 @@
+digraph graph35 {
+	node0 [label="そのうち"];
+	node1 [label="池の上を"];
+	node2 [label="さらさらと"];
+	node3 [label="風が"];
+	node4 [label="渡って"];
+	node5 [label="日が"];
+	node6 [label="暮れ"];
+	node7 [label="かかる。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

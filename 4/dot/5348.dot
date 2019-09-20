@@ -1,0 +1,9 @@
+digraph graph5348 {
+	node0 [label="「いや"];
+	node1 [label="大分"];
+	node2 [label="来るじゃないか、また"];
+	node3 [label="ボールだぜ君」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

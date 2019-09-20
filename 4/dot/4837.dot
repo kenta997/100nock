@@ -1,0 +1,31 @@
+digraph graph4837 {
+	node0 [label="——"];
+	node1 [label="即ち主人が"];
+	node2 [label="後架へ"];
+	node3 [label="まかり越したと"];
+	node4 [label="見て取る"];
+	node5 [label="ときは、"];
+	node6 [label="必ず"];
+	node7 [label="桐の"];
+	node8 [label="木の"];
+	node9 [label="附近を"];
+	node10 [label="徘徊して"];
+	node11 [label="わざと"];
+	node12 [label="主人の"];
+	node13 [label="眼に"];
+	node14 [label="つくようにする。"];
+	node0 -> node14;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

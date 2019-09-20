@@ -1,0 +1,15 @@
+digraph graph6671 {
+	node0 [label="恥辱である"];
+	node1 [label="にも関らず、"];
+	node2 [label="ごろごろ"];
+	node3 [label="世間に"];
+	node4 [label="ごろついているのは"];
+	node5 [label="心得がたいと"];
+	node6 [label="思う。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

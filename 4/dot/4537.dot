@@ -1,0 +1,13 @@
+digraph graph4537 {
+	node0 [label="平等は"];
+	node1 [label="いくらは"];
+	node2 [label="だかに"];
+	node3 [label="なったって"];
+	node4 [label="得られる"];
+	node5 [label="ものではない。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

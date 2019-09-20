@@ -1,0 +1,13 @@
+digraph graph4238 {
+	node0 [label="その"];
+	node1 [label="向側で"];
+	node2 [label="何か"];
+	node3 [label="しきりに"];
+	node4 [label="人間の声が"];
+	node5 [label="する。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

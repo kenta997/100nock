@@ -1,0 +1,23 @@
+digraph graph4639 {
+	node0 [label="二杯でも"];
+	node1 [label="随分"];
+	node2 [label="赤くなる"];
+	node3 [label="ところを"];
+	node4 [label="倍"];
+	node5 [label="飲んだのだから"];
+	node6 [label="顔が"];
+	node7 [label="焼火箸のように"];
+	node8 [label="ほてって、"];
+	node9 [label="さも"];
+	node10 [label="苦しそうだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,17 @@
+digraph graph1621 {
+	node0 [label="「しかし御"];
+	node1 [label="隠しなさる"];
+	node2 [label="訳も"];
+	node3 [label="ないでしょう」と"];
+	node4 [label="鼻子も"];
+	node5 [label="少々"];
+	node6 [label="喧嘩腰に"];
+	node7 [label="なる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

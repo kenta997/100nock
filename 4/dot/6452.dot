@@ -1,0 +1,33 @@
+digraph graph6452 {
+	node0 [label="仕方がないから"];
+	node1 [label="悄然と"];
+	node2 [label="茶の間の"];
+	node3 [label="方へ"];
+	node4 [label="引きかえそうとして"];
+	node5 [label="風呂場の"];
+	node6 [label="横を"];
+	node7 [label="通り過ぎると、"];
+	node8 [label="ここは"];
+	node9 [label="今女の子が"];
+	node10 [label="三人で"];
+	node11 [label="顔を"];
+	node12 [label="洗ってる"];
+	node13 [label="最中で、"];
+	node14 [label="なかなか"];
+	node15 [label="繁昌している。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node15;
+	node8 -> node15;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

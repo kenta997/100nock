@@ -1,0 +1,13 @@
+digraph graph4338 {
+	node0 [label="吾輩が"];
+	node1 [label="先刻"];
+	node2 [label="一大奇観と"];
+	node3 [label="云ったのは"];
+	node4 [label="この"];
+	node5 [label="事である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

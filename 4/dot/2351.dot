@@ -1,0 +1,11 @@
+digraph graph2351 {
+	node0 [label="「鼻だよ、"];
+	node1 [label="大きな"];
+	node2 [label="鼻の"];
+	node3 [label="事を"];
+	node4 [label="云ってるんだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,9 @@
+digraph graph267 {
+	node0 [label="要心しないと"];
+	node1 [label="今に"];
+	node2 [label="胃弱に"];
+	node3 [label="なるかも知れない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

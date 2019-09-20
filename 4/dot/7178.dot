@@ -1,0 +1,35 @@
+digraph graph7178 {
+	node0 [label="一体"];
+	node1 [label="かしこまるべき"];
+	node2 [label="ものが"];
+	node3 [label="おとなしく"];
+	node4 [label="控えるのは"];
+	node5 [label="別段"];
+	node6 [label="気に"];
+	node7 [label="するにも"];
+	node8 [label="及ばんが、"];
+	node9 [label="毬栗頭の"];
+	node10 [label="つんつるてんの"];
+	node11 [label="乱暴者が"];
+	node12 [label="恐縮している"];
+	node13 [label="ところは"];
+	node14 [label="何となく"];
+	node15 [label="不調和な"];
+	node16 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

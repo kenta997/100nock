@@ -1,0 +1,19 @@
+digraph graph3882 {
+	node0 [label="「この"];
+	node1 [label="春朗読会へ"];
+	node2 [label="招待してから、"];
+	node3 [label="懇意に"];
+	node4 [label="なって"];
+	node5 [label="それからは"];
+	node6 [label="始終"];
+	node7 [label="交際を"];
+	node8 [label="している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

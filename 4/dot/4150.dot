@@ -1,0 +1,15 @@
+digraph graph4150 {
+	node0 [label="と"];
+	node1 [label="思っていると"];
+	node2 [label="左向を"];
+	node3 [label="した"];
+	node4 [label="烏が"];
+	node5 [label="阿呆と"];
+	node6 [label="云った。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

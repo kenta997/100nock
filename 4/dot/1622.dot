@@ -1,0 +1,25 @@
+digraph graph1622 {
+	node0 [label="迷亭は"];
+	node1 [label="双方の"];
+	node2 [label="間に"];
+	node3 [label="坐って、"];
+	node4 [label="銀煙管を"];
+	node5 [label="軍配団扇のように"];
+	node6 [label="持って、"];
+	node7 [label="心の"];
+	node8 [label="裡で"];
+	node9 [label="八卦よいや"];
+	node10 [label="よいやと"];
+	node11 [label="怒鳴っている。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

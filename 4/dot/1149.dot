@@ -1,0 +1,9 @@
+digraph graph1149 {
+	node0 [label="やはり"];
+	node1 [label="ゼームス教授の"];
+	node2 [label="材料に"];
+	node3 [label="なるね。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

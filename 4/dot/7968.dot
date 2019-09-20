@@ -1,0 +1,19 @@
+digraph graph7968 {
+	node0 [label="「それから"];
+	node1 [label="床を"];
+	node2 [label="出て障子を"];
+	node3 [label="開けて、"];
+	node4 [label="椽側へ"];
+	node5 [label="出て甘干しの"];
+	node6 [label="柿を"];
+	node7 [label="一つ"];
+	node8 [label="食って……」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

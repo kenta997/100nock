@@ -1,0 +1,13 @@
+digraph graph5705 {
+	node0 [label="もっとも"];
+	node1 [label="ある"];
+	node2 [label="場合において"];
+	node3 [label="幽霊は"];
+	node4 [label="無霊より"];
+	node5 [label="優るかも知れない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

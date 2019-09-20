@@ -1,0 +1,11 @@
+digraph graph1285 {
+	node0 [label="三毛のような"];
+	node1 [label="器量"];
+	node2 [label="よしは"];
+	node3 [label="早死を"];
+	node4 [label="するし。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

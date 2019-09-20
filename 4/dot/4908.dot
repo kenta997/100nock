@@ -1,0 +1,21 @@
+digraph graph4908 {
+	node0 [label="　逆上の"];
+	node1 [label="説明は"];
+	node2 [label="この"];
+	node3 [label="くらいで"];
+	node4 [label="充分だろうと"];
+	node5 [label="思うから、"];
+	node6 [label="これより"];
+	node7 [label="いよいよ"];
+	node8 [label="事件に"];
+	node9 [label="取りかかる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

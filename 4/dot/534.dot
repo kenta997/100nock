@@ -1,0 +1,19 @@
+digraph graph534 {
+	node0 [label="大分研究した"];
+	node1 [label="ものと"];
+	node2 [label="見えて、"];
+	node3 [label="条理が"];
+	node4 [label="明晰で"];
+	node5 [label="秩序が"];
+	node6 [label="整然として"];
+	node7 [label="立派な"];
+	node8 [label="説であった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

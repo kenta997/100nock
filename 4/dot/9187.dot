@@ -1,0 +1,9 @@
+digraph graph9187 {
+	node0 [label="あがりたいのは"];
+	node1 [label="山々であるが"];
+	node2 [label="上がれないのは"];
+	node3 [label="知れ切っている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

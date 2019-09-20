@@ -1,0 +1,15 @@
+digraph graph1156 {
+	node0 [label="「みんな"];
+	node1 [label="去年の"];
+	node2 [label="暮は"];
+	node3 [label="暗合で"];
+	node4 [label="妙ですな」と"];
+	node5 [label="寒月が"];
+	node6 [label="笑う。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

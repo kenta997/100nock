@@ -1,0 +1,19 @@
+digraph graph1815 {
+	node0 [label="　向う横町へ"];
+	node1 [label="来て"];
+	node2 [label="見ると、"];
+	node3 [label="聞いた"];
+	node4 [label="通りの"];
+	node5 [label="西洋館が"];
+	node6 [label="角地面を"];
+	node7 [label="吾物顔に"];
+	node8 [label="占領している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

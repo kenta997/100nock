@@ -1,0 +1,23 @@
+digraph graph2563 {
+	node0 [label="「その後"];
+	node1 [label="鼻についてまた"];
+	node2 [label="研究を"];
+	node3 [label="したが、"];
+	node4 [label="この"];
+	node5 [label="頃"];
+	node6 [label="トリストラム・シャンデーの"];
+	node7 [label="中に"];
+	node8 [label="鼻論が"];
+	node9 [label="あるのを"];
+	node10 [label="発見した。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,15 @@
+digraph graph8059 {
+	node0 [label="いやなら"];
+	node1 [label="いやで"];
+	node2 [label="いいから、"];
+	node3 [label="早く"];
+	node4 [label="かたを"];
+	node5 [label="つけたらよさそうな"];
+	node6 [label="ものだ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,25 @@
+digraph graph3353 {
+	node0 [label="見ると"];
+	node1 [label="片手には"];
+	node2 [label="ランプを"];
+	node3 [label="提げ、"];
+	node4 [label="片手には"];
+	node5 [label="ステッキを"];
+	node6 [label="持って、"];
+	node7 [label="寝ぼけ眼よりは"];
+	node8 [label="身分相応の"];
+	node9 [label="炯々たる"];
+	node10 [label="光を"];
+	node11 [label="放っている。"];
+	node0 -> node11;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,23 @@
+digraph graph2574 {
+	node0 [label="ねえ"];
+	node1 [label="鈴木、"];
+	node2 [label="君も"];
+	node3 [label="実業家の"];
+	node4 [label="末席を"];
+	node5 [label="汚す"];
+	node6 [label="一人だから"];
+	node7 [label="参考の"];
+	node8 [label="ために"];
+	node9 [label="言って"];
+	node10 [label="聞かせるがね。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

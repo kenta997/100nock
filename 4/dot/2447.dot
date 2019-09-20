@@ -1,0 +1,9 @@
+digraph graph2447 {
+	node0 [label="話しを"];
+	node1 [label="していると"];
+	node2 [label="自然分る"];
+	node3 [label="もんだよ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

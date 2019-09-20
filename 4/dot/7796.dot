@@ -1,0 +1,11 @@
+digraph graph7796 {
+	node0 [label="「まだ"];
+	node1 [label="片づかない"];
+	node2 [label="所が"];
+	node3 [label="二三箇所"];
+	node4 [label="ある」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

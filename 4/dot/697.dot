@@ -1,0 +1,5 @@
+digraph graph697 {
+	node0 [label="分ったでしょう」"];
+	node1 [label="「いいえ。"];
+	node0 -> node1;
+}

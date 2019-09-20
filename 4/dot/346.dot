@@ -1,0 +1,25 @@
+digraph graph346 {
+	node0 [label="ようやくの"];
+	node1 [label="事で"];
+	node2 [label="動揺が"];
+	node3 [label="あまり"];
+	node4 [label="劇しくなくなったと"];
+	node5 [label="思ったら、"];
+	node6 [label="小さな"];
+	node7 [label="声で"];
+	node8 [label="一体"];
+	node9 [label="何を"];
+	node10 [label="かいたのだろうと"];
+	node11 [label="云う。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

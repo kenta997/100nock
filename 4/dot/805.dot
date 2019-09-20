@@ -1,0 +1,27 @@
+digraph graph805 {
+	node0 [label="それを"];
+	node1 [label="聞き直す"];
+	node2 [label="主人は"];
+	node3 [label="よほど"];
+	node4 [label="愚だと"];
+	node5 [label="思っていると、"];
+	node6 [label="主人は"];
+	node7 [label="何にも"];
+	node8 [label="分らずに"];
+	node9 [label="吾輩の"];
+	node10 [label="頭を"];
+	node11 [label="叮嚀に"];
+	node12 [label="撫でている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

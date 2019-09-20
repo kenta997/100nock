@@ -1,0 +1,25 @@
+digraph graph8903 {
+	node0 [label="デモスセニス曰く人も"];
+	node1 [label="しその"];
+	node2 [label="敵を"];
+	node3 [label="苦しめんと"];
+	node4 [label="せば、"];
+	node5 [label="わが"];
+	node6 [label="女を"];
+	node7 [label="敵に"];
+	node8 [label="与うるより"];
+	node9 [label="策の"];
+	node10 [label="得たるは"];
+	node11 [label="あらず。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

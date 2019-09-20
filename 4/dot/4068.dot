@@ -1,0 +1,19 @@
+digraph graph4068 {
+	node0 [label="その"];
+	node1 [label="早い"];
+	node2 [label="事、"];
+	node3 [label="美事なる"];
+	node4 [label="事は"];
+	node5 [label="言語道断、"];
+	node6 [label="実に"];
+	node7 [label="蝉世界の"];
+	node8 [label="一偉観である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

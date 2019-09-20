@@ -1,0 +1,31 @@
+digraph graph1629 {
+	node0 [label="「寒月が"];
+	node1 [label="御嬢さんに"];
+	node2 [label="付け文でも"];
+	node3 [label="したんですか、"];
+	node4 [label="こりゃ"];
+	node5 [label="愉快だ、"];
+	node6 [label="新年に"];
+	node7 [label="なって"];
+	node8 [label="逸話がまた"];
+	node9 [label="一つ"];
+	node10 [label="殖えて"];
+	node11 [label="話しの"];
+	node12 [label="好材料になる」と"];
+	node13 [label="一人で"];
+	node14 [label="喜んでいる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

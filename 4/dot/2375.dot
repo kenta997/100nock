@@ -1,0 +1,15 @@
+digraph graph2375 {
+	node0 [label="——"];
+	node1 [label="そら君の"];
+	node2 [label="所へ"];
+	node3 [label="始終"];
+	node4 [label="来ると"];
+	node5 [label="云うじゃ"];
+	node6 [label="ないか」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,19 @@
+digraph graph7578 {
+	node0 [label="あんな"];
+	node1 [label="子を"];
+	node2 [label="退校させるくらいなら、"];
+	node3 [label="そんな"];
+	node4 [label="奴らを"];
+	node5 [label="片っ端から"];
+	node6 [label="放逐でもしなくっちゃ"];
+	node7 [label="不公平で"];
+	node8 [label="さあ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

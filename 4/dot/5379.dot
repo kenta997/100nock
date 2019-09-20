@@ -1,0 +1,7 @@
+digraph graph5379 {
+	node0 [label="変であって"];
+	node1 [label="見れば"];
+	node2 [label="どうかしなければならん。"];
+	node0 -> node1;
+	node1 -> node2;
+}

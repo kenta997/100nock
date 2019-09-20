@@ -1,0 +1,5 @@
+digraph graph967 {
+	node0 [label="泰然たる"];
+	node1 [label="ものだ。"];
+	node0 -> node1;
+}

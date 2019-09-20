@@ -1,0 +1,31 @@
+digraph graph719 {
+	node0 [label="説明してやりたいが"];
+	node1 [label="到底"];
+	node2 [label="分る"];
+	node3 [label="奴ではないから、"];
+	node4 [label="まず"];
+	node5 [label="一応の"];
+	node6 [label="挨拶を"];
+	node7 [label="して"];
+	node8 [label="出来得る"];
+	node9 [label="限り"];
+	node10 [label="早く"];
+	node11 [label="御免"];
+	node12 [label="蒙るに"];
+	node13 [label="若くはないと"];
+	node14 [label="決心した。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

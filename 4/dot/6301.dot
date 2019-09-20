@@ -1,0 +1,11 @@
+digraph graph6301 {
+	node0 [label="車に"];
+	node1 [label="乗って行けば"];
+	node2 [label="訳は"];
+	node3 [label="ないだろう」と"];
+	node4 [label="ぷんぷんしている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

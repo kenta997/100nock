@@ -1,0 +1,5 @@
+digraph graph1551 {
+	node0 [label="　こりゃ"];
+	node1 [label="驚ろいた。"];
+	node0 -> node1;
+}

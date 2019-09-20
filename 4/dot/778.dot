@@ -1,0 +1,9 @@
+digraph graph778 {
+	node0 [label="少しく"];
+	node1 [label="残念の"];
+	node2 [label="気色にも"];
+	node3 [label="取られる。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

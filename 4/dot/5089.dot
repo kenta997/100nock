@@ -1,0 +1,9 @@
+digraph graph5089 {
+	node0 [label="竹垣に"];
+	node1 [label="中った"];
+	node2 [label="音も"];
+	node3 [label="知っている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,15 @@
+digraph graph5017 {
+	node0 [label="その"];
+	node1 [label="勢と"];
+	node2 [label="云う"];
+	node3 [label="ものは、"];
+	node4 [label="一尺ほどな"];
+	node5 [label="蜂の巣を"];
+	node6 [label="敲き落したごとくである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

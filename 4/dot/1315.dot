@@ -1,0 +1,5 @@
+digraph graph1315 {
+	node0 [label="　三毛子は"];
+	node1 [label="死ぬ。"];
+	node0 -> node1;
+}

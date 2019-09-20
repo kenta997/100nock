@@ -1,0 +1,7 @@
+digraph graph6182 {
+	node0 [label="「老梅は"];
+	node1 [label="海鼠が"];
+	node2 [label="好きだったからね。"];
+	node0 -> node2;
+	node1 -> node2;
+}

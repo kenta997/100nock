@@ -1,0 +1,7 @@
+digraph graph992 {
+	node0 [label="巨人引力が"];
+	node1 [label="来いと"];
+	node2 [label="いうからである。"];
+	node0 -> node1;
+	node1 -> node2;
+}

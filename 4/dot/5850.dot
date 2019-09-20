@@ -1,0 +1,25 @@
+digraph graph5850 {
+	node0 [label="主人は"];
+	node1 [label="先から"];
+	node2 [label="書斎の"];
+	node3 [label="うちで"];
+	node4 [label="その"];
+	node5 [label="声を"];
+	node6 [label="聞いているのだが"];
+	node7 [label="懐手の"];
+	node8 [label="まま"];
+	node9 [label="毫も"];
+	node10 [label="動こうと"];
+	node11 [label="しない。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

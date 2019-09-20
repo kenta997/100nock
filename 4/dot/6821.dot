@@ -1,0 +1,7 @@
+digraph graph6821 {
+	node0 [label="「御前が"];
+	node1 [label="くうと"];
+	node2 [label="邪魔になる」"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,13 @@
+digraph graph3235 {
+	node0 [label="ここにおいてか"];
+	node1 [label="鼠の"];
+	node2 [label="出口を"];
+	node3 [label="研究する"];
+	node4 [label="必要が"];
+	node5 [label="生ずる。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

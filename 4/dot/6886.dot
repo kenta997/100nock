@@ -1,0 +1,7 @@
+digraph graph6886 {
+	node0 [label="「殿下って、"];
+	node1 [label="どの"];
+	node2 [label="殿下さまなの」"];
+	node0 -> node2;
+	node1 -> node2;
+}

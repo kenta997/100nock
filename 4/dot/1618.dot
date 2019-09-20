@@ -1,0 +1,27 @@
+digraph graph1618 {
+	node0 [label="「やはり"];
+	node1 [label="御令嬢の"];
+	node2 [label="御婚儀上の"];
+	node3 [label="関係で、"];
+	node4 [label="寒月君の"];
+	node5 [label="性行の"];
+	node6 [label="一斑を"];
+	node7 [label="御承知に"];
+	node8 [label="なりたいという"];
+	node9 [label="訳でしょう」と"];
+	node10 [label="迷亭が"];
+	node11 [label="気転を"];
+	node12 [label="利かす。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

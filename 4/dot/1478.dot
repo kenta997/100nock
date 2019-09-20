@@ -1,0 +1,9 @@
+digraph graph1478 {
+	node0 [label="早速"];
+	node1 [label="願おう、なあ君」と"];
+	node2 [label="主人を"];
+	node3 [label="見る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,19 @@
+digraph graph3839 {
+	node0 [label="註釈や"];
+	node1 [label="訓義は"];
+	node2 [label="学究の"];
+	node3 [label="やる"];
+	node4 [label="事で"];
+	node5 [label="私共の"];
+	node6 [label="方では"];
+	node7 [label="頓と"];
+	node8 [label="構いません。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

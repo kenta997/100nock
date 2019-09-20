@@ -1,0 +1,7 @@
+digraph graph1284 {
+	node0 [label="「世の中は"];
+	node1 [label="自由にならん"];
+	node2 [label="者でのう。"];
+	node0 -> node2;
+	node1 -> node2;
+}

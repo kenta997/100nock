@@ -1,0 +1,23 @@
+digraph graph1553 {
+	node0 [label="江戸っ子が"];
+	node1 [label="泉岳寺を"];
+	node2 [label="知らないのは"];
+	node3 [label="情けない」"];
+	node4 [label="「知らなくても"];
+	node5 [label="教師は"];
+	node6 [label="務まるからな」と"];
+	node7 [label="主人は"];
+	node8 [label="いよいよ"];
+	node9 [label="天然居士に"];
+	node10 [label="なる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

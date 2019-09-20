@@ -1,0 +1,9 @@
+digraph graph6251 {
+	node0 [label="「知らせに"];
+	node1 [label="来るったって、"];
+	node2 [label="先は"];
+	node3 [label="商売だよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

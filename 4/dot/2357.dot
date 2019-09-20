@@ -1,0 +1,9 @@
+digraph graph2357 {
+	node0 [label="「君シャーレマンの"];
+	node1 [label="鼻の"];
+	node2 [label="恰好を"];
+	node3 [label="知ってるか」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

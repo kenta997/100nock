@@ -1,0 +1,15 @@
+digraph graph5320 {
+	node0 [label="少し"];
+	node1 [label="笑う——"];
+	node2 [label="適宜に、——"];
+	node3 [label="そう"];
+	node4 [label="すると"];
+	node5 [label="いい"];
+	node6 [label="心持ちだ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

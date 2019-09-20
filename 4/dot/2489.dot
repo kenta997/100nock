@@ -1,0 +1,27 @@
+digraph graph2489 {
+	node0 [label="御負けに"];
+	node1 [label="御菜に"];
+	node2 [label="必ず"];
+	node3 [label="豆腐をなまで"];
+	node4 [label="食わせるんだから、"];
+	node5 [label="冷たくて"];
+	node6 [label="食われやせん」と"];
+	node7 [label="鈴木君も"];
+	node8 [label="十年前の"];
+	node9 [label="不平を"];
+	node10 [label="記憶の"];
+	node11 [label="底から"];
+	node12 [label="喚び起す。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

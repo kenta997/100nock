@@ -1,0 +1,11 @@
+digraph graph1308 {
+	node0 [label="主人に"];
+	node1 [label="劣らぬ"];
+	node2 [label="ほどの"];
+	node3 [label="無性猫と"];
+	node4 [label="なった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

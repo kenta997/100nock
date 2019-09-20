@@ -1,0 +1,9 @@
+digraph graph1233 {
+	node0 [label="やむをえず"];
+	node1 [label="茶碗を"];
+	node2 [label="下へ"];
+	node3 [label="置く。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,15 @@
+digraph graph220 {
+	node0 [label="御めえの"];
+	node1 [label="うちの"];
+	node2 [label="主人を"];
+	node3 [label="見ねえ、"];
+	node4 [label="まるで"];
+	node5 [label="骨と"];
+	node6 [label="皮ばかりだぜ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

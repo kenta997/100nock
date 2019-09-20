@@ -1,0 +1,15 @@
+digraph graph6624 {
+	node0 [label="坊ばは"];
+	node1 [label="その"];
+	node2 [label="くらいな"];
+	node3 [label="事で"];
+	node4 [label="辟易する"];
+	node5 [label="訳が"];
+	node6 [label="ない。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

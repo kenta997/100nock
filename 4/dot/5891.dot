@@ -1,0 +1,9 @@
+digraph graph5891 {
+	node0 [label="「いやそれでは御挨拶が"];
+	node1 [label="出来かねますから、"];
+	node2 [label="どうぞ"];
+	node3 [label="あれへ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

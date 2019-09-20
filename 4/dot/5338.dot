@@ -1,0 +1,9 @@
+digraph graph5338 {
+	node0 [label="「そんなに"];
+	node1 [label="癪に障るなら"];
+	node2 [label="越せば"];
+	node3 [label="いいじゃないか」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

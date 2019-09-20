@@ -1,0 +1,9 @@
+digraph graph4035 {
+	node0 [label="のみならず"];
+	node1 [label="蝉は"];
+	node2 [label="飛ぶ"];
+	node3 [label="ものである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

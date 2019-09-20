@@ -1,0 +1,7 @@
+digraph graph4763 {
+	node0 [label="まず"];
+	node1 [label="ひまつぶしに"];
+	node2 [label="適している。"];
+	node0 -> node2;
+	node1 -> node2;
+}

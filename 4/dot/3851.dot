@@ -1,0 +1,13 @@
+digraph graph3851 {
+	node0 [label="「大和魂！　と"];
+	node1 [label="叫んで"];
+	node2 [label="日本人が"];
+	node3 [label="肺病やみのような"];
+	node4 [label="咳を"];
+	node5 [label="した」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

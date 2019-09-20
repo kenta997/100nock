@@ -1,0 +1,5 @@
+digraph graph1159 {
+	node0 [label="「いや日は"];
+	node1 [label="違うようだ。"];
+	node0 -> node1;
+}

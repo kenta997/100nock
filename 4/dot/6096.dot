@@ -1,0 +1,23 @@
+digraph graph6096 {
+	node0 [label="「実は"];
+	node1 [label="その"];
+	node2 [label="時大に"];
+	node3 [label="感心してしまったから、"];
+	node4 [label="僕も"];
+	node5 [label="大に"];
+	node6 [label="奮発して"];
+	node7 [label="修養を"];
+	node8 [label="やろうと"];
+	node9 [label="思ってる"];
+	node10 [label="ところなんだ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,15 @@
+digraph graph2583 {
+	node0 [label="「なるほど"];
+	node1 [label="少し"];
+	node2 [label="妙だね」と"];
+	node3 [label="鈴木君は"];
+	node4 [label="どこまでも"];
+	node5 [label="調子を"];
+	node6 [label="合せる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

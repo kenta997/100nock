@@ -1,0 +1,29 @@
+digraph graph6628 {
+	node0 [label="打ち洩らされた"];
+	node1 [label="米粒は"];
+	node2 [label="黄色な"];
+	node3 [label="汁と"];
+	node4 [label="相和して"];
+	node5 [label="鼻の"];
+	node6 [label="あたまと"];
+	node7 [label="頬っ"];
+	node8 [label="ぺたと"];
+	node9 [label="顋とへ、"];
+	node10 [label="やっと"];
+	node11 [label="掛声を"];
+	node12 [label="して"];
+	node13 [label="飛びついた。"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

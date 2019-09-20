@@ -1,0 +1,23 @@
+digraph graph8479 {
+	node0 [label="僕の"];
+	node1 [label="解釈に"];
+	node2 [label="よると"];
+	node3 [label="当世人の"];
+	node4 [label="探偵的傾向は"];
+	node5 [label="全く"];
+	node6 [label="個人の"];
+	node7 [label="自覚心の"];
+	node8 [label="強過ぎるのが"];
+	node9 [label="原因に"];
+	node10 [label="なっている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

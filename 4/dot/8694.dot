@@ -1,0 +1,5 @@
+digraph graph8694 {
+	node0 [label="「無論"];
+	node1 [label="五年でしょう」"];
+	node0 -> node1;
+}

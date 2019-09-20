@@ -1,0 +1,7 @@
+digraph graph9159 {
+	node0 [label="出ると"];
+	node1 [label="御月様今晩はと"];
+	node2 [label="挨拶したくなる。"];
+	node0 -> node2;
+	node1 -> node2;
+}

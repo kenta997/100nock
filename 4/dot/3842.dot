@@ -1,0 +1,9 @@
+digraph graph3842 {
+	node0 [label="東風君は"];
+	node1 [label="これだけでは"];
+	node2 [label="まだ"];
+	node3 [label="弁じ足りない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

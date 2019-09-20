@@ -1,0 +1,5 @@
+digraph graph7275 {
+	node0 [label="「名前を"];
+	node1 [label="借したんです」"];
+	node0 -> node1;
+}

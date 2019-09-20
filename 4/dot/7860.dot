@@ -1,0 +1,5 @@
+digraph graph7860 {
+	node0 [label="「どこだか"];
+	node1 [label="分らない。"];
+	node0 -> node1;
+}

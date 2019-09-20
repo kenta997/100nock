@@ -1,0 +1,19 @@
+digraph graph6885 {
+	node0 [label="たしかに"];
+	node1 [label="殿下様に"];
+	node2 [label="化けたんだって、"];
+	node3 [label="恐れ多い"];
+	node4 [label="事だが"];
+	node5 [label="化けて来たって——"];
+	node6 [label="第一不敬じゃありませんか、"];
+	node7 [label="法螺吹きの"];
+	node8 [label="分際で」"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

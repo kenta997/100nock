@@ -1,0 +1,11 @@
+digraph graph691 {
+	node0 [label="「あれでも、"];
+	node1 [label="もとは"];
+	node2 [label="身分が"];
+	node3 [label="大変"];
+	node4 [label="好かったんだって。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

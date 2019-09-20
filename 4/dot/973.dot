@@ -1,0 +1,9 @@
+digraph graph973 {
+	node0 [label="ケートは"];
+	node1 [label="窓から"];
+	node2 [label="外面を"];
+	node3 [label="眺める。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

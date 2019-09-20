@@ -1,0 +1,21 @@
+digraph graph2393 {
+	node0 [label="彼が"];
+	node1 [label="何ぞと"];
+	node2 [label="云うと、"];
+	node3 [label="むかっ腹を"];
+	node4 [label="たてて"];
+	node5 [label="ぷんぷん"];
+	node6 [label="するのでも"];
+	node7 [label="這裏の"];
+	node8 [label="消息は"];
+	node9 [label="会得できる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

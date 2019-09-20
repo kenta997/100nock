@@ -1,0 +1,21 @@
+digraph graph6539 {
+	node0 [label="見ると"];
+	node1 [label="模様を"];
+	node2 [label="置いた"];
+	node3 [label="紙が"];
+	node4 [label="ところどころ"];
+	node5 [label="破れて"];
+	node6 [label="妙な"];
+	node7 [label="腸が"];
+	node8 [label="あからさまに"];
+	node9 [label="見える。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

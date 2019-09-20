@@ -1,0 +1,27 @@
+digraph graph2515 {
+	node0 [label="「迷亭は"];
+	node1 [label="あの"];
+	node2 [label="時分から"];
+	node3 [label="法螺吹だったな」と"];
+	node4 [label="主人は"];
+	node5 [label="羊羹を"];
+	node6 [label="食い"];
+	node7 [label="了って"];
+	node8 [label="再び"];
+	node9 [label="二人の"];
+	node10 [label="話の"];
+	node11 [label="中に"];
+	node12 [label="割り込んで来る。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

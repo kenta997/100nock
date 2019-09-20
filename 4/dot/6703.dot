@@ -1,0 +1,11 @@
+digraph graph6703 {
+	node0 [label="「叔父さんは、"];
+	node1 [label="もう、"];
+	node2 [label="どこへ"];
+	node3 [label="かい"];
+	node4 [label="らしったの。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

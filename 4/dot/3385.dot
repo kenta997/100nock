@@ -1,0 +1,31 @@
+digraph graph3385 {
+	node0 [label="これで"];
+	node1 [label="見ると"];
+	node2 [label="人間は"];
+	node3 [label="よほど"];
+	node4 [label="猫より"];
+	node5 [label="閑な"];
+	node6 [label="もので"];
+	node7 [label="退屈の"];
+	node8 [label="あまりかような"];
+	node9 [label="いたずらを"];
+	node10 [label="考案して"];
+	node11 [label="楽んで"];
+	node12 [label="いる"];
+	node13 [label="ものと"];
+	node14 [label="察せられる。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node13;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

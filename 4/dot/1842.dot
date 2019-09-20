@@ -1,0 +1,35 @@
+digraph graph1842 {
+	node0 [label="蟇の"];
+	node1 [label="額には"];
+	node2 [label="夜光の"];
+	node3 [label="明珠が"];
+	node4 [label="あると"];
+	node5 [label="云うが、"];
+	node6 [label="吾輩の"];
+	node7 [label="尻尾には"];
+	node8 [label="神祇釈教恋無常は"];
+	node9 [label="無論の"];
+	node10 [label="事、"];
+	node11 [label="満天下の"];
+	node12 [label="人間を"];
+	node13 [label="馬鹿にする"];
+	node14 [label="一家相伝の"];
+	node15 [label="妙薬が"];
+	node16 [label="詰め込んである。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node7;
+	node7 -> node16;
+	node8 -> node16;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

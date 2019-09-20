@@ -1,0 +1,7 @@
+digraph graph6355 {
+	node0 [label="全く陽性の"];
+	node1 [label="気狂に"];
+	node2 [label="相違ない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

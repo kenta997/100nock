@@ -1,0 +1,17 @@
+digraph graph4444 {
+	node0 [label="尻の"];
+	node1 [label="中から"];
+	node2 [label="寒竹を"];
+	node3 [label="押し込んだように"];
+	node4 [label="背骨の"];
+	node5 [label="節が"];
+	node6 [label="歴々と"];
+	node7 [label="出ている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

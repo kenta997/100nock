@@ -1,0 +1,13 @@
+digraph graph3296 {
+	node0 [label="小皿の"];
+	node1 [label="縁を"];
+	node2 [label="足で"];
+	node3 [label="抑えて、"];
+	node4 [label="中を"];
+	node5 [label="あらしているらしい。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,9 @@
+digraph graph7055 {
+	node0 [label="一体"];
+	node1 [label="叔父さんは"];
+	node2 [label="どこを"];
+	node3 [label="散歩したの」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,15 @@
+digraph graph5325 {
+	node0 [label="鈴木は"];
+	node1 [label="妙な"];
+	node2 [label="顔を"];
+	node3 [label="して"];
+	node4 [label="何だ"];
+	node5 [label="いと"];
+	node6 [label="聞く。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

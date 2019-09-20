@@ -1,0 +1,7 @@
+digraph graph8613 {
+	node0 [label="「大変な"];
+	node1 [label="事に"];
+	node2 [label="なりますね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

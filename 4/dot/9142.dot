@@ -1,0 +1,25 @@
+digraph graph9142 {
+	node0 [label="　"];
+	node1 [label="吾輩は"];
+	node2 [label="我慢に"];
+	node3 [label="我慢を"];
+	node4 [label="重ねて、"];
+	node5 [label="ようやく"];
+	node6 [label="一杯のビールを"];
+	node7 [label="飲み干した"];
+	node8 [label="時、"];
+	node9 [label="妙な"];
+	node10 [label="現象が"];
+	node11 [label="起った。"];
+	node0 -> node11;
+	node1 -> node11;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,9 @@
+digraph graph7622 {
+	node0 [label="猫の"];
+	node1 [label="前足で"];
+	node2 [label="掻き散らしても"];
+	node3 [label="滅茶滅茶になる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

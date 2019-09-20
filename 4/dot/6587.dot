@@ -1,0 +1,21 @@
+digraph graph6587 {
+	node0 [label="銀行家などは"];
+	node1 [label="毎日人の"];
+	node2 [label="金を"];
+	node3 [label="あつかいつけている"];
+	node4 [label="うちに"];
+	node5 [label="人の"];
+	node6 [label="金が、"];
+	node7 [label="自分の"];
+	node8 [label="金のように見えてくる"];
+	node9 [label="そうだ。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

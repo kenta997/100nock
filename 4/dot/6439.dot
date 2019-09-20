@@ -1,0 +1,7 @@
+digraph graph6439 {
+	node0 [label="夏だって"];
+	node1 [label="夜露は"];
+	node2 [label="毒だ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

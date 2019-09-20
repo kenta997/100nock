@@ -1,0 +1,25 @@
+digraph graph7392 {
+	node0 [label="時々"];
+	node1 [label="その"];
+	node2 [label="団子っ"];
+	node3 [label="鼻が"];
+	node4 [label="ぴくぴく"];
+	node5 [label="動くのは"];
+	node6 [label="心配が"];
+	node7 [label="顔面神経に"];
+	node8 [label="伝って、"];
+	node9 [label="反射作用のごとく"];
+	node10 [label="無意識に"];
+	node11 [label="活動するのである。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

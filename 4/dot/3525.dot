@@ -1,0 +1,15 @@
+digraph graph3525 {
+	node0 [label="奥さんは"];
+	node1 [label="「長い"];
+	node2 [label="ものでございますね」と"];
+	node3 [label="さも"];
+	node4 [label="感心したらしい"];
+	node5 [label="返事を"];
+	node6 [label="する。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

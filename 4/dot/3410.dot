@@ -1,0 +1,11 @@
+digraph graph3410 {
+	node0 [label="なに"];
+	node1 [label="暑いくらいで"];
+	node2 [label="そんなに"];
+	node3 [label="変り"];
+	node4 [label="ゃしませんや。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

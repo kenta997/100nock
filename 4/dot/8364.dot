@@ -1,0 +1,11 @@
+digraph graph8364 {
+	node0 [label="心臓が"];
+	node1 [label="肋骨の"];
+	node2 [label="下で"];
+	node3 [label="ステテコを"];
+	node4 [label="踊り出す。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

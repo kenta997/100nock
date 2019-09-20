@@ -1,0 +1,15 @@
+digraph graph4517 {
+	node0 [label="かの"];
+	node1 [label="化物の"];
+	node2 [label="犇"];
+	node3 [label="く様が"];
+	node4 [label="その間から"];
+	node5 [label="朦朧と"];
+	node6 [label="見える。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,5 @@
+digraph graph7278 {
+	node0 [label="「何を"];
+	node1 [label="送った？"];
+	node0 -> node1;
+}

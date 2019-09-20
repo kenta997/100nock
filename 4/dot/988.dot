@@ -1,0 +1,5 @@
+digraph graph988 {
+	node0 [label="小児も"];
+	node1 [label="飛んでしまう。"];
+	node0 -> node1;
+}

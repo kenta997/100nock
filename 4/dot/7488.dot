@@ -1,0 +1,9 @@
+digraph graph7488 {
+	node0 [label="「なるほど、"];
+	node1 [label="少し"];
+	node2 [label="御手際が"];
+	node3 [label="落ちますね。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

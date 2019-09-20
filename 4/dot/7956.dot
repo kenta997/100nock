@@ -1,0 +1,9 @@
+digraph graph7956 {
+	node0 [label="「うまいですよ、"];
+	node1 [label="あの"];
+	node2 [label="辺の"];
+	node3 [label="柿は。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,11 @@
+digraph graph5519 {
+	node0 [label="交通が"];
+	node1 [label="面倒だと"];
+	node2 [label="云って"];
+	node3 [label="鉄道を"];
+	node4 [label="布く。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

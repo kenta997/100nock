@@ -1,0 +1,9 @@
+digraph graph5516 {
+	node0 [label="寡人政治が"];
+	node1 [label="いかんから、"];
+	node2 [label="代議政体に"];
+	node3 [label="する。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

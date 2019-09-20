@@ -1,0 +1,11 @@
+digraph graph649 {
+	node0 [label="三毛子は"];
+	node1 [label="この"];
+	node2 [label="近辺で"];
+	node3 [label="有名な"];
+	node4 [label="美貌家である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

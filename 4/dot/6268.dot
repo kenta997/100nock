@@ -1,0 +1,11 @@
+digraph graph6268 {
+	node0 [label="「刑事が"];
+	node1 [label="あんな"];
+	node2 [label="なりを"];
+	node3 [label="する"];
+	node4 [label="ものか」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

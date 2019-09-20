@@ -1,0 +1,11 @@
+digraph graph8404 {
+	node0 [label="ねえ迷亭、"];
+	node1 [label="君も"];
+	node2 [label="あの"];
+	node3 [label="一件は"];
+	node4 [label="知ってるだろう」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

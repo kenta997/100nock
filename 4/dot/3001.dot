@@ -1,0 +1,13 @@
+digraph graph3001 {
+	node0 [label="この"];
+	node1 [label="奇問には"];
+	node2 [label="細君も"];
+	node3 [label="何と"];
+	node4 [label="答えてよいか"];
+	node5 [label="分らんので"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

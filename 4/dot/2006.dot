@@ -1,0 +1,27 @@
+digraph graph2006 {
+	node0 [label="「計らざる"];
+	node1 [label="裏手にあたって、"];
+	node2 [label="新たに"];
+	node3 [label="異性の"];
+	node4 [label="傍聴者の"];
+	node5 [label="ある"];
+	node6 [label="事を"];
+	node7 [label="発見したのは"];
+	node8 [label="演者の"];
+	node9 [label="深く"];
+	node10 [label="名誉と"];
+	node11 [label="思う"];
+	node12 [label="ところであります。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

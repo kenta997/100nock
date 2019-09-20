@@ -1,0 +1,25 @@
+digraph graph8783 {
+	node0 [label="今までは"];
+	node1 [label="いっしょに"];
+	node2 [label="いたのが"];
+	node3 [label="夫婦であったが、"];
+	node4 [label="これからは"];
+	node5 [label="同棲している"];
+	node6 [label="ものは"];
+	node7 [label="夫婦の"];
+	node8 [label="資格が"];
+	node9 [label="ないように"];
+	node10 [label="世間から"];
+	node11 [label="目されてくる」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

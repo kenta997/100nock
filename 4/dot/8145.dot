@@ -1,0 +1,7 @@
+digraph graph8145 {
+	node0 [label="「ざっとでなくてもいいから"];
+	node1 [label="緩くり"];
+	node2 [label="話したまえ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

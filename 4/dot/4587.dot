@@ -1,0 +1,17 @@
+digraph graph4587 {
+	node0 [label="まず"];
+	node1 [label="腹の中で"];
+	node2 [label="これだけ主人を"];
+	node3 [label="凹ましておいて、"];
+	node4 [label="しかる後"];
+	node5 [label="にゃーと"];
+	node6 [label="注文通り"];
+	node7 [label="鳴いてやった。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

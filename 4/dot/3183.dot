@@ -1,0 +1,13 @@
+digraph graph3183 {
+	node0 [label="休養は"];
+	node1 [label="万物の"];
+	node2 [label="旻天から"];
+	node3 [label="要求して"];
+	node4 [label="しかるべき"];
+	node5 [label="権利である。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,19 @@
+digraph graph3932 {
+	node0 [label="運動が"];
+	node1 [label="出来んのである、"];
+	node2 [label="運動を"];
+	node3 [label="する"];
+	node4 [label="時間が"];
+	node5 [label="ないのである、"];
+	node6 [label="余裕が"];
+	node7 [label="ないのだと"];
+	node8 [label="鑑定される。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+}

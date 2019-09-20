@@ -1,0 +1,9 @@
+digraph graph7259 {
+	node0 [label="」と"];
+	node1 [label="武右衛門君は"];
+	node2 [label="まだ"];
+	node3 [label="迷っている。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

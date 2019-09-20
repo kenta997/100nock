@@ -1,0 +1,11 @@
+digraph graph876 {
+	node0 [label="　両天秤を"];
+	node1 [label="かけたなと"];
+	node2 [label="主人は、"];
+	node3 [label="あとが"];
+	node4 [label="読みたくなる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

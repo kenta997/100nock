@@ -1,0 +1,7 @@
+digraph graph3135 {
+	node0 [label="私なぞにでも"];
+	node1 [label="朋友のように"];
+	node2 [label="話します。"];
+	node0 -> node2;
+	node1 -> node2;
+}

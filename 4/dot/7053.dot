@@ -1,0 +1,9 @@
+digraph graph7053 {
+	node0 [label="御前なんぞには"];
+	node1 [label="分るまいが"];
+	node2 [label="それでも"];
+	node3 [label="珍品だよ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

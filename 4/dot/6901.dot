@@ -1,0 +1,9 @@
+digraph graph6901 {
+	node0 [label="地蔵様の"];
+	node1 [label="方も"];
+	node2 [label="随分"];
+	node3 [label="強情ね」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

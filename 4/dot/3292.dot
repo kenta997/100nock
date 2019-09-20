@@ -1,0 +1,27 @@
+digraph graph3292 {
+	node0 [label="寝過ごしは"];
+	node1 [label="せぬかと"];
+	node2 [label="二三度"];
+	node3 [label="耳を"];
+	node4 [label="振って"];
+	node5 [label="家内の"];
+	node6 [label="容子を"];
+	node7 [label="窺うと、"];
+	node8 [label="しんとして"];
+	node9 [label="昨夜のごとく"];
+	node10 [label="柱時計の"];
+	node11 [label="音のみ"];
+	node12 [label="聞える。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

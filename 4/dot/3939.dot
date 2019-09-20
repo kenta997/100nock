@@ -1,0 +1,19 @@
+digraph graph3939 {
+	node0 [label="方寸を"];
+	node1 [label="逆かさまに"];
+	node2 [label="して"];
+	node3 [label="見ると"];
+	node4 [label="寸方と"];
+	node5 [label="なる"];
+	node6 [label="ところに"];
+	node7 [label="愛嬌が"];
+	node8 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

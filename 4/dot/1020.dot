@@ -1,0 +1,25 @@
+digraph graph1020 {
+	node0 [label="「先日"];
+	node1 [label="来た"];
+	node2 [label="時は"];
+	node3 [label="朗読会で"];
+	node4 [label="船頭に"];
+	node5 [label="なって"];
+	node6 [label="女学生に"];
+	node7 [label="笑われたと"];
+	node8 [label="いっていたよ」と"];
+	node9 [label="主人は"];
+	node10 [label="笑いながら"];
+	node11 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

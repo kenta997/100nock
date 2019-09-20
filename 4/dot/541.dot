@@ -1,0 +1,13 @@
+digraph graph541 {
+	node0 [label="　"];
+	node1 [label="吾輩は"];
+	node2 [label="猫ではあるが"];
+	node3 [label="大抵の"];
+	node4 [label="ものは"];
+	node5 [label="食う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

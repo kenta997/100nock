@@ -1,0 +1,5 @@
+digraph graph7573 {
+	node0 [label="功徳に"];
+	node1 [label="なりますよ。"];
+	node0 -> node1;
+}

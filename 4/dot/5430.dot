@@ -1,0 +1,11 @@
+digraph graph5430 {
+	node0 [label="可哀想に"];
+	node1 [label="主人の"];
+	node2 [label="眼は"];
+	node3 [label="とうとう"];
+	node4 [label="潰れてしまった。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,9 @@
+digraph graph5487 {
+	node0 [label="まあ"];
+	node1 [label="まあ"];
+	node2 [label="いい"];
+	node3 [label="方だよ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

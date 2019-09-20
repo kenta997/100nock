@@ -1,0 +1,17 @@
+digraph graph7534 {
+	node0 [label="あの"];
+	node1 [label="娘が"];
+	node2 [label="ハイカラで"];
+	node3 [label="生意気だから、"];
+	node4 [label="からかって"];
+	node5 [label="やろうって、"];
+	node6 [label="三人が"];
+	node7 [label="共同して……」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

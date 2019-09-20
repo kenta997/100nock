@@ -1,0 +1,27 @@
+digraph graph3622 {
+	node0 [label="とうとう"];
+	node1 [label="鍋中蛇の"];
+	node2 [label="面だらけに"];
+	node3 [label="なってしまった」"];
+	node4 [label="「なんで、"];
+	node5 [label="そんなに"];
+	node6 [label="首を"];
+	node7 [label="出すんだい」"];
+	node8 [label="「鍋の"];
+	node9 [label="中が"];
+	node10 [label="熱いから、"];
+	node11 [label="苦しまぎれに"];
+	node12 [label="這い出そうとするのさ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

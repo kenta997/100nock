@@ -1,0 +1,11 @@
+digraph graph6561 {
+	node0 [label="こいつも"];
+	node1 [label="読みたいが"];
+	node2 [label="それ"];
+	node3 [label="ぎれで手掛りが"];
+	node4 [label="ない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

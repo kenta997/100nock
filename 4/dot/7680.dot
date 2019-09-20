@@ -1,0 +1,5 @@
+digraph graph7680 {
+	node0 [label="それじゃ"];
+	node1 [label="仕方がないあきらめるかな」"];
+	node0 -> node1;
+}

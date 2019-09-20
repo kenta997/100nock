@@ -1,0 +1,7 @@
+digraph graph7076 {
+	node0 [label="何だか"];
+	node1 [label="足りないと"];
+	node2 [label="思ったら」"];
+	node0 -> node1;
+	node1 -> node2;
+}

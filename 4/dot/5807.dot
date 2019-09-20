@@ -1,0 +1,21 @@
+digraph graph5807 {
+	node0 [label="只"];
+	node1 [label="他の"];
+	node2 [label="吾を"];
+	node3 [label="吾と"];
+	node4 [label="思わぬ"];
+	node5 [label="時に"];
+	node6 [label="於て"];
+	node7 [label="怫然として"];
+	node8 [label="色を"];
+	node9 [label="作す。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

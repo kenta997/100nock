@@ -1,0 +1,11 @@
+digraph graph8762 {
+	node0 [label="いっし"];
+	node1 [label="ょにいるためにはいっしょにいるに"];
+	node2 [label="充分なるだけ"];
+	node3 [label="個性が"];
+	node4 [label="合わなければならないだろう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,7 @@
+digraph graph8549 {
+	node0 [label="「または"];
+	node1 [label="水力電気のような"];
+	node2 [label="ものですね。"];
+	node0 -> node1;
+	node1 -> node2;
+}

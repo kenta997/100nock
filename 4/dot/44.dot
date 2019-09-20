@@ -1,0 +1,25 @@
+digraph graph44 {
+	node0 [label="この"];
+	node1 [label="垣根の"];
+	node2 [label="穴は"];
+	node3 [label="今日に"];
+	node4 [label="至るまで"];
+	node5 [label="吾輩が"];
+	node6 [label="隣家の"];
+	node7 [label="三毛を"];
+	node8 [label="訪問する"];
+	node9 [label="時の"];
+	node10 [label="通路に"];
+	node11 [label="なっている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

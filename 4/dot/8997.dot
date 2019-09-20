@@ -1,0 +1,15 @@
+digraph graph8997 {
+	node0 [label="「だれか、"];
+	node1 [label="この"];
+	node2 [label="うちに"];
+	node3 [label="音楽の"];
+	node4 [label="出来る"];
+	node5 [label="ものは"];
+	node6 [label="おらんですか」"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

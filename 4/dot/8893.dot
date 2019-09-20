@@ -1,0 +1,15 @@
+digraph graph8893 {
+	node0 [label="ダイオジニス"];
+	node1 [label="答えて"];
+	node2 [label="曰く青年は"];
+	node3 [label="未だし、"];
+	node4 [label="老年は"];
+	node5 [label="すでに"];
+	node6 [label="遅し。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

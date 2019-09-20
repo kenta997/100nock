@@ -1,0 +1,37 @@
+digraph graph3633 {
+	node0 [label="なる"];
+	node1 [label="ほどとは"];
+	node2 [label="思ったような"];
+	node3 [label="ものの"];
+	node4 [label="その"];
+	node5 [label="時から、"];
+	node6 [label="とうとう"];
+	node7 [label="失恋の"];
+	node8 [label="果敢"];
+	node9 [label="なき"];
+	node10 [label="運命を"];
+	node11 [label="かこつ"];
+	node12 [label="身と"];
+	node13 [label="なってしまった」"];
+	node14 [label="「くだらない"];
+	node15 [label="失恋も"];
+	node16 [label="あった"];
+	node17 [label="もんだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

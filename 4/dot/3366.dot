@@ -1,0 +1,5 @@
+digraph graph3366 {
+	node0 [label="着物だって"];
+	node1 [label="そうだ。"];
+	node0 -> node1;
+}

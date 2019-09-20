@@ -1,0 +1,11 @@
+digraph graph7342 {
+	node0 [label="人間は"];
+	node1 [label="生意気なようでも"];
+	node2 [label="やはり、"];
+	node3 [label="どこか"];
+	node4 [label="抜けている。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

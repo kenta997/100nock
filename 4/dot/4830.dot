@@ -1,0 +1,15 @@
+digraph graph4830 {
+	node0 [label="この"];
+	node1 [label="不利を"];
+	node2 [label="看破したる"];
+	node3 [label="敵は"];
+	node4 [label="こんな"];
+	node5 [label="軍略を"];
+	node6 [label="講じた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

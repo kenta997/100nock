@@ -1,0 +1,15 @@
+digraph graph2694 {
+	node0 [label="双方共"];
+	node1 [label="寝た"];
+	node2 [label="時の"];
+	node3 [label="姿勢より"];
+	node4 [label="九十度は"];
+	node5 [label="たしかに"];
+	node6 [label="廻転している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

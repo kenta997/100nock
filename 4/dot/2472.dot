@@ -1,0 +1,13 @@
+digraph graph2472 {
+	node0 [label="なんぼ"];
+	node1 [label="田舎者だって——"];
+	node2 [label="これでも"];
+	node3 [label="街鉄を"];
+	node4 [label="六十株"];
+	node5 [label="持ってるよ」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

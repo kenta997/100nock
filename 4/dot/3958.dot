@@ -1,0 +1,23 @@
+digraph graph3958 {
+	node0 [label="紙袋を"];
+	node1 [label="頭へ"];
+	node2 [label="かぶせら"];
+	node3 [label="るる"];
+	node4 [label="事——"];
+	node5 [label="これは"];
+	node6 [label="苦しいばかりで"];
+	node7 [label="はなはだ"];
+	node8 [label="興味の"];
+	node9 [label="乏しい"];
+	node10 [label="方法である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

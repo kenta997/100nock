@@ -1,0 +1,23 @@
+digraph graph5580 {
+	node0 [label="この"];
+	node1 [label="点から"];
+	node2 [label="見ると"];
+	node3 [label="主人の"];
+	node4 [label="痘痕も"];
+	node5 [label="冥々の"];
+	node6 [label="裡に"];
+	node7 [label="妙な"];
+	node8 [label="功徳を"];
+	node9 [label="施"];
+	node10 [label="こしている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

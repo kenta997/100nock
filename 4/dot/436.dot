@@ -1,0 +1,11 @@
+digraph graph436 {
+	node0 [label="吾輩も"];
+	node1 [label="この"];
+	node2 [label="頃では"];
+	node3 [label="普通一般の"];
+	node4 [label="猫ではない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

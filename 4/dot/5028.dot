@@ -1,0 +1,19 @@
+digraph graph5028 {
+	node0 [label="左氏が"];
+	node1 [label="※陵の"];
+	node2 [label="戦を"];
+	node3 [label="記するに"];
+	node4 [label="当っても"];
+	node5 [label="まず"];
+	node6 [label="敵の"];
+	node7 [label="陣勢から"];
+	node8 [label="述べている。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

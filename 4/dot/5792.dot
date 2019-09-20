@@ -1,0 +1,13 @@
+digraph graph5792 {
+	node0 [label="汝の"];
+	node1 [label="頭中に"];
+	node2 [label="秘蔵する"];
+	node3 [label="学問には"];
+	node4 [label="黴が"];
+	node5 [label="生えるべし。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

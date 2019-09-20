@@ -1,0 +1,13 @@
+digraph graph7895 {
+	node0 [label="そんな"];
+	node1 [label="遊戯三昧で"];
+	node2 [label="宇宙の"];
+	node3 [label="真理が"];
+	node4 [label="知れては"];
+	node5 [label="大変だ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

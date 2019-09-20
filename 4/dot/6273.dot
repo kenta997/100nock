@@ -1,0 +1,9 @@
+digraph graph6273 {
+	node0 [label="「刑事だって"];
+	node1 [label="懐手を"];
+	node2 [label="しないとは"];
+	node3 [label="限るまい」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

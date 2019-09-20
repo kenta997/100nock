@@ -1,0 +1,15 @@
+digraph graph3110 {
+	node0 [label="「あまり"];
+	node1 [label="好いて"];
+	node2 [label="はおらん」と"];
+	node3 [label="存外"];
+	node4 [label="呑気な"];
+	node5 [label="返事を"];
+	node6 [label="する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

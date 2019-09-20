@@ -1,0 +1,15 @@
+digraph graph2057 {
+	node0 [label="——"];
+	node1 [label="さあ、"];
+	node2 [label="それが"];
+	node3 [label="すこぶる"];
+	node4 [label="意味の"];
+	node5 [label="ある"];
+	node6 [label="事だて。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

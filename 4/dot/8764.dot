@@ -1,0 +1,15 @@
+digraph graph8764 {
+	node0 [label="それだから"];
+	node1 [label="偕老同穴とか"];
+	node2 [label="号して、"];
+	node3 [label="死んでも"];
+	node4 [label="一つ穴の"];
+	node5 [label="狸に"];
+	node6 [label="化ける。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

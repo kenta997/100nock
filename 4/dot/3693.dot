@@ -1,0 +1,9 @@
+digraph graph3693 {
+	node0 [label="その"];
+	node1 [label="番頭が"];
+	node2 [label="甚兵衛と"];
+	node3 [label="云ってね。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

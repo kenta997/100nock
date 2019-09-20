@@ -1,0 +1,15 @@
+digraph graph4832 {
+	node0 [label="その"];
+	node1 [label="中には"];
+	node2 [label="主人を"];
+	node3 [label="ひやかすような"];
+	node4 [label="事を"];
+	node5 [label="聞こえよがしに"];
+	node6 [label="述べる。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

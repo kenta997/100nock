@@ -1,0 +1,7 @@
+digraph graph4431 {
+	node0 [label="和唐内は"];
+	node1 [label="やはり"];
+	node2 [label="清和源氏さ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

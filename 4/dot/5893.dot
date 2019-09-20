@@ -1,0 +1,9 @@
+digraph graph5893 {
+	node0 [label="「どうも"];
+	node1 [label="そう、"];
+	node2 [label="御謙遜では"];
+	node3 [label="恐れ入る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

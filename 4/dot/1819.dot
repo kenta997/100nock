@@ -1,0 +1,17 @@
+digraph graph1819 {
+	node0 [label="さすがに"];
+	node1 [label="勝手は"];
+	node2 [label="広い、"];
+	node3 [label="苦沙弥先生の"];
+	node4 [label="台所の"];
+	node5 [label="十倍は"];
+	node6 [label="たしかに"];
+	node7 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

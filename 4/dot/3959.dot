@@ -1,0 +1,13 @@
+digraph graph3959 {
+	node0 [label="ことに"];
+	node1 [label="人間の"];
+	node2 [label="相手が"];
+	node3 [label="おらんと"];
+	node4 [label="成功しないから"];
+	node5 [label="駄目。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,15 @@
+digraph graph4458 {
+	node0 [label="爺さんは"];
+	node1 [label="少しく"];
+	node2 [label="不本意の"];
+	node3 [label="気味で"];
+	node4 [label="「いや、"];
+	node5 [label="御泣きか、"];
+	node6 [label="なに？"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

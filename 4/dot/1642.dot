@@ -1,0 +1,19 @@
+digraph graph1642 {
+	node0 [label="「本当に御"];
+	node1 [label="隠しなさっても"];
+	node2 [label="いけませんよ、"];
+	node3 [label="ちゃんと"];
+	node4 [label="種は"];
+	node5 [label="上ってるんですからね」と"];
+	node6 [label="鼻子は"];
+	node7 [label="また"];
+	node8 [label="得意になる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

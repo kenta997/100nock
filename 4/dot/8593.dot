@@ -1,0 +1,11 @@
+digraph graph8593 {
+	node0 [label="「どうせ"];
+	node1 [label="死ぬなら、"];
+	node2 [label="どうして"];
+	node3 [label="死んだら"];
+	node4 [label="よかろう。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

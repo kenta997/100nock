@@ -1,0 +1,27 @@
+digraph graph3922 {
+	node0 [label="一七五〇年に"];
+	node1 [label="ドクトル・リチャード・ラッセルが"];
+	node2 [label="ブライトンの"];
+	node3 [label="海水に"];
+	node4 [label="飛込めば"];
+	node5 [label="四百四病即席全快と"];
+	node6 [label="大袈裟な"];
+	node7 [label="広告を"];
+	node8 [label="出したのは"];
+	node9 [label="遅い"];
+	node10 [label="遅いと"];
+	node11 [label="笑っても"];
+	node12 [label="よろしい。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

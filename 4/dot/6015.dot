@@ -1,0 +1,9 @@
+digraph graph6015 {
+	node0 [label="久し振りで"];
+	node1 [label="東京の"];
+	node2 [label="鰻でも"];
+	node3 [label="食っちゃあ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

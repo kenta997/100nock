@@ -1,0 +1,25 @@
+digraph graph663 {
+	node0 [label="吾等猫属間で"];
+	node1 [label="御互に"];
+	node2 [label="挨拶を"];
+	node3 [label="する"];
+	node4 [label="ときには"];
+	node5 [label="尾を"];
+	node6 [label="棒のごとく"];
+	node7 [label="立てて、"];
+	node8 [label="それを"];
+	node9 [label="左りへ"];
+	node10 [label="ぐるりと"];
+	node11 [label="廻すのである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

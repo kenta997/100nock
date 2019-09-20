@@ -1,0 +1,11 @@
+digraph graph8217 {
+	node0 [label="なるほど"];
+	node1 [label="云われて"];
+	node2 [label="見ると"];
+	node3 [label="僕も"];
+	node4 [label="飲んだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

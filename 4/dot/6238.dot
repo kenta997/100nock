@@ -1,0 +1,13 @@
+digraph graph6238 {
+	node0 [label="「山の芋は"];
+	node1 [label="出ないようだが"];
+	node2 [label="ほかの"];
+	node3 [label="物件は"];
+	node4 [label="たいがい"];
+	node5 [label="戻ったようです。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

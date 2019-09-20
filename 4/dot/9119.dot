@@ -1,0 +1,13 @@
+digraph graph9119 {
+	node0 [label="三平君の"];
+	node1 [label="ビールでも"];
+	node2 [label="飲んで"];
+	node3 [label="ちと"];
+	node4 [label="景気を"];
+	node5 [label="つけてやろう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

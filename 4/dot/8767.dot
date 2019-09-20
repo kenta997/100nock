@@ -1,0 +1,13 @@
+digraph graph8767 {
+	node0 [label="夫は"];
+	node1 [label="あくまでも"];
+	node2 [label="夫で"];
+	node3 [label="妻は"];
+	node4 [label="どうしたって"];
+	node5 [label="妻だからね。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

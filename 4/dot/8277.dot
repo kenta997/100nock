@@ -1,0 +1,5 @@
+digraph graph8277 {
+	node0 [label="奥さんが"];
+	node1 [label="心配だとさ」"];
+	node0 -> node1;
+}

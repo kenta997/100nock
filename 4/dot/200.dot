@@ -1,0 +1,37 @@
+digraph graph200 {
+	node0 [label="大王に"];
+	node1 [label="しては"];
+	node2 [label="少々"];
+	node3 [label="言葉が"];
+	node4 [label="卑しいと"];
+	node5 [label="思ったが"];
+	node6 [label="何しろ"];
+	node7 [label="その"];
+	node8 [label="声の"];
+	node9 [label="底に"];
+	node10 [label="犬をも"];
+	node11 [label="挫しぐべき"];
+	node12 [label="力が"];
+	node13 [label="籠っているので"];
+	node14 [label="吾輩は"];
+	node15 [label="少なからず"];
+	node16 [label="恐れを"];
+	node17 [label="抱いた。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node17;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

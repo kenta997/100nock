@@ -1,0 +1,5 @@
+digraph graph8174 {
+	node0 [label="まるで"];
+	node1 [label="従卒のようだね」"];
+	node0 -> node1;
+}

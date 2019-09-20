@@ -1,0 +1,29 @@
+digraph graph1252 {
+	node0 [label="その"];
+	node1 [label="了解しかねる"];
+	node2 [label="点に"];
+	node3 [label="少しは"];
+	node4 [label="恐し"];
+	node5 [label="いと"];
+	node6 [label="云う"];
+	node7 [label="感じも"];
+	node8 [label="あったが、"];
+	node9 [label="今の"];
+	node10 [label="話を"];
+	node11 [label="聞いてから"];
+	node12 [label="急に"];
+	node13 [label="軽蔑したくなった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

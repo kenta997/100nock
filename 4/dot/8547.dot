@@ -1,0 +1,7 @@
+digraph graph8547 {
+	node0 [label="ちょうど"];
+	node1 [label="柔術のような"];
+	node2 [label="ものさ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

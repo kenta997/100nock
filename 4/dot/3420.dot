@@ -1,0 +1,37 @@
+digraph graph3420 {
+	node0 [label="髷の"];
+	node1 [label="重みだけでも"];
+	node2 [label="横に"];
+	node3 [label="なりたくなりますよ」と"];
+	node4 [label="云うと"];
+	node5 [label="細君は"];
+	node6 [label="今まで"];
+	node7 [label="寝ていたのが"];
+	node8 [label="髷の"];
+	node9 [label="恰好から"];
+	node10 [label="露見したと"];
+	node11 [label="思って"];
+	node12 [label="「ホホホ口の"];
+	node13 [label="悪い」と"];
+	node14 [label="云いながら"];
+	node15 [label="頭を"];
+	node16 [label="いじって"];
+	node17 [label="見る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node16;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+	node16 -> node17;
+}

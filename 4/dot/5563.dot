@@ -1,0 +1,23 @@
+digraph graph5563 {
+	node0 [label="まあ"];
+	node1 [label="何の"];
+	node2 [label="因果で"];
+	node3 [label="こんな"];
+	node4 [label="妙な"];
+	node5 [label="顔を"];
+	node6 [label="して"];
+	node7 [label="臆面なく"];
+	node8 [label="二十世紀の"];
+	node9 [label="空気を"];
+	node10 [label="呼吸しているのだろう。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

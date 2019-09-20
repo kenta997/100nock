@@ -1,0 +1,5 @@
+digraph graph6920 {
+	node0 [label="「いいえ"];
+	node1 [label="お友達じゃないのよ」"];
+	node0 -> node1;
+}

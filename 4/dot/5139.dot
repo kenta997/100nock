@@ -1,0 +1,19 @@
+digraph graph5139 {
+	node0 [label="越後獅子の"];
+	node1 [label="鼻は"];
+	node2 [label="人間が"];
+	node3 [label="怒った"];
+	node4 [label="時の"];
+	node5 [label="恰好を"];
+	node6 [label="形どって"];
+	node7 [label="作った"];
+	node8 [label="ものであろう。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+}

@@ -1,0 +1,19 @@
+digraph graph2751 {
+	node0 [label="たちまち"];
+	node1 [label="障子の"];
+	node2 [label="桟の"];
+	node3 [label="三つ目が"];
+	node4 [label="雨に"];
+	node5 [label="濡れたように"];
+	node6 [label="真中だけ"];
+	node7 [label="色が"];
+	node8 [label="変る。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

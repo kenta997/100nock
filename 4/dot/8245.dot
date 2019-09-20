@@ -1,0 +1,5 @@
+digraph graph8245 {
+	node0 [label="「ところが"];
+	node1 [label="貰わないね。"];
+	node0 -> node1;
+}

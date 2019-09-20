@@ -1,0 +1,29 @@
+digraph graph3514 {
+	node0 [label="蕎麦の"];
+	node1 [label="延びたのと、"];
+	node2 [label="人間の"];
+	node3 [label="間が"];
+	node4 [label="抜けたのは"];
+	node5 [label="由来たのもしくない"];
+	node6 [label="もんだよ」と"];
+	node7 [label="薬味を"];
+	node8 [label="ツユの"];
+	node9 [label="中へ"];
+	node10 [label="入れて"];
+	node11 [label="無茶苦茶に"];
+	node12 [label="掻き"];
+	node13 [label="廻わす。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

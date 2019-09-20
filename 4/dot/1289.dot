@@ -1,0 +1,13 @@
+digraph graph1289 {
+	node0 [label="下女の"];
+	node1 [label="考えでは"];
+	node2 [label="猫と"];
+	node3 [label="人間とは"];
+	node4 [label="同種族ものと"];
+	node5 [label="思っているらしい。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

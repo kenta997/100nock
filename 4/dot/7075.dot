@@ -1,0 +1,11 @@
+digraph graph7075 {
+	node0 [label="あなた、"];
+	node1 [label="私の"];
+	node2 [label="帯の"];
+	node3 [label="片側が"];
+	node4 [label="ないんです。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

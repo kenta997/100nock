@@ -1,0 +1,7 @@
+digraph graph499 {
+	node0 [label="タカジヤスターゼは"];
+	node1 [label="無論"];
+	node2 [label="いかん。"];
+	node0 -> node2;
+	node1 -> node2;
+}

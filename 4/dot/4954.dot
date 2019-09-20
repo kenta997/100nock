@@ -1,0 +1,35 @@
+digraph graph4954 {
+	node0 [label="して"];
+	node1 [label="見れば"];
+	node2 [label="落雲館の"];
+	node3 [label="生徒が"];
+	node4 [label="この"];
+	node5 [label="頭を"];
+	node6 [label="目"];
+	node7 [label="懸けて"];
+	node8 [label="例の"];
+	node9 [label="ダムダム丸を"];
+	node10 [label="集注するのは"];
+	node11 [label="策の"];
+	node12 [label="もっとも"];
+	node13 [label="時宜に"];
+	node14 [label="適した"];
+	node15 [label="ものと"];
+	node16 [label="云わねばならん。"];
+	node0 -> node1;
+	node1 -> node16;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node15;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

@@ -1,0 +1,9 @@
+digraph graph2937 {
+	node0 [label="それだから"];
+	node1 [label="貴様は"];
+	node2 [label="オタンチン・パレオロガスだと"];
+	node3 [label="云うんだ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

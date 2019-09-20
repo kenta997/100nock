@@ -1,0 +1,9 @@
+digraph graph8208 {
+	node0 [label="「音さえ"];
+	node1 [label="出なければ"];
+	node2 [label="どうでも"];
+	node3 [label="出来るんですが……」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

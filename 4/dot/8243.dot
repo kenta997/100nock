@@ -1,0 +1,11 @@
+digraph graph8243 {
+	node0 [label="「衣装道具なら"];
+	node1 [label="見せびらかすのだが、"];
+	node2 [label="煙草だから"];
+	node3 [label="呑み"];
+	node4 [label="びらかすのさ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

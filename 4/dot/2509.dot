@@ -1,0 +1,21 @@
+digraph graph2509 {
+	node0 [label="僕も"];
+	node1 [label="あんまりな"];
+	node2 [label="不人情な"];
+	node3 [label="男だと"];
+	node4 [label="思ったから"];
+	node5 [label="泥だらけの"];
+	node6 [label="手で"];
+	node7 [label="君の"];
+	node8 [label="写生帖を"];
+	node9 [label="引き裂いてしまった」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

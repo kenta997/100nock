@@ -1,0 +1,15 @@
+digraph graph7459 {
+	node0 [label="吾輩は"];
+	node1 [label="思う仔細"];
+	node2 [label="あって"];
+	node3 [label="ちょっと"];
+	node4 [label="失敬して"];
+	node5 [label="茶の間へ"];
+	node6 [label="廻る。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

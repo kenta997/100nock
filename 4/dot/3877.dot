@@ -1,0 +1,27 @@
+digraph graph3877 {
+	node0 [label="いくら"];
+	node1 [label="待っていても、"];
+	node2 [label="うんとも、"];
+	node3 [label="すんとも、"];
+	node4 [label="云わないので、"];
+	node5 [label="最後に"];
+	node6 [label="寒月が"];
+	node7 [label="「それぎりですか」と"];
+	node8 [label="聞くと"];
+	node9 [label="主人は"];
+	node10 [label="軽く"];
+	node11 [label="「うん」と"];
+	node12 [label="答えた。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

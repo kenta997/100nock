@@ -1,0 +1,9 @@
+digraph graph2382 {
+	node0 [label="「この"];
+	node1 [label="間鼻が"];
+	node2 [label="自分で"];
+	node3 [label="来た」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

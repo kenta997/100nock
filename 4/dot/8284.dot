@@ -1,0 +1,7 @@
+digraph graph8284 {
+	node0 [label="「もう、"];
+	node1 [label="起きても"];
+	node2 [label="いいね。"];
+	node0 -> node2;
+	node1 -> node2;
+}

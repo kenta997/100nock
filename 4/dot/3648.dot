@@ -1,0 +1,25 @@
+digraph graph3648 {
+	node0 [label="——"];
+	node1 [label="たった"];
+	node2 [label="一と"];
+	node3 [label="晩だぜ——"];
+	node4 [label="それで"];
+	node5 [label="その"];
+	node6 [label="晩"];
+	node7 [label="すぐに"];
+	node8 [label="そこの"];
+	node9 [label="下女に"];
+	node10 [label="結婚を"];
+	node11 [label="申し込んだのさ。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,31 @@
+digraph graph643 {
+	node0 [label="御三は"];
+	node1 [label="御馳走を"];
+	node2 [label="半分"];
+	node3 [label="食べかけて"];
+	node4 [label="夢から"];
+	node5 [label="起された"];
+	node6 [label="時のように、"];
+	node7 [label="気の"];
+	node8 [label="ない"];
+	node9 [label="顔を"];
+	node10 [label="して"];
+	node11 [label="餅を"];
+	node12 [label="つかんで"];
+	node13 [label="ぐいと"];
+	node14 [label="引く。"];
+	node0 -> node14;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

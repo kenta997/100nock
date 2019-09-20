@@ -1,0 +1,7 @@
+digraph graph8668 {
+	node0 [label="大に"];
+	node1 [label="赤面した"];
+	node2 [label="そうだ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

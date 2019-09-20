@@ -1,0 +1,11 @@
+digraph graph4394 {
+	node0 [label="人が"];
+	node1 [label="交際わねえからね」と"];
+	node2 [label="徹頭徹尾"];
+	node3 [label="民さんを"];
+	node4 [label="攻撃する。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

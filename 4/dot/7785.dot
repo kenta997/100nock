@@ -1,0 +1,11 @@
+digraph graph7785 {
+	node0 [label="天才と"];
+	node1 [label="云われて"];
+	node2 [label="つんと"];
+	node3 [label="するのは"];
+	node4 [label="寒月君だけだろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

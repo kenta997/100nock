@@ -1,0 +1,7 @@
+digraph graph4176 {
+	node0 [label="もう"];
+	node1 [label="晩飯の"];
+	node2 [label="時刻だ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

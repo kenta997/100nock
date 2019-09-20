@@ -1,0 +1,13 @@
+digraph graph2656 {
+	node0 [label="小供は"];
+	node1 [label="六畳の"];
+	node2 [label="間へ"];
+	node3 [label="枕を"];
+	node4 [label="ならべて"];
+	node5 [label="寝る。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

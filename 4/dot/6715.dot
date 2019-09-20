@@ -1,0 +1,9 @@
+digraph graph6715 {
+	node0 [label="いつもなら"];
+	node1 [label="今時分は"];
+	node2 [label="まだ"];
+	node3 [label="寝ていらっしゃるんだわ」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,7 @@
+digraph graph9104 {
+	node0 [label="転がれば"];
+	node1 [label="泥が"];
+	node2 [label="つく。"];
+	node0 -> node2;
+	node1 -> node2;
+}

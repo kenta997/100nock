@@ -1,0 +1,13 @@
+digraph graph8900 {
+	node0 [label="「女に"];
+	node1 [label="逢って"];
+	node2 [label="とろけずだろう」と"];
+	node3 [label="迷亭先生が"];
+	node4 [label="援兵に"];
+	node5 [label="出る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

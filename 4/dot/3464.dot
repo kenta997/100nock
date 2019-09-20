@@ -1,0 +1,15 @@
+digraph graph3464 {
+	node0 [label="大変目が"];
+	node1 [label="細かくって"];
+	node2 [label="柔らかいんですね」と"];
+	node3 [label="細君は"];
+	node4 [label="しきりに"];
+	node5 [label="撫で廻"];
+	node6 [label="わす。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

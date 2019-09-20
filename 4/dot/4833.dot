@@ -1,0 +1,15 @@
+digraph graph4833 {
+	node0 [label="しかも"];
+	node1 [label="その"];
+	node2 [label="声の"];
+	node3 [label="出所を"];
+	node4 [label="極めて"];
+	node5 [label="不分明に"];
+	node6 [label="する。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

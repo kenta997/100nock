@@ -1,0 +1,15 @@
+digraph graph4073 {
+	node0 [label="これは"];
+	node1 [label="長く"];
+	node2 [label="かく"];
+	node3 [label="必要も"];
+	node4 [label="ないから、"];
+	node5 [label="ちょっと"];
+	node6 [label="述べておく。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

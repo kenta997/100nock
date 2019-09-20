@@ -1,0 +1,25 @@
+digraph graph645 {
+	node0 [label="どうも"];
+	node1 [label="痛いの"];
+	node2 [label="痛くないのって、"];
+	node3 [label="餅の"];
+	node4 [label="中へ"];
+	node5 [label="堅く"];
+	node6 [label="食い込んでいる"];
+	node7 [label="歯を"];
+	node8 [label="情け容赦も"];
+	node9 [label="なく"];
+	node10 [label="引張るのだから"];
+	node11 [label="たまらない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

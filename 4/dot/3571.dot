@@ -1,0 +1,19 @@
+digraph graph3571 {
+	node0 [label="「まあ"];
+	node1 [label="この"];
+	node2 [label="容子じゃ"];
+	node3 [label="十年くらい"];
+	node4 [label="かかりそうです」と"];
+	node5 [label="寒月君は"];
+	node6 [label="主人より"];
+	node7 [label="呑気に"];
+	node8 [label="見受けられる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

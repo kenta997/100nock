@@ -1,0 +1,19 @@
+digraph graph6973 {
+	node0 [label="この間も"];
+	node1 [label="なんとか"];
+	node2 [label="云う"];
+	node3 [label="詩人が"];
+	node4 [label="新体詩集を"];
+	node5 [label="捧げたって、"];
+	node6 [label="みんなに"];
+	node7 [label="吹聴しているんです"];
+	node8 [label="もの」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+}

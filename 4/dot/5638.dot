@@ -1,0 +1,27 @@
+digraph graph5638 {
+	node0 [label="だから"];
+	node1 [label="もし"];
+	node2 [label="普通の"];
+	node3 [label="人のように"];
+	node4 [label="五分刈や"];
+	node5 [label="三分刈に"];
+	node6 [label="すると、"];
+	node7 [label="短かい毛の"];
+	node8 [label="根本から"];
+	node9 [label="何十と"];
+	node10 [label="なく"];
+	node11 [label="あばたが"];
+	node12 [label="あらわれてくる。"];
+	node0 -> node12;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

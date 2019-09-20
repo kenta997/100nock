@@ -1,0 +1,31 @@
+digraph graph1581 {
+	node0 [label="かく著"];
+	node1 [label="るしい"];
+	node2 [label="鼻だから、"];
+	node3 [label="この女が"];
+	node4 [label="物を"];
+	node5 [label="言う"];
+	node6 [label="ときは"];
+	node7 [label="口が"];
+	node8 [label="物を"];
+	node9 [label="言うと"];
+	node10 [label="云わんより、"];
+	node11 [label="鼻が"];
+	node12 [label="口を"];
+	node13 [label="きいているとしか"];
+	node14 [label="思われない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

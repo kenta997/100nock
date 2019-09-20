@@ -1,0 +1,7 @@
+digraph graph3170 {
+	node0 [label="そう"];
+	node1 [label="せんと、"];
+	node2 [label="あぶないです」"];
+	node0 -> node2;
+	node1 -> node2;
+}

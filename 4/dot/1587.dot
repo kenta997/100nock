@@ -1,0 +1,13 @@
+digraph graph1587 {
+	node0 [label="鼻子は"];
+	node1 [label="社交を"];
+	node2 [label="知らぬ"];
+	node3 [label="人達だと"];
+	node4 [label="腹の中で"];
+	node5 [label="憤る。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

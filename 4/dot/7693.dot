@@ -1,0 +1,9 @@
+digraph graph7693 {
+	node0 [label="「かいだって、"];
+	node1 [label="鰹節の"];
+	node2 [label="善悪は"];
+	node3 [label="わかりませんよ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

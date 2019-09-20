@@ -1,0 +1,11 @@
+digraph graph6864 {
+	node0 [label="けれども"];
+	node1 [label="地蔵様は"];
+	node2 [label="動かないんですって、"];
+	node3 [label="平気で"];
+	node4 [label="いるんですとさ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

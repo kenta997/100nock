@@ -1,0 +1,13 @@
+digraph graph607 {
+	node0 [label="要するに"];
+	node1 [label="振り損の、"];
+	node2 [label="立て損の、"];
+	node3 [label="寝かし損であると"];
+	node4 [label="気が付いたから"];
+	node5 [label="やめにした。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

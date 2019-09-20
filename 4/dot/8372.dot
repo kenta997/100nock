@@ -1,0 +1,5 @@
+digraph graph8372 {
+	node0 [label="「弾きたくっても、"];
+	node1 [label="弾かれないじゃないか。"];
+	node0 -> node1;
+}

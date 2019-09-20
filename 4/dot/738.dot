@@ -1,0 +1,15 @@
+digraph graph738 {
+	node0 [label="黒は"];
+	node1 [label="その"];
+	node2 [label="くらいな"];
+	node3 [label="事では"];
+	node4 [label="なかなか"];
+	node5 [label="機嫌を"];
+	node6 [label="直さない。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

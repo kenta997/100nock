@@ -1,0 +1,23 @@
+digraph graph2440 {
+	node0 [label="しかし"];
+	node1 [label="当人が"];
+	node2 [label="金田の"];
+	node3 [label="娘を"];
+	node4 [label="貰う"];
+	node5 [label="つもりかどうだか、それから"];
+	node6 [label="まず"];
+	node7 [label="問い"];
+	node8 [label="正して"];
+	node9 [label="見なくちゃ"];
+	node10 [label="いかんからな」"];
+	node0 -> node10;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

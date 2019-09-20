@@ -1,0 +1,23 @@
+digraph graph7202 {
+	node0 [label="　ところへ"];
+	node1 [label="後ろの"];
+	node2 [label="襖を"];
+	node3 [label="すうと"];
+	node4 [label="開けて、"];
+	node5 [label="雪江さんが"];
+	node6 [label="一碗の"];
+	node7 [label="茶を"];
+	node8 [label="恭しく"];
+	node9 [label="坊主に"];
+	node10 [label="供した。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

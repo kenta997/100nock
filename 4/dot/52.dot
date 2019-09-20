@@ -1,0 +1,19 @@
+digraph graph52 {
+	node0 [label="いや"];
+	node1 [label="これは"];
+	node2 [label="駄目だと"];
+	node3 [label="思ったから"];
+	node4 [label="眼を"];
+	node5 [label="ねぶって"];
+	node6 [label="運を"];
+	node7 [label="天に"];
+	node8 [label="任せていた。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

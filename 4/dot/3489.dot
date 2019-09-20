@@ -1,0 +1,5 @@
+digraph graph3489 {
+	node0 [label="ようが"];
+	node1 [label="すか。"];
+	node0 -> node1;
+}

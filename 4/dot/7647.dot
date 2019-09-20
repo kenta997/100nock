@@ -1,0 +1,5 @@
+digraph graph7647 {
+	node0 [label="思い切って、"];
+	node1 [label="切ってしまえ」"];
+	node0 -> node1;
+}

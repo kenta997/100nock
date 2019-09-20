@@ -1,0 +1,7 @@
+digraph graph8879 {
+	node0 [label="独身の"];
+	node1 [label="僕まで"];
+	node2 [label="聞いてるよ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

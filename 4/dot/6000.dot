@@ -1,0 +1,27 @@
+digraph graph6000 {
+	node0 [label="心を"];
+	node1 [label="どこに"];
+	node2 [label="置こうぞ、"];
+	node3 [label="敵の"];
+	node4 [label="身の"];
+	node5 [label="働に"];
+	node6 [label="心を"];
+	node7 [label="置けば、"];
+	node8 [label="敵の"];
+	node9 [label="身の"];
+	node10 [label="働に"];
+	node11 [label="心を"];
+	node12 [label="取らるるなり。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

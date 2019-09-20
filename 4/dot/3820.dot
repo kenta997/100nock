@@ -1,0 +1,31 @@
+digraph graph3820 {
+	node0 [label="実は"];
+	node1 [label="ただ今"];
+	node2 [label="詩集を"];
+	node3 [label="見せようと"];
+	node4 [label="思って"];
+	node5 [label="ちょっと"];
+	node6 [label="寄って参りましたが、"];
+	node7 [label="生憎"];
+	node8 [label="先月から"];
+	node9 [label="大磯へ"];
+	node10 [label="避暑に"];
+	node11 [label="行って"];
+	node12 [label="留守でした」と"];
+	node13 [label="真面目くさって"];
+	node14 [label="述べる。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

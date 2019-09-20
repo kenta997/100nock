@@ -1,0 +1,13 @@
+digraph graph2269 {
+	node0 [label="返答次第では"];
+	node1 [label="その"];
+	node2 [label="分には"];
+	node3 [label="すまさんと"];
+	node4 [label="云う"];
+	node5 [label="権幕である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

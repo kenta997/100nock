@@ -1,0 +1,21 @@
+digraph graph893 {
+	node0 [label="「歴史家の"];
+	node1 [label="説に"];
+	node2 [label="よれば"];
+	node3 [label="羅馬人は"];
+	node4 [label="日に"];
+	node5 [label="二度"];
+	node6 [label="三度も"];
+	node7 [label="宴会を"];
+	node8 [label="開き"];
+	node9 [label="候由。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node9;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

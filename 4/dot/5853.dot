@@ -1,0 +1,5 @@
+digraph graph5853 {
+	node0 [label="細君は"];
+	node1 [label="憚りである。"];
+	node0 -> node1;
+}

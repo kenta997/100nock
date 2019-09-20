@@ -1,0 +1,9 @@
+digraph graph2906 {
+	node0 [label="今度から"];
+	node1 [label="一円"];
+	node2 [label="五十銭くらいの"];
+	node3 [label="にしておけ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

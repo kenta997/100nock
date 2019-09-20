@@ -1,0 +1,11 @@
+digraph graph2350 {
+	node0 [label="「細君か、"];
+	node1 [label="細君は"];
+	node2 [label="なかなか"];
+	node3 [label="さばけた"];
+	node4 [label="人だ」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

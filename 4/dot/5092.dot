@@ -1,0 +1,15 @@
+digraph graph5092 {
+	node0 [label="ライプニッツの"];
+	node1 [label="定義に"];
+	node2 [label="よると"];
+	node3 [label="空間は"];
+	node4 [label="出来得べき"];
+	node5 [label="同在現象の"];
+	node6 [label="秩序である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

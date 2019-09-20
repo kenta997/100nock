@@ -1,0 +1,7 @@
+digraph graph5877 {
+	node0 [label="是非君に"];
+	node1 [label="逢いたいと"];
+	node2 [label="云うんだから」"];
+	node0 -> node1;
+	node1 -> node2;
+}

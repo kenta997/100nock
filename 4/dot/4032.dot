@@ -1,0 +1,21 @@
+digraph graph4032 {
+	node0 [label="本職の"];
+	node1 [label="猿は"];
+	node2 [label="別物として、"];
+	node3 [label="猿の"];
+	node4 [label="末孫たる"];
+	node5 [label="人間にも"];
+	node6 [label="なかなか"];
+	node7 [label="侮るべからざる"];
+	node8 [label="手合が"];
+	node9 [label="いる。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

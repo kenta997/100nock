@@ -1,0 +1,11 @@
+digraph graph5917 {
+	node0 [label="「まあ"];
+	node1 [label="久し振りで"];
+	node2 [label="東京見物を"];
+	node3 [label="するだけでも"];
+	node4 [label="得ですよ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

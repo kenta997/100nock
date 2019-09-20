@@ -1,0 +1,23 @@
+digraph graph5052 {
+	node0 [label="堅い"];
+	node1 [label="丸い"];
+	node2 [label="石の"];
+	node3 [label="団子のような"];
+	node4 [label="ものを"];
+	node5 [label="御鄭寧に"];
+	node6 [label="皮で"];
+	node7 [label="くるんで"];
+	node8 [label="縫い"];
+	node9 [label="合せた"];
+	node10 [label="ものである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

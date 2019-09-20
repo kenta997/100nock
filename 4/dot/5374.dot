@@ -1,0 +1,7 @@
+digraph graph5374 {
+	node0 [label="　入れ代って"];
+	node1 [label="やって来たのが"];
+	node2 [label="甘木先生である。"];
+	node0 -> node1;
+	node1 -> node2;
+}

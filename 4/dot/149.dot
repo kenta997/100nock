@@ -1,0 +1,11 @@
+digraph graph149 {
+	node0 [label="金縁の"];
+	node1 [label="裏には"];
+	node2 [label="嘲けるような"];
+	node3 [label="笑が"];
+	node4 [label="見えた。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

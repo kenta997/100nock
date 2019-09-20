@@ -1,0 +1,25 @@
+digraph graph1079 {
+	node0 [label="しかし"];
+	node1 [label="昔の"];
+	node2 [label="希臘人は"];
+	node3 [label="宴会の"];
+	node4 [label="席で"];
+	node5 [label="首縊りの"];
+	node6 [label="真似を"];
+	node7 [label="して"];
+	node8 [label="余興を"];
+	node9 [label="添えたと"];
+	node10 [label="云う話しが"];
+	node11 [label="ある。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

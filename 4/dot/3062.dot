@@ -1,0 +1,9 @@
+digraph graph3062 {
+	node0 [label="本当に"];
+	node1 [label="横着な"];
+	node2 [label="図々図々しい"];
+	node3 [label="猫ですよ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,5 @@
+digraph graph7611 {
+	node0 [label="どこからでも"];
+	node1 [label="来たまえ」"];
+	node0 -> node1;
+}

@@ -1,0 +1,35 @@
+digraph graph6550 {
+	node0 [label="すでに"];
+	node1 [label="だだっ子である"];
+	node2 [label="以上は、"];
+	node3 [label="喧嘩を"];
+	node4 [label="する"];
+	node5 [label="勢で、"];
+	node6 [label="むっくと"];
+	node7 [label="刎ね起きた主人が"];
+	node8 [label="急に"];
+	node9 [label="気を"];
+	node10 [label="かえて袋戸の"];
+	node11 [label="腸を"];
+	node12 [label="読みに"];
+	node13 [label="かかるのも"];
+	node14 [label="もっともと"];
+	node15 [label="云わねば"];
+	node16 [label="なるまい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node16;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node13;
+	node7 -> node13;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

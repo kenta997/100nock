@@ -1,0 +1,9 @@
+digraph graph5560 {
+	node0 [label="しかして"];
+	node1 [label="その"];
+	node2 [label="一人が"];
+	node3 [label="即ち主人である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

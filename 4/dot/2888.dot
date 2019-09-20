@@ -1,0 +1,7 @@
+digraph graph2888 {
+	node0 [label="「品物は"];
+	node1 [label="一々"];
+	node2 [label="かくんですか」"];
+	node0 -> node2;
+	node1 -> node2;
+}

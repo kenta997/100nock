@@ -1,0 +1,15 @@
+digraph graph8118 {
+	node0 [label="「みんな"];
+	node1 [label="同価かと"];
+	node2 [label="聞くと、"];
+	node3 [label="へえ、"];
+	node4 [label="どれでも"];
+	node5 [label="変りは"];
+	node6 [label="ございません。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

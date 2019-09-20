@@ -1,0 +1,29 @@
+digraph graph7812 {
+	node0 [label="この"];
+	node1 [label="梅干が"];
+	node2 [label="出るのを"];
+	node3 [label="楽しみに"];
+	node4 [label="塩気の"];
+	node5 [label="ない"];
+	node6 [label="周囲を"];
+	node7 [label="一心不乱に"];
+	node8 [label="食い欠いて"];
+	node9 [label="突進するんだと"];
+	node10 [label="云うが、"];
+	node11 [label="なるほど"];
+	node12 [label="元気旺盛な"];
+	node13 [label="ものだね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

@@ -1,0 +1,9 @@
+digraph graph4497 {
+	node0 [label="従って"];
+	node1 [label="人間らしい"];
+	node2 [label="行動を"];
+	node3 [label="とらなければならんはずである。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,31 @@
+digraph graph4244 {
+	node0 [label="天下に"];
+	node1 [label="何が"];
+	node2 [label="面白いと"];
+	node3 [label="云って、"];
+	node4 [label="未だ"];
+	node5 [label="食わざる"];
+	node6 [label="ものを"];
+	node7 [label="食い、"];
+	node8 [label="未だ"];
+	node9 [label="見ざる"];
+	node10 [label="ものを"];
+	node11 [label="見る"];
+	node12 [label="ほどの"];
+	node13 [label="愉快は"];
+	node14 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

@@ -1,0 +1,35 @@
+digraph graph3695 {
+	node0 [label="甚兵衛君の"];
+	node1 [label="隣りには"];
+	node2 [label="初さんという"];
+	node3 [label="二十四五の"];
+	node4 [label="若い衆が"];
+	node5 [label="坐っているが、"];
+	node6 [label="この"];
+	node7 [label="初さんがまた"];
+	node8 [label="雲照律師に"];
+	node9 [label="帰依して"];
+	node10 [label="三七二十一日の"];
+	node11 [label="間蕎麦湯だけで"];
+	node12 [label="通したと"];
+	node13 [label="云うような"];
+	node14 [label="青い"];
+	node15 [label="顔を"];
+	node16 [label="している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+}

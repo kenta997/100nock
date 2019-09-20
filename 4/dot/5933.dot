@@ -1,0 +1,13 @@
+digraph graph5933 {
+	node0 [label="「だいぶ人が"];
+	node1 [label="出ましたろう」と"];
+	node2 [label="極めて"];
+	node3 [label="尋常な"];
+	node4 [label="問を"];
+	node5 [label="かけた。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

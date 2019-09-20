@@ -1,0 +1,11 @@
+digraph graph5756 {
+	node0 [label="悠々と"];
+	node1 [label="鏡を"];
+	node2 [label="おろして"];
+	node3 [label="郵便を"];
+	node4 [label="取り上げた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,7 @@
+digraph graph5895 {
+	node0 [label="どうか御"];
+	node1 [label="遠慮なく、"];
+	node2 [label="さあどうぞ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,13 @@
+digraph graph6348 {
+	node0 [label="第一に"];
+	node1 [label="今日"];
+	node2 [label="来た"];
+	node3 [label="フロックコートの"];
+	node4 [label="伯父さんは"];
+	node5 [label="どうだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

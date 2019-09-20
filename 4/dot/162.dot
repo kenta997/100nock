@@ -1,0 +1,5 @@
+digraph graph162 {
+	node0 [label="第一色が"];
+	node1 [label="違う。"];
+	node0 -> node1;
+}

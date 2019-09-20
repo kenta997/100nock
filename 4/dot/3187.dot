@@ -1,0 +1,25 @@
+digraph graph3187 {
+	node0 [label="多感多恨に"];
+	node1 [label="して"];
+	node2 [label="日夜心神を"];
+	node3 [label="労する"];
+	node4 [label="吾輩ごとき者は"];
+	node5 [label="仮令"];
+	node6 [label="猫といえども"];
+	node7 [label="主人以上に"];
+	node8 [label="休養を"];
+	node9 [label="要するは"];
+	node10 [label="勿論の"];
+	node11 [label="事である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,11 @@
+digraph graph7888 {
+	node0 [label="僕などは"];
+	node1 [label="とうてい"];
+	node2 [label="絶対の"];
+	node3 [label="境に"];
+	node4 [label="這入れそうもない」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

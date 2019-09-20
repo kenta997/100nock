@@ -1,0 +1,7 @@
+digraph graph6292 {
+	node0 [label="「学校は"];
+	node1 [label="どう"];
+	node2 [label="する」"];
+	node0 -> node2;
+	node1 -> node2;
+}

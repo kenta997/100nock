@@ -1,0 +1,5 @@
+digraph graph6778 {
+	node0 [label="「みんな"];
+	node1 [label="逆なのね。"];
+	node0 -> node1;
+}

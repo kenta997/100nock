@@ -1,0 +1,37 @@
+digraph graph3737 {
+	node0 [label="しかし"];
+	node1 [label="それも"];
+	node2 [label="薄々は"];
+	node3 [label="知ってます」"];
+	node4 [label="「ホホホホ"];
+	node5 [label="面白い事ばかり……」と"];
+	node6 [label="細君相形を"];
+	node7 [label="崩して"];
+	node8 [label="笑っていると、"];
+	node9 [label="格子戸の"];
+	node10 [label="ベルが"];
+	node11 [label="相変らず"];
+	node12 [label="着けた"];
+	node13 [label="時と"];
+	node14 [label="同じような"];
+	node15 [label="音を"];
+	node16 [label="出して"];
+	node17 [label="鳴る。"];
+	node0 -> node17;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node17;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

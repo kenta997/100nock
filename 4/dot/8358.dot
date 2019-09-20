@@ -1,0 +1,23 @@
+digraph graph8358 {
+	node0 [label="「それから、"];
+	node1 [label="我に"];
+	node2 [label="帰って"];
+	node3 [label="あたりを"];
+	node4 [label="見廻"];
+	node5 [label="わすと、"];
+	node6 [label="庚申山一面は"];
+	node7 [label="しんとして、"];
+	node8 [label="雨垂れほどの"];
+	node9 [label="音も"];
+	node10 [label="しない。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

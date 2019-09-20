@@ -1,0 +1,21 @@
+digraph graph3674 {
+	node0 [label="僕の"];
+	node1 [label="母などと"];
+	node2 [label="来たら、"];
+	node3 [label="おやじの"];
+	node4 [label="前へ"];
+	node5 [label="出ては"];
+	node6 [label="いと"];
+	node7 [label="へいで"];
+	node8 [label="持ち切っていた"];
+	node9 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

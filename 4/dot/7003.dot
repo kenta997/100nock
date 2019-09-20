@@ -1,0 +1,13 @@
+digraph graph7003 {
+	node0 [label="「叔母さんは、"];
+	node1 [label="じきに"];
+	node2 [label="金、"];
+	node3 [label="金って"];
+	node4 [label="品が"];
+	node5 [label="わるいのね。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

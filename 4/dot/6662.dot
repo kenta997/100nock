@@ -1,0 +1,7 @@
+digraph graph6662 {
+	node0 [label="働きの"];
+	node1 [label="ない"];
+	node2 [label="事だ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

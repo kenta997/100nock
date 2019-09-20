@@ -1,0 +1,5 @@
+digraph graph6494 {
+	node0 [label="「九時までに"];
+	node1 [label="いらっしゃるのでしょう。"];
+	node0 -> node1;
+}

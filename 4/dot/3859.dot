@@ -1,0 +1,7 @@
+digraph graph3859 {
+	node0 [label="「東郷大将が"];
+	node1 [label="大和魂を"];
+	node2 [label="有っている。"];
+	node0 -> node2;
+	node1 -> node2;
+}

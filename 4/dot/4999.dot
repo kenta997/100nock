@@ -1,0 +1,15 @@
+digraph graph4999 {
+	node0 [label="この"];
+	node1 [label="恕と"];
+	node2 [label="申すのが"];
+	node3 [label="取りも"];
+	node4 [label="直さず"];
+	node5 [label="公徳の"];
+	node6 [label="出所である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

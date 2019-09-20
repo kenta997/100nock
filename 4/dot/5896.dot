@@ -1,0 +1,17 @@
+digraph graph5896 {
+	node0 [label="「御謙遜では……"];
+	node1 [label="恐れますから……"];
+	node2 [label="どうか」"];
+	node3 [label="主人は"];
+	node4 [label="真赤になって"];
+	node5 [label="口を"];
+	node6 [label="もごもご"];
+	node7 [label="云わせている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

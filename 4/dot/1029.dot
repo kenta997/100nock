@@ -1,0 +1,19 @@
+digraph graph1029 {
+	node0 [label="僕は"];
+	node1 [label="是非出席して"];
+	node2 [label="喝采しようと"];
+	node3 [label="思ってるよ」"];
+	node4 [label="「面白いでしょう」と"];
+	node5 [label="寒月君が"];
+	node6 [label="妙な"];
+	node7 [label="笑い方を"];
+	node8 [label="する。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

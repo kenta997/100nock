@@ -1,0 +1,9 @@
+digraph graph4799 {
+	node0 [label="　諸君は"];
+	node1 [label="四つ目垣とは"];
+	node2 [label="いかなる"];
+	node3 [label="者であるか御承知であろう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

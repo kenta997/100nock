@@ -1,0 +1,11 @@
+digraph graph543 {
+	node0 [label="従って"];
+	node1 [label="存外"];
+	node2 [label="嫌は"];
+	node3 [label="少ない"];
+	node4 [label="方だ。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

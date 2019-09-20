@@ -1,0 +1,7 @@
+digraph graph7582 {
+	node0 [label="「ええ、"];
+	node1 [label="聞きに"];
+	node2 [label="行きましょう。"];
+	node0 -> node2;
+	node1 -> node2;
+}

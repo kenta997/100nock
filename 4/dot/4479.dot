@@ -1,0 +1,31 @@
+digraph graph4479 {
+	node0 [label="当人自身も"];
+	node1 [label="そのつもりで"];
+	node2 [label="やった"];
+	node3 [label="芝居かも"];
+	node4 [label="分らんが、"];
+	node5 [label="相手が"];
+	node6 [label="山賊を"];
+	node7 [label="もって"];
+	node8 [label="自ら"];
+	node9 [label="おらん"];
+	node10 [label="以上は"];
+	node11 [label="予期する"];
+	node12 [label="結果は"];
+	node13 [label="出て来ないに"];
+	node14 [label="極っている。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

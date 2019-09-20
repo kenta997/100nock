@@ -1,0 +1,23 @@
+digraph graph5711 {
+	node0 [label="もし"];
+	node1 [label="浮華虚栄の"];
+	node2 [label="念を"];
+	node3 [label="もって"];
+	node4 [label="これに対する"];
+	node5 [label="時は"];
+	node6 [label="これほど"];
+	node7 [label="愚物を"];
+	node8 [label="煽動する"];
+	node9 [label="道具は"];
+	node10 [label="ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

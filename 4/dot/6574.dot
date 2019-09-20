@@ -1,0 +1,21 @@
+digraph graph6574 {
+	node0 [label="待ちかねた"];
+	node1 [label="細君は"];
+	node2 [label="いきなり"];
+	node3 [label="布団を"];
+	node4 [label="まくって"];
+	node5 [label="夜着を"];
+	node6 [label="畳んで、"];
+	node7 [label="例の"];
+	node8 [label="通り掃除を"];
+	node9 [label="はじめる。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

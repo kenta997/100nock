@@ -1,0 +1,9 @@
+digraph graph2190 {
+	node0 [label="ほんとうにどこまでも"];
+	node1 [label="気の"];
+	node2 [label="知れない"];
+	node3 [label="人ですよ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

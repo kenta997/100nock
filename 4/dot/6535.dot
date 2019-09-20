@@ -1,0 +1,21 @@
+digraph graph6535 {
+	node0 [label="いざと"];
+	node1 [label="なれば"];
+	node2 [label="巣鴨へ"];
+	node3 [label="端書を"];
+	node4 [label="飛ばして"];
+	node5 [label="天道公平君に"];
+	node6 [label="聞き合せて"];
+	node7 [label="見れば、"];
+	node8 [label="すぐ"];
+	node9 [label="分る事だ。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

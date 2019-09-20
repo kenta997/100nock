@@ -1,0 +1,13 @@
+digraph graph7609 {
+	node0 [label="君が"];
+	node1 [label="白なら"];
+	node2 [label="自然の"];
+	node3 [label="順序として"];
+	node4 [label="僕は"];
+	node5 [label="黒だね。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

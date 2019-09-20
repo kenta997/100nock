@@ -1,0 +1,15 @@
+digraph graph1222 {
+	node0 [label="「あの"];
+	node1 [label="ちょっとくらい"];
+	node2 [label="外出致しても"];
+	node3 [label="差支えは"];
+	node4 [label="ございますまいね」と"];
+	node5 [label="細君が"];
+	node6 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

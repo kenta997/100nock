@@ -1,0 +1,11 @@
+digraph graph5402 {
+	node0 [label="　"];
+	node1 [label="甘木先生も"];
+	node2 [label="あきれ返った"];
+	node3 [label="ものと"];
+	node4 [label="見えて、"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

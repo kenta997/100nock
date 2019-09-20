@@ -1,0 +1,23 @@
+digraph graph7352 {
+	node0 [label="武右衛門君の"];
+	node1 [label="おやじさんが"];
+	node2 [label="いかに"];
+	node3 [label="やかましくって、"];
+	node4 [label="おっかさんが"];
+	node5 [label="いかに"];
+	node6 [label="君を"];
+	node7 [label="継子あつかいに"];
+	node8 [label="しようとも、"];
+	node9 [label="あんまり"];
+	node10 [label="驚ろかない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node10;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

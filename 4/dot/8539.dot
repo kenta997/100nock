@@ -1,0 +1,5 @@
+digraph graph8539 {
+	node0 [label="気の毒な"];
+	node1 [label="事さ。"];
+	node0 -> node1;
+}

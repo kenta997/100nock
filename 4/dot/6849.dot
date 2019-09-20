@@ -1,0 +1,7 @@
+digraph graph6849 {
+	node0 [label="よっぽど"];
+	node1 [label="頑固な"];
+	node2 [label="地蔵様なのよ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

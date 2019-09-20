@@ -1,0 +1,9 @@
+digraph graph5677 {
+	node0 [label="奇体な"];
+	node1 [label="物だなあ」と"];
+	node2 [label="大分感心した"];
+	node3 [label="様子であった。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

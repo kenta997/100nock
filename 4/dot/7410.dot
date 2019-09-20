@@ -1,0 +1,23 @@
+digraph graph7410 {
+	node0 [label="吾輩は"];
+	node1 [label="切に"];
+	node2 [label="武右衛門君の"];
+	node3 [label="ために"];
+	node4 [label="瞬時も"];
+	node5 [label="早く"];
+	node6 [label="自覚して"];
+	node7 [label="真人間に"];
+	node8 [label="なられん"];
+	node9 [label="事を"];
+	node10 [label="希望するのである。"];
+	node0 -> node10;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,9 @@
+digraph graph1710 {
+	node0 [label="こりゃ"];
+	node1 [label="如何です」と"];
+	node2 [label="迷亭は"];
+	node3 [label="無暗に出す。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

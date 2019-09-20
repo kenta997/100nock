@@ -1,0 +1,27 @@
+digraph graph5569 {
+	node0 [label="滔々たる"];
+	node1 [label="流俗に"];
+	node2 [label="抗する"];
+	node3 [label="万古不磨の"];
+	node4 [label="穴の"];
+	node5 [label="集合体であって、"];
+	node6 [label="大に"];
+	node7 [label="吾人の"];
+	node8 [label="尊敬に"];
+	node9 [label="値する"];
+	node10 [label="凸凹と"];
+	node11 [label="云って"];
+	node12 [label="宜しい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

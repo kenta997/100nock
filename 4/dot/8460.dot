@@ -1,0 +1,13 @@
+digraph graph8460 {
+	node0 [label="さすが"];
+	node1 [label="新婚学士ほど"];
+	node2 [label="あって"];
+	node3 [label="元気"];
+	node4 [label="旺盛な"];
+	node5 [label="ものだね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

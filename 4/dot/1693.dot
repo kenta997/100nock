@@ -1,0 +1,23 @@
+digraph graph1693 {
+	node0 [label="何だって"];
+	node1 [label="撰りに"];
+	node2 [label="撰って"];
+	node3 [label="狸なんぞ"];
+	node4 [label="かくんでしょうね——"];
+	node5 [label="それでも"];
+	node6 [label="狸と"];
+	node7 [label="見えるから"];
+	node8 [label="不思議だよ」と"];
+	node9 [label="少し"];
+	node10 [label="感心する。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,9 @@
+digraph graph6420 {
+	node0 [label="吾輩は"];
+	node1 [label="たまらなくなって"];
+	node2 [label="台所へ"];
+	node3 [label="這出した。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

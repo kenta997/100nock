@@ -1,0 +1,23 @@
+digraph graph4042 {
+	node0 [label="あるいは"];
+	node1 [label="敵の"];
+	node2 [label="不意に"];
+	node3 [label="出でて、"];
+	node4 [label="ちょっと"];
+	node5 [label="逃げ出す"];
+	node6 [label="余裕を"];
+	node7 [label="作る"];
+	node8 [label="ための"];
+	node9 [label="方便か"];
+	node10 [label="知らん。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

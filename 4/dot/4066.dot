@@ -1,0 +1,35 @@
+digraph graph4066 {
+	node0 [label="蝉取りの"];
+	node1 [label="妙味は"];
+	node2 [label="じっと"];
+	node3 [label="忍んで"];
+	node4 [label="行って"];
+	node5 [label="おしい"];
+	node6 [label="君が"];
+	node7 [label="一生懸命に"];
+	node8 [label="尻尾を"];
+	node9 [label="延ばしたり"];
+	node10 [label="縮ましたりしている"];
+	node11 [label="ところを、"];
+	node12 [label="わっと"];
+	node13 [label="前足で"];
+	node14 [label="抑える"];
+	node15 [label="時に"];
+	node16 [label="ある。"];
+	node0 -> node1;
+	node1 -> node16;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node16;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

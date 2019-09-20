@@ -1,0 +1,5 @@
+digraph graph7443 {
+	node0 [label="「大丈夫"];
+	node1 [label="鳴きます。"];
+	node0 -> node1;
+}

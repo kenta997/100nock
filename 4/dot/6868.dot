@@ -1,0 +1,9 @@
+digraph graph6868 {
+	node0 [label="「岩崎のような"];
+	node1 [label="顔って"];
+	node2 [label="どんな"];
+	node3 [label="顔なの？"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,31 @@
+digraph graph623 {
+	node0 [label="之を"];
+	node1 [label="天祐という」幸に"];
+	node2 [label="天祐を"];
+	node3 [label="享けたる"];
+	node4 [label="吾輩が"];
+	node5 [label="一生懸命餅の"];
+	node6 [label="魔と"];
+	node7 [label="戦っていると、"];
+	node8 [label="何だか"];
+	node9 [label="足音が"];
+	node10 [label="して"];
+	node11 [label="奥より"];
+	node12 [label="人が"];
+	node13 [label="来るような"];
+	node14 [label="気合である。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

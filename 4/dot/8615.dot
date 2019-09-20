@@ -1,0 +1,29 @@
+digraph graph8615 {
+	node0 [label="そうなると"];
+	node1 [label="自殺も"];
+	node2 [label="大分研究が"];
+	node3 [label="積んで"];
+	node4 [label="立派な"];
+	node5 [label="科学に"];
+	node6 [label="なって、"];
+	node7 [label="落雲館のような"];
+	node8 [label="中学校で"];
+	node9 [label="倫理の"];
+	node10 [label="代りに"];
+	node11 [label="自殺学を"];
+	node12 [label="正科として"];
+	node13 [label="授けるようになる」"];
+	node0 -> node13;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

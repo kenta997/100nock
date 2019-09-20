@@ -1,0 +1,25 @@
+digraph graph3642 {
+	node0 [label="結婚なんかは、"];
+	node1 [label="いざと"];
+	node2 [label="云う"];
+	node3 [label="間際に"];
+	node4 [label="なって、"];
+	node5 [label="飛んだ"];
+	node6 [label="ところに"];
+	node7 [label="傷口が"];
+	node8 [label="隠れているのを"];
+	node9 [label="見出す"];
+	node10 [label="事が"];
+	node11 [label="ある者だから。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

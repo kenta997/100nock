@@ -1,0 +1,7 @@
+digraph graph336 {
+	node0 [label="おさんは"];
+	node1 [label="未だに"];
+	node2 [label="嫌いである。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,5 @@
+digraph graph6432 {
+	node0 [label="この女は"];
+	node1 [label="聾なのかも知れない。"];
+	node0 -> node1;
+}

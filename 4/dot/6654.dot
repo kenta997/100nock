@@ -1,0 +1,21 @@
+digraph graph6654 {
+	node0 [label="まして"];
+	node1 [label="すん"];
+	node2 [label="子のごとき、"];
+	node3 [label="薩摩芋に"];
+	node4 [label="経験の"];
+	node5 [label="乏しい"];
+	node6 [label="者は"];
+	node7 [label="無論"];
+	node8 [label="狼狽する"];
+	node9 [label="訳である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

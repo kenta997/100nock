@@ -1,0 +1,9 @@
+digraph graph2915 {
+	node0 [label="「十五円の"];
+	node1 [label="羽織を"];
+	node2 [label="着るなんて"];
+	node3 [label="身分不相当だ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

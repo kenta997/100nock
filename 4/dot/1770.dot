@@ -1,0 +1,11 @@
+digraph graph1770 {
+	node0 [label="「そうでしたかなアハハハハハ」と"];
+	node1 [label="迷亭は"];
+	node2 [label="訳も"];
+	node3 [label="なく"];
+	node4 [label="笑う。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,11 @@
+digraph graph8757 {
+	node0 [label="この"];
+	node1 [label="風は"];
+	node2 [label="早晩"];
+	node3 [label="日本へも"];
+	node4 [label="是非輸入しなければならん。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

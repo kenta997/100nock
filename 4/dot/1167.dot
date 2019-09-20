@@ -1,0 +1,35 @@
+digraph graph1167 {
+	node0 [label="御前が"];
+	node1 [label="そんなに"];
+	node2 [label="行きたいなら"];
+	node3 [label="行っても"];
+	node4 [label="宜"];
+	node5 [label="ろしい、"];
+	node6 [label="しかし"];
+	node7 [label="一世一代と"];
+	node8 [label="云うので"];
+	node9 [label="大変な"];
+	node10 [label="大入だから"];
+	node11 [label="到底"];
+	node12 [label="突懸けに"];
+	node13 [label="行ったって"];
+	node14 [label="這入れる"];
+	node15 [label="気遣いは"];
+	node16 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node16;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

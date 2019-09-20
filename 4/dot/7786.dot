@@ -1,0 +1,19 @@
+digraph graph7786 {
+	node0 [label="「そりゃ、"];
+	node1 [label="どうでも"];
+	node2 [label="いいが、"];
+	node3 [label="どう"];
+	node4 [label="云う"];
+	node5 [label="風に"];
+	node6 [label="独習したのか"];
+	node7 [label="ちょっと"];
+	node8 [label="聞かしたまえ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

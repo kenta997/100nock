@@ -1,0 +1,7 @@
+digraph graph7544 {
+	node0 [label="「そりゃ、"];
+	node1 [label="近来の"];
+	node2 [label="大出来ですよ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

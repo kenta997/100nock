@@ -1,0 +1,7 @@
+digraph graph3118 {
+	node0 [label="「どの"];
+	node1 [label="くらい"];
+	node2 [label="貯蓄したの？"];
+	node0 -> node1;
+	node1 -> node2;
+}

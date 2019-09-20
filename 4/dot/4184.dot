@@ -1,0 +1,19 @@
+digraph graph4184 {
+	node0 [label="人間は"];
+	node1 [label="愚な"];
+	node2 [label="ものであるから、"];
+	node3 [label="猫なで声で——"];
+	node4 [label="猫なで声は"];
+	node5 [label="人間の"];
+	node6 [label="吾輩に対して"];
+	node7 [label="出す"];
+	node8 [label="声だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

@@ -1,0 +1,7 @@
+digraph graph1971 {
+	node0 [label="「とにかく"];
+	node1 [label="引っ込んでは"];
+	node2 [label="おりませんからな。"];
+	node0 -> node1;
+	node1 -> node2;
+}

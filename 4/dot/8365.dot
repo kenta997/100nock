@@ -1,0 +1,11 @@
+digraph graph8365 {
+	node0 [label="両足が"];
+	node1 [label="紙鳶の"];
+	node2 [label="うなりのように"];
+	node3 [label="震動を"];
+	node4 [label="はじめる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

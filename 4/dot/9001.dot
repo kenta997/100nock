@@ -1,0 +1,5 @@
+digraph graph9001 {
+	node0 [label="「シャンパンも"];
+	node1 [label="ですね。"];
+	node0 -> node1;
+}

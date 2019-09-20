@@ -1,0 +1,19 @@
+digraph graph28 {
+	node0 [label="はてな"];
+	node1 [label="何でも"];
+	node2 [label="容子が"];
+	node3 [label="おかしいと、"];
+	node4 [label="のそのそ"];
+	node5 [label="這い出して"];
+	node6 [label="見ると"];
+	node7 [label="非常に"];
+	node8 [label="痛い。"];
+	node0 -> node8;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

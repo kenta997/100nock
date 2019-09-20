@@ -1,0 +1,13 @@
+digraph graph7315 {
+	node0 [label="じゃ"];
+	node1 [label="君の"];
+	node2 [label="名を"];
+	node3 [label="公然と"];
+	node4 [label="かいて"];
+	node5 [label="送ったんだな」"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

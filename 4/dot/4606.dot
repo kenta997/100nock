@@ -1,0 +1,9 @@
+digraph graph4606 {
+	node0 [label="だって、"];
+	node1 [label="猫の"];
+	node2 [label="鳴き声は"];
+	node3 [label="日本語じゃあないじゃありませんか」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

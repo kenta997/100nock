@@ -1,0 +1,9 @@
+digraph graph8182 {
+	node0 [label="「とうとう"];
+	node1 [label="古つづらの"];
+	node2 [label="中へ"];
+	node3 [label="隠しました。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

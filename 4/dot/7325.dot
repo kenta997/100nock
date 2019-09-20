@@ -1,0 +1,7 @@
+digraph graph7325 {
+	node0 [label="それこそ"];
+	node1 [label="文明中学の"];
+	node2 [label="名誉に関する」"];
+	node0 -> node2;
+	node1 -> node2;
+}

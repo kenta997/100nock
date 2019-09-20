@@ -1,0 +1,29 @@
+digraph graph7078 {
+	node0 [label="こっちは"];
+	node1 [label="三時間も"];
+	node2 [label="待たされて、"];
+	node3 [label="大切の"];
+	node4 [label="時間を"];
+	node5 [label="半日"];
+	node6 [label="潰してしまった」と"];
+	node7 [label="日本服に"];
+	node8 [label="着代えて"];
+	node9 [label="平気に"];
+	node10 [label="火鉢へも"];
+	node11 [label="たれて"];
+	node12 [label="油壺を"];
+	node13 [label="眺めている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

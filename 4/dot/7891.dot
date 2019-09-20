@@ -1,0 +1,9 @@
+digraph graph7891 {
+	node0 [label="「そうそう、"];
+	node1 [label="ウェルテル君の"];
+	node2 [label="ヴァイオリン物語を"];
+	node3 [label="拝聴するはずだったね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

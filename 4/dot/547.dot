@@ -1,0 +1,31 @@
+digraph graph547 {
+	node0 [label="あれは"];
+	node1 [label="嫌だ、"];
+	node2 [label="これは"];
+	node3 [label="嫌だと"];
+	node4 [label="云うのは"];
+	node5 [label="贅沢な"];
+	node6 [label="我儘で"];
+	node7 [label="到底"];
+	node8 [label="教師の"];
+	node9 [label="家に"];
+	node10 [label="いる"];
+	node11 [label="猫などの"];
+	node12 [label="口に"];
+	node13 [label="すべき"];
+	node14 [label="ところでない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

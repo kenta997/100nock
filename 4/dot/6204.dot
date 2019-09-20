@@ -1,0 +1,15 @@
+digraph graph6204 {
+	node0 [label="普通の"];
+	node1 [label="男ならあとから"];
+	node2 [label="引き続いて"];
+	node3 [label="出陣すべきはずであるが、"];
+	node4 [label="そこが"];
+	node5 [label="苦"];
+	node6 [label="沙弥先生である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

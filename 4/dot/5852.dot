@@ -1,0 +1,11 @@
+digraph graph5852 {
+	node0 [label="下女は"];
+	node1 [label="先刻"];
+	node2 [label="洗濯石鹸を"];
+	node3 [label="買いに"];
+	node4 [label="出た。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

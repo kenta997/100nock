@@ -1,0 +1,5 @@
+digraph graph4529 {
+	node0 [label="化物の"];
+	node1 [label="頭梁だ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,9 @@
+digraph graph2438 {
+	node0 [label="なるほど主人は"];
+	node1 [label="単純で"];
+	node2 [label="正直な"];
+	node3 [label="男だ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

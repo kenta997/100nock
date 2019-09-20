@@ -1,0 +1,25 @@
+digraph graph5222 {
+	node0 [label="こう"];
+	node1 [label="決心して"];
+	node2 [label="のそのそ"];
+	node3 [label="御両君の"];
+	node4 [label="佇立しておらるる"];
+	node5 [label="傍近く"];
+	node6 [label="歩み寄って"];
+	node7 [label="見ると、"];
+	node8 [label="自然両君の"];
+	node9 [label="談話が"];
+	node10 [label="耳に"];
+	node11 [label="入る。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

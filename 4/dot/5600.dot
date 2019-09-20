@@ -1,0 +1,25 @@
+digraph graph5600 {
+	node0 [label="　哲学者の"];
+	node1 [label="意見によって"];
+	node2 [label="落雲館との"];
+	node3 [label="喧嘩を"];
+	node4 [label="思い留った"];
+	node5 [label="主人は"];
+	node6 [label="その後"];
+	node7 [label="書斎に"];
+	node8 [label="立て籠って"];
+	node9 [label="しきりに"];
+	node10 [label="何か"];
+	node11 [label="考えている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,19 @@
+digraph graph197 {
+	node0 [label="その"];
+	node1 [label="眼は"];
+	node2 [label="人間の"];
+	node3 [label="珍重する"];
+	node4 [label="琥珀という"];
+	node5 [label="ものよりも"];
+	node6 [label="遥かに"];
+	node7 [label="美しく"];
+	node8 [label="輝いていた。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

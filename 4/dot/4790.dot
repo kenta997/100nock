@@ -1,0 +1,5 @@
+digraph graph4790 {
+	node0 [label="主人は"];
+	node1 [label="教師である。"];
+	node0 -> node1;
+}

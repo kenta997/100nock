@@ -1,0 +1,33 @@
+digraph graph1082 {
+	node0 [label="果して"];
+	node1 [label="それが"];
+	node2 [label="事実なら"];
+	node3 [label="別段"];
+	node4 [label="恐るるにも"];
+	node5 [label="及ばん、"];
+	node6 [label="僕も"];
+	node7 [label="一つ"];
+	node8 [label="試みようと"];
+	node9 [label="枝へ"];
+	node10 [label="手を"];
+	node11 [label="懸けて"];
+	node12 [label="見ると"];
+	node13 [label="好い"];
+	node14 [label="具合に"];
+	node15 [label="撓る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

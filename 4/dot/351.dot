@@ -1,0 +1,29 @@
+digraph graph351 {
+	node0 [label="少し"];
+	node1 [label="眼識の"];
+	node2 [label="ある"];
+	node3 [label="ものなら、"];
+	node4 [label="猫の"];
+	node5 [label="中でも"];
+	node6 [label="他の"];
+	node7 [label="猫じゃない"];
+	node8 [label="吾輩である"];
+	node9 [label="事が"];
+	node10 [label="判然と"];
+	node11 [label="わかるように"];
+	node12 [label="立派に"];
+	node13 [label="描いてある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

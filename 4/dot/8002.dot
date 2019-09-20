@@ -1,0 +1,21 @@
+digraph graph8002 {
+	node0 [label="「人迹の"];
+	node1 [label="稀なは"];
+	node2 [label="あんまり"];
+	node3 [label="大袈裟だね」と"];
+	node4 [label="主人が"];
+	node5 [label="抗議を"];
+	node6 [label="申し込むと"];
+	node7 [label="「蝸牛の"];
+	node8 [label="庵も"];
+	node9 [label="仰山だよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

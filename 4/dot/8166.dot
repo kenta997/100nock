@@ -1,0 +1,5 @@
+digraph graph8166 {
+	node0 [label="　……こりゃ"];
+	node1 [label="君羅甸語じゃないか」"];
+	node0 -> node1;
+}

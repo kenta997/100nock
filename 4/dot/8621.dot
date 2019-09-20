@@ -1,0 +1,11 @@
+digraph graph8621 {
+	node0 [label="諸君公徳などと"];
+	node1 [label="云う"];
+	node2 [label="野蛮の"];
+	node3 [label="遺風を"];
+	node4 [label="墨守してはなりません。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

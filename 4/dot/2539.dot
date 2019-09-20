@@ -1,0 +1,25 @@
+digraph graph2539 {
+	node0 [label="「それは"];
+	node1 [label="御気の毒様、"];
+	node2 [label="それだから"];
+	node3 [label="その"];
+	node4 [label="埋合せを"];
+	node5 [label="する"];
+	node6 [label="ために"];
+	node7 [label="孔雀の"];
+	node8 [label="舌なんかを"];
+	node9 [label="金と"];
+	node10 [label="太鼓で"];
+	node11 [label="探しているじゃないか。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,11 @@
+digraph graph8811 {
+	node0 [label="その"];
+	node1 [label="芸術なんか"];
+	node2 [label="存在出来る"];
+	node3 [label="訳が"];
+	node4 [label="ないじゃないか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

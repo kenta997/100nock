@@ -1,0 +1,19 @@
+digraph graph7347 {
+	node0 [label="この"];
+	node1 [label="くらい"];
+	node2 [label="公然と"];
+	node3 [label="矛盾を"];
+	node4 [label="して"];
+	node5 [label="平気で"];
+	node6 [label="いられれば"];
+	node7 [label="愛嬌に"];
+	node8 [label="なる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

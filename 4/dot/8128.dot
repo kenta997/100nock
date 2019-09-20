@@ -1,0 +1,5 @@
+digraph graph8128 {
+	node0 [label="「これからが"];
+	node1 [label="聞きどころですよ。"];
+	node0 -> node1;
+}

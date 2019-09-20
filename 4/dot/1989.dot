@@ -1,0 +1,31 @@
+digraph graph1989 {
+	node0 [label="下世話にも"];
+	node1 [label="鼻より"];
+	node2 [label="団子と"];
+	node3 [label="申しますれば"];
+	node4 [label="美的価値から"];
+	node5 [label="申しますと"];
+	node6 [label="まず"];
+	node7 [label="迷亭くらいの"];
+	node8 [label="ところが"];
+	node9 [label="適当かと"];
+	node10 [label="存じます」"];
+	node11 [label="寒月と"];
+	node12 [label="主人は"];
+	node13 [label="「フフフフ」と"];
+	node14 [label="笑い出す。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

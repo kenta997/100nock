@@ -1,0 +1,31 @@
+digraph graph3744 {
+	node0 [label="御蔭様で"];
+	node1 [label="この"];
+	node2 [label="暑いのに"];
+	node3 [label="毛袋で"];
+	node4 [label="つつまれていると"];
+	node5 [label="云う"];
+	node6 [label="難儀も"];
+	node7 [label="忘れて、"];
+	node8 [label="面白く"];
+	node9 [label="半日を"];
+	node10 [label="消光する"];
+	node11 [label="事が"];
+	node12 [label="出来るのは"];
+	node13 [label="感謝の"];
+	node14 [label="至りである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

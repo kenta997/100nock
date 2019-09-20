@@ -1,0 +1,15 @@
+digraph graph6153 {
+	node0 [label="それから"];
+	node1 [label="二三日"];
+	node2 [label="すると"];
+	node3 [label="ついに"];
+	node4 [label="豚仙になって"];
+	node5 [label="巣鴨へ"];
+	node6 [label="収容されてしまった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,9 @@
+digraph graph2030 {
+	node0 [label="傲慢な"];
+	node1 [label="奴だ」と"];
+	node2 [label="独りで"];
+	node3 [label="ぷんぷんする。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,23 @@
+digraph graph8384 {
+	node0 [label="「全体"];
+	node1 [label="山の上で"];
+	node2 [label="ヴァイオリンを"];
+	node3 [label="弾こうなんて、"];
+	node4 [label="ハイカラを"];
+	node5 [label="やるから、"];
+	node6 [label="おどかされるんだ」と"];
+	node7 [label="今度は"];
+	node8 [label="主人が"];
+	node9 [label="酷評を"];
+	node10 [label="加えると、"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

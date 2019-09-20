@@ -1,0 +1,21 @@
+digraph graph5892 {
+	node0 [label="「いえ、"];
+	node1 [label="それでは……"];
+	node2 [label="どうぞ"];
+	node3 [label="あれへ」と"];
+	node4 [label="主人は"];
+	node5 [label="いい"];
+	node6 [label="加減に"];
+	node7 [label="先方の"];
+	node8 [label="口上を"];
+	node9 [label="真似ている。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

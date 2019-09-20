@@ -1,0 +1,29 @@
+digraph graph6152 {
+	node0 [label="ただ"];
+	node1 [label="吐いている"];
+	node2 [label="うちは"];
+	node3 [label="よかったが"];
+	node4 [label="君表の"];
+	node5 [label="どぶへ"];
+	node6 [label="金とんを"];
+	node7 [label="掘りに"];
+	node8 [label="行きましょうと"];
+	node9 [label="促が"];
+	node10 [label="すに"];
+	node11 [label="至っては"];
+	node12 [label="僕も"];
+	node13 [label="降参したね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

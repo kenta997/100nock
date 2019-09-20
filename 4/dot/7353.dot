@@ -1,0 +1,7 @@
+digraph graph7353 {
+	node0 [label="驚ろく"];
+	node1 [label="はずが"];
+	node2 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

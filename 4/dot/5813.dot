@@ -1,0 +1,9 @@
+digraph graph5813 {
+	node0 [label="革命は"];
+	node1 [label="不平家の"];
+	node2 [label="所為に"];
+	node3 [label="あらず。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,11 @@
+digraph graph6034 {
+	node0 [label="それを"];
+	node1 [label="名目"];
+	node2 [label="読みにか"];
+	node3 [label="いると"];
+	node4 [label="云う。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

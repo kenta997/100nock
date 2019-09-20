@@ -1,0 +1,17 @@
+digraph graph258 {
+	node0 [label="人の"];
+	node1 [label="とった"];
+	node2 [label="鼠を"];
+	node3 [label="みんな"];
+	node4 [label="取り上げやがって"];
+	node5 [label="交番へ"];
+	node6 [label="持って行きゃ"];
+	node7 [label="あがる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+}

@@ -1,0 +1,29 @@
+digraph graph4477 {
+	node0 [label="物は"];
+	node1 [label="見ようで"];
+	node2 [label="どうでも"];
+	node3 [label="なる"];
+	node4 [label="ものだから、"];
+	node5 [label="この"];
+	node6 [label="怒号を"];
+	node7 [label="ただ"];
+	node8 [label="逆上の"];
+	node9 [label="結果"];
+	node10 [label="とばかり"];
+	node11 [label="判断する"];
+	node12 [label="必要は"];
+	node13 [label="ない。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

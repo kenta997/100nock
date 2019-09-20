@@ -1,0 +1,11 @@
+digraph graph1633 {
+	node0 [label="「いえ"];
+	node1 [label="御両人共御存じの"];
+	node2 [label="事ですよ」と"];
+	node3 [label="鼻子だけ"];
+	node4 [label="大得意である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

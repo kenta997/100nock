@@ -1,0 +1,5 @@
+digraph graph7658 {
+	node0 [label="「ずうずうしいぜ、"];
+	node1 [label="おい」"];
+	node0 -> node1;
+}

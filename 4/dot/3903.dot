@@ -1,0 +1,29 @@
+digraph graph3903 {
+	node0 [label="これしきの"];
+	node1 [label="事を"];
+	node2 [label="もし"];
+	node3 [label="驚ろ"];
+	node4 [label="く者が"];
+	node5 [label="あったなら、"];
+	node6 [label="それは"];
+	node7 [label="人間と"];
+	node8 [label="云う"];
+	node9 [label="足の"];
+	node10 [label="二本"];
+	node11 [label="足りない"];
+	node12 [label="野呂間に"];
+	node13 [label="極っている。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

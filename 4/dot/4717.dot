@@ -1,0 +1,27 @@
+digraph graph4717 {
+	node0 [label="彼等は"];
+	node1 [label="水草を"];
+	node2 [label="追うて"];
+	node3 [label="居を"];
+	node4 [label="変ずる"];
+	node5 [label="沙漠の"];
+	node6 [label="住民のごとく、"];
+	node7 [label="桐の"];
+	node8 [label="木を"];
+	node9 [label="去って"];
+	node10 [label="檜の"];
+	node11 [label="方に"];
+	node12 [label="進んで来た。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

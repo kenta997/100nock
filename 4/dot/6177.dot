@@ -1,0 +1,9 @@
+digraph graph6177 {
+	node0 [label="「なかなか"];
+	node1 [label="因縁の"];
+	node2 [label="ある"];
+	node3 [label="状袋だね」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,29 @@
+digraph graph1540 {
+	node0 [label="座に"];
+	node1 [label="着くと、"];
+	node2 [label="いきなり"];
+	node3 [label="「君、"];
+	node4 [label="越智東風の"];
+	node5 [label="高輪事件を"];
+	node6 [label="聞いたかい」と"];
+	node7 [label="旅順陥落の"];
+	node8 [label="号外を"];
+	node9 [label="知らせに"];
+	node10 [label="来た"];
+	node11 [label="ほどの"];
+	node12 [label="勢を"];
+	node13 [label="示す。"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node13;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

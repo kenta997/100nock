@@ -1,0 +1,29 @@
+digraph graph2278 {
+	node0 [label="　下女が"];
+	node1 [label="更紗の"];
+	node2 [label="座布団を"];
+	node3 [label="床の"];
+	node4 [label="前へ"];
+	node5 [label="直して、"];
+	node6 [label="どうぞ"];
+	node7 [label="これへと"];
+	node8 [label="引き下がった、"];
+	node9 [label="跡で、"];
+	node10 [label="鈴木君は"];
+	node11 [label="一応"];
+	node12 [label="室内を"];
+	node13 [label="見廻わす。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

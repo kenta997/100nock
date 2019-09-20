@@ -1,0 +1,31 @@
+digraph graph394 {
+	node0 [label="来ると"];
+	node1 [label="自分を"];
+	node2 [label="恋って"];
+	node3 [label="いる"];
+	node4 [label="女が"];
+	node5 [label="有りそうな、"];
+	node6 [label="無さそうな、"];
+	node7 [label="世の中が"];
+	node8 [label="面白そうな、"];
+	node9 [label="つまらなそうな、"];
+	node10 [label="凄いような"];
+	node11 [label="艶っぽいような"];
+	node12 [label="文句ばかり"];
+	node13 [label="並べては"];
+	node14 [label="帰る。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

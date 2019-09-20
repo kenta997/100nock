@@ -1,0 +1,31 @@
+digraph graph1569 {
+	node0 [label="それを"];
+	node1 [label="わざわざ"];
+	node2 [label="報知に"];
+	node3 [label="来る"];
+	node4 [label="君の"];
+	node5 [label="方が"];
+	node6 [label="よっぽど"];
+	node7 [label="面白いぜ」と"];
+	node8 [label="主人は"];
+	node9 [label="巻煙草の"];
+	node10 [label="灰を"];
+	node11 [label="火桶の"];
+	node12 [label="中へ"];
+	node13 [label="はたき"];
+	node14 [label="落す。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node14;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

@@ -1,0 +1,13 @@
+digraph graph2437 {
+	node0 [label="主人を"];
+	node1 [label="活かすのも"];
+	node2 [label="殺すのも"];
+	node3 [label="鈴木君の"];
+	node4 [label="意の"];
+	node5 [label="ままである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

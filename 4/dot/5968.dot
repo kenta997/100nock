@@ -1,0 +1,5 @@
+digraph graph5968 {
+	node0 [label="わしにでも"];
+	node1 [label="出来る。"];
+	node0 -> node1;
+}

@@ -1,0 +1,5 @@
+digraph graph8468 {
+	node0 [label="「なあに、"];
+	node1 [label="いいですよ。"];
+	node0 -> node1;
+}

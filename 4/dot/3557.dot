@@ -1,0 +1,15 @@
+digraph graph3557 {
+	node0 [label="せんだってから"];
+	node1 [label="やり始めたのです」"];
+	node2 [label="「出来たかい」と"];
+	node3 [label="主人が"];
+	node4 [label="訳の"];
+	node5 [label="ないように"];
+	node6 [label="きく。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

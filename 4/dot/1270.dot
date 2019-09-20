@@ -1,0 +1,37 @@
+digraph graph1270 {
+	node0 [label="……"];
+	node1 [label="それから"];
+	node2 [label="猫誉信女の"];
+	node3 [label="誉の"];
+	node4 [label="字は"];
+	node5 [label="崩した"];
+	node6 [label="方が"];
+	node7 [label="恰好が"];
+	node8 [label="いいから"];
+	node9 [label="少し"];
+	node10 [label="劃を"];
+	node11 [label="易えたと"];
+	node12 [label="申しました」"];
+	node13 [label="「どれどれ早速"];
+	node14 [label="御仏壇へ"];
+	node15 [label="上げて"];
+	node16 [label="御線香でも"];
+	node17 [label="あげましょう」"];
+	node0 -> node12;
+	node1 -> node8;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node17;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

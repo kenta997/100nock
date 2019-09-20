@@ -1,0 +1,7 @@
+digraph graph2917 {
+	node0 [label="「その"];
+	node1 [label="次は"];
+	node2 [label="何だ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

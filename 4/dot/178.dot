@@ -1,0 +1,27 @@
+digraph graph178 {
+	node0 [label="ほかに"];
+	node1 [label="悪口の"];
+	node2 [label="言いようを"];
+	node3 [label="知らないのだから"];
+	node4 [label="仕方がないが、"];
+	node5 [label="今まで"];
+	node6 [label="辛棒した人の"];
+	node7 [label="気も"];
+	node8 [label="知らないで、"];
+	node9 [label="無暗に"];
+	node10 [label="馬鹿野郎呼わりは"];
+	node11 [label="失敬だと"];
+	node12 [label="思う。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

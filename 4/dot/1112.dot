@@ -1,0 +1,35 @@
+digraph graph1112 {
+	node0 [label="ちょうど"];
+	node1 [label="夢で"];
+	node2 [label="うなされる"];
+	node3 [label="時のような"];
+	node4 [label="重"];
+	node5 [label="くるしい"];
+	node6 [label="感じで"];
+	node7 [label="周囲の"];
+	node8 [label="空気が"];
+	node9 [label="急に"];
+	node10 [label="固形体に"];
+	node11 [label="なって"];
+	node12 [label="四方から"];
+	node13 [label="吾が"];
+	node14 [label="身を"];
+	node15 [label="しめつけるごとく"];
+	node16 [label="思われました。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

@@ -1,0 +1,7 @@
+digraph graph8202 {
+	node0 [label="出れば"];
+	node1 [label="すぐ"];
+	node2 [label="露見する。"];
+	node0 -> node2;
+	node1 -> node2;
+}

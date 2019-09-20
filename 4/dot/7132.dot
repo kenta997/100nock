@@ -1,0 +1,9 @@
+digraph graph7132 {
+	node0 [label="「叔父さんだって"];
+	node1 [label="同じ"];
+	node2 [label="事ばかり"];
+	node3 [label="繰り返しているじゃありませんか」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

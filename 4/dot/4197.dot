@@ -1,0 +1,37 @@
+digraph graph4197 {
+	node0 [label="この"];
+	node1 [label="脂たる"];
+	node2 [label="すこぶる"];
+	node3 [label="執着心の"];
+	node4 [label="強い"];
+	node5 [label="者で、"];
+	node6 [label="もし"];
+	node7 [label="一たび、"];
+	node8 [label="毛の"];
+	node9 [label="先へ"];
+	node10 [label="くっ付けよう"];
+	node11 [label="ものなら、"];
+	node12 [label="雷が"];
+	node13 [label="鳴っても"];
+	node14 [label="バルチック艦隊が"];
+	node15 [label="全滅しても"];
+	node16 [label="決して"];
+	node17 [label="離れない。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node17;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

@@ -1,0 +1,15 @@
+digraph graph7002 {
+	node0 [label="　御金が"];
+	node1 [label="あって、"];
+	node2 [label="いざって"];
+	node3 [label="時に"];
+	node4 [label="力に"];
+	node5 [label="なって、"];
+	node6 [label="いいじゃありませんか」"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,9 @@
+digraph graph6101 {
+	node0 [label="君"];
+	node1 [label="九年前の"];
+	node2 [label="大地震を"];
+	node3 [label="知ってるだろう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,15 @@
+digraph graph1667 {
+	node0 [label="一時"];
+	node1 [label="荒立てた"];
+	node2 [label="言葉使いも"];
+	node3 [label="迷亭に対してはまた"];
+	node4 [label="もとのごとく"];
+	node5 [label="叮嚀に"];
+	node6 [label="なる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

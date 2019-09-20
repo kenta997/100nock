@@ -1,0 +1,21 @@
+digraph graph5785 {
+	node0 [label="干瓢の"];
+	node1 [label="酢味噌を"];
+	node2 [label="食って"];
+	node3 [label="天下の"];
+	node4 [label="士たる"];
+	node5 [label="ものは、"];
+	node6 [label="われ"];
+	node7 [label="未だ"];
+	node8 [label="之を"];
+	node9 [label="見ず。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,15 @@
+digraph graph7504 {
+	node0 [label="「頭の"];
+	node1 [label="割には"];
+	node2 [label="出来ないがね、"];
+	node3 [label="時々"];
+	node4 [label="妙な"];
+	node5 [label="質問を"];
+	node6 [label="するよ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

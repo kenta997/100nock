@@ -1,0 +1,15 @@
+digraph graph2889 {
+	node0 [label="「ええ羽織"];
+	node1 [label="何点代価いくらと"];
+	node2 [label="云う"];
+	node3 [label="風に"];
+	node4 [label="表に"];
+	node5 [label="して"];
+	node6 [label="出すんです。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

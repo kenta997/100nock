@@ -1,0 +1,21 @@
+digraph graph1559 {
+	node0 [label="「独逸人が"];
+	node1 [label="大鷹源吾の"];
+	node2 [label="蒔絵の"];
+	node3 [label="印籠を"];
+	node4 [label="見て、"];
+	node5 [label="これを"];
+	node6 [label="買いたいが"];
+	node7 [label="売ってくれるだろうかと"];
+	node8 [label="聞くんだ"];
+	node9 [label="そうだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

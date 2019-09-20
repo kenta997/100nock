@@ -1,0 +1,7 @@
+digraph graph848 {
+	node0 [label="モゴモゴ"];
+	node1 [label="しばらくは"];
+	node2 [label="苦しそうである。"];
+	node0 -> node2;
+	node1 -> node2;
+}

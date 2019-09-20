@@ -1,0 +1,11 @@
+digraph graph4097 {
+	node0 [label="しかし"];
+	node1 [label="手放しで"];
+	node2 [label="落ちては、"];
+	node3 [label="あまり"];
+	node4 [label="早過ぎる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

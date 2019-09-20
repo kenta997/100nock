@@ -1,0 +1,19 @@
+digraph graph6749 {
+	node0 [label="しかし"];
+	node1 [label="死なない"];
+	node2 [label="以上は"];
+	node3 [label="保険に"];
+	node4 [label="這入る"];
+	node5 [label="必要は"];
+	node6 [label="ないじゃないかって"];
+	node7 [label="強情を"];
+	node8 [label="張っているんです」"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

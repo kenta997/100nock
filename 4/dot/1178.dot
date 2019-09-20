@@ -1,0 +1,9 @@
+digraph graph1178 {
+	node0 [label="「急病だね」と"];
+	node1 [label="迷亭が"];
+	node2 [label="註釈を"];
+	node3 [label="加える。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

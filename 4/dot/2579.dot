@@ -1,0 +1,23 @@
+digraph graph2579 {
+	node0 [label="君は"];
+	node1 [label="十年前と"];
+	node2 [label="容子が"];
+	node3 [label="少しも"];
+	node4 [label="変っていないから"];
+	node5 [label="えらい」と"];
+	node6 [label="鈴木君は"];
+	node7 [label="柳に"];
+	node8 [label="受けて、"];
+	node9 [label="胡麻化そうと"];
+	node10 [label="する。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,31 @@
+digraph graph8360 {
+	node0 [label="人の"];
+	node1 [label="声に"];
+	node2 [label="しては"];
+	node3 [label="鋭すぎるし、"];
+	node4 [label="鳥の"];
+	node5 [label="声に"];
+	node6 [label="しては"];
+	node7 [label="大き過ぎるし、"];
+	node8 [label="猿の"];
+	node9 [label="声に"];
+	node10 [label="しては——"];
+	node11 [label="この辺に"];
+	node12 [label="よもや"];
+	node13 [label="猿は"];
+	node14 [label="おるまい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

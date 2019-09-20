@@ -1,0 +1,19 @@
+digraph graph4149 {
+	node0 [label="退却が"];
+	node1 [label="安全だろう、"];
+	node2 [label="あまり"];
+	node3 [label="深入りを"];
+	node4 [label="して"];
+	node5 [label="万一落ちでも"];
+	node6 [label="したら"];
+	node7 [label="なおさら"];
+	node8 [label="恥辱だ。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,17 @@
+digraph graph1854 {
+	node0 [label="ここだと"];
+	node1 [label="立ち留まって、"];
+	node2 [label="左右の"];
+	node3 [label="耳を"];
+	node4 [label="はすに"];
+	node5 [label="切って、"];
+	node6 [label="息を"];
+	node7 [label="凝らす。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

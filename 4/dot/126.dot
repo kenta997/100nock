@@ -1,0 +1,35 @@
+digraph graph126 {
+	node0 [label="この"];
+	node1 [label="主人が"];
+	node2 [label="どういう"];
+	node3 [label="考に"];
+	node4 [label="なった"];
+	node5 [label="ものか"];
+	node6 [label="吾輩の"];
+	node7 [label="住み込んでから"];
+	node8 [label="一月ばかり後の"];
+	node9 [label="ある"];
+	node10 [label="月の"];
+	node11 [label="月給日に、"];
+	node12 [label="大きな"];
+	node13 [label="包みを"];
+	node14 [label="提げて"];
+	node15 [label="あわただしく"];
+	node16 [label="帰って来た。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node16;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

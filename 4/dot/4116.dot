@@ -1,0 +1,13 @@
+digraph graph4116 {
+	node0 [label="主人の"];
+	node1 [label="庭は"];
+	node2 [label="竹垣を"];
+	node3 [label="もって"];
+	node4 [label="四角に"];
+	node5 [label="しきられている。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

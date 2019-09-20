@@ -1,0 +1,9 @@
+digraph graph1764 {
+	node0 [label="やがて"];
+	node1 [label="「それから、"];
+	node2 [label="どうした」と"];
+	node3 [label="聞く。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

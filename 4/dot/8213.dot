@@ -1,0 +1,25 @@
+digraph graph8213 {
+	node0 [label="「おれが"];
+	node1 [label="鈴木の"];
+	node2 [label="味淋などを"];
+	node3 [label="のむ"];
+	node4 [label="ものか、"];
+	node5 [label="飲んだのは"];
+	node6 [label="君だぜ」と"];
+	node7 [label="主人は"];
+	node8 [label="突然"];
+	node9 [label="大きな"];
+	node10 [label="声を"];
+	node11 [label="出した。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

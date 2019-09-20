@@ -1,0 +1,7 @@
+digraph graph2186 {
+	node0 [label="雨が"];
+	node1 [label="ふると"];
+	node2 [label="剥がれてしまいましょう。"];
+	node0 -> node1;
+	node1 -> node2;
+}

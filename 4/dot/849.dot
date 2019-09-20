@@ -1,0 +1,11 @@
+digraph graph849 {
+	node0 [label="吾輩は"];
+	node1 [label="今朝の"];
+	node2 [label="雑煮事件を"];
+	node3 [label="ちょっと"];
+	node4 [label="思い出す。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

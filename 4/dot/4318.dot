@@ -1,0 +1,13 @@
+digraph graph4318 {
+	node0 [label="さあ猿股が"];
+	node1 [label="出来ると"];
+	node2 [label="世の中で"];
+	node3 [label="幅の"];
+	node4 [label="きくのは"];
+	node5 [label="車夫ばかりである。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

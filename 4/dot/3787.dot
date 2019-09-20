@@ -1,0 +1,15 @@
+digraph graph3787 {
+	node0 [label="もう少し"];
+	node1 [label="人情を"];
+	node2 [label="加味した"];
+	node3 [label="事件が"];
+	node4 [label="欲しいようだ」と"];
+	node5 [label="真面目に"];
+	node6 [label="答える。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

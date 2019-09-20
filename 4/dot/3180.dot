@@ -1,0 +1,29 @@
+digraph graph3180 {
+	node0 [label="酒も"];
+	node1 [label="飲ませます」と"];
+	node2 [label="例によって"];
+	node3 [label="秩序の"];
+	node4 [label="ない"];
+	node5 [label="駄弁を"];
+	node6 [label="揮ってる"];
+	node7 [label="うちに"];
+	node8 [label="主人は"];
+	node9 [label="もう"];
+	node10 [label="帽子を"];
+	node11 [label="被って"];
+	node12 [label="沓脱へ"];
+	node13 [label="下りる。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node13;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

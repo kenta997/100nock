@@ -1,0 +1,7 @@
+digraph graph8743 {
+	node0 [label="それだけ"];
+	node1 [label="個人が"];
+	node2 [label="強くなった。"];
+	node0 -> node2;
+	node1 -> node2;
+}

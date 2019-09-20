@@ -1,0 +1,25 @@
+digraph graph2776 {
+	node0 [label="しかし"];
+	node1 [label="猫の"];
+	node2 [label="立場から"];
+	node3 [label="云うと"];
+	node4 [label="同一の"];
+	node5 [label="事実が"];
+	node6 [label="かえって"];
+	node7 [label="神の"];
+	node8 [label="無能力を"];
+	node9 [label="証明しているとも"];
+	node10 [label="解釈が"];
+	node11 [label="出来る。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

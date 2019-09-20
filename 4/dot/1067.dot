@@ -1,0 +1,13 @@
+digraph graph1067 {
+	node0 [label="「首懸の"];
+	node1 [label="松は"];
+	node2 [label="鴻の"];
+	node3 [label="台でしょう」寒月が"];
+	node4 [label="波紋を"];
+	node5 [label="ひろげる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,11 @@
+digraph graph6194 {
+	node0 [label="苦沙弥先生御茶でも"];
+	node1 [label="上がれと"];
+	node2 [label="云う"];
+	node3 [label="句が"];
+	node4 [label="ある」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

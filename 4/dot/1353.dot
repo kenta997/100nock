@@ -1,0 +1,25 @@
+digraph graph1353 {
+	node0 [label="「今月は"];
+	node1 [label="ちっと"];
+	node2 [label="足りませんが……」"];
+	node3 [label="「足りん"];
+	node4 [label="はずは"];
+	node5 [label="ない、"];
+	node6 [label="医者へも"];
+	node7 [label="薬礼は"];
+	node8 [label="すましたし、"];
+	node9 [label="本屋へも"];
+	node10 [label="先月"];
+	node11 [label="払ったじゃないか。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

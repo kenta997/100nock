@@ -1,0 +1,7 @@
+digraph graph5894 {
+	node0 [label="かえって"];
+	node1 [label="手前が"];
+	node2 [label="痛み入る。"];
+	node0 -> node2;
+	node1 -> node2;
+}

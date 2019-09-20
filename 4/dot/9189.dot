@@ -1,0 +1,33 @@
+digraph graph9189 {
+	node0 [label="よし水の"];
+	node1 [label="面に"];
+	node2 [label="からだが"];
+	node3 [label="浮いて、"];
+	node4 [label="浮いた"];
+	node5 [label="所から"];
+	node6 [label="思う存分"];
+	node7 [label="前足を"];
+	node8 [label="のばしたって"];
+	node9 [label="五寸に"];
+	node10 [label="あまる"];
+	node11 [label="甕の"];
+	node12 [label="縁に"];
+	node13 [label="爪の"];
+	node14 [label="かかりようが"];
+	node15 [label="ない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

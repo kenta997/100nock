@@ -1,0 +1,7 @@
+digraph graph3030 {
+	node0 [label="「私は"];
+	node1 [label="ボールドより"];
+	node2 [label="知りませんが。"];
+	node0 -> node2;
+	node1 -> node2;
+}

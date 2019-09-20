@@ -1,0 +1,35 @@
+digraph graph2275 {
+	node0 [label="やがて"];
+	node1 [label="下女が"];
+	node2 [label="持って来た"];
+	node3 [label="名刺を"];
+	node4 [label="見て、"];
+	node5 [label="主人は"];
+	node6 [label="ちょっと"];
+	node7 [label="驚ろいたような"];
+	node8 [label="顔付であったが、"];
+	node9 [label="こちらへ"];
+	node10 [label="御通し"];
+	node11 [label="申してと"];
+	node12 [label="言い棄てて、"];
+	node13 [label="名刺を"];
+	node14 [label="握ったまま"];
+	node15 [label="後架へ"];
+	node16 [label="這入った。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node16;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

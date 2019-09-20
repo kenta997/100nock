@@ -1,0 +1,23 @@
+digraph graph4348 {
+	node0 [label="よく"];
+	node1 [label="聞くと"];
+	node2 [label="腐って"];
+	node3 [label="見えるのも"];
+	node4 [label="不思議は"];
+	node5 [label="ない、"];
+	node6 [label="一週間に"];
+	node7 [label="一度しか"];
+	node8 [label="水を"];
+	node9 [label="易えないのだ"];
+	node10 [label="そうだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,21 @@
+digraph graph1397 {
+	node0 [label="御雑煮を"];
+	node1 [label="食べて"];
+	node2 [label="踊りを"];
+	node3 [label="おどるんです"];
+	node4 [label="もの」と"];
+	node5 [label="妻君は"];
+	node6 [label="飛んだ"];
+	node7 [label="ところで"];
+	node8 [label="旧悪を"];
+	node9 [label="暴く。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

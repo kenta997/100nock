@@ -1,0 +1,17 @@
+digraph graph7039 {
+	node0 [label="「花活に"];
+	node1 [label="しちゃ、"];
+	node2 [label="口が"];
+	node3 [label="小いさ"];
+	node4 [label="過ぎて、"];
+	node5 [label="いやに"];
+	node6 [label="胴が"];
+	node7 [label="張ってるわ」"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

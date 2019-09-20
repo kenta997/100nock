@@ -1,0 +1,23 @@
+digraph graph926 {
+	node0 [label="私が"];
+	node1 [label="三毛を"];
+	node2 [label="だいて"];
+	node3 [label="診察場へ"];
+	node4 [label="行くと、"];
+	node5 [label="風邪でも"];
+	node6 [label="引いたのかって"];
+	node7 [label="私の"];
+	node8 [label="脈を"];
+	node9 [label="とろうと"];
+	node10 [label="するんでしょう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

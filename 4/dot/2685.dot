@@ -1,0 +1,23 @@
+digraph graph2685 {
+	node0 [label="　細君は"];
+	node1 [label="乳呑児を"];
+	node2 [label="一尺ばかり"];
+	node3 [label="先へ"];
+	node4 [label="放り出して"];
+	node5 [label="口を"];
+	node6 [label="開いて"];
+	node7 [label="いびきを"];
+	node8 [label="かいて"];
+	node9 [label="枕を"];
+	node10 [label="外している。"];
+	node0 -> node10;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

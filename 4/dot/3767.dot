@@ -1,0 +1,37 @@
+digraph graph3767 {
+	node0 [label="「根が"];
+	node1 [label="俳句趣味から"];
+	node2 [label="くるのだから、"];
+	node3 [label="あまり"];
+	node4 [label="長たらしくって、"];
+	node5 [label="毒悪なのは"];
+	node6 [label="よくないと"];
+	node7 [label="思って"];
+	node8 [label="一幕物に"];
+	node9 [label="しておいた」"];
+	node10 [label="「なるほど」"];
+	node11 [label="「まず"];
+	node12 [label="道具立てから"];
+	node13 [label="話すが、"];
+	node14 [label="これも"];
+	node15 [label="極"];
+	node16 [label="簡単なのが"];
+	node17 [label="いい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node17;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node16;
+	node15 -> node16;
+	node16 -> node17;
+}

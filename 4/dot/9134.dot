@@ -1,0 +1,11 @@
+digraph graph9134 {
+	node0 [label="どうしても"];
+	node1 [label="猫と"];
+	node2 [label="ビールは"];
+	node3 [label="性が"];
+	node4 [label="合わない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

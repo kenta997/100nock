@@ -1,0 +1,13 @@
+digraph graph3999 {
+	node0 [label="その上を"];
+	node1 [label="うんと"];
+	node2 [label="前足で"];
+	node3 [label="抑えて"];
+	node4 [label="少しく"];
+	node5 [label="休息する。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

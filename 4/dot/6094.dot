@@ -1,0 +1,11 @@
+digraph graph6094 {
+	node0 [label="「一週間ばかり前に"];
+	node1 [label="来て、"];
+	node2 [label="長い間話しを"];
+	node3 [label="して"];
+	node4 [label="行った」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

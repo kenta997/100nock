@@ -1,0 +1,31 @@
+digraph graph2046 {
+	node0 [label="三度以上"];
+	node1 [label="繰返す"];
+	node2 [label="時"];
+	node3 [label="始めて"];
+	node4 [label="習慣なる"];
+	node5 [label="語を"];
+	node6 [label="冠せられて、"];
+	node7 [label="この"];
+	node8 [label="行為が"];
+	node9 [label="生活上の"];
+	node10 [label="必要と"];
+	node11 [label="進化するのもまた"];
+	node12 [label="人間と"];
+	node13 [label="相違は"];
+	node14 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

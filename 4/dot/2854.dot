@@ -1,0 +1,33 @@
+digraph graph2854 {
+	node0 [label="まだ"];
+	node1 [label="頂戴する"];
+	node2 [label="ものは"];
+	node3 [label="無いかなと、"];
+	node4 [label="あたりを"];
+	node5 [label="見廻していたが、"];
+	node6 [label="主人の"];
+	node7 [label="頭の"];
+	node8 [label="先に"];
+	node9 [label="「朝日」の"];
+	node10 [label="袋が"];
+	node11 [label="あるのを"];
+	node12 [label="見付けて、"];
+	node13 [label="ちょっと"];
+	node14 [label="袂へ"];
+	node15 [label="投げ込む。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node15;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

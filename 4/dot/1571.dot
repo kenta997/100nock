@@ -1,0 +1,13 @@
+digraph graph1571 {
+	node0 [label="迷亭と"];
+	node1 [label="主人は"];
+	node2 [label="思わず"];
+	node3 [label="顔を"];
+	node4 [label="見合わせて"];
+	node5 [label="沈黙する。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

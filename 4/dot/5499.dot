@@ -1,0 +1,5 @@
+digraph graph5499 {
+	node0 [label="どうせ"];
+	node1 [label="下らんのだから。"];
+	node0 -> node1;
+}

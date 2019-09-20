@@ -1,0 +1,13 @@
+digraph graph8430 {
+	node0 [label="「それで"];
+	node1 [label="金田の"];
+	node2 [label="方は"];
+	node3 [label="どう"];
+	node4 [label="する"];
+	node5 [label="気だい」"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,9 @@
+digraph graph8476 {
+	node0 [label="　"];
+	node1 [label="今度は"];
+	node2 [label="主人の"];
+	node3 [label="番である。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

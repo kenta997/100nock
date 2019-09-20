@@ -1,0 +1,19 @@
+digraph graph7948 {
+	node0 [label="仕方がないから"];
+	node1 [label="頭から"];
+	node2 [label="もぐり込んで、"];
+	node3 [label="眼を"];
+	node4 [label="眠って"];
+	node5 [label="待って"];
+	node6 [label="見ましたが、"];
+	node7 [label="やはり"];
+	node8 [label="駄目です。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

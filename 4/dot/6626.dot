@@ -1,0 +1,17 @@
+digraph graph6626 {
+	node0 [label="今度は"];
+	node1 [label="突き込んだ"];
+	node2 [label="箸を、"];
+	node3 [label="うんと"];
+	node4 [label="力一杯"];
+	node5 [label="茶碗の"];
+	node6 [label="底から"];
+	node7 [label="刎ね上げた。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+}

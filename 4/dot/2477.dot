@@ -1,0 +1,23 @@
+digraph graph2477 {
+	node0 [label="しかし"];
+	node1 [label="冗談は"];
+	node2 [label="冗談として、"];
+	node3 [label="ああ"];
+	node4 [label="云う"];
+	node5 [label="株は"];
+	node6 [label="持ってて"];
+	node7 [label="損は"];
+	node8 [label="ないよ、"];
+	node9 [label="年々"];
+	node10 [label="高くなるばかりだから」"];
+	node0 -> node10;
+	node1 -> node10;
+	node2 -> node10;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

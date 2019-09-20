@@ -1,0 +1,5 @@
+digraph graph5142 {
+	node0 [label="落雲館の"];
+	node1 [label="生徒です」"];
+	node0 -> node1;
+}

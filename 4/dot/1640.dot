@@ -1,0 +1,21 @@
+digraph graph1640 {
+	node0 [label="鼻子ばかりは"];
+	node1 [label="少し"];
+	node2 [label="当てが"];
+	node3 [label="はずれて、"];
+	node4 [label="この際"];
+	node5 [label="笑うのは"];
+	node6 [label="はなはだ"];
+	node7 [label="失礼だと"];
+	node8 [label="両人を"];
+	node9 [label="睨みつける。"];
+	node0 -> node9;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

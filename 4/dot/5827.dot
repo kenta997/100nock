@@ -1,0 +1,19 @@
+digraph graph5827 {
+	node0 [label="山は"];
+	node1 [label="低いと"];
+	node2 [label="云っても"];
+	node3 [label="構わん、"];
+	node4 [label="宇宙は"];
+	node5 [label="狭いと"];
+	node6 [label="云っても"];
+	node7 [label="差し支えは"];
+	node8 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

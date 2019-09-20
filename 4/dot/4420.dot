@@ -1,0 +1,13 @@
+digraph graph4420 {
+	node0 [label="これは"];
+	node1 [label="師弟の"];
+	node2 [label="関係上"];
+	node3 [label="三介の"];
+	node4 [label="代理を"];
+	node5 [label="務めるのであろう。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,9 @@
+digraph graph6239 {
+	node0 [label="——"];
+	node1 [label="まあ"];
+	node2 [label="来て"];
+	node3 [label="見たら分るでしょう。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

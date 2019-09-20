@@ -1,0 +1,15 @@
+digraph graph7993 {
+	node0 [label="「進行させたいのは"];
+	node1 [label="山々だが、"];
+	node2 [label="どうしても"];
+	node3 [label="日が"];
+	node4 [label="暮れてくれない"];
+	node5 [label="ものだから"];
+	node6 [label="困るのさ」"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

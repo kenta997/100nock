@@ -1,0 +1,9 @@
+digraph graph7196 {
+	node0 [label="布団が"];
+	node1 [label="手持無沙汰に"];
+	node2 [label="控えているにもかかわらず"];
+	node3 [label="敷かない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

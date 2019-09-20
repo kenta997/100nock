@@ -1,0 +1,27 @@
+digraph graph8480 {
+	node0 [label="僕の"];
+	node1 [label="自覚心と"];
+	node2 [label="名づけるのは"];
+	node3 [label="独仙君の"];
+	node4 [label="方で"];
+	node5 [label="云う、"];
+	node6 [label="見性成仏とか、"];
+	node7 [label="自己は"];
+	node8 [label="天地と"];
+	node9 [label="同一体だとか"];
+	node10 [label="云う"];
+	node11 [label="悟道の"];
+	node12 [label="類ではない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

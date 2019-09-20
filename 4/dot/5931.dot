@@ -1,0 +1,29 @@
+digraph graph5931 {
+	node0 [label="もし"];
+	node1 [label="自分の"];
+	node2 [label="あばたが"];
+	node3 [label="歴史的研究の"];
+	node4 [label="材料に"];
+	node5 [label="なるならば、"];
+	node6 [label="この"];
+	node7 [label="老人の"];
+	node8 [label="チョン髷や"];
+	node9 [label="鉄扇は"];
+	node10 [label="たしかに"];
+	node11 [label="それ以上の"];
+	node12 [label="価値が"];
+	node13 [label="ある。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

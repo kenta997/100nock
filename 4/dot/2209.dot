@@ -1,0 +1,33 @@
+digraph graph2209 {
+	node0 [label="もっとも"];
+	node1 [label="彼が"];
+	node2 [label="フケだらけの"];
+	node3 [label="頭の"];
+	node4 [label="裏には"];
+	node5 [label="宇宙の"];
+	node6 [label="大真理が"];
+	node7 [label="火の車のごとく"];
+	node8 [label="廻転しつつあるかも知れないが、"];
+	node9 [label="外部から"];
+	node10 [label="拝見した"];
+	node11 [label="ところでは、"];
+	node12 [label="そんな"];
+	node13 [label="事とは"];
+	node14 [label="夢にも"];
+	node15 [label="思えない。"];
+	node0 -> node8;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

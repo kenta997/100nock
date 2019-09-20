@@ -1,0 +1,15 @@
+digraph graph7893 {
+	node0 [label="もう"];
+	node1 [label="邪魔は"];
+	node2 [label="しないから」と"];
+	node3 [label="迷亭君が"];
+	node4 [label="ようやく"];
+	node5 [label="鋒鋩を"];
+	node6 [label="収めると、"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

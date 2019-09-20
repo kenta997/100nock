@@ -1,0 +1,19 @@
+digraph graph2644 {
+	node0 [label="何を"];
+	node1 [label="云うにも"];
+	node2 [label="気を"];
+	node3 [label="おかなくちゃ"];
+	node4 [label="ならんから"];
+	node5 [label="心配で"];
+	node6 [label="窮屈で"];
+	node7 [label="実に"];
+	node8 [label="苦しいよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

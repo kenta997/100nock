@@ -1,0 +1,7 @@
+digraph graph3904 {
+	node0 [label="人間は"];
+	node1 [label="昔から"];
+	node2 [label="野呂間である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

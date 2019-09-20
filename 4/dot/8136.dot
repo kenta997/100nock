@@ -1,0 +1,11 @@
+digraph graph8136 {
+	node0 [label="「どうです"];
+	node1 [label="苦"];
+	node2 [label="沙弥先生も"];
+	node3 [label="御聞きに"];
+	node4 [label="なっては。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

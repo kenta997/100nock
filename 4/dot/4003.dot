@@ -1,0 +1,25 @@
+digraph graph4003 {
+	node0 [label="約三十分"];
+	node1 [label="この"];
+	node2 [label="順序を"];
+	node3 [label="繰り返して、"];
+	node4 [label="身動きも"];
+	node5 [label="出来なくなった"];
+	node6 [label="ところを"];
+	node7 [label="見すまして"];
+	node8 [label="ちょっと"];
+	node9 [label="口へ"];
+	node10 [label="啣えて振って"];
+	node11 [label="見る。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

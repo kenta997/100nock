@@ -1,0 +1,13 @@
+digraph graph3863 {
+	node0 [label="「大和魂は"];
+	node1 [label="どんな"];
+	node2 [label="ものかと"];
+	node3 [label="聞いたら、"];
+	node4 [label="大和魂さと答えて"];
+	node5 [label="行き過ぎた。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

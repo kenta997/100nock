@@ -1,0 +1,7 @@
+digraph graph2930 {
+	node0 [label="「山の芋の"];
+	node1 [label="ねだんまでは"];
+	node2 [label="知りません」"];
+	node0 -> node1;
+	node1 -> node2;
+}

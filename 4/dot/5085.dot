@@ -1,0 +1,27 @@
+digraph graph5085 {
+	node0 [label="すべて"];
+	node1 [label="敵が"];
+	node2 [label="主人の"];
+	node3 [label="邸内へ"];
+	node4 [label="乗り込んで"];
+	node5 [label="ダムダム弾を"];
+	node6 [label="拾う"];
+	node7 [label="場合には"];
+	node8 [label="必ず"];
+	node9 [label="特別な"];
+	node10 [label="大きな"];
+	node11 [label="声を"];
+	node12 [label="出す。"];
+	node0 -> node12;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

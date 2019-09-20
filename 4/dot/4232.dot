@@ -1,0 +1,15 @@
+digraph graph4232 {
+	node0 [label="吾輩は"];
+	node1 [label="二十世紀の"];
+	node2 [label="猫だから"];
+	node3 [label="この"];
+	node4 [label="くらいの"];
+	node5 [label="教育は"];
+	node6 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,11 @@
+digraph graph3616 {
+	node0 [label="気味の"];
+	node1 [label="悪るい」と"];
+	node2 [label="細君"];
+	node3 [label="しきりに"];
+	node4 [label="怖がっている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

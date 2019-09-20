@@ -1,0 +1,11 @@
+digraph graph5509 {
+	node0 [label="とその"];
+	node1 [label="向うの"];
+	node2 [label="下宿屋が"];
+	node3 [label="また"];
+	node4 [label="邪魔になる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

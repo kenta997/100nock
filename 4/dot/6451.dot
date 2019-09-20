@@ -1,0 +1,11 @@
+digraph graph6451 {
+	node0 [label="とうてい"];
+	node1 [label="吾輩の"];
+	node2 [label="シンフォニーには"];
+	node3 [label="耳を"];
+	node4 [label="傾けそうにもない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

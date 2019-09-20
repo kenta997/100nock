@@ -1,0 +1,11 @@
+digraph graph4247 {
+	node0 [label="世界広しといえども"];
+	node1 [label="こんな"];
+	node2 [label="奇観は"];
+	node3 [label="またと"];
+	node4 [label="あるまい。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

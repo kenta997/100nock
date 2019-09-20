@@ -1,0 +1,29 @@
+digraph graph6363 {
+	node0 [label="落雲館の"];
+	node1 [label="諸君子だ、"];
+	node2 [label="年齢から"];
+	node3 [label="云うと"];
+	node4 [label="まだ"];
+	node5 [label="芽生えだが、"];
+	node6 [label="躁狂の"];
+	node7 [label="点においては"];
+	node8 [label="一世を"];
+	node9 [label="空しゅうするに"];
+	node10 [label="足る"];
+	node11 [label="天晴な"];
+	node12 [label="豪の"];
+	node13 [label="ものである。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

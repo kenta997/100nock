@@ -1,0 +1,5 @@
+digraph graph9013 {
+	node0 [label="振袖が"];
+	node1 [label="ある。"];
+	node0 -> node1;
+}

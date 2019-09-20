@@ -1,0 +1,15 @@
+digraph graph5990 {
+	node0 [label="わが"];
+	node1 [label="太刀に"];
+	node2 [label="心を"];
+	node3 [label="置けば、"];
+	node4 [label="我太刀に"];
+	node5 [label="心を"];
+	node6 [label="取らるるなり。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

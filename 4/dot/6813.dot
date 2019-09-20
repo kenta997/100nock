@@ -1,0 +1,7 @@
+digraph graph6813 {
+	node0 [label="」と"];
+	node1 [label="雪江さんは"];
+	node2 [label="謙遜した。"];
+	node0 -> node2;
+	node1 -> node2;
+}

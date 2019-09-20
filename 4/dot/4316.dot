@@ -1,0 +1,27 @@
+digraph graph4316 {
+	node0 [label="デカルトは"];
+	node1 [label="「余は"];
+	node2 [label="思考す、"];
+	node3 [label="故に"];
+	node4 [label="余は"];
+	node5 [label="存在す」という"];
+	node6 [label="三つ子にでも"];
+	node7 [label="分るような"];
+	node8 [label="真理を"];
+	node9 [label="考え出すのに"];
+	node10 [label="十何年か"];
+	node11 [label="懸った"];
+	node12 [label="そうだ。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

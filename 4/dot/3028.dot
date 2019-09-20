@@ -1,0 +1,9 @@
+digraph graph3028 {
+	node0 [label="「先生に"];
+	node1 [label="聞いたら、"];
+	node2 [label="すぐ"];
+	node3 [label="わかりましょう」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

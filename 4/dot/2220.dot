@@ -1,0 +1,29 @@
+digraph graph2220 {
+	node0 [label="実は"];
+	node1 [label="その"];
+	node2 [label="洗髪を"];
+	node3 [label="乾かす"];
+	node4 [label="ために"];
+	node5 [label="唐縮緬の"];
+	node6 [label="布団と"];
+	node7 [label="針箱を"];
+	node8 [label="椽側へ"];
+	node9 [label="出して、"];
+	node10 [label="恭しく"];
+	node11 [label="主人に"];
+	node12 [label="尻を"];
+	node13 [label="向けたのである。"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

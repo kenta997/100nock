@@ -1,0 +1,13 @@
+digraph graph2987 {
+	node0 [label="「まだ"];
+	node1 [label="食いなさらんか、"];
+	node2 [label="早く"];
+	node3 [label="御母あさんに"];
+	node4 [label="煮て"];
+	node5 [label="御貰い。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

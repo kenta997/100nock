@@ -1,0 +1,9 @@
+digraph graph8628 {
+	node0 [label="「なるほど"];
+	node1 [label="面白い"];
+	node2 [label="講義を"];
+	node3 [label="しますね」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

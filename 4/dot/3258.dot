@@ -1,0 +1,11 @@
+digraph graph3258 {
+	node0 [label="それにしても"];
+	node1 [label="三方から"];
+	node2 [label="攻撃される"];
+	node3 [label="懸念が"];
+	node4 [label="ある。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

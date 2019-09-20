@@ -1,0 +1,35 @@
+digraph graph130 {
+	node0 [label="当人も"];
+	node1 [label="あまり"];
+	node2 [label="甘くないと"];
+	node3 [label="思った"];
+	node4 [label="ものか、"];
+	node5 [label="ある日"];
+	node6 [label="その"];
+	node7 [label="友人で"];
+	node8 [label="美学とかを"];
+	node9 [label="やっている"];
+	node10 [label="人が"];
+	node11 [label="来た"];
+	node12 [label="時に"];
+	node13 [label="下のような"];
+	node14 [label="話を"];
+	node15 [label="しているのを"];
+	node16 [label="聞いた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node16;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

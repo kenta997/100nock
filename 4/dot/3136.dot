@@ -1,0 +1,11 @@
+digraph graph3136 {
+	node0 [label="——"];
+	node1 [label="先生あの男が"];
+	node2 [label="いくら"];
+	node3 [label="貰ってると"];
+	node4 [label="思いなさる」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

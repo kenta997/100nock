@@ -1,0 +1,5 @@
+digraph graph8142 {
+	node0 [label="「そんならなお"];
+	node1 [label="聞かなくてもいい」"];
+	node0 -> node1;
+}

@@ -1,0 +1,11 @@
+digraph graph1919 {
+	node0 [label="令嬢は"];
+	node1 [label="やむを得ず"];
+	node2 [label="「はい」と"];
+	node3 [label="電話室を"];
+	node4 [label="出て行く。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

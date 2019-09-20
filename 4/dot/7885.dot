@@ -1,0 +1,33 @@
+digraph graph7885 {
+	node0 [label="夫婦の"];
+	node1 [label="愛は"];
+	node2 [label="その"];
+	node3 [label="一つを"];
+	node4 [label="代表する"];
+	node5 [label="ものだから、"];
+	node6 [label="人間は"];
+	node7 [label="是非結婚を"];
+	node8 [label="して、"];
+	node9 [label="この"];
+	node10 [label="幸福を"];
+	node11 [label="完うしなければ"];
+	node12 [label="天意に"];
+	node13 [label="背く"];
+	node14 [label="訳だと"];
+	node15 [label="思うんだ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

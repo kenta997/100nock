@@ -1,0 +1,9 @@
+digraph graph9148 {
+	node0 [label="眼の"];
+	node1 [label="ふちが"];
+	node2 [label="ぽうっと"];
+	node3 [label="する。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,7 @@
+digraph graph2726 {
+	node0 [label="しばらくは"];
+	node1 [label="足音も"];
+	node2 [label="しない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

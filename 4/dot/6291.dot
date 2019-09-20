@@ -1,0 +1,13 @@
+digraph graph6291 {
+	node0 [label="「行くとも、"];
+	node1 [label="九時までに"];
+	node2 [label="来いと"];
+	node3 [label="云うから、"];
+	node4 [label="八時から"];
+	node5 [label="出て行く」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

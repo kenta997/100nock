@@ -1,0 +1,11 @@
+digraph graph4944 {
+	node0 [label="その"];
+	node1 [label="時"];
+	node2 [label="鷲は"];
+	node3 [label="しめたと"];
+	node4 [label="思った。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

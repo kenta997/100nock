@@ -1,0 +1,9 @@
+digraph graph5075 {
+	node0 [label="しからずんば"];
+	node1 [label="兜を"];
+	node2 [label="脱いで"];
+	node3 [label="降参しなければならん。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

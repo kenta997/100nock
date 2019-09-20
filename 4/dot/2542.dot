@@ -1,0 +1,15 @@
+digraph graph2542 {
+	node0 [label="「君は"];
+	node1 [label="くる"];
+	node2 [label="たびに"];
+	node3 [label="珍報を"];
+	node4 [label="齎らす男だから"];
+	node5 [label="油断が"];
+	node6 [label="出来ん」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,15 @@
+digraph graph3602 {
+	node0 [label="すると"];
+	node1 [label="爺さんが"];
+	node2 [label="せっかくの"];
+	node3 [label="御客さまだから"];
+	node4 [label="蛇飯でも"];
+	node5 [label="炊いて上げようと"];
+	node6 [label="云うんです。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

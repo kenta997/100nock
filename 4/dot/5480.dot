@@ -1,0 +1,23 @@
+digraph graph5480 {
+	node0 [label="しかし"];
+	node1 [label="世の中は"];
+	node2 [label="うまくした"];
+	node3 [label="もので、"];
+	node4 [label="着ている"];
+	node5 [label="うちには"];
+	node6 [label="洋服の"];
+	node7 [label="方で、"];
+	node8 [label="こちらの"];
+	node9 [label="骨格に"];
+	node10 [label="合わしてくれるから。"];
+	node0 -> node10;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

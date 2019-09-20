@@ -1,0 +1,11 @@
+digraph graph6398 {
+	node0 [label="この"];
+	node1 [label="うんも"];
+	node2 [label="容易な"];
+	node3 [label="事では"];
+	node4 [label="出てこない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

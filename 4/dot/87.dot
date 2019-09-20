@@ -1,0 +1,15 @@
+digraph graph87 {
+	node0 [label="いかに"];
+	node1 [label="珍重されなかったかは、"];
+	node2 [label="今日に"];
+	node3 [label="至るまで"];
+	node4 [label="名前さえ"];
+	node5 [label="つけてくれないのでも"];
+	node6 [label="分る。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,7 @@
+digraph graph9162 {
+	node0 [label="寝ているのだか、"];
+	node1 [label="あるいてるのだか"];
+	node2 [label="判然しない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

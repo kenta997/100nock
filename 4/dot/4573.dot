@@ -1,0 +1,15 @@
+digraph graph4573 {
+	node0 [label="だから"];
+	node1 [label="主人の"];
+	node2 [label="この"];
+	node3 [label="命令は"];
+	node4 [label="狡猾の"];
+	node5 [label="極に"];
+	node6 [label="出でたのではない。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

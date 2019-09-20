@@ -1,0 +1,19 @@
+digraph graph4483 {
+	node0 [label="だから"];
+	node1 [label="先方で"];
+	node2 [label="おとなしい"];
+	node3 [label="挨拶を"];
+	node4 [label="しても"];
+	node5 [label="黙って"];
+	node6 [label="板の間へ"];
+	node7 [label="上がりは"];
+	node8 [label="せん。"];
+	node0 -> node8;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

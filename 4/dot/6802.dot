@@ -1,0 +1,19 @@
+digraph graph6802 {
+	node0 [label="雪江さんが"];
+	node1 [label="今"];
+	node2 [label="面白い"];
+	node3 [label="話を"];
+	node4 [label="なさる"];
+	node5 [label="ところだから」と"];
+	node6 [label="仕事を"];
+	node7 [label="隅へ"];
+	node8 [label="片付ける。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

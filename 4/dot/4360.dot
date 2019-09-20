@@ -1,0 +1,7 @@
+digraph graph4360 {
+	node0 [label="「そこが"];
+	node1 [label="胃だ"];
+	node2 [label="あな。"];
+	node0 -> node1;
+	node1 -> node2;
+}

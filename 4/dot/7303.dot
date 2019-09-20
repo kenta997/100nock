@@ -1,0 +1,11 @@
+digraph graph7303 {
+	node0 [label="「で、"];
+	node1 [label="名前だけ"];
+	node2 [label="借したとは"];
+	node3 [label="何の"];
+	node4 [label="事だい」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

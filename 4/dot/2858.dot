@@ -1,0 +1,11 @@
+digraph graph2858 {
+	node0 [label="人間も"];
+	node1 [label="存外"];
+	node2 [label="迂"];
+	node3 [label="濶な"];
+	node4 [label="ものである。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

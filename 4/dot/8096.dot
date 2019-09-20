@@ -1,0 +1,13 @@
+digraph graph8096 {
+	node0 [label="好男子寒月君も"];
+	node1 [label="そんな"];
+	node2 [label="所で"];
+	node3 [label="ヴァイオリンを"];
+	node4 [label="買えば"];
+	node5 [label="罪人さ」"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

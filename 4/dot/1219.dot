@@ -1,0 +1,7 @@
+digraph graph1219 {
+	node0 [label="うまい"];
+	node1 [label="注文通りに"];
+	node2 [label="行った。"];
+	node0 -> node1;
+	node1 -> node2;
+}

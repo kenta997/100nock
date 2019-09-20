@@ -1,0 +1,15 @@
+digraph graph1485 {
+	node0 [label="猶太人中に"];
+	node1 [label="在っては"];
+	node2 [label="罪人を"];
+	node3 [label="石を"];
+	node4 [label="抛げつけて"];
+	node5 [label="殺す"];
+	node6 [label="習慣であったそうでございます。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

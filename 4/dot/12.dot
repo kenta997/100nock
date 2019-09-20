@@ -1,0 +1,13 @@
+digraph graph12 {
+	node0 [label="第一毛をもって"];
+	node1 [label="装飾されべきはずの"];
+	node2 [label="顔が"];
+	node3 [label="つるつるして"];
+	node4 [label="まるで"];
+	node5 [label="薬缶だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

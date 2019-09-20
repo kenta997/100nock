@@ -1,0 +1,7 @@
+digraph graph4166 {
+	node0 [label="睨めつけてやったが"];
+	node1 [label="一向"];
+	node2 [label="利かない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

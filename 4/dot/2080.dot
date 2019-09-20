@@ -1,0 +1,7 @@
+digraph graph2080 {
+	node0 [label="いくら"];
+	node1 [label="怒っても"];
+	node2 [label="平かな顔である。"];
+	node0 -> node1;
+	node1 -> node2;
+}

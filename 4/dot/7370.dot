@@ -1,0 +1,21 @@
+digraph graph7370 {
+	node0 [label="もし"];
+	node1 [label="諸君が"];
+	node2 [label="かかる"];
+	node3 [label="際に"];
+	node4 [label="冷淡以上を"];
+	node5 [label="望んだら、"];
+	node6 [label="それこそ"];
+	node7 [label="人間を"];
+	node8 [label="買い被ったと"];
+	node9 [label="云わなければならない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

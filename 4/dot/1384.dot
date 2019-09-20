@@ -1,0 +1,23 @@
+digraph graph1384 {
+	node0 [label="卒業して"];
+	node1 [label="大学院へ"];
+	node2 [label="這入って"];
+	node3 [label="空間論と"];
+	node4 [label="云う"];
+	node5 [label="題目で"];
+	node6 [label="研究していたが、"];
+	node7 [label="あまり"];
+	node8 [label="勉強し過ぎて"];
+	node9 [label="腹膜炎で"];
+	node10 [label="死んでしまった。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

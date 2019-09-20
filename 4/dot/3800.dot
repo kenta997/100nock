@@ -1,0 +1,19 @@
+digraph graph3800 {
+	node0 [label="「なぜ"];
+	node1 [label="無理に"];
+	node2 [label="聞えないかと"];
+	node3 [label="云うと、"];
+	node4 [label="これは"];
+	node5 [label="心理的に"];
+	node6 [label="説明すると"];
+	node7 [label="よく"];
+	node8 [label="分ります。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

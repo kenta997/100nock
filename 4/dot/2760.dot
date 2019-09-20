@@ -1,0 +1,9 @@
+digraph graph2760 {
+	node0 [label="古代の"];
+	node1 [label="神は"];
+	node2 [label="全智全能と"];
+	node3 [label="崇められている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

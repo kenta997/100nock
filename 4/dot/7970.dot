@@ -1,0 +1,15 @@
+digraph graph7970 {
+	node0 [label="どうも"];
+	node1 [label="いつまで"];
+	node2 [label="行っても"];
+	node3 [label="柿ばかり"];
+	node4 [label="食ってて"];
+	node5 [label="際限が"];
+	node6 [label="ないね」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

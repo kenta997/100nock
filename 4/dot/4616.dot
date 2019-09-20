@@ -1,0 +1,7 @@
+digraph graph4616 {
+	node0 [label="「今夜は"];
+	node1 [label="なかなか"];
+	node2 [label="あがるのね。"];
+	node0 -> node2;
+	node1 -> node2;
+}

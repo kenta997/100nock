@@ -1,0 +1,29 @@
+digraph graph8729 {
+	node0 [label="はげしく"];
+	node1 [label="云えば"];
+	node2 [label="先方に"];
+	node3 [label="権力が"];
+	node4 [label="あれば"];
+	node5 [label="ある"];
+	node6 [label="ほど、"];
+	node7 [label="のしかかられる"];
+	node8 [label="ものの"];
+	node9 [label="方では"];
+	node10 [label="不愉快を"];
+	node11 [label="感じて"];
+	node12 [label="反抗する"];
+	node13 [label="世の中です。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

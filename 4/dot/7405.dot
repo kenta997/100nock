@@ -1,0 +1,21 @@
+digraph graph7405 {
+	node0 [label="武右衛門君は"];
+	node1 [label="監督の"];
+	node2 [label="家へ"];
+	node3 [label="来て、"];
+	node4 [label="きっと"];
+	node5 [label="人間について、"];
+	node6 [label="一の"];
+	node7 [label="真理を"];
+	node8 [label="発明したに"];
+	node9 [label="相違ない。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,31 @@
+digraph graph1055 {
+	node0 [label="母の"];
+	node1 [label="手紙は"];
+	node2 [label="六尺以上も"];
+	node3 [label="あるのだが"];
+	node4 [label="僕には"];
+	node5 [label="とても"];
+	node6 [label="そんな"];
+	node7 [label="芸は"];
+	node8 [label="出来んから、"];
+	node9 [label="いつでも"];
+	node10 [label="十行内外で"];
+	node11 [label="御免蒙る"];
+	node12 [label="事に"];
+	node13 [label="極めて"];
+	node14 [label="あるのさ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

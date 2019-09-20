@@ -1,0 +1,13 @@
+digraph graph8024 {
+	node0 [label="「楽器の"];
+	node1 [label="ある"];
+	node2 [label="店は"];
+	node3 [label="金善即ち金子善兵衛方ですから、"];
+	node4 [label="まだ"];
+	node5 [label="なかなかです」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

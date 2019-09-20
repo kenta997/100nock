@@ -1,0 +1,9 @@
+digraph graph1075 {
+	node0 [label="あのままに"];
+	node1 [label="しておくのは"];
+	node2 [label="惜しい"];
+	node3 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

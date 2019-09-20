@@ -1,0 +1,11 @@
+digraph graph4322 {
+	node0 [label="猿股期、"];
+	node1 [label="羽織期の"];
+	node2 [label="後に"];
+	node3 [label="来るのが"];
+	node4 [label="袴期である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

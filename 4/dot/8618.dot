@@ -1,0 +1,5 @@
+digraph graph8618 {
+	node0 [label="苦沙弥先生の"];
+	node1 [label="御名論を」"];
+	node0 -> node1;
+}

@@ -1,0 +1,9 @@
+digraph graph2570 {
+	node0 [label="「貰えばいいがって、"];
+	node1 [label="君は"];
+	node2 [label="先日"];
+	node3 [label="大反対だったじゃないか。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

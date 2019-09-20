@@ -1,0 +1,25 @@
+digraph graph2397 {
+	node0 [label="もし"];
+	node1 [label="鈴木君の"];
+	node2 [label="云うごとく、"];
+	node3 [label="当人同志が"];
+	node4 [label="好いた"];
+	node5 [label="仲なら、"];
+	node6 [label="間接にも"];
+	node7 [label="これを"];
+	node8 [label="妨害するのは"];
+	node9 [label="君子の"];
+	node10 [label="なすべき"];
+	node11 [label="所作でない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

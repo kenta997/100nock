@@ -1,0 +1,29 @@
+digraph graph3207 {
+	node0 [label="猛虎も"];
+	node1 [label="動物園に"];
+	node2 [label="入れば"];
+	node3 [label="糞豚の"];
+	node4 [label="隣りに"];
+	node5 [label="居を"];
+	node6 [label="占め、"];
+	node7 [label="鴻雁も"];
+	node8 [label="鳥屋に"];
+	node9 [label="生擒らるれば"];
+	node10 [label="雛鶏と"];
+	node11 [label="俎を"];
+	node12 [label="同じ"];
+	node13 [label="ゅうす。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

@@ -1,0 +1,11 @@
+digraph graph3310 {
+	node0 [label="鼠を"];
+	node1 [label="捕るのは"];
+	node2 [label="思ったより"];
+	node3 [label="むずかしい"];
+	node4 [label="者である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

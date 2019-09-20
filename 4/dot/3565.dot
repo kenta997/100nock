@@ -1,0 +1,35 @@
+digraph graph3565 {
+	node0 [label="私も"];
+	node1 [label="随分"];
+	node2 [label="熱心に"];
+	node3 [label="磨りましたが——"];
+	node4 [label="この"];
+	node5 [label="正月から"];
+	node6 [label="ガラス玉を"];
+	node7 [label="大小"];
+	node8 [label="六個"];
+	node9 [label="磨り潰しましたよ」と"];
+	node10 [label="嘘だか"];
+	node11 [label="本当だか"];
+	node12 [label="見当の"];
+	node13 [label="つかぬ"];
+	node14 [label="ところを"];
+	node15 [label="喋々と"];
+	node16 [label="述べる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

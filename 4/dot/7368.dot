@@ -1,0 +1,15 @@
+digraph graph7368 {
+	node0 [label="諸君は"];
+	node1 [label="冷淡だからと"];
+	node2 [label="云って、"];
+	node3 [label="けっして"];
+	node4 [label="主人のような"];
+	node5 [label="善人を"];
+	node6 [label="嫌ってはいけない。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

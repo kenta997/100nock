@@ -1,0 +1,13 @@
+digraph graph7984 {
+	node0 [label="だまってたら、"];
+	node1 [label="あしたの"];
+	node2 [label="朝まで"];
+	node3 [label="秋の"];
+	node4 [label="日が"];
+	node5 [label="かんかんするんだろう。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

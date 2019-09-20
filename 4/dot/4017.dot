@@ -1,0 +1,25 @@
+digraph graph4017 {
+	node0 [label="善く"];
+	node1 [label="鳴く"];
+	node2 [label="奴で、"];
+	node3 [label="吾輩から"];
+	node4 [label="見ると"];
+	node5 [label="鳴くのと"];
+	node6 [label="猫に"];
+	node7 [label="とられるより"];
+	node8 [label="ほかに"];
+	node9 [label="天職が"];
+	node10 [label="ないと"];
+	node11 [label="思われるくらいだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

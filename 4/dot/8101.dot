@@ -1,0 +1,13 @@
+digraph graph8101 {
+	node0 [label="それでも"];
+	node1 [label="おっつかなければまた"];
+	node2 [label="甘干しの"];
+	node3 [label="渋柿を"];
+	node4 [label="三ダースも"];
+	node5 [label="食うさ。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

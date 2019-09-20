@@ -1,0 +1,19 @@
+digraph graph3349 {
+	node0 [label="三つの"];
+	node1 [label="塊まりが"];
+	node2 [label="一つと"];
+	node3 [label="なって"];
+	node4 [label="月の光を"];
+	node5 [label="竪に"];
+	node6 [label="切って"];
+	node7 [label="下へ"];
+	node8 [label="落ちる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

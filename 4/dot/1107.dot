@@ -1,0 +1,19 @@
+digraph graph1107 {
+	node0 [label="「その日は"];
+	node1 [label="向島の"];
+	node2 [label="知人の"];
+	node3 [label="家で忘年会兼合奏会が"];
+	node4 [label="ありまして、"];
+	node5 [label="私も"];
+	node6 [label="それへ"];
+	node7 [label="ヴァイオリンを"];
+	node8 [label="携えて行きました。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

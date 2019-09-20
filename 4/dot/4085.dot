@@ -1,0 +1,15 @@
+digraph graph4085 {
+	node0 [label="一は"];
+	node1 [label="さかさに"];
+	node2 [label="なって"];
+	node3 [label="頭を"];
+	node4 [label="地面へ"];
+	node5 [label="向けて"];
+	node6 [label="下りてくる。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

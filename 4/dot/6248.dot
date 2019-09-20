@@ -1,0 +1,9 @@
+digraph graph6248 {
+	node0 [label="「アハハハ君は"];
+	node1 [label="刑事を"];
+	node2 [label="大変"];
+	node3 [label="尊敬するね。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

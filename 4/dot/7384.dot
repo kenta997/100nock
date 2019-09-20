@@ -1,0 +1,7 @@
+digraph graph7384 {
+	node0 [label="と"];
+	node1 [label="主張するような"];
+	node2 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

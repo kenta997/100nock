@@ -1,0 +1,11 @@
+digraph graph9035 {
+	node0 [label="「みんなですか、"];
+	node1 [label="それは"];
+	node2 [label="あまり"];
+	node3 [label="慾"];
+	node4 [label="張りたい。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

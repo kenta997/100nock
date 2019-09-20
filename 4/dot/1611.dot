@@ -1,0 +1,21 @@
+digraph graph1611 {
+	node0 [label="「おや、"];
+	node1 [label="あなたが"];
+	node2 [label="牧山様の——"];
+	node3 [label="何で"];
+	node4 [label="いらっしゃいますか、"];
+	node5 [label="ちっとも"];
+	node6 [label="存じませんで、"];
+	node7 [label="はなはだ"];
+	node8 [label="失礼を"];
+	node9 [label="致しました。"];
+	node0 -> node6;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,9 @@
+digraph graph6103 {
+	node0 [label="「あれには"];
+	node1 [label="当人大分説が"];
+	node2 [label="ある"];
+	node3 [label="ようじゃないか」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

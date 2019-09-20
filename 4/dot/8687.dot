@@ -1,0 +1,7 @@
+digraph graph8687 {
+	node0 [label="どうです"];
+	node1 [label="月に"];
+	node2 [label="十円くらいじゃ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

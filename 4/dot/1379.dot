@@ -1,0 +1,11 @@
+digraph graph1379 {
+	node0 [label="「また"];
+	node1 [label="巨人引力かね」と"];
+	node2 [label="立ったまま"];
+	node3 [label="主人に"];
+	node4 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

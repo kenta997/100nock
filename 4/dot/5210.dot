@@ -1,0 +1,17 @@
+digraph graph5210 {
+	node0 [label="だから"];
+	node1 [label="大町桂月は"];
+	node2 [label="主人を"];
+	node3 [label="つらまえて"];
+	node4 [label="未だ"];
+	node5 [label="稚気を"];
+	node6 [label="免がれずと"];
+	node7 [label="云うている。"];
+	node0 -> node7;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

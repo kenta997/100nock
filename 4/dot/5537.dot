@@ -1,0 +1,21 @@
+digraph graph5537 {
+	node0 [label="心の"];
+	node1 [label="修業が"];
+	node2 [label="つんで"];
+	node3 [label="消極の"];
+	node4 [label="極に"];
+	node5 [label="達すると"];
+	node6 [label="こんな"];
+	node7 [label="霊活な"];
+	node8 [label="作用が"];
+	node9 [label="出来るのじゃないかしらん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

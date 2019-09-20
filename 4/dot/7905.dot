@@ -1,0 +1,11 @@
+digraph graph7905 {
+	node0 [label="「狭い"];
+	node1 [label="土地だから、"];
+	node2 [label="買っておれば"];
+	node3 [label="すぐ"];
+	node4 [label="見つかります。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

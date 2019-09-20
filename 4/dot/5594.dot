@@ -1,0 +1,35 @@
+digraph graph5594 {
+	node0 [label="今日"];
+	node1 [label="何人あばたに"];
+	node2 [label="出逢って、"];
+	node3 [label="その"];
+	node4 [label="主は"];
+	node5 [label="男か"];
+	node6 [label="女か、"];
+	node7 [label="その"];
+	node8 [label="場所は"];
+	node9 [label="小川町の"];
+	node10 [label="勧工場であるか、"];
+	node11 [label="上野の"];
+	node12 [label="公園であるか、"];
+	node13 [label="ことごとく"];
+	node14 [label="彼の"];
+	node15 [label="日記に"];
+	node16 [label="つけ込んである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node16;
+	node3 -> node4;
+	node4 -> node16;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

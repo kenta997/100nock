@@ -1,0 +1,9 @@
+digraph graph5979 {
+	node0 [label="邵康節は"];
+	node1 [label="心要放と説いた"];
+	node2 [label="事も"];
+	node3 [label="ある。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

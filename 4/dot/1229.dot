@@ -1,0 +1,5 @@
+digraph graph1229 {
+	node0 [label="四時"];
+	node1 [label="十五分前である。"];
+	node0 -> node1;
+}

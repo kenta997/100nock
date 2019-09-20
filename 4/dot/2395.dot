@@ -1,0 +1,29 @@
+digraph graph2395 {
+	node0 [label="実業家は"];
+	node1 [label="嫌いだから、"];
+	node2 [label="実業家の"];
+	node3 [label="片割れなる"];
+	node4 [label="金田某も"];
+	node5 [label="嫌に"];
+	node6 [label="相違ないが"];
+	node7 [label="これも"];
+	node8 [label="娘"];
+	node9 [label="その"];
+	node10 [label="人とは"];
+	node11 [label="没交渉の"];
+	node12 [label="沙汰と"];
+	node13 [label="云わねばならぬ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node13;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

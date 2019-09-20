@@ -1,0 +1,9 @@
+digraph graph6608 {
+	node0 [label="持て余すくらいなら"];
+	node1 [label="製造しなければいいのだが、"];
+	node2 [label="そこが"];
+	node3 [label="人間である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

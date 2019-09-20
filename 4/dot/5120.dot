@@ -1,0 +1,5 @@
+digraph graph5120 {
+	node0 [label="可哀そうなのは"];
+	node1 [label="捕虜である。"];
+	node0 -> node1;
+}

@@ -1,0 +1,17 @@
+digraph graph8951 {
+	node0 [label="「どうせ"];
+	node1 [label="釣るなら、"];
+	node2 [label="鯨か"];
+	node3 [label="人魚でも"];
+	node4 [label="釣らなくっちゃ、"];
+	node5 [label="詰らないです」と"];
+	node6 [label="寒月君が"];
+	node7 [label="答えた。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

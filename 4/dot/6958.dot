@@ -1,0 +1,5 @@
+digraph graph6958 {
+	node0 [label="本当に"];
+	node1 [label="ハイカラね。"];
+	node0 -> node1;
+}

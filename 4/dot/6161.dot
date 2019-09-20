@@ -1,0 +1,9 @@
+digraph graph6161 {
+	node0 [label="まあ"];
+	node1 [label="ちょっと"];
+	node2 [label="行って"];
+	node3 [label="見たまえ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

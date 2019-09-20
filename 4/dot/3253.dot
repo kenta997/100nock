@@ -1,0 +1,31 @@
+digraph graph3253 {
+	node0 [label="それからとまた"];
+	node1 [label="あたりを"];
+	node2 [label="見廻すと"];
+	node3 [label="戸棚の"];
+	node4 [label="戸の"];
+	node5 [label="右の"];
+	node6 [label="下隅が"];
+	node7 [label="半月形に"];
+	node8 [label="喰い破られて、"];
+	node9 [label="彼等の"];
+	node10 [label="出入に"];
+	node11 [label="便なる"];
+	node12 [label="かの"];
+	node13 [label="疑が"];
+	node14 [label="ある。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

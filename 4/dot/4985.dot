@@ -1,0 +1,11 @@
+digraph graph4985 {
+	node0 [label="主人の"];
+	node1 [label="壮ん"];
+	node2 [label="なるは"];
+	node3 [label="ただ"];
+	node4 [label="意気込みだけである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

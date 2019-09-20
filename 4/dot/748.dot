@@ -1,0 +1,9 @@
+digraph graph748 {
+	node0 [label="牛肉を"];
+	node1 [label="一斤"];
+	node2 [label="すぐ"];
+	node3 [label="持って来るんだよ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

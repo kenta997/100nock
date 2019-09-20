@@ -1,0 +1,5 @@
+digraph graph6190 {
+	node0 [label="「そうでなくても"];
+	node1 [label="構わないさ。"];
+	node0 -> node1;
+}

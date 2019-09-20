@@ -1,0 +1,7 @@
+digraph graph77 {
+	node0 [label="二三ページ"];
+	node1 [label="読むと"];
+	node2 [label="眠くなる。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,31 @@
+digraph graph281 {
+	node0 [label="また"];
+	node1 [label="芸者の"];
+	node2 [label="妻君を"];
+	node3 [label="羨しいなどという"];
+	node4 [label="ところは"];
+	node5 [label="教師としては"];
+	node6 [label="口に"];
+	node7 [label="すべからざる"];
+	node8 [label="愚劣の"];
+	node9 [label="考であるが、"];
+	node10 [label="自己の"];
+	node11 [label="水彩画における"];
+	node12 [label="批評眼だけは"];
+	node13 [label="たしかな"];
+	node14 [label="ものだ。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

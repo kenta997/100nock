@@ -1,0 +1,7 @@
+digraph graph2979 {
+	node0 [label="今日は"];
+	node1 [label="忘れた」と"];
+	node2 [label="白状する。"];
+	node0 -> node1;
+	node1 -> node2;
+}

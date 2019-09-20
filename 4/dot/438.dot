@@ -1,0 +1,11 @@
+digraph graph438 {
+	node0 [label="車屋の"];
+	node1 [label="黒などは"];
+	node2 [label="固より"];
+	node3 [label="眼中に"];
+	node4 [label="ない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,11 @@
+digraph graph2407 {
+	node0 [label="「いや、"];
+	node1 [label="これゃちょっと"];
+	node2 [label="僕の"];
+	node3 [label="云いようが"];
+	node4 [label="わるかった。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

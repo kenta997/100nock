@@ -1,0 +1,19 @@
+digraph graph3689 {
+	node0 [label="伊勢源と"];
+	node1 [label="云うのは"];
+	node2 [label="間口が"];
+	node3 [label="十間で"];
+	node4 [label="蔵が"];
+	node5 [label="五つ戸前"];
+	node6 [label="あって"];
+	node7 [label="静岡第一の"];
+	node8 [label="呉服屋だ。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

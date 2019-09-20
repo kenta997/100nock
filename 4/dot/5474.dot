@@ -1,0 +1,7 @@
+digraph graph5474 {
+	node0 [label="どっちを"];
+	node1 [label="向いても"];
+	node2 [label="不平ばかりだ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

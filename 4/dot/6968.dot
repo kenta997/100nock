@@ -1,0 +1,11 @@
+digraph graph6968 {
+	node0 [label="だけど、"];
+	node1 [label="あの"];
+	node2 [label="方は"];
+	node3 [label="全く"];
+	node4 [label="つくり過ぎるのね。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

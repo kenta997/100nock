@@ -1,0 +1,19 @@
+digraph graph737 {
+	node0 [label="「君"];
+	node1 [label="不相変"];
+	node2 [label="やってるな」と"];
+	node3 [label="今までの"];
+	node4 [label="行き掛りは"];
+	node5 [label="忘れて、"];
+	node6 [label="つい"];
+	node7 [label="感投詞を"];
+	node8 [label="奉呈した。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

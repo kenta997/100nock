@@ -1,0 +1,9 @@
+digraph graph6630 {
+	node0 [label="随分"];
+	node1 [label="無分別な"];
+	node2 [label="飯の"];
+	node3 [label="食い方である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

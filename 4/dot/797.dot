@@ -1,0 +1,9 @@
+digraph graph797 {
+	node0 [label="これには"];
+	node1 [label="吾輩も"];
+	node2 [label="異存は"];
+	node3 [label="ない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

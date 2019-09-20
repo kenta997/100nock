@@ -1,0 +1,11 @@
+digraph graph3011 {
+	node0 [label="「あら"];
+	node1 [label="多々良さんの"];
+	node2 [label="頭は"];
+	node3 [label="御母さまのように"];
+	node4 [label="光かってよ」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

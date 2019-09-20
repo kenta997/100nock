@@ -1,0 +1,21 @@
+digraph graph1491 {
+	node0 [label="……"];
+	node1 [label="さて"];
+	node2 [label="波斯人は"];
+	node3 [label="どうかと"];
+	node4 [label="申しますと"];
+	node5 [label="これも"];
+	node6 [label="やはり"];
+	node7 [label="処刑には"];
+	node8 [label="磔を"];
+	node9 [label="用いたようでございます。"];
+	node0 -> node9;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

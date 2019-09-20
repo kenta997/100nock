@@ -1,0 +1,23 @@
+digraph graph2845 {
+	node0 [label="陰士は"];
+	node1 [label="山の芋の"];
+	node2 [label="箱を"];
+	node3 [label="この"];
+	node4 [label="帯で"];
+	node5 [label="しっかり"];
+	node6 [label="括って、"];
+	node7 [label="苦も"];
+	node8 [label="なく"];
+	node9 [label="背中へ"];
+	node10 [label="しょう。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

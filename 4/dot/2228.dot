@@ -1,0 +1,33 @@
+digraph graph2228 {
+	node0 [label="主人が"];
+	node1 [label="この"];
+	node2 [label="禿を"];
+	node3 [label="見た"];
+	node4 [label="時、"];
+	node5 [label="第一"];
+	node6 [label="彼の"];
+	node7 [label="脳裏に"];
+	node8 [label="浮んだの"];
+	node9 [label="はかの"];
+	node10 [label="家伝来の"];
+	node11 [label="仏壇に"];
+	node12 [label="幾世と"];
+	node13 [label="なく"];
+	node14 [label="飾り付けられたる"];
+	node15 [label="御灯明皿である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node15;
+	node5 -> node14;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

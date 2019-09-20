@@ -1,0 +1,15 @@
+digraph graph3116 {
+	node0 [label="「まだ"];
+	node1 [label="あなた、"];
+	node2 [label="去年"];
+	node3 [label="やっと"];
+	node4 [label="会社へ"];
+	node5 [label="這入ったばかりです"];
+	node6 [label="もの。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,33 @@
+digraph graph407 {
+	node0 [label="「ああ"];
+	node1 [label="その"];
+	node2 [label="猫が"];
+	node3 [label="例のですか、"];
+	node4 [label="なかなか"];
+	node5 [label="肥ってるじゃありませんか、それなら"];
+	node6 [label="車屋の"];
+	node7 [label="黒にだって"];
+	node8 [label="負けそうも"];
+	node9 [label="ありませんね、"];
+	node10 [label="立派な"];
+	node11 [label="ものだ」と"];
+	node12 [label="寒月君は"];
+	node13 [label="大に"];
+	node14 [label="吾輩を"];
+	node15 [label="賞める。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

@@ -1,0 +1,9 @@
+digraph graph2332 {
+	node0 [label="僕も"];
+	node1 [label="教員にでも"];
+	node2 [label="なれば"];
+	node3 [label="善かった」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

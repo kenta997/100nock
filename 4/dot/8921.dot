@@ -1,0 +1,13 @@
+digraph graph8921 {
+	node0 [label="「ウフフフフ」と"];
+	node1 [label="主人は"];
+	node2 [label="笑いながら"];
+	node3 [label="「構う"];
+	node4 [label="ものか」と"];
+	node5 [label="云った。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

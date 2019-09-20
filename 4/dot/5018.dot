@@ -1,0 +1,31 @@
+digraph graph5018 {
+	node0 [label="ぶんぶん、"];
+	node1 [label="わんわん"];
+	node2 [label="云うて"];
+	node3 [label="窓から、"];
+	node4 [label="戸口から、"];
+	node5 [label="開きから、"];
+	node6 [label="いやしくも"];
+	node7 [label="穴の"];
+	node8 [label="開いている"];
+	node9 [label="所なら"];
+	node10 [label="何の"];
+	node11 [label="容赦も"];
+	node12 [label="なく"];
+	node13 [label="我勝ちに"];
+	node14 [label="飛び出した。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node14;
+	node3 -> node14;
+	node4 -> node14;
+	node5 -> node14;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

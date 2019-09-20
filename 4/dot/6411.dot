@@ -1,0 +1,19 @@
+digraph graph6411 {
+	node0 [label="告朔の"];
+	node1 [label="※羊と"];
+	node2 [label="云う"];
+	node3 [label="故事も"];
+	node4 [label="ある"];
+	node5 [label="事だから、"];
+	node6 [label="これでも"];
+	node7 [label="やらんよりは"];
+	node8 [label="ましかも知れない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

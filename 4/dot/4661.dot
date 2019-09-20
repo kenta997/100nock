@@ -1,0 +1,9 @@
+digraph graph4661 {
+	node0 [label="今から"];
+	node1 [label="道楽なんぞ"];
+	node2 [label="始められちゃあ"];
+	node3 [label="大変ですよ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

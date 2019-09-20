@@ -1,0 +1,5 @@
+digraph graph2924 {
+	node0 [label="「山の芋が"];
+	node1 [label="一箱」"];
+	node0 -> node1;
+}

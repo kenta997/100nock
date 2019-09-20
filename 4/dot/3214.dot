@@ -1,0 +1,33 @@
+digraph graph3214 {
+	node0 [label="かくまでに"];
+	node1 [label="元気"];
+	node2 [label="旺盛な"];
+	node3 [label="吾輩の"];
+	node4 [label="事であるから"];
+	node5 [label="鼠の"];
+	node6 [label="一疋や"];
+	node7 [label="二疋は"];
+	node8 [label="とろうと"];
+	node9 [label="する"];
+	node10 [label="意志さえ"];
+	node11 [label="あれば、"];
+	node12 [label="寝ていても"];
+	node13 [label="訳"];
+	node14 [label="なく"];
+	node15 [label="捕れる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node15;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node15;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

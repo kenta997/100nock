@@ -1,0 +1,5 @@
+digraph graph720 {
+	node0 [label="「いや"];
+	node1 [label="黒君おめでとう。"];
+	node0 -> node1;
+}

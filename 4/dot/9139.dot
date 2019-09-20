@@ -1,0 +1,33 @@
+digraph graph9139 {
+	node0 [label="飲んで"];
+	node1 [label="腹の中まで"];
+	node2 [label="にがくなったら"];
+	node3 [label="それまでの"];
+	node4 [label="事、"];
+	node5 [label="もし"];
+	node6 [label="三平のように"];
+	node7 [label="前後を"];
+	node8 [label="忘れる"];
+	node9 [label="ほど"];
+	node10 [label="愉快になれば"];
+	node11 [label="空前の"];
+	node12 [label="儲け者で、"];
+	node13 [label="近所の"];
+	node14 [label="猫へ"];
+	node15 [label="教えてやってもいい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node15;
+	node3 -> node4;
+	node4 -> node15;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

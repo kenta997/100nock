@@ -1,0 +1,25 @@
+digraph graph4813 {
+	node0 [label="次に"];
+	node1 [label="彼は"];
+	node2 [label="その"];
+	node3 [label="仮定を"];
+	node4 [label="しばらく"];
+	node5 [label="打ち崩して、"];
+	node6 [label="よし"];
+	node7 [label="乱入する"];
+	node8 [label="者が"];
+	node9 [label="あっても"];
+	node10 [label="大丈夫と"];
+	node11 [label="論断したのである。"];
+	node0 -> node11;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

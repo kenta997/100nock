@@ -1,0 +1,15 @@
+digraph graph8230 {
+	node0 [label="「まだ"];
+	node1 [label="音が"];
+	node2 [label="しない"];
+	node3 [label="もので"];
+	node4 [label="露見した"];
+	node5 [label="事が"];
+	node6 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

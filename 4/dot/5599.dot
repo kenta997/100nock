@@ -1,0 +1,21 @@
+digraph graph5599 {
+	node0 [label="教育の"];
+	node1 [label="ある"];
+	node2 [label="人にはないようだ」と"];
+	node3 [label="答えたら、"];
+	node4 [label="主人は"];
+	node5 [label="「そうかなあ、"];
+	node6 [label="日本とは"];
+	node7 [label="少し"];
+	node8 [label="違うね」と"];
+	node9 [label="云った。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

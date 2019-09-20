@@ -1,0 +1,15 @@
+digraph graph3952 {
+	node0 [label="勿論"];
+	node1 [label="ただの"];
+	node2 [label="運動でもある"];
+	node3 [label="刺激の"];
+	node4 [label="下には"];
+	node5 [label="やらんとは"];
+	node6 [label="限らん。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

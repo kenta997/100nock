@@ -1,0 +1,11 @@
+digraph graph4603 {
+	node0 [label="「どっちですか、"];
+	node1 [label="そんな"];
+	node2 [label="馬鹿気た事は"];
+	node3 [label="どうでも"];
+	node4 [label="いいじゃありませんか」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

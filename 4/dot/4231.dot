@@ -1,0 +1,25 @@
+digraph graph4231 {
+	node0 [label="その"];
+	node1 [label="次の"];
+	node2 [label="ページには"];
+	node3 [label="裏口は"];
+	node4 [label="紳士の"];
+	node5 [label="遺書に"];
+	node6 [label="して"];
+	node7 [label="自身徳を"];
+	node8 [label="得るの"];
+	node9 [label="門なりと"];
+	node10 [label="ある"];
+	node11 [label="くらいだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

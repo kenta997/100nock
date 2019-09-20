@@ -1,0 +1,23 @@
+digraph graph1796 {
+	node0 [label="大きく"];
+	node1 [label="云えば"];
+	node2 [label="公平を"];
+	node3 [label="好み"];
+	node4 [label="中庸を"];
+	node5 [label="愛する"];
+	node6 [label="天意を"];
+	node7 [label="現実に"];
+	node8 [label="する"];
+	node9 [label="天晴な"];
+	node10 [label="美挙だ。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

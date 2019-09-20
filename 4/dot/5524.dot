@@ -1,0 +1,27 @@
+digraph graph5524 {
+	node0 [label="西洋と"];
+	node1 [label="大に"];
+	node2 [label="違う"];
+	node3 [label="ところは、"];
+	node4 [label="根本的に"];
+	node5 [label="周囲の"];
+	node6 [label="境遇は"];
+	node7 [label="動かすべからざる"];
+	node8 [label="ものと"];
+	node9 [label="云う"];
+	node10 [label="一大仮定の"];
+	node11 [label="下に"];
+	node12 [label="発達しているのだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

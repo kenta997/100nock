@@ -1,0 +1,29 @@
+digraph graph3387 {
+	node0 [label="彼等の"];
+	node1 [label="ある"];
+	node2 [label="ものは"];
+	node3 [label="吾輩を"];
+	node4 [label="見て"];
+	node5 [label="時々"];
+	node6 [label="あんなになったら"];
+	node7 [label="気楽で"];
+	node8 [label="よかろうなどと"];
+	node9 [label="云うが、"];
+	node10 [label="気楽で"];
+	node11 [label="よければ"];
+	node12 [label="なるが"];
+	node13 [label="好い。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

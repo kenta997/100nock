@@ -1,0 +1,29 @@
+digraph graph1599 {
+	node0 [label="よし"];
+	node1 [label="信じて"];
+	node2 [label="おらんでも、"];
+	node3 [label="融通の"];
+	node4 [label="利かぬ"];
+	node5 [label="性質として、"];
+	node6 [label="到底"];
+	node7 [label="実業家、"];
+	node8 [label="金満家の"];
+	node9 [label="恩顧を"];
+	node10 [label="蒙る"];
+	node11 [label="事は"];
+	node12 [label="覚束ないと"];
+	node13 [label="諦らめている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

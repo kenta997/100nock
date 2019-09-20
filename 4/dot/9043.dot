@@ -1,0 +1,5 @@
+digraph graph9043 {
+	node0 [label="一つ"];
+	node1 [label="飲んで下さい」"];
+	node0 -> node1;
+}

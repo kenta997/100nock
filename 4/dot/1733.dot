@@ -1,0 +1,17 @@
+digraph graph1733 {
+	node0 [label="ソフォクリスが"];
+	node1 [label="傑作を"];
+	node2 [label="出して"];
+	node3 [label="天下を"];
+	node4 [label="驚かしたのは、"];
+	node5 [label="ほとんど"];
+	node6 [label="百歳の"];
+	node7 [label="高齢だった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

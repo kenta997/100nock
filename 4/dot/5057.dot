@@ -1,0 +1,17 @@
+digraph graph5057 {
+	node0 [label="砲手は"];
+	node1 [label="これだけで"];
+	node2 [label="事足るのだが、"];
+	node3 [label="その"];
+	node4 [label="周囲附近には"];
+	node5 [label="弥次馬兼援兵が"];
+	node6 [label="雲霞のごとく"];
+	node7 [label="付き添うている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

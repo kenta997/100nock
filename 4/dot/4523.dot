@@ -1,0 +1,17 @@
+digraph graph4523 {
+	node0 [label="彼の"];
+	node1 [label="身の丈を"];
+	node2 [label="見ると"];
+	node3 [label="他の"];
+	node4 [label="先生方よりは"];
+	node5 [label="たしかに"];
+	node6 [label="三寸くらいは"];
+	node7 [label="高い。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

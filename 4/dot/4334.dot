@@ -1,0 +1,15 @@
+digraph graph4334 {
+	node0 [label="着物を"];
+	node1 [label="つけて"];
+	node2 [label="競争が"];
+	node3 [label="出来なければ"];
+	node4 [label="化物なりで"];
+	node5 [label="競争を"];
+	node6 [label="やる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

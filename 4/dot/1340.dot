@@ -1,0 +1,25 @@
+digraph graph1340 {
+	node0 [label="真中へ"];
+	node1 [label="小鼻の"];
+	node2 [label="開いた"];
+	node3 [label="鼻を"];
+	node4 [label="かいて、"];
+	node5 [label="真一文字に"];
+	node6 [label="口を"];
+	node7 [label="横へ"];
+	node8 [label="引張った、"];
+	node9 [label="これでは"];
+	node10 [label="文章でも"];
+	node11 [label="俳句でもない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

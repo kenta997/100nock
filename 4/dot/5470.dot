@@ -1,0 +1,5 @@
+digraph graph5470 {
+	node0 [label="足るや"];
+	node1 [label="足らずさ。"];
+	node0 -> node1;
+}

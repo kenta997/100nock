@@ -1,0 +1,19 @@
+digraph graph5856 {
+	node0 [label="すると"];
+	node1 [label="客人は"];
+	node2 [label="沓脱から"];
+	node3 [label="敷台へ"];
+	node4 [label="飛び上がって"];
+	node5 [label="障子を"];
+	node6 [label="開け放って"];
+	node7 [label="つかつか"];
+	node8 [label="上り込んで来た。"];
+	node0 -> node8;
+	node1 -> node8;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

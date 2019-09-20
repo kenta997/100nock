@@ -1,0 +1,7 @@
+digraph graph6736 {
+	node0 [label="叔父さんは"];
+	node1 [label="あれが"];
+	node2 [label="道楽なのよ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

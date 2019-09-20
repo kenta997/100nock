@@ -1,0 +1,25 @@
+digraph graph4899 {
+	node0 [label="これは"];
+	node1 [label="ある"];
+	node2 [label="人の"];
+	node3 [label="態度動作を"];
+	node4 [label="真似ると"];
+	node5 [label="心的状態も"];
+	node6 [label="その"];
+	node7 [label="人に"];
+	node8 [label="似てくると"];
+	node9 [label="云う"];
+	node10 [label="学説を"];
+	node11 [label="応用したのである。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,5 @@
+digraph graph6995 {
+	node0 [label="「困るどころですか"];
+	node1 [label="大得意よ。"];
+	node0 -> node1;
+}

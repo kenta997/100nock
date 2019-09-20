@@ -1,0 +1,7 @@
+digraph graph8559 {
+	node0 [label="よもや"];
+	node1 [label="恋い倒れには"];
+	node2 [label="なるまい。"];
+	node0 -> node2;
+	node1 -> node2;
+}

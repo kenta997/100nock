@@ -1,0 +1,15 @@
+digraph graph7114 {
+	node0 [label="ひとが"];
+	node1 [label="いりません、"];
+	node2 [label="いりませんと"];
+	node3 [label="云うのを"];
+	node4 [label="無理に"];
+	node5 [label="買って下さるんです"];
+	node6 [label="もの」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,13 @@
+digraph graph1830 {
+	node0 [label="構あ事あねえ、"];
+	node1 [label="みんなで"];
+	node2 [label="威嚇か"];
+	node3 [label="してやろうじゃねえか」"];
+	node4 [label="「それが"];
+	node5 [label="好いよ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

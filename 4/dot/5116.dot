@@ -1,0 +1,13 @@
+digraph graph5116 {
+	node0 [label="主人に"];
+	node1 [label="これくらいの"];
+	node2 [label="常識が"];
+	node3 [label="あれば"];
+	node4 [label="昨日だって"];
+	node5 [label="飛び出しはしない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

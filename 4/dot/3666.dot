@@ -1,0 +1,11 @@
+digraph graph3666 {
+	node0 [label="女なんか仕方がない」と"];
+	node1 [label="妙な"];
+	node2 [label="ところで"];
+	node3 [label="力味んで"];
+	node4 [label="見せる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,21 @@
+digraph graph6404 {
+	node0 [label="やがて"];
+	node1 [label="ぱたぱた"];
+	node2 [label="書斎中を"];
+	node3 [label="叩き散らす"];
+	node4 [label="音が"];
+	node5 [label="するのは"];
+	node6 [label="例によって"];
+	node7 [label="例のごとき"];
+	node8 [label="掃除を"];
+	node9 [label="始めたのである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

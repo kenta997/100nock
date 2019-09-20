@@ -1,0 +1,25 @@
+digraph graph9136 {
+	node0 [label="人間は"];
+	node1 [label="口癖のように"];
+	node2 [label="良薬口に"];
+	node3 [label="苦しと"];
+	node4 [label="言って"];
+	node5 [label="風邪などを"];
+	node6 [label="ひくと、"];
+	node7 [label="顔を"];
+	node8 [label="しかめて"];
+	node9 [label="変な"];
+	node10 [label="ものを"];
+	node11 [label="飲む。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

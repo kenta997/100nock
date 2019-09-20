@@ -1,0 +1,13 @@
+digraph graph2067 {
+	node0 [label="金田ごとき"];
+	node1 [label="ものに"];
+	node2 [label="遠慮を"];
+	node3 [label="する"];
+	node4 [label="訳が"];
+	node5 [label="ない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

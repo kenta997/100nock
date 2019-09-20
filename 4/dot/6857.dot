@@ -1,0 +1,15 @@
+digraph graph6857 {
+	node0 [label="今の"];
+	node1 [label="世に"];
+	node2 [label="警察の"];
+	node3 [label="仮声なんか"];
+	node4 [label="使ったって"];
+	node5 [label="誰も"];
+	node6 [label="聞きゃしないわね」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

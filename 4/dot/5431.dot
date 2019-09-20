@@ -1,0 +1,17 @@
+digraph graph5431 {
+	node0 [label="「もう"];
+	node1 [label="開かんのですか」"];
+	node2 [label="「ええもう"];
+	node3 [label="あきません」"];
+	node4 [label="主人は"];
+	node5 [label="黙然として"];
+	node6 [label="目を"];
+	node7 [label="眠っている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

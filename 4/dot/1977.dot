@@ -1,0 +1,11 @@
+digraph graph1977 {
+	node0 [label="迷亭は"];
+	node1 [label="何"];
+	node2 [label="喰わぬ"];
+	node3 [label="顔で"];
+	node4 [label="陳べ続ける。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

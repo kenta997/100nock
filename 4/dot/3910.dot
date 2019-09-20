@@ -1,0 +1,9 @@
+digraph graph3910 {
+	node0 [label="病気を"];
+	node1 [label="すれば、"];
+	node2 [label="からだが"];
+	node3 [label="利かなくなる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

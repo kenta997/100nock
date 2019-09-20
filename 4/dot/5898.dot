@@ -1,0 +1,29 @@
+digraph graph5898 {
+	node0 [label="迷亭君は"];
+	node1 [label="襖の"];
+	node2 [label="影から"];
+	node3 [label="笑いながら"];
+	node4 [label="立見を"];
+	node5 [label="していたが、"];
+	node6 [label="もう"];
+	node7 [label="いい"];
+	node8 [label="時分だと"];
+	node9 [label="思って、"];
+	node10 [label="後ろから"];
+	node11 [label="主人の"];
+	node12 [label="尻を"];
+	node13 [label="押しやりながら"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

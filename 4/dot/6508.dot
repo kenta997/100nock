@@ -1,0 +1,23 @@
+digraph graph6508 {
+	node0 [label="「どっちが"];
+	node1 [label="馬鹿だか"];
+	node2 [label="分りゃしない」と"];
+	node3 [label="妻君"];
+	node4 [label="ぷんとして"];
+	node5 [label="箒を"];
+	node6 [label="突いて"];
+	node7 [label="枕元に"];
+	node8 [label="立っている"];
+	node9 [label="ところは"];
+	node10 [label="勇ましかった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

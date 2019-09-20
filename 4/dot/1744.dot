@@ -1,0 +1,11 @@
+digraph graph1744 {
+	node0 [label="頭に"];
+	node1 [label="ちょん髷を"];
+	node2 [label="頂いて"];
+	node3 [label="生きてるんだから"];
+	node4 [label="恐縮しまさあ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

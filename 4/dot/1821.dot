@@ -1,0 +1,5 @@
+digraph graph1821 {
+	node0 [label="「模範勝手だな」と"];
+	node1 [label="這入り込む。"];
+	node0 -> node1;
+}

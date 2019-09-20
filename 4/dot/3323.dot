@@ -1,0 +1,9 @@
+digraph graph3323 {
+	node0 [label="休養は"];
+	node1 [label="敵中に"];
+	node2 [label="在っても"];
+	node3 [label="必要である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

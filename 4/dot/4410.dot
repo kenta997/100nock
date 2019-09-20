@@ -1,0 +1,15 @@
+digraph graph4410 {
+	node0 [label="そんなに"];
+	node1 [label="利く"];
+	node2 [label="湯なら、"];
+	node3 [label="もう少しは"];
+	node4 [label="丈夫そうに"];
+	node5 [label="なれそうな"];
+	node6 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

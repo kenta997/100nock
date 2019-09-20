@@ -1,0 +1,11 @@
+digraph graph8560 {
+	node0 [label="ことに"];
+	node1 [label="よると"];
+	node2 [label="卒塔婆小町のように"];
+	node3 [label="行き倒れに"];
+	node4 [label="なるかも知れない」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

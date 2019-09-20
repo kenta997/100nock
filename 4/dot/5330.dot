@@ -1,0 +1,5 @@
+digraph graph5330 {
+	node0 [label="「ああそうか、"];
+	node1 [label="学校か。"];
+	node0 -> node1;
+}

@@ -1,0 +1,15 @@
+digraph graph3357 {
+	node0 [label="月が"];
+	node1 [label="西に"];
+	node2 [label="傾いたので、"];
+	node3 [label="白い光りの"];
+	node4 [label="一帯は"];
+	node5 [label="半切ほどに"];
+	node6 [label="細くなった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

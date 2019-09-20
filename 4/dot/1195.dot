@@ -1,0 +1,27 @@
+digraph graph1195 {
+	node0 [label="もしや"];
+	node1 [label="四時までに"];
+	node2 [label="全快して"];
+	node3 [label="約束を"];
+	node4 [label="履行する"];
+	node5 [label="事が"];
+	node6 [label="出来なかったら、"];
+	node7 [label="気の"];
+	node8 [label="狭い"];
+	node9 [label="女の"];
+	node10 [label="事だから"];
+	node11 [label="何を"];
+	node12 [label="するかも知れない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

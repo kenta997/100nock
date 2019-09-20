@@ -1,0 +1,13 @@
+digraph graph7714 {
+	node0 [label="剣呑だから"];
+	node1 [label="夜るは"];
+	node2 [label="寝床の"];
+	node3 [label="中へ"];
+	node4 [label="入れて"];
+	node5 [label="寝ました」"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

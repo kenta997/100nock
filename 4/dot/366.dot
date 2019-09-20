@@ -1,0 +1,23 @@
+digraph graph366 {
+	node0 [label="いわんや"];
+	node1 [label="実際を"];
+	node2 [label="いうと"];
+	node3 [label="彼等が"];
+	node4 [label="自ら"];
+	node5 [label="信じているごとく"];
+	node6 [label="えらくも"];
+	node7 [label="何とも"];
+	node8 [label="ないのだから"];
+	node9 [label="なおさら"];
+	node10 [label="むずかしい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

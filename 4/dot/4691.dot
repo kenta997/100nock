@@ -1,0 +1,11 @@
+digraph graph4691 {
+	node0 [label="吹き払い、"];
+	node1 [label="吹き通し、"];
+	node2 [label="抜け裏、"];
+	node3 [label="通行御免天下晴れての"];
+	node4 [label="空地である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

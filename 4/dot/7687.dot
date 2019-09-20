@@ -1,0 +1,27 @@
+digraph graph7687 {
+	node0 [label="「実は"];
+	node1 [label="四日ばかり"];
+	node2 [label="前に"];
+	node3 [label="国から"];
+	node4 [label="帰って来たのですが、"];
+	node5 [label="いろいろ"];
+	node6 [label="用事が"];
+	node7 [label="あって、"];
+	node8 [label="方々馳け"];
+	node9 [label="あるいていた"];
+	node10 [label="ものですから、"];
+	node11 [label="つい"];
+	node12 [label="上がられなかったのです」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

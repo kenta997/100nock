@@ -1,0 +1,15 @@
+digraph graph5286 {
+	node0 [label="彼は"];
+	node1 [label="鈴木君に"];
+	node2 [label="逢って"];
+	node3 [label="どんな"];
+	node4 [label="挨拶を"];
+	node5 [label="するのか"];
+	node6 [label="知らん。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

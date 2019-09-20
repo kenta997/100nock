@@ -1,0 +1,15 @@
+digraph graph5502 {
+	node0 [label="だって"];
+	node1 [label="談判しても、"];
+	node2 [label="喧嘩を"];
+	node3 [label="しても"];
+	node4 [label="その"];
+	node5 [label="妨害は"];
+	node6 [label="とれんのじゃないか。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

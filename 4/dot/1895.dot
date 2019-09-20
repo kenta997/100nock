@@ -1,0 +1,11 @@
+digraph graph1895 {
+	node0 [label="御礼なんか"];
+	node1 [label="聞きたか"];
+	node2 [label="あないやね——"];
+	node3 [label="おやまた"];
+	node4 [label="笑ってるよ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

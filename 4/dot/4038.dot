@@ -1,0 +1,15 @@
+digraph graph4038 {
+	node0 [label="あの"];
+	node1 [label="小便が"];
+	node2 [label="やや"];
+	node3 [label="ともすると"];
+	node4 [label="眼を"];
+	node5 [label="覘ってし"];
+	node6 [label="ょぐってくるようだ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

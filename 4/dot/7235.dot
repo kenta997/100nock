@@ -1,0 +1,11 @@
+digraph graph7235 {
+	node0 [label="仕方がないから"];
+	node1 [label="主人から"];
+	node2 [label="とうとう"];
+	node3 [label="表向に"];
+	node4 [label="聞き出した。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

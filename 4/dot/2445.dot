@@ -1,0 +1,15 @@
+digraph graph2445 {
+	node0 [label="「うん、"];
+	node1 [label="気を"];
+	node2 [label="引くと"];
+	node3 [label="云うと"];
+	node4 [label="語弊が"];
+	node5 [label="あるかも"];
+	node6 [label="知れん。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

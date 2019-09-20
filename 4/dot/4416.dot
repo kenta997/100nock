@@ -1,0 +1,37 @@
+digraph graph4416 {
+	node0 [label="　湯槽の"];
+	node1 [label="方は"];
+	node2 [label="これぐらいに"];
+	node3 [label="して"];
+	node4 [label="板間を"];
+	node5 [label="見渡すと、"];
+	node6 [label="いる"];
+	node7 [label="わいるわ"];
+	node8 [label="絵にも"];
+	node9 [label="ならない"];
+	node10 [label="アダムが"];
+	node11 [label="ずらりと"];
+	node12 [label="並んで"];
+	node13 [label="各勝手次第な"];
+	node14 [label="姿勢で、"];
+	node15 [label="勝手次第な"];
+	node16 [label="ところを"];
+	node17 [label="洗っている。"];
+	node0 -> node1;
+	node1 -> node17;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node17;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

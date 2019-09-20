@@ -1,0 +1,5 @@
+digraph graph7788 {
+	node0 [label="「話しても"];
+	node1 [label="いい。"];
+	node0 -> node1;
+}

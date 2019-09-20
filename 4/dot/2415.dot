@@ -1,0 +1,11 @@
+digraph graph2415 {
+	node0 [label="第一"];
+	node1 [label="それじゃ"];
+	node2 [label="寒月に"];
+	node3 [label="意が"];
+	node4 [label="ないんじゃないか」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

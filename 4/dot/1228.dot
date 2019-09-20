@@ -1,0 +1,13 @@
+digraph graph1228 {
+	node0 [label="細君の"];
+	node1 [label="厳命で"];
+	node2 [label="馳け出して"];
+	node3 [label="行って、"];
+	node4 [label="馳け出して"];
+	node5 [label="返ってくる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

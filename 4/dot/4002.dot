@@ -1,0 +1,7 @@
+digraph graph4002 {
+	node0 [label="七擒七縦孔明の"];
+	node1 [label="軍略で"];
+	node2 [label="攻めつける。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,13 @@
+digraph graph8931 {
+	node0 [label="「存じません」と"];
+	node1 [label="妻君は"];
+	node2 [label="遠くで"];
+	node3 [label="簡単な"];
+	node4 [label="返事を"];
+	node5 [label="した。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

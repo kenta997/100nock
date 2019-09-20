@@ -1,0 +1,27 @@
+digraph graph1712 {
+	node0 [label="鼻子は"];
+	node1 [label="これで"];
+	node2 [label="寒月に関する"];
+	node3 [label="大抵の"];
+	node4 [label="質問を"];
+	node5 [label="卒"];
+	node6 [label="えた"];
+	node7 [label="ものと"];
+	node8 [label="見えて、"];
+	node9 [label="「これは"];
+	node10 [label="はなはだ"];
+	node11 [label="失礼を"];
+	node12 [label="致しました。"];
+	node0 -> node12;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

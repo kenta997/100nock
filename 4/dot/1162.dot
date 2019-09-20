@@ -1,0 +1,15 @@
+digraph graph1162 {
+	node0 [label="鰻谷は"];
+	node1 [label="嫌いだから"];
+	node2 [label="今日は"];
+	node3 [label="よそうと"];
+	node4 [label="その日は"];
+	node5 [label="やめに"];
+	node6 [label="した。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

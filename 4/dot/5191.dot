@@ -1,0 +1,19 @@
+digraph graph5191 {
+	node0 [label="もし"];
+	node1 [label="ボールが"];
+	node2 [label="飛んだら"];
+	node3 [label="表から"];
+	node4 [label="廻って、"];
+	node5 [label="御断りを"];
+	node6 [label="して"];
+	node7 [label="取らなけれ"];
+	node8 [label="ばいかん。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

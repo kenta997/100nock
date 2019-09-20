@@ -1,0 +1,11 @@
+digraph graph6436 {
+	node0 [label="片輪の"];
+	node1 [label="くせに"];
+	node2 [label="いやに"];
+	node3 [label="横風な"];
+	node4 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

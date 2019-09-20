@@ -1,0 +1,11 @@
+digraph graph681 {
+	node0 [label="　障子の"];
+	node1 [label="内で"];
+	node2 [label="御師匠さんが"];
+	node3 [label="二絃琴を"];
+	node4 [label="弾き出す。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

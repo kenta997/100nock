@@ -1,0 +1,11 @@
+digraph graph4044 {
+	node0 [label="これも"];
+	node1 [label="蝉学上"];
+	node2 [label="忽かせに"];
+	node3 [label="すべから"];
+	node4 [label="ざる問題である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

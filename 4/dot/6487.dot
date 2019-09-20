@@ -1,0 +1,7 @@
+digraph graph6487 {
+	node0 [label="今度も"];
+	node1 [label="返事が"];
+	node2 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

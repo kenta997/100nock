@@ -1,0 +1,9 @@
+digraph graph1906 {
+	node0 [label="「知らないよ」と"];
+	node1 [label="令嬢は"];
+	node2 [label="剣突を"];
+	node3 [label="食わせる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

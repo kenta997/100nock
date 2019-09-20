@@ -1,0 +1,5 @@
+digraph graph3755 {
+	node0 [label="その後"];
+	node1 [label="御宮にゃなりませんか。"];
+	node0 -> node1;
+}

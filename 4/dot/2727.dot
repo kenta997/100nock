@@ -1,0 +1,17 @@
+digraph graph2727 {
+	node0 [label="細君を"];
+	node1 [label="見ると"];
+	node2 [label="未だ"];
+	node3 [label="口を"];
+	node4 [label="あいて太平の"];
+	node5 [label="空気を"];
+	node6 [label="夢中に"];
+	node7 [label="吐呑している。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

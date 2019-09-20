@@ -1,0 +1,9 @@
+digraph graph8497 {
+	node0 [label="「探偵でないから、"];
+	node1 [label="正直で"];
+	node2 [label="いいと"];
+	node3 [label="云うのだよ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,37 @@
+digraph graph7733 {
+	node0 [label="「勝ちたくても、"];
+	node1 [label="負けたくても、"];
+	node2 [label="相手が"];
+	node3 [label="釜中の"];
+	node4 [label="章魚同然手も"];
+	node5 [label="足も"];
+	node6 [label="出せないのだから、"];
+	node7 [label="僕も"];
+	node8 [label="無聊で"];
+	node9 [label="やむを得ずヴァイオリンの"];
+	node10 [label="御仲間を"];
+	node11 [label="仕るのさ」と"];
+	node12 [label="云うと、"];
+	node13 [label="相手の"];
+	node14 [label="独仙君は"];
+	node15 [label="いささか"];
+	node16 [label="激した"];
+	node17 [label="調子で"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node17;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

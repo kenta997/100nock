@@ -1,0 +1,19 @@
+digraph graph1002 {
+	node0 [label="ただ"];
+	node1 [label="面白い"];
+	node2 [label="文章だと"];
+	node3 [label="思ったから"];
+	node4 [label="訳して"];
+	node5 [label="見たばかりさ」"];
+	node6 [label="「いや"];
+	node7 [label="実に"];
+	node8 [label="面白い。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,13 @@
+digraph graph3768 {
+	node0 [label="舞台の"];
+	node1 [label="真中へ"];
+	node2 [label="大きな"];
+	node3 [label="柳を"];
+	node4 [label="一本"];
+	node5 [label="植え付けてね。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

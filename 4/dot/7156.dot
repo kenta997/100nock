@@ -1,0 +1,23 @@
+digraph graph7156 {
+	node0 [label="平生は"];
+	node1 [label="大方の"];
+	node2 [label="人が"];
+	node3 [label="大方の"];
+	node4 [label="人であるから、"];
+	node5 [label="見ても"];
+	node6 [label="聞いても"];
+	node7 [label="張合の"];
+	node8 [label="ない"];
+	node9 [label="くらい"];
+	node10 [label="平凡である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

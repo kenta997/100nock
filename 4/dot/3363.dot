@@ -1,0 +1,25 @@
+digraph graph3363 {
+	node0 [label="折々は"];
+	node1 [label="団扇でも"];
+	node2 [label="使って"];
+	node3 [label="見ようと"];
+	node4 [label="云う"];
+	node5 [label="気も"];
+	node6 [label="起らんではないが、"];
+	node7 [label="とにかく"];
+	node8 [label="握る"];
+	node9 [label="事が"];
+	node10 [label="出来ないのだから"];
+	node11 [label="仕方がない。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

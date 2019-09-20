@@ -1,0 +1,27 @@
+digraph graph1562 {
+	node0 [label="」"];
+	node1 [label="「それがさ、"];
+	node2 [label="何だか"];
+	node3 [label="分るくらいなら"];
+	node4 [label="心配は"];
+	node5 [label="ないんだが、"];
+	node6 [label="早口で"];
+	node7 [label="無暗に"];
+	node8 [label="問い掛ける"];
+	node9 [label="ものだから"];
+	node10 [label="少しも"];
+	node11 [label="要領を"];
+	node12 [label="得ないのさ。"];
+	node0 -> node12;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

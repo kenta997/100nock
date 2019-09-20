@@ -1,0 +1,13 @@
+digraph graph3049 {
+	node0 [label="「分らん"];
+	node1 [label="ばってんが——"];
+	node2 [label="それじゃ"];
+	node3 [label="奥さん"];
+	node4 [label="少しも"];
+	node5 [label="舐めなさらんか」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,19 @@
+digraph graph153 {
+	node0 [label="彼は"];
+	node1 [label="彼の"];
+	node2 [label="友に"];
+	node3 [label="揶揄せられたる"];
+	node4 [label="結果として"];
+	node5 [label="まず"];
+	node6 [label="手初めに"];
+	node7 [label="吾輩を"];
+	node8 [label="写生しつつあるのである。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

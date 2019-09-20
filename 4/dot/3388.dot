@@ -1,0 +1,11 @@
+digraph graph3388 {
+	node0 [label="そんなに"];
+	node1 [label="こせこせしてくれと"];
+	node2 [label="誰も"];
+	node3 [label="頼んだ"];
+	node4 [label="訳でもなかろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,27 @@
+digraph graph1448 {
+	node0 [label="しかし"];
+	node1 [label="そんな"];
+	node2 [label="ところが"];
+	node3 [label="苦"];
+	node4 [label="沙弥君の"];
+	node5 [label="苦"];
+	node6 [label="沙弥君たる"];
+	node7 [label="ところで——"];
+	node8 [label="とにかく"];
+	node9 [label="月並でない」と"];
+	node10 [label="切ない"];
+	node11 [label="褒め方を"];
+	node12 [label="する。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

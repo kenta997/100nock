@@ -1,0 +1,21 @@
+digraph graph5747 {
+	node0 [label="髯も"];
+	node1 [label="さぞかし"];
+	node2 [label="難儀であろう、"];
+	node3 [label="所有"];
+	node4 [label="主たる"];
+	node5 [label="主人すら"];
+	node6 [label="時々は"];
+	node7 [label="痛い"];
+	node8 [label="事も"];
+	node9 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

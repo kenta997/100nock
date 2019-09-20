@@ -1,0 +1,7 @@
+digraph graph2265 {
+	node0 [label="はなはだ"];
+	node1 [label="見苦しく"];
+	node2 [label="ていかん」"];
+	node0 -> node2;
+	node1 -> node2;
+}

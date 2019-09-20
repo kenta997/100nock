@@ -1,0 +1,7 @@
+digraph graph4274 {
+	node0 [label="死んでしまってはつまらないから"];
+	node1 [label="着物を"];
+	node2 [label="きる。"];
+	node0 -> node2;
+	node1 -> node2;
+}

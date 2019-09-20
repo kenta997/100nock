@@ -1,0 +1,15 @@
+digraph graph1706 {
+	node0 [label="ちっと"];
+	node1 [label="文芸倶楽部でも"];
+	node2 [label="読んだらよさそうな"];
+	node3 [label="ものですがねえ」と"];
+	node4 [label="寒月君"];
+	node5 [label="さんざんに"];
+	node6 [label="やられる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

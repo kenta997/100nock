@@ -1,0 +1,9 @@
+digraph graph7520 {
+	node0 [label="金田の"];
+	node1 [label="娘に"];
+	node2 [label="艶書を"];
+	node3 [label="送ったんだ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

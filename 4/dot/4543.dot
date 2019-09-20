@@ -1,0 +1,21 @@
+digraph graph4543 {
+	node0 [label="肴は"];
+	node1 [label="丈夫な"];
+	node2 [label="ものだと"];
+	node3 [label="説明しておいたが、"];
+	node4 [label="いくら"];
+	node5 [label="丈夫でも"];
+	node6 [label="こう"];
+	node7 [label="焼かれたり"];
+	node8 [label="煮られたりしては"];
+	node9 [label="たまらん。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

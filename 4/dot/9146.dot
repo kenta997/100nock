@@ -1,0 +1,21 @@
+digraph graph9146 {
+	node0 [label="　それから"];
+	node1 [label="しばらくの"];
+	node2 [label="間は"];
+	node3 [label="自分で"];
+	node4 [label="自分の"];
+	node5 [label="動静を"];
+	node6 [label="伺う"];
+	node7 [label="ため、"];
+	node8 [label="じっと"];
+	node9 [label="すくんでいた。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,25 @@
+digraph graph1518 {
+	node0 [label="但し"];
+	node1 [label="この"];
+	node2 [label="大抵と"];
+	node3 [label="云う"];
+	node4 [label="度合は"];
+	node5 [label="両人が"];
+	node6 [label="勝手に"];
+	node7 [label="作ったのだから"];
+	node8 [label="他人の"];
+	node9 [label="場合には"];
+	node10 [label="応用が"];
+	node11 [label="出来ないかも知れない。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,13 @@
+digraph graph5456 {
+	node0 [label="しかし"];
+	node1 [label="奥行きが"];
+	node2 [label="ないから"];
+	node3 [label="落ちつきが"];
+	node4 [label="なくって"];
+	node5 [label="駄目だ。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

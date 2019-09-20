@@ -1,0 +1,9 @@
+digraph graph6044 {
+	node0 [label="車を"];
+	node1 [label="雇って頂いて、"];
+	node2 [label="ここから"];
+	node3 [label="乗って行こう」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

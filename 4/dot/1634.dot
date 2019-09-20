@@ -1,0 +1,9 @@
+digraph graph1634 {
+	node0 [label="「へえー」と"];
+	node1 [label="御両人は"];
+	node2 [label="一度に"];
+	node3 [label="感じ入る。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,19 @@
+digraph graph1135 {
+	node0 [label="どうも"];
+	node1 [label="私を"];
+	node2 [label="呼ぶ"];
+	node3 [label="声が"];
+	node4 [label="浪の"];
+	node5 [label="下から"];
+	node6 [label="無理に"];
+	node7 [label="洩れて来るように"];
+	node8 [label="思われましてね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+}

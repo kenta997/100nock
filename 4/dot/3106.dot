@@ -1,0 +1,13 @@
+digraph graph3106 {
+	node0 [label="「嫌でないのは"];
+	node1 [label="奥さんだけですか」と"];
+	node2 [label="多々良君柄に"];
+	node3 [label="似合わぬ"];
+	node4 [label="冗談を"];
+	node5 [label="云う。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

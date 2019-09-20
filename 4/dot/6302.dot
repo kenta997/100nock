@@ -1,0 +1,11 @@
+digraph graph6302 {
+	node0 [label="「静岡の"];
+	node1 [label="伯父に"];
+	node2 [label="譲らざる"];
+	node3 [label="東京通なるには"];
+	node4 [label="恐れ入る」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

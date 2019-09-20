@@ -1,0 +1,23 @@
+digraph graph3520 {
+	node0 [label="初心の"];
+	node1 [label="者に"];
+	node2 [label="限って、"];
+	node3 [label="無暗に"];
+	node4 [label="ツユを"];
+	node5 [label="着けて、"];
+	node6 [label="そうして"];
+	node7 [label="口の"];
+	node8 [label="内で"];
+	node9 [label="くちゃくちゃ"];
+	node10 [label="やっていますね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

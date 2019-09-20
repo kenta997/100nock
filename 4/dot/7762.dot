@@ -1,0 +1,5 @@
+digraph graph7762 {
+	node0 [label="君のは"];
+	node1 [label="打つのじゃない。"];
+	node0 -> node1;
+}

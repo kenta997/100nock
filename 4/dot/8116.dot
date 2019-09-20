@@ -1,0 +1,9 @@
+digraph graph8116 {
+	node0 [label="「おいそんな"];
+	node1 [label="安い"];
+	node2 [label="ヴァイオリンが"];
+	node3 [label="あるのかい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

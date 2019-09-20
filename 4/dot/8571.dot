@@ -1,0 +1,11 @@
+digraph graph8571 {
+	node0 [label="「君のように"];
+	node1 [label="云うと"];
+	node2 [label="つまり"];
+	node3 [label="図太いのが"];
+	node4 [label="悟ったのだね」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,19 @@
+digraph graph4914 {
+	node0 [label="これから"];
+	node1 [label="述べる"];
+	node2 [label="事件は"];
+	node3 [label="大小に"];
+	node4 [label="係らず"];
+	node5 [label="主人に"];
+	node6 [label="取って"];
+	node7 [label="名誉な"];
+	node8 [label="者ではない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

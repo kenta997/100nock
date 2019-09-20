@@ -1,0 +1,7 @@
+digraph graph4091 {
+	node0 [label="そう"];
+	node1 [label="軽蔑する"];
+	node2 [label="ものではない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

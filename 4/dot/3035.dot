@@ -1,0 +1,15 @@
+digraph graph3035 {
+	node0 [label="今に"];
+	node1 [label="先生の"];
+	node2 [label="書斎へ"];
+	node3 [label="行って"];
+	node4 [label="ウェブスターを"];
+	node5 [label="引いて"];
+	node6 [label="調べて上げましょう。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

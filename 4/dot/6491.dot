@@ -1,0 +1,27 @@
+digraph graph6491 {
+	node0 [label="首さえ"];
+	node1 [label="出さなければ、"];
+	node2 [label="見逃してくれる"];
+	node3 [label="事も"];
+	node4 [label="あろうかと、"];
+	node5 [label="詰まらない"];
+	node6 [label="事を"];
+	node7 [label="頼みに"];
+	node8 [label="して"];
+	node9 [label="寝ていた"];
+	node10 [label="ところ、"];
+	node11 [label="なかなか"];
+	node12 [label="許しそうもない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

@@ -1,0 +1,35 @@
+digraph graph7229 {
+	node0 [label="だから"];
+	node1 [label="この"];
+	node2 [label="夢に"];
+	node3 [label="見る"];
+	node4 [label="ほど"];
+	node5 [label="感心した"];
+	node6 [label="頭が"];
+	node7 [label="自分の"];
+	node8 [label="監督組の"];
+	node9 [label="生徒であると"];
+	node10 [label="聞いて、"];
+	node11 [label="思わず"];
+	node12 [label="そうかと"];
+	node13 [label="心の"];
+	node14 [label="裏で"];
+	node15 [label="手を"];
+	node16 [label="拍ったのである。"];
+	node0 -> node16;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

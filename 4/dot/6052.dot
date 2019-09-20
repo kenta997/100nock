@@ -1,0 +1,15 @@
+digraph graph6052 {
+	node0 [label="僕も"];
+	node1 [label="ああ"];
+	node2 [label="云う"];
+	node3 [label="伯父さんを"];
+	node4 [label="持って"];
+	node5 [label="仕合せな"];
+	node6 [label="ものさ。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

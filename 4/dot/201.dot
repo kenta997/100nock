@@ -1,0 +1,13 @@
+digraph graph201 {
+	node0 [label="しかし"];
+	node1 [label="挨拶を"];
+	node2 [label="しないと"];
+	node3 [label="険呑だと"];
+	node4 [label="思ったから"];
+	node5 [label="「吾輩は猫である。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

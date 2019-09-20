@@ -1,0 +1,7 @@
+digraph graph7061 {
+	node0 [label="「だれが"];
+	node1 [label="見る"];
+	node2 [label="もんですか。"];
+	node0 -> node1;
+	node1 -> node2;
+}

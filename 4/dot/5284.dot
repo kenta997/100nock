@@ -1,0 +1,11 @@
+digraph graph5284 {
+	node0 [label="これでも"];
+	node1 [label="冥頑不霊で"];
+	node2 [label="押し通す"];
+	node3 [label="了見だと"];
+	node4 [label="危ない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

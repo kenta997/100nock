@@ -1,0 +1,11 @@
+digraph graph677 {
+	node0 [label="二絃琴の"];
+	node1 [label="御師匠さんよ」"];
+	node2 [label="「それは"];
+	node3 [label="吾輩も"];
+	node4 [label="知っていますがね。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

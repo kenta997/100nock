@@ -1,0 +1,9 @@
+digraph graph498 {
+	node0 [label="胃弱には"];
+	node1 [label="晩酌が"];
+	node2 [label="一番だと"];
+	node3 [label="思う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

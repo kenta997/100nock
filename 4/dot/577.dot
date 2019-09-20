@@ -1,0 +1,9 @@
+digraph graph577 {
+	node0 [label="幸か"];
+	node1 [label="不幸か"];
+	node2 [label="誰も"];
+	node3 [label="いない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

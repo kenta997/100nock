@@ -1,0 +1,5 @@
+digraph graph6383 {
+	node0 [label="ともかくも"];
+	node1 [label="心得ている。"];
+	node0 -> node1;
+}

@@ -1,0 +1,9 @@
+digraph graph8036 {
+	node0 [label="「ふふん」と"];
+	node1 [label="独仙君が"];
+	node2 [label="鼻で"];
+	node3 [label="笑った。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

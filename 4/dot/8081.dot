@@ -1,0 +1,21 @@
+digraph graph8081 {
+	node0 [label="犬に"];
+	node1 [label="比較したのは"];
+	node2 [label="先生の"];
+	node3 [label="冗談だから"];
+	node4 [label="気に"];
+	node5 [label="掛けずに"];
+	node6 [label="話を"];
+	node7 [label="進行したまえ」と"];
+	node8 [label="東風君は"];
+	node9 [label="慰藉した。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

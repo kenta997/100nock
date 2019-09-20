@@ -1,0 +1,17 @@
+digraph graph4193 {
+	node0 [label="だから"];
+	node1 [label="第二の"];
+	node2 [label="方法によって"];
+	node3 [label="松皮摩擦法を"];
+	node4 [label="やるより"];
+	node5 [label="ほかに"];
+	node6 [label="分別は"];
+	node7 [label="ない。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

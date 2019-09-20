@@ -1,0 +1,11 @@
+digraph graph8653 {
+	node0 [label="但し"];
+	node1 [label="男子は"];
+	node2 [label="一人も"];
+	node3 [label="交ら"];
+	node4 [label="ない。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

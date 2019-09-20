@@ -1,0 +1,5 @@
+digraph graph5264 {
+	node0 [label="利目が"];
+	node1 [label="ございましたか」"];
+	node0 -> node1;
+}

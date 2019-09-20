@@ -1,0 +1,13 @@
+digraph graph3038 {
+	node0 [label="ちと"];
+	node1 [label="上野へでも"];
+	node2 [label="花見に"];
+	node3 [label="出掛けなさる"];
+	node4 [label="ごと"];
+	node5 [label="勧めなさい」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

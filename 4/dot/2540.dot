@@ -1,0 +1,9 @@
+digraph graph2540 {
+	node0 [label="まあ"];
+	node1 [label="そう"];
+	node2 [label="怒らずに"];
+	node3 [label="待っているさ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

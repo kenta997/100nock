@@ -1,0 +1,13 @@
+digraph graph783 {
+	node0 [label="客の"];
+	node1 [label="謝罪には"];
+	node2 [label="一向"];
+	node3 [label="同情を"];
+	node4 [label="表して"];
+	node5 [label="おらん。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

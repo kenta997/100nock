@@ -1,0 +1,37 @@
+digraph graph7963 {
+	node0 [label="それから"];
+	node1 [label="床を"];
+	node2 [label="出て、"];
+	node3 [label="障子を"];
+	node4 [label="あけて、"];
+	node5 [label="甘干しの"];
+	node6 [label="柿を"];
+	node7 [label="一つ"];
+	node8 [label="食って、また"];
+	node9 [label="寝床へ"];
+	node10 [label="這入って、"];
+	node11 [label="早く"];
+	node12 [label="日が"];
+	node13 [label="暮れればいいと、"];
+	node14 [label="ひそかに"];
+	node15 [label="神仏に"];
+	node16 [label="祈念を"];
+	node17 [label="こらした」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

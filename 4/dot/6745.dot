@@ -1,0 +1,23 @@
+digraph graph6745 {
+	node0 [label="「そうね、"];
+	node1 [label="もしもの"];
+	node2 [label="事が"];
+	node3 [label="あると"];
+	node4 [label="不安心だわね」と"];
+	node5 [label="十七八の"];
+	node6 [label="娘に"];
+	node7 [label="似合しからん"];
+	node8 [label="世帯染みた"];
+	node9 [label="ことを"];
+	node10 [label="云う。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,5 @@
+digraph graph3322 {
+	node0 [label="吾輩は"];
+	node1 [label="眠る。"];
+	node0 -> node1;
+}

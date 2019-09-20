@@ -1,0 +1,9 @@
+digraph graph5366 {
+	node0 [label="坐って"];
+	node1 [label="人を"];
+	node2 [label="使いさえすれば"];
+	node3 [label="すむんだから。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

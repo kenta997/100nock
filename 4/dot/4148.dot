@@ -1,0 +1,11 @@
+digraph graph4148 {
+	node0 [label="どうせ"];
+	node1 [label="質の"];
+	node2 [label="いい"];
+	node3 [label="奴でないには"];
+	node4 [label="極っている。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

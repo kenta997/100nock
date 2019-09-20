@@ -1,0 +1,5 @@
+digraph graph5168 {
+	node0 [label="ますます"];
+	node1 [label="逆上せざるを得ない。"];
+	node0 -> node1;
+}

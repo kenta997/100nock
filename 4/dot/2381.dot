@@ -1,0 +1,7 @@
+digraph graph2381 {
+	node0 [label="今日"];
+	node1 [label="金田へ"];
+	node2 [label="行ったら……」"];
+	node0 -> node2;
+	node1 -> node2;
+}

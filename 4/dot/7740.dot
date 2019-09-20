@@ -1,0 +1,9 @@
+digraph graph7740 {
+	node0 [label="「この"];
+	node1 [label="白を"];
+	node2 [label="はすに"];
+	node3 [label="延ばした」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

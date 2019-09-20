@@ -1,0 +1,5 @@
+digraph graph2918 {
+	node0 [label="「黒足袋が"];
+	node1 [label="一足」"];
+	node0 -> node1;
+}

@@ -1,0 +1,7 @@
+digraph graph8586 {
+	node0 [label="すべての"];
+	node1 [label="錬金術は"];
+	node2 [label="失敗した。"];
+	node0 -> node1;
+	node1 -> node2;
+}

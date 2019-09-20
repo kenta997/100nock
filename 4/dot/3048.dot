@@ -1,0 +1,11 @@
+digraph graph3048 {
+	node0 [label="「顔で"];
+	node1 [label="そんな"];
+	node2 [label="事が"];
+	node3 [label="どうして"];
+	node4 [label="分ります」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

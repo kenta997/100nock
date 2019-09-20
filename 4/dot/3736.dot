@@ -1,0 +1,11 @@
+digraph graph3736 {
+	node0 [label="知らないのは"];
+	node1 [label="自分の"];
+	node2 [label="馬鹿な"];
+	node3 [label="事くらいな"];
+	node4 [label="ものです。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

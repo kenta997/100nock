@@ -1,0 +1,11 @@
+digraph graph1088 {
+	node0 [label="「面白いですな」と"];
+	node1 [label="寒月が"];
+	node2 [label="にやにや"];
+	node3 [label="しながら"];
+	node4 [label="云う。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

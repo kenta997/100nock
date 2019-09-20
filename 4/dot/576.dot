@@ -1,0 +1,9 @@
+digraph graph576 {
+	node0 [label="食おうかな、"];
+	node1 [label="やめようかな、と"];
+	node2 [label="あたりを"];
+	node3 [label="見廻す。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

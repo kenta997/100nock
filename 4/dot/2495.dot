@@ -1,0 +1,13 @@
+digraph graph2495 {
+	node0 [label="しかし"];
+	node1 [label="僕のは"];
+	node2 [label="竹刀だが、"];
+	node3 [label="この"];
+	node4 [label="鈴木将軍のは"];
+	node5 [label="手暴だぜ。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

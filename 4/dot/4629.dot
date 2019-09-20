@@ -1,0 +1,7 @@
+digraph graph4629 {
+	node0 [label="「Archaiomelesidonophrunicherataと"];
+	node1 [label="云う"];
+	node2 [label="字だ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

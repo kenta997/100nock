@@ -1,0 +1,5 @@
+digraph graph6932 {
+	node0 [label="「多々良さんは"];
+	node1 [label="飄然なの？"];
+	node0 -> node1;
+}

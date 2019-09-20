@@ -1,0 +1,13 @@
+digraph graph9088 {
+	node0 [label="つづいて"];
+	node1 [label="「僕も"];
+	node2 [label="帰る」と"];
+	node3 [label="口々に"];
+	node4 [label="玄関に"];
+	node5 [label="出る。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

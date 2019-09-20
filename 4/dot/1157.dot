@@ -1,0 +1,11 @@
+digraph graph1157 {
+	node0 [label="欠けた"];
+	node1 [label="前歯の"];
+	node2 [label="うちに"];
+	node3 [label="空也餅が"];
+	node4 [label="着いている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

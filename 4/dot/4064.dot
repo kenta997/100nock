@@ -1,0 +1,15 @@
+digraph graph4064 {
+	node0 [label="だから"];
+	node1 [label="下へ"];
+	node2 [label="持って来て"];
+	node3 [label="吐き出す"];
+	node4 [label="時は"];
+	node5 [label="大方"];
+	node6 [label="死んでいる。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

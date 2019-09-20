@@ -1,0 +1,9 @@
+digraph graph3664 {
+	node0 [label="女より"];
+	node1 [label="軽い"];
+	node2 [label="ものは"];
+	node3 [label="無である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

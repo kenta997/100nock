@@ -1,0 +1,29 @@
+digraph graph5934 {
+	node0 [label="「いや"];
+	node1 [label="非常な"];
+	node2 [label="人で、"];
+	node3 [label="それで"];
+	node4 [label="その"];
+	node5 [label="人が"];
+	node6 [label="皆わしを"];
+	node7 [label="じろじろ"];
+	node8 [label="見るので——"];
+	node9 [label="どうも"];
+	node10 [label="近来は"];
+	node11 [label="人間が"];
+	node12 [label="物見高くなったようで"];
+	node13 [label="がすな。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

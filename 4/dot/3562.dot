@@ -1,0 +1,17 @@
+digraph graph3562 {
+	node0 [label="始めは"];
+	node1 [label="林檎ほどな"];
+	node2 [label="大きさの"];
+	node3 [label="ものが"];
+	node4 [label="だんだん"];
+	node5 [label="小さくなって"];
+	node6 [label="苺ほどに"];
+	node7 [label="なります。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,27 @@
+digraph graph5377 {
+	node0 [label="もっとも"];
+	node1 [label="落雲館が"];
+	node2 [label="変なのか、"];
+	node3 [label="自分が"];
+	node4 [label="変なのか"];
+	node5 [label="疑を"];
+	node6 [label="存する"];
+	node7 [label="余地は"];
+	node8 [label="充分"];
+	node9 [label="あるが、"];
+	node10 [label="何しろ"];
+	node11 [label="変に"];
+	node12 [label="違ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

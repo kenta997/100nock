@@ -1,0 +1,25 @@
+digraph graph3104 {
+	node0 [label="「教師は"];
+	node1 [label="無論"];
+	node2 [label="嫌だが、"];
+	node3 [label="実業家は"];
+	node4 [label="なお"];
+	node5 [label="嫌いだ」と"];
+	node6 [label="主人は"];
+	node7 [label="何が"];
+	node8 [label="好きだか"];
+	node9 [label="心の"];
+	node10 [label="裏で"];
+	node11 [label="考えているらしい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

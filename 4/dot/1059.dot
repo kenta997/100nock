@@ -1,0 +1,23 @@
+digraph graph1059 {
+	node0 [label="ちょうど"];
+	node1 [label="その"];
+	node2 [label="晩は"];
+	node3 [label="少し"];
+	node4 [label="曇って、から"];
+	node5 [label="風が"];
+	node6 [label="御濠の"];
+	node7 [label="向うから"];
+	node8 [label="吹き付ける、"];
+	node9 [label="非常に"];
+	node10 [label="寒い。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,15 @@
+digraph graph9115 {
+	node0 [label="諸先生の"];
+	node1 [label="説に"];
+	node2 [label="従えば"];
+	node3 [label="人間の"];
+	node4 [label="運命は"];
+	node5 [label="自殺に"];
+	node6 [label="帰するそうだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

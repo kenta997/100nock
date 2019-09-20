@@ -1,0 +1,31 @@
+digraph graph1909 {
+	node0 [label="「寒月でも、"];
+	node1 [label="水月でも"];
+	node2 [label="知らないんだよ——"];
+	node3 [label="大嫌いだわ、"];
+	node4 [label="糸瓜が"];
+	node5 [label="戸迷いを"];
+	node6 [label="したような"];
+	node7 [label="顔を"];
+	node8 [label="して」"];
+	node9 [label="第三の"];
+	node10 [label="剣突は、"];
+	node11 [label="憐れなる"];
+	node12 [label="寒月君が、"];
+	node13 [label="留守中に"];
+	node14 [label="頂戴する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

@@ -1,0 +1,9 @@
+digraph graph2182 {
+	node0 [label="帰りに"];
+	node1 [label="ちょっと"];
+	node2 [label="寄って"];
+	node3 [label="見ましょう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,29 @@
+digraph graph1131 {
+	node0 [label="その"];
+	node1 [label="返事が"];
+	node2 [label="大きかった"];
+	node3 [label="ものですから"];
+	node4 [label="静かな"];
+	node5 [label="水に"];
+	node6 [label="響いて、"];
+	node7 [label="自分で"];
+	node8 [label="自分の"];
+	node9 [label="声に"];
+	node10 [label="驚かされて、"];
+	node11 [label="はっと"];
+	node12 [label="周囲を"];
+	node13 [label="見渡しました。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

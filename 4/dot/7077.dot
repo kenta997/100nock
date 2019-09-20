@@ -1,0 +1,7 @@
+digraph graph7077 {
+	node0 [label="「帯の"];
+	node1 [label="片側くらい"];
+	node2 [label="あきらめるさ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

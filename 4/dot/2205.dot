@@ -1,0 +1,31 @@
+digraph graph2205 {
+	node0 [label="しかし"];
+	node1 [label="主人の"];
+	node2 [label="考えでは"];
+	node3 [label="一年"];
+	node4 [label="持ち、"];
+	node5 [label="二年"];
+	node6 [label="持ち、"];
+	node7 [label="五年"];
+	node8 [label="持ち"];
+	node9 [label="十年"];
+	node10 [label="持った"];
+	node11 [label="以上は"];
+	node12 [label="生涯"];
+	node13 [label="持たねばならぬと"];
+	node14 [label="思っているらしい。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

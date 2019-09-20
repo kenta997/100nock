@@ -1,0 +1,21 @@
+digraph graph5909 {
+	node0 [label="今来て"];
+	node1 [label="見ると"];
+	node2 [label="まるで"];
+	node3 [label="方角も"];
+	node4 [label="分らんくらいで、——"];
+	node5 [label="迷亭にでも"];
+	node6 [label="伴れてあるいてもらわんと、"];
+	node7 [label="とても"];
+	node8 [label="用達も"];
+	node9 [label="出来ません。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

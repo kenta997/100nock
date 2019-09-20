@@ -1,0 +1,21 @@
+digraph graph2723 {
+	node0 [label="陰士は"];
+	node1 [label="今や"];
+	node2 [label="勝手の"];
+	node3 [label="上に"];
+	node4 [label="大いなる"];
+	node5 [label="泥足を"];
+	node6 [label="上げて"];
+	node7 [label="二足ばかり"];
+	node8 [label="進んだ"];
+	node9 [label="模様である。"];
+	node0 -> node9;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

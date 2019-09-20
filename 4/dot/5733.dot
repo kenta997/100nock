@@ -1,0 +1,27 @@
+digraph graph5733 {
+	node0 [label="彼の"];
+	node1 [label="精神が"];
+	node2 [label="朦朧として"];
+	node3 [label="不得要領底に"];
+	node4 [label="一貫しているごとく、"];
+	node5 [label="彼の"];
+	node6 [label="眼も"];
+	node7 [label="曖々然"];
+	node8 [label="昧々然として"];
+	node9 [label="長えに"];
+	node10 [label="眼窩の"];
+	node11 [label="奥に"];
+	node12 [label="漂うている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

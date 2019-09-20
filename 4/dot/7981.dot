@@ -1,0 +1,9 @@
+digraph graph7981 {
+	node0 [label="いつまで"];
+	node1 [label="行っても"];
+	node2 [label="果てしが"];
+	node3 [label="ない」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

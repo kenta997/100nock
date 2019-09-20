@@ -1,0 +1,15 @@
+digraph graph4280 {
+	node0 [label="　"];
+	node1 [label="美しくても"];
+	node2 [label="構わんから、"];
+	node3 [label="美しい"];
+	node4 [label="獣と"];
+	node5 [label="見"];
+	node6 [label="做せばいいのである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

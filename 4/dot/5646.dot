@@ -1,0 +1,11 @@
+digraph graph5646 {
+	node0 [label="あるいは"];
+	node1 [label="例の"];
+	node2 [label="消極的修養に"];
+	node3 [label="必要な"];
+	node4 [label="道具かも知れない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

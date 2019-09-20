@@ -1,0 +1,11 @@
+digraph graph614 {
+	node0 [label="ええ"];
+	node1 [label="面倒だと"];
+	node2 [label="両足を"];
+	node3 [label="一度に"];
+	node4 [label="使う。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

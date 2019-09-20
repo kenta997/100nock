@@ -1,0 +1,11 @@
+digraph graph2827 {
+	node0 [label="今度は"];
+	node1 [label="寒月だと"];
+	node2 [label="云う"];
+	node3 [label="声も"];
+	node4 [label="聞えぬ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

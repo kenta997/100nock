@@ -1,0 +1,7 @@
+digraph graph5166 {
+	node0 [label="逆上的敏腕を"];
+	node1 [label="大に"];
+	node2 [label="振っているつもりである。"];
+	node0 -> node2;
+	node1 -> node2;
+}

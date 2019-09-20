@@ -1,0 +1,35 @@
+digraph graph1146 {
+	node0 [label="前と"];
+	node1 [label="後ろの"];
+	node2 [label="間違だけで"];
+	node3 [label="あの"];
+	node4 [label="声の"];
+	node5 [label="出る"];
+	node6 [label="所へ"];
+	node7 [label="行く"];
+	node8 [label="事が"];
+	node9 [label="出来なかったのです」"];
+	node10 [label="寒月は"];
+	node11 [label="にやにや"];
+	node12 [label="笑いながら"];
+	node13 [label="例のごとく"];
+	node14 [label="羽織の"];
+	node15 [label="紐を"];
+	node16 [label="荷厄介にしている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

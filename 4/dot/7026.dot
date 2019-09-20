@@ -1,0 +1,31 @@
+digraph graph7026 {
+	node0 [label="徳利様と"];
+	node1 [label="云うのは"];
+	node2 [label="純然たる"];
+	node3 [label="徳利では"];
+	node4 [label="無論"];
+	node5 [label="ない、と"];
+	node6 [label="云って"];
+	node7 [label="花活けとも"];
+	node8 [label="思われない、"];
+	node9 [label="ただ"];
+	node10 [label="一種異様の"];
+	node11 [label="陶器であるから、"];
+	node12 [label="やむを得ず"];
+	node13 [label="しばらくかように"];
+	node14 [label="申したのである。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

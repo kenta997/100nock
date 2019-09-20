@@ -1,0 +1,19 @@
+digraph graph671 {
+	node0 [label="三毛子は"];
+	node1 [label="無邪気な"];
+	node2 [label="ものである"];
+	node3 [label="「ほんとよ、"];
+	node4 [label="まるで"];
+	node5 [label="自分の"];
+	node6 [label="小供のようよ」と"];
+	node7 [label="あどけなく"];
+	node8 [label="笑う。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

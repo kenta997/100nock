@@ -1,0 +1,13 @@
+digraph graph2849 {
+	node0 [label="嘘だと"];
+	node1 [label="思うなら"];
+	node2 [label="試しに"];
+	node3 [label="やって"];
+	node4 [label="見るが"];
+	node5 [label="よろしい。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,19 @@
+digraph graph448 {
+	node0 [label="小さいのも"];
+	node1 [label="すぐ"];
+	node2 [label="匙を"];
+	node3 [label="とって"];
+	node4 [label="わが"];
+	node5 [label="分量を"];
+	node6 [label="姉と"];
+	node7 [label="同一に"];
+	node8 [label="した。"];
+	node0 -> node8;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

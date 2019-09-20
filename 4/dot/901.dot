@@ -1,0 +1,35 @@
+digraph graph901 {
+	node0 [label="かくの"];
+	node1 [label="如くすれば"];
+	node2 [label="好物は"];
+	node3 [label="貪ぼり"];
+	node4 [label="次第"];
+	node5 [label="貪り"];
+	node6 [label="候も"];
+	node7 [label="毫も"];
+	node8 [label="内臓の"];
+	node9 [label="諸機関に"];
+	node10 [label="障害を"];
+	node11 [label="生ぜず、"];
+	node12 [label="一挙両得とは"];
+	node13 [label="此等の"];
+	node14 [label="事を"];
+	node15 [label="可申かと"];
+	node16 [label="愚考致候……」"];
+	node0 -> node1;
+	node1 -> node16;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node16;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

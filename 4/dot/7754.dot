@@ -1,0 +1,9 @@
+digraph graph7754 {
+	node0 [label="けいまさの"];
+	node1 [label="せりふじゃないが"];
+	node2 [label="秋の日は"];
+	node3 [label="暮れやすいからね」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

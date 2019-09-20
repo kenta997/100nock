@@ -1,0 +1,7 @@
+digraph graph6120 {
+	node0 [label="「どっちが"];
+	node1 [label="いたずら者だか"];
+	node2 [label="分りゃしない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

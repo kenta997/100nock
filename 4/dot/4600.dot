@@ -1,0 +1,5 @@
+digraph graph4600 {
+	node0 [label="「おい」と"];
+	node1 [label="呼びかけた。"];
+	node0 -> node1;
+}

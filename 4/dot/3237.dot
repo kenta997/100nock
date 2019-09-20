@@ -1,0 +1,9 @@
+digraph graph3237 {
+	node0 [label="何だか"];
+	node1 [label="東郷大将のような"];
+	node2 [label="心持が"];
+	node3 [label="する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

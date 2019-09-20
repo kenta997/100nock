@@ -1,0 +1,13 @@
+digraph graph3047 {
+	node0 [label="「しかし"];
+	node1 [label="奥さんだって"];
+	node2 [label="舐めそうな"];
+	node3 [label="顔を"];
+	node4 [label="していなさる"];
+	node5 [label="ばい」"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

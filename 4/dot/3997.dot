@@ -1,0 +1,7 @@
+digraph graph3997 {
+	node0 [label="その"];
+	node1 [label="鼻を"];
+	node2 [label="なぐりつける。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,31 @@
+digraph graph5577 {
+	node0 [label="　かくのごとき"];
+	node1 [label="前世紀の"];
+	node2 [label="紀念を"];
+	node3 [label="満面に"];
+	node4 [label="刻して"];
+	node5 [label="教壇に"];
+	node6 [label="立つ"];
+	node7 [label="彼は、"];
+	node8 [label="その"];
+	node9 [label="生徒に対して"];
+	node10 [label="授業以外に"];
+	node11 [label="大なる"];
+	node12 [label="訓戒を"];
+	node13 [label="垂れつつあるに"];
+	node14 [label="相違ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

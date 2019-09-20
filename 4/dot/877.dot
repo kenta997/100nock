@@ -1,0 +1,31 @@
+digraph graph877 {
+	node0 [label="「御承知の"];
+	node1 [label="通り"];
+	node2 [label="孔雀"];
+	node3 [label="一羽に"];
+	node4 [label="つき、"];
+	node5 [label="舌肉の"];
+	node6 [label="分量は"];
+	node7 [label="小指の"];
+	node8 [label="半ばにも"];
+	node9 [label="足らぬ程"];
+	node10 [label="故健啖なる"];
+	node11 [label="大兄の"];
+	node12 [label="胃嚢を"];
+	node13 [label="充たす"];
+	node14 [label="為には……」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

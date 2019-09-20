@@ -1,0 +1,23 @@
+digraph graph3500 {
+	node0 [label="も少し"];
+	node1 [label="障子の"];
+	node2 [label="方へ"];
+	node3 [label="向いて、"];
+	node4 [label="そう"];
+	node5 [label="鋏を"];
+	node6 [label="寝かさずに——"];
+	node7 [label="そうそうそれなら"];
+	node8 [label="見えるでしょう」"];
+	node9 [label="「おやまあ"];
+	node10 [label="写真ですねえ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

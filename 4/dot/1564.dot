@@ -1,0 +1,35 @@
+digraph graph1564 {
+	node0 [label="西洋の"];
+	node1 [label="鳶口や"];
+	node2 [label="掛矢は"];
+	node3 [label="先生"];
+	node4 [label="何と"];
+	node5 [label="翻訳して善いのか"];
+	node6 [label="習った"];
+	node7 [label="事が"];
+	node8 [label="無いんだから"];
+	node9 [label="弱わらあね」"];
+	node10 [label="「もっともだ」と"];
+	node11 [label="主人は"];
+	node12 [label="教師の"];
+	node13 [label="身の上に"];
+	node14 [label="引き較べて"];
+	node15 [label="同情を"];
+	node16 [label="表する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node16;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

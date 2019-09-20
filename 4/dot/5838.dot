@@ -1,0 +1,27 @@
+digraph graph5838 {
+	node0 [label="分らぬ"];
+	node1 [label="ところには"];
+	node2 [label="馬鹿に"];
+	node3 [label="出来ない"];
+	node4 [label="ものが"];
+	node5 [label="潜伏して、"];
+	node6 [label="測るべからざる"];
+	node7 [label="辺には"];
+	node8 [label="何だか"];
+	node9 [label="気高い"];
+	node10 [label="心持が"];
+	node11 [label="起る"];
+	node12 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node12;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

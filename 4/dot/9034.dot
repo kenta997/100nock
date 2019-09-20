@@ -1,0 +1,11 @@
+digraph graph9034 {
+	node0 [label="「それを"];
+	node1 [label="みんな"];
+	node2 [label="貰う"];
+	node3 [label="訳にゃ"];
+	node4 [label="いかないでしょうか」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

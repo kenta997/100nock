@@ -1,0 +1,15 @@
+digraph graph5900 {
+	node0 [label="そう"];
+	node1 [label="唐紙へ"];
+	node2 [label="くっついては"];
+	node3 [label="僕が"];
+	node4 [label="坐る"];
+	node5 [label="所が"];
+	node6 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

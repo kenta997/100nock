@@ -1,0 +1,15 @@
+digraph graph8111 {
+	node0 [label="独仙君は"];
+	node1 [label="無言の"];
+	node2 [label="まま、"];
+	node3 [label="白と黒で"];
+	node4 [label="碁盤を"];
+	node5 [label="大半"];
+	node6 [label="埋めてしまった。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

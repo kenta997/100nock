@@ -1,0 +1,11 @@
+digraph graph4890 {
+	node0 [label="神が"];
+	node1 [label="作ってくれん"];
+	node2 [label="以上は"];
+	node3 [label="自力で"];
+	node4 [label="拵えなければならん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

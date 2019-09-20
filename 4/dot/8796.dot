@@ -1,0 +1,37 @@
+digraph graph8796 {
+	node0 [label="この"];
+	node1 [label="覩"];
+	node2 [label="易き"];
+	node3 [label="理由は"];
+	node4 [label="ある"];
+	node5 [label="にも関ら"];
+	node6 [label="ず無教育の"];
+	node7 [label="青年男女が"];
+	node8 [label="一時の"];
+	node9 [label="劣情に"];
+	node10 [label="駆られて、"];
+	node11 [label="漫に"];
+	node12 [label="合※の"];
+	node13 [label="式を"];
+	node14 [label="挙ぐるは"];
+	node15 [label="悖徳没倫の"];
+	node16 [label="はなはだしき"];
+	node17 [label="所為である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node17;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node17;
+	node11 -> node17;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

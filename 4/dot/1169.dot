@@ -1,0 +1,13 @@
+digraph graph1169 {
+	node0 [label="それじゃ"];
+	node1 [label="駄目でも"];
+	node2 [label="まあ"];
+	node3 [label="行く"];
+	node4 [label="事に"];
+	node5 [label="しよう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,9 @@
+digraph graph8025 {
+	node0 [label="「なかなかでも"];
+	node1 [label="いいから"];
+	node2 [label="早く"];
+	node3 [label="買うがいい」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

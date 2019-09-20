@@ -1,0 +1,13 @@
+digraph graph3126 {
+	node0 [label="「そんな"];
+	node1 [label="御金が"];
+	node2 [label="あれば"];
+	node3 [label="泥棒に"];
+	node4 [label="逢ったって"];
+	node5 [label="困りゃしないわ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

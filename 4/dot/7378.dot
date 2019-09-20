@@ -1,0 +1,15 @@
+digraph graph7378 {
+	node0 [label="侮辱したと"];
+	node1 [label="思うのは"];
+	node2 [label="事実かも知れないが、"];
+	node3 [label="人の"];
+	node4 [label="困るのを"];
+	node5 [label="笑うのも"];
+	node6 [label="事実である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

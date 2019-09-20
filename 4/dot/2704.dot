@@ -1,0 +1,31 @@
+digraph graph2704 {
+	node0 [label="これは"];
+	node1 [label="自分が"];
+	node2 [label="罪が"];
+	node3 [label="ないと"];
+	node4 [label="自信しているのだから"];
+	node5 [label="無邪気で"];
+	node6 [label="結構ではあるが、"];
+	node7 [label="人の"];
+	node8 [label="困る"];
+	node9 [label="事実は"];
+	node10 [label="いかに"];
+	node11 [label="無邪気でも"];
+	node12 [label="滅却する"];
+	node13 [label="訳には"];
+	node14 [label="行かぬ。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

@@ -1,0 +1,15 @@
+digraph graph4104 {
+	node0 [label="即ち"];
+	node1 [label="ある"];
+	node2 [label="ものを"];
+	node3 [label="もって"];
+	node4 [label="落ちる"];
+	node5 [label="速度に"];
+	node6 [label="抵抗しなければならん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

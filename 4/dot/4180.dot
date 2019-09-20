@@ -1,0 +1,5 @@
+digraph graph4180 {
+	node0 [label="背中が"];
+	node1 [label="むずむずする。"];
+	node0 -> node1;
+}

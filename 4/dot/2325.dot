@@ -1,0 +1,9 @@
+digraph graph2325 {
+	node0 [label="「まだ"];
+	node1 [label="あるのか、"];
+	node2 [label="じゃ"];
+	node3 [label="三人か」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

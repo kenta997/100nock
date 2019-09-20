@@ -1,0 +1,37 @@
+digraph graph3628 {
+	node0 [label="朝"];
+	node1 [label="起きて"];
+	node2 [label="巻煙草を"];
+	node3 [label="ふかしながら"];
+	node4 [label="裏の"];
+	node5 [label="窓から"];
+	node6 [label="見ていると、"];
+	node7 [label="向うの"];
+	node8 [label="筧の"];
+	node9 [label="傍で、"];
+	node10 [label="薬缶頭が"];
+	node11 [label="顔を"];
+	node12 [label="洗っているんで"];
+	node13 [label="さあ」"];
+	node14 [label="「爺さんか"];
+	node15 [label="婆さんか」と"];
+	node16 [label="主人が"];
+	node17 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node17;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

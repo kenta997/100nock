@@ -1,0 +1,9 @@
+digraph graph7957 {
+	node0 [label="とうてい"];
+	node1 [label="東京など"];
+	node2 [label="じゃあの味は"];
+	node3 [label="わかりませんね」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

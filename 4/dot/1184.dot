@@ -1,0 +1,9 @@
+digraph graph1184 {
+	node0 [label="細君も"];
+	node1 [label="行きたいだろう、"];
+	node2 [label="僕も"];
+	node3 [label="連れて行ってやりたい。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

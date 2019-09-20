@@ -1,0 +1,35 @@
+digraph graph1865 {
+	node0 [label="吾輩の"];
+	node1 [label="忍んで来る"];
+	node2 [label="前に"];
+	node3 [label="評判記は"];
+	node4 [label="すんだ"];
+	node5 [label="ものか、または"];
+	node6 [label="すでに"];
+	node7 [label="落第と"];
+	node8 [label="事が"];
+	node9 [label="極って"];
+	node10 [label="念頭に"];
+	node11 [label="ない"];
+	node12 [label="ものか、"];
+	node13 [label="その辺は"];
+	node14 [label="懸念も"];
+	node15 [label="あるが"];
+	node16 [label="仕方がない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node16;
+	node3 -> node16;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+}

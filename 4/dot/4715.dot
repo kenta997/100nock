@@ -1,0 +1,15 @@
+digraph graph4715 {
+	node0 [label="蚕食と"];
+	node1 [label="云う"];
+	node2 [label="語が"];
+	node3 [label="君子に"];
+	node4 [label="不似合なら"];
+	node5 [label="やめても"];
+	node6 [label="よろしい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

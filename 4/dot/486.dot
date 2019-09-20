@@ -1,0 +1,9 @@
+digraph graph486 {
+	node0 [label="寒月は"];
+	node1 [label="何となく"];
+	node2 [label="そわそわしているごとく"];
+	node3 [label="見えた。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

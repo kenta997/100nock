@@ -1,0 +1,11 @@
+digraph graph8850 {
+	node0 [label="吾人は"];
+	node1 [label="自由を"];
+	node2 [label="欲して"];
+	node3 [label="自由を"];
+	node4 [label="得た。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

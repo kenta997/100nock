@@ -1,0 +1,13 @@
+digraph graph232 {
+	node0 [label="邂逅する"];
+	node1 [label="毎に"];
+	node2 [label="彼は"];
+	node3 [label="車屋相当の"];
+	node4 [label="気焔を"];
+	node5 [label="吐く。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

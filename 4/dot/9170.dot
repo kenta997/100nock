@@ -1,0 +1,25 @@
+digraph graph9170 {
+	node0 [label="仕方がないから"];
+	node1 [label="後足で"];
+	node2 [label="飛び上っておいて、"];
+	node3 [label="前足で"];
+	node4 [label="掻いたら、"];
+	node5 [label="が"];
+	node6 [label="りりと"];
+	node7 [label="音が"];
+	node8 [label="して"];
+	node9 [label="わずかに"];
+	node10 [label="手応が"];
+	node11 [label="あった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

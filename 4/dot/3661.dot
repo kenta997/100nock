@@ -1,0 +1,11 @@
+digraph graph3661 {
+	node0 [label="——"];
+	node1 [label="羽より"];
+	node2 [label="軽い"];
+	node3 [label="者は"];
+	node4 [label="塵である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

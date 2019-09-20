@@ -1,0 +1,7 @@
+digraph graph256 {
+	node0 [label="「考げ"];
+	node1 [label="えると"];
+	node2 [label="つまらねえ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

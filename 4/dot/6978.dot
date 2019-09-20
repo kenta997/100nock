@@ -1,0 +1,9 @@
+digraph graph6978 {
+	node0 [label="「そんな"];
+	node1 [label="人が"];
+	node2 [label="あるから、"];
+	node3 [label="いけないんですよ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

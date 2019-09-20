@@ -1,0 +1,13 @@
+digraph graph4881 {
+	node0 [label="申し合せて"];
+	node1 [label="インスピレーション、"];
+	node2 [label="インスピレーションと"];
+	node3 [label="さも"];
+	node4 [label="勿体そうに"];
+	node5 [label="称えている。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

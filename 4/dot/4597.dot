@@ -1,0 +1,15 @@
+digraph graph4597 {
+	node0 [label="だから"];
+	node1 [label="細君は"];
+	node2 [label="煙に"];
+	node3 [label="捲かれた"];
+	node4 [label="気味で"];
+	node5 [label="何とも"];
+	node6 [label="云わない。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

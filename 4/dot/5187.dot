@@ -1,0 +1,17 @@
+digraph graph5187 {
+	node0 [label="こうして"];
+	node1 [label="学校の"];
+	node2 [label="隣りに"];
+	node3 [label="住んでいる"];
+	node4 [label="以上は、"];
+	node5 [label="時々は"];
+	node6 [label="ボールも"];
+	node7 [label="飛んで来ましょう。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

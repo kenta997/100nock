@@ -1,0 +1,5 @@
+digraph graph995 {
+	node0 [label="呼ぶと"];
+	node1 [label="落ちてくる」"];
+	node0 -> node1;
+}

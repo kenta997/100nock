@@ -1,0 +1,37 @@
+digraph graph1418 {
+	node0 [label="苦"];
+	node1 [label="沙弥君などは"];
+	node2 [label="道楽は"];
+	node3 [label="せず、"];
+	node4 [label="服装にも"];
+	node5 [label="構わず、"];
+	node6 [label="地味に"];
+	node7 [label="世帯向きに"];
+	node8 [label="出来上った"];
+	node9 [label="人で"];
+	node10 [label="さあ」と"];
+	node11 [label="迷亭は"];
+	node12 [label="柄に"];
+	node13 [label="ない"];
+	node14 [label="説教を"];
+	node15 [label="陽気な"];
+	node16 [label="調子で"];
+	node17 [label="やっている。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node17;
+	node11 -> node17;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

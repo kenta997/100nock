@@ -1,0 +1,11 @@
+digraph graph7635 {
+	node0 [label="そんな"];
+	node1 [label="所へ"];
+	node2 [label="這入ってくる"];
+	node3 [label="法は"];
+	node4 [label="ない」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

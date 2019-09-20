@@ -1,0 +1,33 @@
+digraph graph7818 {
+	node0 [label="不思議に"];
+	node1 [label="思って、"];
+	node2 [label="聞いて"];
+	node3 [label="見たら、"];
+	node4 [label="灰吹きなどは"];
+	node5 [label="裏の"];
+	node6 [label="藪へ"];
+	node7 [label="行って切って来れば"];
+	node8 [label="誰にでも"];
+	node9 [label="出来るから、"];
+	node10 [label="売る"];
+	node11 [label="必要は"];
+	node12 [label="ないと"];
+	node13 [label="澄まして"];
+	node14 [label="答えた"];
+	node15 [label="そうだ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

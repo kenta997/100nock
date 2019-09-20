@@ -1,0 +1,11 @@
+digraph graph8082 {
+	node0 [label="慰藉されなくても"];
+	node1 [label="寒月君は"];
+	node2 [label="無論"];
+	node3 [label="話を"];
+	node4 [label="つづけるつもりである。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

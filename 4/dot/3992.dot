@@ -1,0 +1,23 @@
+digraph graph3992 {
+	node0 [label="だから"];
+	node1 [label="無用の長物を"];
+	node2 [label="利用して"];
+	node3 [label="一大活躍を"];
+	node4 [label="試みた"];
+	node5 [label="ところが"];
+	node6 [label="吾輩に対して"];
+	node7 [label="あまり"];
+	node8 [label="功能の"];
+	node9 [label="ありよう訳が"];
+	node10 [label="ない。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

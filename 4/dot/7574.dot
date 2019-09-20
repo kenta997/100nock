@@ -1,0 +1,9 @@
+digraph graph7574 {
+	node0 [label="あの"];
+	node1 [label="容子じゃ"];
+	node2 [label="華厳の滝へ"];
+	node3 [label="出掛けますよ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

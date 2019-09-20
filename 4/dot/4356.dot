@@ -1,0 +1,15 @@
+digraph graph4356 {
+	node0 [label="双方共色の"];
+	node1 [label="黒い"];
+	node2 [label="点において"];
+	node3 [label="間然する"];
+	node4 [label="ところ"];
+	node5 [label="なきまでに"];
+	node6 [label="発達している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

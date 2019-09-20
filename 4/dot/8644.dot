@@ -1,0 +1,13 @@
+digraph graph8644 {
+	node0 [label="「冗談と"];
+	node1 [label="云えば"];
+	node2 [label="冗談だが、"];
+	node3 [label="予言と"];
+	node4 [label="云えば"];
+	node5 [label="予言かも知れない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

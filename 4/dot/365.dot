@@ -1,0 +1,11 @@
+digraph graph365 {
+	node0 [label="いくら"];
+	node1 [label="人間が"];
+	node2 [label="発達したって"];
+	node3 [label="こればかりは"];
+	node4 [label="駄目である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

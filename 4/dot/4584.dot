@@ -1,0 +1,13 @@
+digraph graph4584 {
+	node0 [label="必ず"];
+	node1 [label="そうなっては"];
+	node2 [label="少し"];
+	node3 [label="困る"];
+	node4 [label="人が"];
+	node5 [label="出来てくる。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

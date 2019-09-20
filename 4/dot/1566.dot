@@ -1,0 +1,13 @@
+digraph graph1566 {
+	node0 [label="仕舞には"];
+	node1 [label="東風と"];
+	node2 [label="独逸人を"];
+	node3 [label="四方から"];
+	node4 [label="取り巻いて"];
+	node5 [label="見物する。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

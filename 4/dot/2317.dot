@@ -1,0 +1,23 @@
+digraph graph2317 {
+	node0 [label="「うん、"];
+	node1 [label="こんな"];
+	node2 [label="物まで"];
+	node3 [label="ぶら下げなくちゃ、"];
+	node4 [label="ならんようになってね」と"];
+	node5 [label="鈴木君は"];
+	node6 [label="しきりに"];
+	node7 [label="金鎖りを"];
+	node8 [label="気に"];
+	node9 [label="して"];
+	node10 [label="見せる。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node10;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

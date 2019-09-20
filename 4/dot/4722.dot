@@ -1,0 +1,19 @@
+digraph graph4722 {
+	node0 [label="彼等は"];
+	node1 [label="単に"];
+	node2 [label="座敷の"];
+	node3 [label="正面に"];
+	node4 [label="逼るのみならず、"];
+	node5 [label="この"];
+	node6 [label="正面において"];
+	node7 [label="歌を"];
+	node8 [label="うたいだした。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

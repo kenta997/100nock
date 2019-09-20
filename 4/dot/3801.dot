@@ -1,0 +1,27 @@
+digraph graph3801 {
+	node0 [label="実を"];
+	node1 [label="云うと"];
+	node2 [label="惚れるとか"];
+	node3 [label="惚れないとか"];
+	node4 [label="云うのは"];
+	node5 [label="俳人"];
+	node6 [label="その"];
+	node7 [label="人に"];
+	node8 [label="存する"];
+	node9 [label="感情で"];
+	node10 [label="烏とは"];
+	node11 [label="没交渉の"];
+	node12 [label="沙汰であります。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

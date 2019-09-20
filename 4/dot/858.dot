@@ -1,0 +1,13 @@
+digraph graph858 {
+	node0 [label="それに"];
+	node1 [label="較べると"];
+	node2 [label="この"];
+	node3 [label="年始状は"];
+	node4 [label="例外にも"];
+	node5 [label="世間的である。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

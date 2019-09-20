@@ -1,0 +1,37 @@
+digraph graph1779 {
+	node0 [label="猿智慧から"];
+	node1 [label="割り出した"];
+	node2 [label="術数と、"];
+	node3 [label="天来の"];
+	node4 [label="滑稽趣味と"];
+	node5 [label="混同されちゃ、"];
+	node6 [label="コメディーの"];
+	node7 [label="神様も"];
+	node8 [label="活眼の"];
+	node9 [label="士"];
+	node10 [label="なきを"];
+	node11 [label="嘆ぜざるを得ざる"];
+	node12 [label="訳に"];
+	node13 [label="立ち至りますからな」主人は"];
+	node14 [label="俯目に"];
+	node15 [label="なって"];
+	node16 [label="「どうだか」と"];
+	node17 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

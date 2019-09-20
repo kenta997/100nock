@@ -1,0 +1,17 @@
+digraph graph1213 {
+	node0 [label="「そろそろ"];
+	node1 [label="出掛けましょうか」と"];
+	node2 [label="妻君が"];
+	node3 [label="書斎の"];
+	node4 [label="開き戸を"];
+	node5 [label="明けて"];
+	node6 [label="顔を"];
+	node7 [label="出す。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

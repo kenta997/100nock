@@ -1,0 +1,11 @@
+digraph graph1670 {
+	node0 [label="「それを"];
+	node1 [label="勉強すると"];
+	node2 [label="博士に"];
+	node3 [label="なれましょうか」と"];
+	node4 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

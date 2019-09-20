@@ -1,0 +1,13 @@
+digraph graph3160 {
+	node0 [label="「相変らず、"];
+	node1 [label="えらい"];
+	node2 [label="見識ですね」と"];
+	node3 [label="細君が"];
+	node4 [label="笑いながら"];
+	node5 [label="云う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

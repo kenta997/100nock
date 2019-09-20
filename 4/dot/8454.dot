@@ -1,0 +1,27 @@
+digraph graph8454 {
+	node0 [label="だから"];
+	node1 [label="探偵と"];
+	node2 [label="云う"];
+	node3 [label="奴は"];
+	node4 [label="スリ、"];
+	node5 [label="泥棒、"];
+	node6 [label="強盗の"];
+	node7 [label="一族で"];
+	node8 [label="とうてい"];
+	node9 [label="人の"];
+	node10 [label="風上に"];
+	node11 [label="置ける"];
+	node12 [label="ものではない。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

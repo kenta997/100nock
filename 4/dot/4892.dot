@@ -1,0 +1,19 @@
+digraph graph4892 {
+	node0 [label="ある"];
+	node1 [label="人は"];
+	node2 [label="インスピレーションを"];
+	node3 [label="得る"];
+	node4 [label="ために"];
+	node5 [label="毎日"];
+	node6 [label="渋柿を"];
+	node7 [label="十二個ずつ"];
+	node8 [label="食った。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

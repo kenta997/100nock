@@ -1,0 +1,9 @@
+digraph graph7640 {
+	node0 [label="薫風南より"];
+	node1 [label="来って、"];
+	node2 [label="殿閣微涼を"];
+	node3 [label="生ず。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,9 @@
+digraph graph6119 {
+	node0 [label="「君のような"];
+	node1 [label="いたずらものに"];
+	node2 [label="逢っちゃ"];
+	node3 [label="叶わない」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

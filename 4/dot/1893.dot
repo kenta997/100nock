@@ -1,0 +1,11 @@
+digraph graph1893 {
+	node0 [label="——"];
+	node1 [label="毎度"];
+	node2 [label="御贔屓に"];
+	node3 [label="あずかりまして"];
+	node4 [label="ありがとうございます？"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

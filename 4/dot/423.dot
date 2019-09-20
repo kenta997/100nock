@@ -1,0 +1,19 @@
+digraph graph423 {
+	node0 [label="「なに二人とも"];
+	node1 [label="去る"];
+	node2 [label="所の"];
+	node3 [label="令嬢ですよ、"];
+	node4 [label="御存じの"];
+	node5 [label="方じゃ"];
+	node6 [label="ありません」と"];
+	node7 [label="余所余所しい返事を"];
+	node8 [label="する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

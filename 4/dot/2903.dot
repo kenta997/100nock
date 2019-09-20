@@ -1,0 +1,13 @@
+digraph graph2903 {
+	node0 [label="「黒繻子と"];
+	node1 [label="縮緬の"];
+	node2 [label="腹合せの"];
+	node3 [label="帯一筋——"];
+	node4 [label="価は"];
+	node5 [label="いくらくらいだ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,15 @@
+digraph graph6791 {
+	node0 [label="「いいえ、"];
+	node1 [label="先生じゃないけども、"];
+	node2 [label="淑徳婦人会の"];
+	node3 [label="ときに"];
+	node4 [label="招待して、"];
+	node5 [label="演説を"];
+	node6 [label="して頂いたの」"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

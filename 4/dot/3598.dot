@@ -1,0 +1,23 @@
+digraph graph3598 {
+	node0 [label="僕は"];
+	node1 [label="その"];
+	node2 [label="時から"];
+	node3 [label="恋と"];
+	node4 [label="云う"];
+	node5 [label="曲者の"];
+	node6 [label="魔力を"];
+	node7 [label="切実に"];
+	node8 [label="自覚したね」"];
+	node9 [label="「おや"];
+	node10 [label="いやだ。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

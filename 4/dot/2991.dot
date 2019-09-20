@@ -1,0 +1,15 @@
+digraph graph2991 {
+	node0 [label="「ところが"];
+	node1 [label="せっかく"];
+	node2 [label="下"];
+	node3 [label="すった"];
+	node4 [label="山の芋を"];
+	node5 [label="夕べ泥棒に"];
+	node6 [label="取られてしまって」"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

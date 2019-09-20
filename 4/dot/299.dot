@@ -1,0 +1,17 @@
+digraph graph299 {
+	node0 [label="君が"];
+	node1 [label="そんなに"];
+	node2 [label="真面目に"];
+	node3 [label="信じようとは"];
+	node4 [label="思わなかった"];
+	node5 [label="ハハハハ」と"];
+	node6 [label="大喜悦の"];
+	node7 [label="体である。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

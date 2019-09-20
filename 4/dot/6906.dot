@@ -1,0 +1,11 @@
+digraph graph6906 {
+	node0 [label="」と"];
+	node1 [label="すん"];
+	node2 [label="子が"];
+	node3 [label="質問を"];
+	node4 [label="する。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

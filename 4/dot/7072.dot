@@ -1,0 +1,11 @@
+digraph graph7072 {
+	node0 [label="そんな"];
+	node1 [label="事が"];
+	node2 [label="知れると"];
+	node3 [label="免職に"];
+	node4 [label="なってよ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

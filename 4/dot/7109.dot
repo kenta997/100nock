@@ -1,0 +1,5 @@
+digraph graph7109 {
+	node0 [label="主人は"];
+	node1 [label="真面目になって"];
+	node0 -> node1;
+}

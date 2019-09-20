@@ -1,0 +1,9 @@
+digraph graph6274 {
+	node0 [label="「そう"];
+	node1 [label="猛烈に"];
+	node2 [label="やって来ては"];
+	node3 [label="恐れ入るがね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

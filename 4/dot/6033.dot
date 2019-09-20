@@ -1,0 +1,9 @@
+digraph graph6033 {
+	node0 [label="「蝦蟆を"];
+	node1 [label="打ち殺すと"];
+	node2 [label="仰向きに"];
+	node3 [label="かえる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,13 @@
+digraph graph752 {
+	node0 [label="吾輩は"];
+	node1 [label="挨拶の"];
+	node2 [label="しようも"];
+	node3 [label="ないから"];
+	node4 [label="黙って"];
+	node5 [label="見ている。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

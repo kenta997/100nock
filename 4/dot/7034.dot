@@ -1,0 +1,5 @@
+digraph graph7034 {
+	node0 [label="「油壺な"];
+	node1 [label="ものか。"];
+	node0 -> node1;
+}

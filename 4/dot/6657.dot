@@ -1,0 +1,9 @@
+digraph graph6657 {
+	node0 [label="坊ばは"];
+	node1 [label="固より"];
+	node2 [label="薩摩芋が"];
+	node3 [label="大好きである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

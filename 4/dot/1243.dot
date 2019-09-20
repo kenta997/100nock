@@ -1,0 +1,11 @@
+digraph graph1243 {
+	node0 [label="考え出すと"];
+	node1 [label="あぶない"];
+	node2 [label="ところだったと"];
+	node3 [label="今でも"];
+	node4 [label="思うのさ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph4535 {
+	node0 [label="帰りながらも"];
+	node1 [label="考えた。"];
+	node0 -> node1;
+}

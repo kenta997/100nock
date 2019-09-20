@@ -1,0 +1,19 @@
+digraph graph7141 {
+	node0 [label="人の"];
+	node1 [label="ものを"];
+	node2 [label="還せだなんて、"];
+	node3 [label="他人だって"];
+	node4 [label="そんな"];
+	node5 [label="不人情な"];
+	node6 [label="事は"];
+	node7 [label="云や"];
+	node8 [label="しない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,15 @@
+digraph graph7825 {
+	node0 [label="そんな"];
+	node1 [label="ところで"];
+	node2 [label="君が"];
+	node3 [label="ヴァイオリンを"];
+	node4 [label="独習したのは"];
+	node5 [label="見上げた"];
+	node6 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

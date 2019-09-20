@@ -1,0 +1,15 @@
+digraph graph2821 {
+	node0 [label="陰士は"];
+	node1 [label="毛布を"];
+	node2 [label="落して、"];
+	node3 [label="出した"];
+	node4 [label="足を"];
+	node5 [label="急に"];
+	node6 [label="引き込ます。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

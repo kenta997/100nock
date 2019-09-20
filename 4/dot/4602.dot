@@ -1,0 +1,11 @@
+digraph graph4602 {
+	node0 [label="「その"];
+	node1 [label="はいは"];
+	node2 [label="感投詞か"];
+	node3 [label="副詞か、"];
+	node4 [label="どっちだ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

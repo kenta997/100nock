@@ -1,0 +1,9 @@
+digraph graph5317 {
+	node0 [label="ところが"];
+	node1 [label="どうしても"];
+	node2 [label="笑いが"];
+	node3 [label="とまらない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

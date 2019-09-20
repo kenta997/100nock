@@ -1,0 +1,11 @@
+digraph graph8328 {
+	node0 [label="「もう"];
+	node1 [label="帰ったって"];
+	node2 [label="甘干しの"];
+	node3 [label="柿は"];
+	node4 [label="ないぜ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

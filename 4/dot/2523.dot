@@ -1,0 +1,13 @@
+digraph graph2523 {
+	node0 [label="七日"];
+	node1 [label="立っても"];
+	node2 [label="二十日"];
+	node3 [label="立っても"];
+	node4 [label="一枚も"];
+	node5 [label="書かない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

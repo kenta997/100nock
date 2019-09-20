@@ -1,0 +1,11 @@
+digraph graph4202 {
+	node0 [label="たとい"];
+	node1 [label="天下の"];
+	node2 [label="美猫といえども"];
+	node3 [label="ご免"];
+	node4 [label="蒙る。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

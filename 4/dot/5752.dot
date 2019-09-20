@@ -1,0 +1,37 @@
+digraph graph5752 {
+	node0 [label="　主人が"];
+	node1 [label="満腔の"];
+	node2 [label="熱誠を"];
+	node3 [label="もって"];
+	node4 [label="髯を"];
+	node5 [label="調練していると、"];
+	node6 [label="台所から"];
+	node7 [label="多角性の"];
+	node8 [label="御三が"];
+	node9 [label="郵便が"];
+	node10 [label="参りましたと、"];
+	node11 [label="例のごとく"];
+	node12 [label="赤い"];
+	node13 [label="手を"];
+	node14 [label="ぬっと"];
+	node15 [label="書斎の"];
+	node16 [label="中へ"];
+	node17 [label="出した。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node17;
+	node11 -> node17;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

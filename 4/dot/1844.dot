@@ -1,0 +1,33 @@
+digraph graph1844 {
+	node0 [label="この"];
+	node1 [label="時"];
+	node2 [label="吾輩は"];
+	node3 [label="我ながら、"];
+	node4 [label="わが"];
+	node5 [label="力量に"];
+	node6 [label="感服して、"];
+	node7 [label="これも"];
+	node8 [label="普段"];
+	node9 [label="大事にする"];
+	node10 [label="尻尾の"];
+	node11 [label="御蔭だなと"];
+	node12 [label="気が付いて"];
+	node13 [label="見ると"];
+	node14 [label="ただ"];
+	node15 [label="置かれない。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

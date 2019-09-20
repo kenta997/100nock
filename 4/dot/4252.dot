@@ -1,0 +1,5 @@
+digraph graph4252 {
+	node0 [label="二十世紀の"];
+	node1 [label="アダムである。"];
+	node0 -> node1;
+}

@@ -1,0 +1,5 @@
+digraph graph2913 {
+	node0 [label="値段は"];
+	node1 [label="いくらだ」"];
+	node0 -> node1;
+}

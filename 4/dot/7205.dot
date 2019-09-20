@@ -1,0 +1,15 @@
+digraph graph7205 {
+	node0 [label="して"];
+	node1 [label="見ると"];
+	node2 [label="女は"];
+	node3 [label="同年輩でも"];
+	node4 [label="なかなか"];
+	node5 [label="えらい"];
+	node6 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

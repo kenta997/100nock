@@ -1,0 +1,23 @@
+digraph graph6437 {
+	node0 [label="夜中なぞでも、"];
+	node1 [label="いくら"];
+	node2 [label="こっちが"];
+	node3 [label="用が"];
+	node4 [label="あるから"];
+	node5 [label="開けてくれろと"];
+	node6 [label="云っても"];
+	node7 [label="決して"];
+	node8 [label="開けてくれた"];
+	node9 [label="事が"];
+	node10 [label="ない。"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

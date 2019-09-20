@@ -1,0 +1,33 @@
+digraph graph2300 {
+	node0 [label="しかし"];
+	node1 [label="忍ばねばならぬだけ"];
+	node2 [label="それだけ"];
+	node3 [label="猫に対する"];
+	node4 [label="憎悪の"];
+	node5 [label="念は"];
+	node6 [label="増す"];
+	node7 [label="訳であるから、"];
+	node8 [label="鈴木君は"];
+	node9 [label="時々"];
+	node10 [label="吾輩の"];
+	node11 [label="顔を"];
+	node12 [label="見ては"];
+	node13 [label="苦い"];
+	node14 [label="顔を"];
+	node15 [label="する。"];
+	node0 -> node15;
+	node1 -> node7;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node15;
+	node8 -> node15;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

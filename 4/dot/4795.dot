@@ -1,0 +1,29 @@
+digraph graph4795 {
+	node0 [label="のみならず"];
+	node1 [label="からかいでもしなければ、"];
+	node2 [label="活気に"];
+	node3 [label="充ちた"];
+	node4 [label="五体と"];
+	node5 [label="頭脳を、"];
+	node6 [label="いかに"];
+	node7 [label="使用して"];
+	node8 [label="しかるべきか"];
+	node9 [label="十分の"];
+	node10 [label="休暇中"];
+	node11 [label="持てあまして"];
+	node12 [label="困っている"];
+	node13 [label="連中である。"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

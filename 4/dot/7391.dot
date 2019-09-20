@@ -1,0 +1,25 @@
+digraph graph7391 {
+	node0 [label="かの"];
+	node1 [label="偉大なる"];
+	node2 [label="頭脳は"];
+	node3 [label="ナポレオンの"];
+	node4 [label="それが"];
+	node5 [label="功名心をもって"];
+	node6 [label="充満せるがごとく、"];
+	node7 [label="まさに"];
+	node8 [label="心配を"];
+	node9 [label="もって"];
+	node10 [label="はちきれんと"];
+	node11 [label="している。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,13 @@
+digraph graph661 {
+	node0 [label="赤い"];
+	node1 [label="首輪に"];
+	node2 [label="つけた"];
+	node3 [label="鈴が"];
+	node4 [label="ちゃらちゃらと"];
+	node5 [label="鳴る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

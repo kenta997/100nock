@@ -1,0 +1,13 @@
+digraph graph6746 {
+	node0 [label="「その"];
+	node1 [label="談判を"];
+	node2 [label="蔭で"];
+	node3 [label="聞いていると、"];
+	node4 [label="本当に"];
+	node5 [label="面白いのよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,21 @@
+digraph graph1798 {
+	node0 [label="幸い"];
+	node1 [label="天気も"];
+	node2 [label="好い、"];
+	node3 [label="霜解は"];
+	node4 [label="少々"];
+	node5 [label="閉口するが"];
+	node6 [label="道の"];
+	node7 [label="ためには"];
+	node8 [label="一命も"];
+	node9 [label="すてる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

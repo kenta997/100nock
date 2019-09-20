@@ -1,0 +1,11 @@
+digraph graph3177 {
+	node0 [label="先生あすこの"];
+	node1 [label="団子を"];
+	node2 [label="食った"];
+	node3 [label="事が"];
+	node4 [label="ありますか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

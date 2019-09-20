@@ -1,0 +1,13 @@
+digraph graph195 {
+	node0 [label="大王は"];
+	node1 [label="かっと"];
+	node2 [label="その"];
+	node3 [label="真丸の"];
+	node4 [label="眼を"];
+	node5 [label="開いた。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

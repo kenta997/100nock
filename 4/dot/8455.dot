@@ -1,0 +1,15 @@
+digraph graph8455 {
+	node0 [label="そんな"];
+	node1 [label="奴の"];
+	node2 [label="云う"];
+	node3 [label="事を"];
+	node4 [label="聞くと"];
+	node5 [label="癖に"];
+	node6 [label="なる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,15 @@
+digraph graph2580 {
+	node0 [label="「えらいと"];
+	node1 [label="褒めるなら、"];
+	node2 [label="もう少し"];
+	node3 [label="博学な"];
+	node4 [label="ところを"];
+	node5 [label="御目に"];
+	node6 [label="かけるがね。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

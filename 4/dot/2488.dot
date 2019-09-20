@@ -1,0 +1,19 @@
+digraph graph2488 {
+	node0 [label="「ほんとに"];
+	node1 [label="曾呂崎の"];
+	node2 [label="焚いた"];
+	node3 [label="飯は"];
+	node4 [label="焦げくさくって"];
+	node5 [label="心が"];
+	node6 [label="あって"];
+	node7 [label="僕も"];
+	node8 [label="弱った。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

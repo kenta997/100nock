@@ -1,0 +1,5 @@
+digraph graph7880 {
+	node0 [label="それでこそ"];
+	node1 [label="独仙君だ」"];
+	node0 -> node1;
+}

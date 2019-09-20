@@ -1,0 +1,31 @@
+digraph graph2211 {
+	node0 [label="その"];
+	node1 [label="煙りは"];
+	node2 [label="春風に"];
+	node3 [label="浮きつ"];
+	node4 [label="沈みつ、"];
+	node5 [label="流れる"];
+	node6 [label="輪を"];
+	node7 [label="幾重にも"];
+	node8 [label="描いて、"];
+	node9 [label="紫"];
+	node10 [label="深き"];
+	node11 [label="細君の"];
+	node12 [label="洗髪の"];
+	node13 [label="根本へ"];
+	node14 [label="吹き寄せつつある。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

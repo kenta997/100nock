@@ -1,0 +1,7 @@
+digraph graph2740 {
+	node0 [label="鼻は"];
+	node1 [label="猫にとっても"];
+	node2 [label="急所である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

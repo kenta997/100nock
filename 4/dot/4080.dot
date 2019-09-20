@@ -1,0 +1,7 @@
+digraph graph4080 {
+	node0 [label="足懸りの"];
+	node1 [label="いいものは"];
+	node2 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

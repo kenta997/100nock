@@ -1,0 +1,29 @@
+digraph graph5811 {
+	node0 [label="吾の"];
+	node1 [label="人を"];
+	node2 [label="人と"];
+	node3 [label="思う"];
+	node4 [label="とき、"];
+	node5 [label="他の"];
+	node6 [label="吾を"];
+	node7 [label="吾と"];
+	node8 [label="思わぬ"];
+	node9 [label="時、"];
+	node10 [label="不平家は"];
+	node11 [label="発作的に"];
+	node12 [label="天"];
+	node13 [label="降る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

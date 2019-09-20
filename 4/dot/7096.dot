@@ -1,0 +1,5 @@
+digraph graph7096 {
+	node0 [label="「保険は"];
+	node1 [label="嫌ではない。"];
+	node0 -> node1;
+}

@@ -1,0 +1,15 @@
+digraph graph1490 {
+	node0 [label="「これから"];
+	node1 [label="本論に"];
+	node2 [label="這入る"];
+	node3 [label="ところですから、"];
+	node4 [label="少々"];
+	node5 [label="御辛防を"];
+	node6 [label="願います。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

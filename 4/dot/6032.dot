@@ -1,0 +1,5 @@
+digraph graph6032 {
+	node0 [label="「へえ、"];
+	node1 [label="驚ろいたな」"];
+	node0 -> node1;
+}

@@ -1,0 +1,11 @@
+digraph graph24 {
+	node0 [label="たくさん"];
+	node1 [label="おった"];
+	node2 [label="兄弟が"];
+	node3 [label="一疋も"];
+	node4 [label="見えぬ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

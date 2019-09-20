@@ -1,0 +1,13 @@
+digraph graph829 {
+	node0 [label="東風子は"];
+	node1 [label="別段"];
+	node2 [label="癪に"];
+	node3 [label="障った"];
+	node4 [label="様子も"];
+	node5 [label="ない。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

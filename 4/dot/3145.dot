@@ -1,0 +1,5 @@
+digraph graph3145 {
+	node0 [label="「どげんな"];
+	node1 [label="人物ですか」"];
+	node0 -> node1;
+}

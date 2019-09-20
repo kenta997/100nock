@@ -1,0 +1,17 @@
+digraph graph5742 {
+	node0 [label="その"];
+	node1 [label="熱心の"];
+	node2 [label="功果は"];
+	node3 [label="空しからずして"];
+	node4 [label="昨今"];
+	node5 [label="ようやく歩調が"];
+	node6 [label="少し"];
+	node7 [label="ととのうようになって来た。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

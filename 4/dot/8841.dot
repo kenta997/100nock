@@ -1,0 +1,23 @@
+digraph graph8841 {
+	node0 [label="愉快な"];
+	node1 [label="事実が"];
+	node2 [label="あって、"];
+	node3 [label="この"];
+	node4 [label="愉快な"];
+	node5 [label="事実を"];
+	node6 [label="紙に"];
+	node7 [label="写し"];
+	node8 [label="かえたのだから、"];
+	node9 [label="苦味は"];
+	node10 [label="ないはずだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

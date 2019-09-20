@@ -1,0 +1,7 @@
+digraph graph3022 {
+	node0 [label="「わたしのは"];
+	node1 [label="バクテリヤじゃ"];
+	node2 [label="ありません」"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,19 @@
+digraph graph8437 {
+	node0 [label="要するに"];
+	node1 [label="鉢合せを"];
+	node2 [label="しないでも"];
+	node3 [label="すむ"];
+	node4 [label="ところを"];
+	node5 [label="わざわざ"];
+	node6 [label="鉢合せるんだから"];
+	node7 [label="余計な"];
+	node8 [label="事さ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

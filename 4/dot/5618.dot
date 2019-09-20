@@ -1,0 +1,13 @@
+digraph graph5618 {
+	node0 [label="この"];
+	node1 [label="座布団の"];
+	node2 [label="上に"];
+	node3 [label="後ろ向きに"];
+	node4 [label="かしこまっているのが"];
+	node5 [label="主人である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

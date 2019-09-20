@@ -1,0 +1,5 @@
+digraph graph7195 {
+	node0 [label="それにもかかわらず"];
+	node1 [label="敷かない。"];
+	node0 -> node1;
+}

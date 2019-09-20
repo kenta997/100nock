@@ -1,0 +1,11 @@
+digraph graph5547 {
+	node0 [label="　主人は"];
+	node1 [label="分ったとも、"];
+	node2 [label="分らないとも"];
+	node3 [label="言わずに"];
+	node4 [label="聞いていた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

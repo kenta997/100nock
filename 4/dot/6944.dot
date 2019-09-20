@@ -1,0 +1,37 @@
+digraph graph6944 {
+	node0 [label="ただ"];
+	node1 [label="御婦人に"];
+	node2 [label="在っては"];
+	node3 [label="なるべく"];
+	node4 [label="ただいま"];
+	node5 [label="申した"];
+	node6 [label="昔話を"];
+	node7 [label="御記憶に"];
+	node8 [label="なって、"];
+	node9 [label="いざと"];
+	node10 [label="云う"];
+	node11 [label="場合には"];
+	node12 [label="どうか"];
+	node13 [label="馬鹿竹のような"];
+	node14 [label="正直な"];
+	node15 [label="了見で"];
+	node16 [label="物事を"];
+	node17 [label="処理していただきたい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node17;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node17;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node17;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

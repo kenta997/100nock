@@ -1,0 +1,15 @@
+digraph graph6977 {
+	node0 [label="自分じゃ、"];
+	node1 [label="あんな"];
+	node2 [label="事を"];
+	node3 [label="するのが"];
+	node4 [label="当前だとまで"];
+	node5 [label="思ってるんです"];
+	node6 [label="もの」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

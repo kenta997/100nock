@@ -1,0 +1,31 @@
+digraph graph8798 {
+	node0 [label="「先生"];
+	node1 [label="私は"];
+	node2 [label="その"];
+	node3 [label="説には"];
+	node4 [label="全然"];
+	node5 [label="反対です」と"];
+	node6 [label="東風君は"];
+	node7 [label="この"];
+	node8 [label="時"];
+	node9 [label="思い切った"];
+	node10 [label="調子で"];
+	node11 [label="ぴたりと"];
+	node12 [label="平手で"];
+	node13 [label="膝頭を"];
+	node14 [label="叩いた。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

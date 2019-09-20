@@ -1,0 +1,11 @@
+digraph graph5626 {
+	node0 [label="鏡と"];
+	node1 [label="云えば"];
+	node2 [label="風呂場に"];
+	node3 [label="あるに"];
+	node4 [label="極まっている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

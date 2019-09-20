@@ -1,0 +1,7 @@
+digraph graph6540 {
+	node0 [label="腸には"];
+	node1 [label="いろいろなのが"];
+	node2 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+}

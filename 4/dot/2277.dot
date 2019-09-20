@@ -1,0 +1,15 @@
+digraph graph2277 {
+	node0 [label="とにかく"];
+	node1 [label="迷惑なのは"];
+	node2 [label="臭い"];
+	node3 [label="所へ"];
+	node4 [label="随行を"];
+	node5 [label="命ぜられた"];
+	node6 [label="名刺君である。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,5 @@
+digraph graph6727 {
+	node0 [label="「じゃなお"];
+	node1 [label="悪るいわ。"];
+	node0 -> node1;
+}

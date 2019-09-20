@@ -1,0 +1,27 @@
+digraph graph368 {
+	node0 [label="彼は"];
+	node1 [label="性の"];
+	node2 [label="悪い"];
+	node3 [label="牡蠣のごとく"];
+	node4 [label="書斎に"];
+	node5 [label="吸い付いて、"];
+	node6 [label="かつて"];
+	node7 [label="外界に"];
+	node8 [label="向って"];
+	node9 [label="口を"];
+	node10 [label="開いた"];
+	node11 [label="事が"];
+	node12 [label="ない。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

@@ -1,0 +1,5 @@
+digraph graph5061 {
+	node0 [label="恐れ入らねえかと"];
+	node1 [label="云う。"];
+	node0 -> node1;
+}

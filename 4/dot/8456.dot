@@ -1,0 +1,5 @@
+digraph graph8456 {
+	node0 [label="決して"];
+	node1 [label="負けるな」"];
+	node0 -> node1;
+}

@@ -1,0 +1,15 @@
+digraph graph475 {
+	node0 [label="寒月と、"];
+	node1 [label="根津、"];
+	node2 [label="上野、"];
+	node3 [label="池の"];
+	node4 [label="端、"];
+	node5 [label="神田辺を"];
+	node6 [label="散歩。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

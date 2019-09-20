@@ -1,0 +1,9 @@
+digraph graph2898 {
+	node0 [label="宿場女郎でも"];
+	node1 [label="何でも"];
+	node2 [label="盗られりゃ"];
+	node3 [label="仕方がないじゃありませんか」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

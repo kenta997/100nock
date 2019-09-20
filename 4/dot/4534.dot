@@ -1,0 +1,17 @@
+digraph graph4534 {
+	node0 [label="吾輩は"];
+	node1 [label="少々"];
+	node2 [label="物凄くなったから"];
+	node3 [label="早々"];
+	node4 [label="窓から"];
+	node5 [label="飛び下りて"];
+	node6 [label="家に"];
+	node7 [label="帰る。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

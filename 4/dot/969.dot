@@ -1,0 +1,21 @@
+digraph graph969 {
+	node0 [label="どれ"];
+	node1 [label="読んで"];
+	node2 [label="見給え、"];
+	node3 [label="僕が"];
+	node4 [label="批評してやるから」と"];
+	node5 [label="迷亭先生は"];
+	node6 [label="審美眼の"];
+	node7 [label="本家のような"];
+	node8 [label="事を"];
+	node9 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

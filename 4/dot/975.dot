@@ -1,0 +1,11 @@
+digraph graph975 {
+	node0 [label="彼等は"];
+	node1 [label="高く"];
+	node2 [label="球を"];
+	node3 [label="空中に"];
+	node4 [label="擲つ。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

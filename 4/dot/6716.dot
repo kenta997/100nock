@@ -1,0 +1,13 @@
+digraph graph6716 {
+	node0 [label="「叔父さんほど、"];
+	node1 [label="寝坊は"];
+	node2 [label="ないんですから……そうして"];
+	node3 [label="起こすと"];
+	node4 [label="ぷんぷん"];
+	node5 [label="怒るのよ。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

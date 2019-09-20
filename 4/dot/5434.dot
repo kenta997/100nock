@@ -1,0 +1,7 @@
+digraph graph5434 {
+	node0 [label="とうてい"];
+	node1 [label="あけないから」と"];
+	node2 [label="云われる。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,11 @@
+digraph graph297 {
+	node0 [label="「何がって"];
+	node1 [label="君の"];
+	node2 [label="しきりに"];
+	node3 [label="感服している"];
+	node4 [label="アンドレア・デル・サルトさ。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

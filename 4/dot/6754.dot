@@ -1,0 +1,5 @@
+digraph graph6754 {
+	node0 [label="「決心したって、"];
+	node1 [label="死ぬわねえ。"];
+	node0 -> node1;
+}

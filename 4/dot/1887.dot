@@ -1,0 +1,7 @@
+digraph graph1887 {
+	node0 [label="妾しを"];
+	node1 [label="誰だか"];
+	node2 [label="知ってるのかい。"];
+	node0 -> node2;
+	node1 -> node2;
+}

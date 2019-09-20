@@ -1,0 +1,9 @@
+digraph graph1292 {
+	node0 [label="　御誂え通りに"];
+	node1 [label="なっては、"];
+	node2 [label="ちと"];
+	node3 [label="困る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

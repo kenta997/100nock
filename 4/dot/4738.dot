@@ -1,0 +1,19 @@
+digraph graph4738 {
+	node0 [label="この"];
+	node1 [label="くらい"];
+	node2 [label="やかましく"];
+	node3 [label="云ったら"];
+	node4 [label="もう"];
+	node5 [label="よかろうと"];
+	node6 [label="主人は"];
+	node7 [label="思っていた"];
+	node8 [label="そうだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,13 @@
+digraph graph5087 {
+	node0 [label="ダムダム弾は"];
+	node1 [label="貴重かも知れないが、"];
+	node2 [label="主人に"];
+	node3 [label="からかうのは"];
+	node4 [label="ダムダム弾以上に"];
+	node5 [label="大事である。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

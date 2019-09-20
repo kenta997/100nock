@@ -1,0 +1,15 @@
+digraph graph7173 {
+	node0 [label="事実は"];
+	node1 [label="そうかも知れないが"];
+	node2 [label="ちょっと"];
+	node3 [label="見ると"];
+	node4 [label="ナポレオンのようで"];
+	node5 [label="すこぶる"];
+	node6 [label="偉観である。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

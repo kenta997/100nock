@@ -1,0 +1,9 @@
+digraph graph3117 {
+	node0 [label="それでも"];
+	node1 [label="先生より"];
+	node2 [label="貯蓄が"];
+	node3 [label="あります」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

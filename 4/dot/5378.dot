@@ -1,0 +1,25 @@
+digraph graph5378 {
+	node0 [label="いくら"];
+	node1 [label="中学校の"];
+	node2 [label="隣に"];
+	node3 [label="居を"];
+	node4 [label="構えたって、"];
+	node5 [label="かくのごとく"];
+	node6 [label="年が年中"];
+	node7 [label="肝癪を"];
+	node8 [label="起しつづけは"];
+	node9 [label="ちと"];
+	node10 [label="変だと"];
+	node11 [label="気が付いた。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,9 @@
+digraph graph2817 {
+	node0 [label="　陰士は"];
+	node1 [label="小脇に"];
+	node2 [label="なにか"];
+	node3 [label="抱えている。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

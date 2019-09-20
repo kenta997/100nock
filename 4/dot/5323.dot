@@ -1,0 +1,9 @@
+digraph graph5323 {
+	node0 [label="　下女は"];
+	node1 [label="台所から"];
+	node2 [label="「はい」と"];
+	node3 [label="答える。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

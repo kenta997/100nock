@@ -1,0 +1,23 @@
+digraph graph5373 {
+	node0 [label="　"];
+	node1 [label="鈴木君は"];
+	node2 [label="もう"];
+	node3 [label="大概訪問の"];
+	node4 [label="意を"];
+	node5 [label="果したと"];
+	node6 [label="思ったから、"];
+	node7 [label="それじゃ"];
+	node8 [label="失敬ちと"];
+	node9 [label="来たまえと"];
+	node10 [label="帰って行く。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

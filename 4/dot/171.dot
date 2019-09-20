@@ -1,0 +1,17 @@
+digraph graph171 {
+	node0 [label="なるべくなら"];
+	node1 [label="動かず"];
+	node2 [label="におってやりたいと"];
+	node3 [label="思ったが、"];
+	node4 [label="さっきから"];
+	node5 [label="小便が"];
+	node6 [label="催"];
+	node7 [label="うしている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

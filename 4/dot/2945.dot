@@ -1,0 +1,9 @@
+digraph graph2945 {
+	node0 [label="「意味も"];
+	node1 [label="何にも"];
+	node2 [label="ある"];
+	node3 [label="もんか」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

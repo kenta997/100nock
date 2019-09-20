@@ -1,0 +1,33 @@
+digraph graph6330 {
+	node0 [label="なるほど"];
+	node1 [label="考えて"];
+	node2 [label="見ると"];
+	node3 [label="このほどじゅうから"];
+	node4 [label="自分の"];
+	node5 [label="脳の"];
+	node6 [label="作用は"];
+	node7 [label="我ながら"];
+	node8 [label="驚く"];
+	node9 [label="くらい"];
+	node10 [label="奇上に"];
+	node11 [label="妙を"];
+	node12 [label="点じ"];
+	node13 [label="変傍に"];
+	node14 [label="珍を"];
+	node15 [label="添えている。"];
+	node0 -> node15;
+	node1 -> node2;
+	node2 -> node15;
+	node3 -> node15;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

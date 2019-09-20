@@ -1,0 +1,11 @@
+digraph graph5100 {
+	node0 [label="　こうなっては"];
+	node1 [label="いかに"];
+	node2 [label="消極的なる"];
+	node3 [label="主人といえども"];
+	node4 [label="応戦しなければならん。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

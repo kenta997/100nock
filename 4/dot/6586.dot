@@ -1,0 +1,21 @@
+digraph graph6586 {
+	node0 [label="考えると"];
+	node1 [label="たちが"];
+	node2 [label="悪いようだが"];
+	node3 [label="こんな"];
+	node4 [label="事は"];
+	node5 [label="世間に"];
+	node6 [label="往々"];
+	node7 [label="ある"];
+	node8 [label="事だと"];
+	node9 [label="思う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,13 @@
+digraph graph9105 {
+	node0 [label="泥が"];
+	node1 [label="ついても"];
+	node2 [label="転がれぬ"];
+	node3 [label="ものよりも"];
+	node4 [label="幅が"];
+	node5 [label="利く。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

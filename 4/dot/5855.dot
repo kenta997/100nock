@@ -1,0 +1,7 @@
+digraph graph5855 {
+	node0 [label="吾輩だって"];
+	node1 [label="出るのは"];
+	node2 [label="いやだ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

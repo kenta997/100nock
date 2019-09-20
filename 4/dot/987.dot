@@ -1,0 +1,5 @@
+digraph graph987 {
+	node0 [label="引かねば"];
+	node1 [label="飛んでしまう。"];
+	node0 -> node1;
+}

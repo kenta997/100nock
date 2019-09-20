@@ -1,0 +1,29 @@
+digraph graph2234 {
+	node0 [label="観音様の"];
+	node1 [label="鳩と"];
+	node2 [label="細君の"];
+	node3 [label="禿とは"];
+	node4 [label="何等の"];
+	node5 [label="関係も"];
+	node6 [label="ないようであるが、"];
+	node7 [label="主人の"];
+	node8 [label="頭では"];
+	node9 [label="二つの"];
+	node10 [label="間に"];
+	node11 [label="密接な"];
+	node12 [label="聯想が"];
+	node13 [label="ある。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

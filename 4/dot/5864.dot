@@ -1,0 +1,11 @@
+digraph graph5864 {
+	node0 [label="「うん、"];
+	node1 [label="ちと"];
+	node2 [label="考え事が"];
+	node3 [label="ある"];
+	node4 [label="もんだから」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,27 @@
+digraph graph5972 {
+	node0 [label="「すべて"];
+	node1 [label="今の"];
+	node2 [label="世の"];
+	node3 [label="学問は"];
+	node4 [label="皆形而下の"];
+	node5 [label="学で"];
+	node6 [label="ちょっと"];
+	node7 [label="結構なようだが、"];
+	node8 [label="いざと"];
+	node9 [label="なると"];
+	node10 [label="すこしも"];
+	node11 [label="役には"];
+	node12 [label="立ちませんてな。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

@@ -1,0 +1,21 @@
+digraph graph3541 {
+	node0 [label="それより"];
+	node1 [label="手数を"];
+	node2 [label="掛けちゃ"];
+	node3 [label="旨く"];
+	node4 [label="食えませんよ」と"];
+	node5 [label="ハンケチで"];
+	node6 [label="口を"];
+	node7 [label="拭いて"];
+	node8 [label="ちょっと"];
+	node9 [label="一息入れている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,11 @@
+digraph graph7381 {
+	node0 [label="しかし"];
+	node1 [label="けっして"];
+	node2 [label="不道徳と"];
+	node3 [label="云っては"];
+	node4 [label="ならん。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

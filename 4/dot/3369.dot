@@ -1,0 +1,37 @@
+digraph graph3369 {
+	node0 [label="衣食は"];
+	node1 [label="まず"];
+	node2 [label="大目に"];
+	node3 [label="見て"];
+	node4 [label="勘弁すると"];
+	node5 [label="した"];
+	node6 [label="ところで、"];
+	node7 [label="生存上"];
+	node8 [label="直接の"];
+	node9 [label="利害も"];
+	node10 [label="ない"];
+	node11 [label="ところまで"];
+	node12 [label="この"];
+	node13 [label="調子で"];
+	node14 [label="押して行くのは"];
+	node15 [label="毫も"];
+	node16 [label="合点が"];
+	node17 [label="行かぬ。"];
+	node0 -> node17;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

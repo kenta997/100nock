@@ -1,0 +1,11 @@
+digraph graph462 {
+	node0 [label="「澱粉だろうが"];
+	node1 [label="何だろうが"];
+	node2 [label="駄目だよ」と"];
+	node3 [label="頑固に"];
+	node4 [label="出る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

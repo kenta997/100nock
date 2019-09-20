@@ -1,0 +1,23 @@
+digraph graph2370 {
+	node0 [label="「もし"];
+	node1 [label="クレオパトラの"];
+	node2 [label="鼻が"];
+	node3 [label="少し"];
+	node4 [label="短"];
+	node5 [label="かかったならば"];
+	node6 [label="世界の"];
+	node7 [label="表面に"];
+	node8 [label="大変化を"];
+	node9 [label="来した"];
+	node10 [label="ろうと」"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

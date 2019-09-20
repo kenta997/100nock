@@ -1,0 +1,9 @@
+digraph graph5255 {
+	node0 [label="こないだから"];
+	node1 [label="大分弱らしているんだが、"];
+	node2 [label="やっぱり"];
+	node3 [label="頑張っているんだ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

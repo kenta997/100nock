@@ -1,0 +1,9 @@
+digraph graph5343 {
+	node0 [label="昨日は"];
+	node1 [label="教師を"];
+	node2 [label="呼びつけて"];
+	node3 [label="談判してやった」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

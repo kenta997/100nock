@@ -1,0 +1,29 @@
+digraph graph2469 {
+	node0 [label="「可哀そうに、"];
+	node1 [label="そんなに"];
+	node2 [label="馬鹿にした"];
+	node3 [label="ものでもない」と"];
+	node4 [label="鈴木君は"];
+	node5 [label="当らず障らずの"];
+	node6 [label="返事は"];
+	node7 [label="したが、"];
+	node8 [label="何となく"];
+	node9 [label="落ちつきかねて、"];
+	node10 [label="例の"];
+	node11 [label="金鎖を"];
+	node12 [label="神経的に"];
+	node13 [label="いじっている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

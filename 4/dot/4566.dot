@@ -1,0 +1,27 @@
+digraph graph4566 {
+	node0 [label="ただ"];
+	node1 [label="打って"];
+	node2 [label="見ろと"];
+	node3 [label="云う"];
+	node4 [label="命令は、"];
+	node5 [label="打つ"];
+	node6 [label="事それ自身を"];
+	node7 [label="目的と"];
+	node8 [label="する"];
+	node9 [label="場合の"];
+	node10 [label="ほかに"];
+	node11 [label="用うべき"];
+	node12 [label="ものでない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

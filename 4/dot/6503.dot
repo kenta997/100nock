@@ -1,0 +1,7 @@
+digraph graph6503 {
+	node0 [label="起きると"];
+	node1 [label="云えば"];
+	node2 [label="起きるのだ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

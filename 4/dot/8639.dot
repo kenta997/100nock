@@ -1,0 +1,15 @@
+digraph graph8639 {
+	node0 [label="死骸は"];
+	node1 [label="やっぱり"];
+	node2 [label="巡査が"];
+	node3 [label="車を"];
+	node4 [label="引いて"];
+	node5 [label="拾って"];
+	node6 [label="あるくのさ。"];
+	node0 -> node6;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

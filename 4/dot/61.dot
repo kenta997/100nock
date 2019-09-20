@@ -1,0 +1,35 @@
+digraph graph61 {
+	node0 [label="主人は"];
+	node1 [label="鼻の"];
+	node2 [label="下の"];
+	node3 [label="黒い"];
+	node4 [label="毛を"];
+	node5 [label="撚りながら"];
+	node6 [label="吾輩の"];
+	node7 [label="顔を"];
+	node8 [label="しばらく"];
+	node9 [label="眺めて"];
+	node10 [label="おったが、"];
+	node11 [label="やがて"];
+	node12 [label="そんなら"];
+	node13 [label="内へ"];
+	node14 [label="置いてやれといったまま"];
+	node15 [label="奥へ"];
+	node16 [label="這入ってしまった。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

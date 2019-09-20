@@ -1,0 +1,9 @@
+digraph graph2935 {
+	node0 [label="「知らんけれども"];
+	node1 [label="十二円五十銭は"];
+	node2 [label="法外だとは"];
+	node3 [label="何だ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

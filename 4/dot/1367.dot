@@ -1,0 +1,11 @@
+digraph graph1367 {
+	node0 [label="さすがの"];
+	node1 [label="妻君も"];
+	node2 [label="笑いながら"];
+	node3 [label="茶の間へ"];
+	node4 [label="這入る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

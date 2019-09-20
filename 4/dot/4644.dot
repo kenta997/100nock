@@ -1,0 +1,9 @@
+digraph graph4644 {
+	node0 [label="苦しいばかりですわ」と"];
+	node1 [label="苦々しい"];
+	node2 [label="顔を"];
+	node3 [label="する。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

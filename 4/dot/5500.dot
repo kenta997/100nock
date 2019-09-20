@@ -1,0 +1,13 @@
+digraph graph5500 {
+	node0 [label="中学の"];
+	node1 [label="生徒なんか"];
+	node2 [label="構う"];
+	node3 [label="価値が"];
+	node4 [label="ある"];
+	node5 [label="ものか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

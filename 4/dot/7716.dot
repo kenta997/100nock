@@ -1,0 +1,11 @@
+digraph graph7716 {
+	node0 [label="「だから"];
+	node1 [label="食べる"];
+	node2 [label="時には"];
+	node3 [label="ちょっと"];
+	node4 [label="お洗いなさい」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

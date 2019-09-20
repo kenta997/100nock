@@ -1,0 +1,13 @@
+digraph graph8214 {
+	node0 [label="「おや本を"];
+	node1 [label="読んでるから"];
+	node2 [label="大丈夫かと"];
+	node3 [label="思ったら、"];
+	node4 [label="やはり"];
+	node5 [label="聞いてるね。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

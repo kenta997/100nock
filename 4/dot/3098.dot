@@ -1,0 +1,9 @@
+digraph graph3098 {
+	node0 [label="細君は"];
+	node1 [label="無論"];
+	node2 [label="実業家になって"];
+	node3 [label="貰いたいのである。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

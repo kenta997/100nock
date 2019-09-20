@@ -1,0 +1,9 @@
+digraph graph221 {
+	node0 [label="「君も"];
+	node1 [label="車屋の"];
+	node2 [label="猫だけに"];
+	node3 [label="大分強そうだ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

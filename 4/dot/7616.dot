@@ -1,0 +1,5 @@
+digraph graph7616 {
+	node0 [label="「なくっても"];
+	node1 [label="構わない。"];
+	node0 -> node1;
+}

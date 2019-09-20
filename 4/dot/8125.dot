@@ -1,0 +1,13 @@
+digraph graph8125 {
+	node0 [label="下宿へ"];
+	node1 [label="帰って"];
+	node2 [label="見たら"];
+	node3 [label="もう"];
+	node4 [label="二時"];
+	node5 [label="十分前でした」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

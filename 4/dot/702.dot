@@ -1,0 +1,25 @@
+digraph graph702 {
+	node0 [label="　障子の"];
+	node1 [label="中で"];
+	node2 [label="二絃琴の"];
+	node3 [label="音が"];
+	node4 [label="ぱったり"];
+	node5 [label="やむと、"];
+	node6 [label="御師匠さんの"];
+	node7 [label="声で"];
+	node8 [label="「三毛や"];
+	node9 [label="三毛や"];
+	node10 [label="御飯だよ」と"];
+	node11 [label="呼ぶ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

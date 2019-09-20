@@ -1,0 +1,11 @@
+digraph graph477 {
+	node0 [label="衣装は"];
+	node1 [label="美しいが"];
+	node2 [label="顔は"];
+	node3 [label="すこぶる"];
+	node4 [label="まずい。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

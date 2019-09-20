@@ -1,0 +1,33 @@
+digraph graph5375 {
+	node0 [label="逆上家が"];
+	node1 [label="自分で"];
+	node2 [label="逆上家だと"];
+	node3 [label="名乗る"];
+	node4 [label="者は"];
+	node5 [label="昔しから"];
+	node6 [label="例が"];
+	node7 [label="少ない、"];
+	node8 [label="これは"];
+	node9 [label="少々"];
+	node10 [label="変だなと"];
+	node11 [label="覚った"];
+	node12 [label="時は"];
+	node13 [label="逆上の峠は"];
+	node14 [label="もう"];
+	node15 [label="越している。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

@@ -1,0 +1,5 @@
+digraph graph6726 {
+	node0 [label="「なに学校じゃ"];
+	node1 [label="おとなしいんですって」"];
+	node0 -> node1;
+}

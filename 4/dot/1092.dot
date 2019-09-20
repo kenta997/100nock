@@ -1,0 +1,15 @@
+digraph graph1092 {
+	node0 [label="「見ると"];
+	node1 [label="どう"];
+	node2 [label="し"];
+	node3 [label="たんだい」と"];
+	node4 [label="主人は"];
+	node5 [label="少し"];
+	node6 [label="焦れる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

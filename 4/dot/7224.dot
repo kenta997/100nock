@@ -1,0 +1,7 @@
+digraph graph7224 {
+	node0 [label="「乙なら、"];
+	node1 [label="わたしの"];
+	node2 [label="監督だね。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,13 @@
+digraph graph6975 {
+	node0 [label="「あら、"];
+	node1 [label="あの"];
+	node2 [label="方が"];
+	node3 [label="捧げたの、"];
+	node4 [label="よっぽど"];
+	node5 [label="物数奇ね」"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

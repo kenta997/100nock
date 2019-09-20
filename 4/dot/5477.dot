@@ -1,0 +1,19 @@
+digraph graph5477 {
+	node0 [label="人間は"];
+	node1 [label="いろいろだから、"];
+	node2 [label="そう"];
+	node3 [label="自分のように"];
+	node4 [label="人にも"];
+	node5 [label="なれと"];
+	node6 [label="勧めたって、"];
+	node7 [label="なれる"];
+	node8 [label="ものではない。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

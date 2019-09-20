@@ -1,0 +1,29 @@
+digraph graph947 {
+	node0 [label="それも"];
+	node1 [label="まず"];
+	node2 [label="善いとして"];
+	node3 [label="「薄ぎたない"];
+	node4 [label="猫」とは"];
+	node5 [label="随分"];
+	node6 [label="酷評を"];
+	node7 [label="やる"];
+	node8 [label="ものだと"];
+	node9 [label="なお"];
+	node10 [label="耳を"];
+	node11 [label="立てて"];
+	node12 [label="あとを"];
+	node13 [label="聞く。"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

@@ -1,0 +1,11 @@
+digraph graph7663 {
+	node0 [label="しばらく、"];
+	node1 [label="しばらくって"];
+	node2 [label="花道から"];
+	node3 [label="馳け出してくる"];
+	node4 [label="ところだよ」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

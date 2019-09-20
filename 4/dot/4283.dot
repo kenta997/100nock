@@ -1,0 +1,5 @@
+digraph graph4283 {
+	node0 [label="怪しからん"];
+	node1 [label="事だ。"];
+	node0 -> node1;
+}

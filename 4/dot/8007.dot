@@ -1,0 +1,7 @@
+digraph graph8007 {
+	node0 [label="「学校までは"];
+	node1 [label="たった"];
+	node2 [label="四五丁です。"];
+	node0 -> node2;
+	node1 -> node2;
+}

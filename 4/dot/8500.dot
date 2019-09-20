@@ -1,0 +1,9 @@
+digraph graph8500 {
+	node0 [label="その"];
+	node1 [label="大議論の"];
+	node2 [label="あとを"];
+	node3 [label="拝聴しよう」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

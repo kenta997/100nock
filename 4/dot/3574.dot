@@ -1,0 +1,15 @@
+digraph graph3574 {
+	node0 [label="金田でも"];
+	node1 [label="私の"];
+	node2 [label="珠ばかり"];
+	node3 [label="磨ってる"];
+	node4 [label="事は"];
+	node5 [label="よく"];
+	node6 [label="承知しています。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

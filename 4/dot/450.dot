@@ -1,0 +1,9 @@
+digraph graph450 {
+	node0 [label="妹も"];
+	node1 [label="負けずに"];
+	node2 [label="一杯を"];
+	node3 [label="附加した。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

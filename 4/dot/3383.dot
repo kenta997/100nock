@@ -1,0 +1,15 @@
+digraph graph3383 {
+	node0 [label="第一、"];
+	node1 [label="足が"];
+	node2 [label="四本あるのに"];
+	node3 [label="二本しか"];
+	node4 [label="使わないと"];
+	node5 [label="云うのから"];
+	node6 [label="贅沢だ。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

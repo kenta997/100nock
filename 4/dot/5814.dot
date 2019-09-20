@@ -1,0 +1,11 @@
+digraph graph5814 {
+	node0 [label="権貴栄達の"];
+	node1 [label="士が"];
+	node2 [label="好んで"];
+	node3 [label="産する"];
+	node4 [label="所なり。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

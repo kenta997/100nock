@@ -1,0 +1,7 @@
+digraph graph2641 {
+	node0 [label="「相変らず"];
+	node1 [label="無邪気で"];
+	node2 [label="愉快だ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

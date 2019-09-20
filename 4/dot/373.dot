@@ -1,0 +1,23 @@
+digraph graph373 {
+	node0 [label="その"];
+	node1 [label="内の"];
+	node2 [label="一疋は"];
+	node3 [label="席を"];
+	node4 [label="離れて"];
+	node5 [label="机の"];
+	node6 [label="角で"];
+	node7 [label="西洋の"];
+	node8 [label="猫じゃ"];
+	node9 [label="猫じゃを"];
+	node10 [label="躍っている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

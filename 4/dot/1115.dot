@@ -1,0 +1,9 @@
+digraph graph1115 {
+	node0 [label="「ちょっと"];
+	node1 [label="失敬だが"];
+	node2 [label="待ってくれ"];
+	node3 [label="給え。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

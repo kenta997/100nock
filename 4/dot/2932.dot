@@ -1,0 +1,15 @@
+digraph graph2932 {
+	node0 [label="「馬鹿馬鹿しいじゃありませんか、"];
+	node1 [label="いくら"];
+	node2 [label="唐津から"];
+	node3 [label="掘って来たって"];
+	node4 [label="山の芋が"];
+	node5 [label="十二円五十銭して"];
+	node6 [label="たまるもんですか」"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

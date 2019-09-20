@@ -1,0 +1,27 @@
+digraph graph5259 {
+	node0 [label="昔から"];
+	node1 [label="ああ"];
+	node2 [label="云う"];
+	node3 [label="癖の"];
+	node4 [label="ある"];
+	node5 [label="男で、"];
+	node6 [label="つまり"];
+	node7 [label="自分の"];
+	node8 [label="損に"];
+	node9 [label="なる"];
+	node10 [label="事に"];
+	node11 [label="気が付かないんですから"];
+	node12 [label="度し難いです」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

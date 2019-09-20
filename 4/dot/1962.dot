@@ -1,0 +1,9 @@
+digraph graph1962 {
+	node0 [label="「なかなか振っていますな」と"];
+	node1 [label="寒月君が"];
+	node2 [label="批評を"];
+	node3 [label="加える。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

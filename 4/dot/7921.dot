@@ -1,0 +1,15 @@
+digraph graph7921 {
+	node0 [label="「いや"];
+	node1 [label="そのくらい"];
+	node2 [label="感覚が"];
+	node3 [label="鋭敏でなければ"];
+	node4 [label="真の"];
+	node5 [label="芸術家には"];
+	node6 [label="なれないですよ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

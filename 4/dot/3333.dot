@@ -1,0 +1,19 @@
+digraph graph3333 {
+	node0 [label="彼は"];
+	node1 [label="棚の"];
+	node2 [label="上から"];
+	node3 [label="吾輩を"];
+	node4 [label="見おろす、"];
+	node5 [label="吾輩は"];
+	node6 [label="板の間から"];
+	node7 [label="彼を"];
+	node8 [label="見上ぐる。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

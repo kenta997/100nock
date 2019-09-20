@@ -1,0 +1,5 @@
+digraph graph6339 {
+	node0 [label="頭は"];
+	node1 [label="熱いかしらん。"];
+	node0 -> node1;
+}

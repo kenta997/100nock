@@ -1,0 +1,13 @@
+digraph graph572 {
+	node0 [label="見ると"];
+	node1 [label="うまそうにも"];
+	node2 [label="あるし、また"];
+	node3 [label="少しは"];
+	node4 [label="気味が"];
+	node5 [label="わるくもある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,11 @@
+digraph graph2859 {
+	node0 [label="　"];
+	node1 [label="吾輩はまた"];
+	node2 [label="暫時の"];
+	node3 [label="休養を"];
+	node4 [label="要する。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

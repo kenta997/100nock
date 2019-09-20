@@ -1,0 +1,25 @@
+digraph graph890 {
+	node0 [label="「とにかく"];
+	node1 [label="近頃の"];
+	node2 [label="如く御馳走の"];
+	node3 [label="食べ続けにては、"];
+	node4 [label="さすがの"];
+	node5 [label="小生も"];
+	node6 [label="遠からぬ"];
+	node7 [label="うちに"];
+	node8 [label="大兄の如く"];
+	node9 [label="胃弱と"];
+	node10 [label="相成るは"];
+	node11 [label="必定……」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

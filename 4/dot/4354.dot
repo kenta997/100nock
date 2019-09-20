@@ -1,0 +1,15 @@
+digraph graph4354 {
+	node0 [label="立ったまま、"];
+	node1 [label="向い合って"];
+	node2 [label="湯を"];
+	node3 [label="ざぶざぶ"];
+	node4 [label="腹の"];
+	node5 [label="上へ"];
+	node6 [label="かけている。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

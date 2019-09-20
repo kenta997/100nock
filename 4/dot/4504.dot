@@ -1,0 +1,21 @@
+digraph graph4504 {
+	node0 [label="免職に"];
+	node1 [label="なれば"];
+	node2 [label="融通の"];
+	node3 [label="利かぬ"];
+	node4 [label="主人の"];
+	node5 [label="事だから"];
+	node6 [label="きっと"];
+	node7 [label="路頭に"];
+	node8 [label="迷うに"];
+	node9 [label="極ってる。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

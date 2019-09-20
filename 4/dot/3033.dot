@@ -1,0 +1,15 @@
+digraph graph3033 {
+	node0 [label="オタンチンと"];
+	node1 [label="云うのが"];
+	node2 [label="禿と"];
+	node3 [label="云う"];
+	node4 [label="字で、"];
+	node5 [label="パレオロガスが"];
+	node6 [label="頭なんでしょう」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

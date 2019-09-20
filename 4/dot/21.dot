@@ -1,0 +1,19 @@
+digraph graph21 {
+	node0 [label="到底"];
+	node1 [label="助からないと"];
+	node2 [label="思っていると、"];
+	node3 [label="どさりと"];
+	node4 [label="音が"];
+	node5 [label="して"];
+	node6 [label="眼から"];
+	node7 [label="火が"];
+	node8 [label="出た。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,29 @@
+digraph graph46 {
+	node0 [label="その"];
+	node1 [label="うちに"];
+	node2 [label="暗くなる、"];
+	node3 [label="腹は"];
+	node4 [label="減る、"];
+	node5 [label="寒さは"];
+	node6 [label="寒し、"];
+	node7 [label="雨が"];
+	node8 [label="降って来るという"];
+	node9 [label="始末で"];
+	node10 [label="もう"];
+	node11 [label="一刻の"];
+	node12 [label="猶予が"];
+	node13 [label="出来なくなった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

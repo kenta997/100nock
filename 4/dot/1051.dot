@@ -1,0 +1,27 @@
+digraph graph1051 {
+	node0 [label="その"];
+	node1 [label="名前を"];
+	node2 [label="一々"];
+	node3 [label="読んだ"];
+	node4 [label="時には"];
+	node5 [label="何だか"];
+	node6 [label="世の中が"];
+	node7 [label="味気なくなって"];
+	node8 [label="人間も"];
+	node9 [label="つまらないと"];
+	node10 [label="云う"];
+	node11 [label="気が"];
+	node12 [label="起ったよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

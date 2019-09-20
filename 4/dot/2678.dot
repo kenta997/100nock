@@ -1,0 +1,11 @@
+digraph graph2678 {
+	node0 [label="ある時は"];
+	node1 [label="慾"];
+	node2 [label="張って"];
+	node3 [label="三四冊も"];
+	node4 [label="抱えて来る。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

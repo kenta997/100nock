@@ -1,0 +1,15 @@
+digraph graph8402 {
+	node0 [label="「約束なんかありゃ"];
+	node1 [label="しません、"];
+	node2 [label="そんな"];
+	node3 [label="事を"];
+	node4 [label="言い触らすなあ、"];
+	node5 [label="向うの"];
+	node6 [label="勝手です」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

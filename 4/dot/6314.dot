@@ -1,0 +1,15 @@
+digraph graph6314 {
+	node0 [label="愚人は"];
+	node1 [label="得て"];
+	node2 [label="こんな"];
+	node3 [label="ところに"];
+	node4 [label="意地を"];
+	node5 [label="張る"];
+	node6 [label="ものだ。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

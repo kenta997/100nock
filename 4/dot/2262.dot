@@ -1,0 +1,17 @@
+digraph graph2262 {
+	node0 [label="そんなに"];
+	node1 [label="威張るなら、"];
+	node2 [label="なぜ"];
+	node3 [label="嫁に"];
+	node4 [label="来る"];
+	node5 [label="時"];
+	node6 [label="頭を"];
+	node7 [label="見せなかったんだ」"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,9 @@
+digraph graph612 {
+	node0 [label="そんな"];
+	node1 [label="呪いで"];
+	node2 [label="魔は"];
+	node3 [label="落ちない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

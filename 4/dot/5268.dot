@@ -1,0 +1,7 @@
+digraph graph5268 {
+	node0 [label="いくら"];
+	node1 [label="威張っても"];
+	node2 [label="多勢に無勢ですからな」"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,5 @@
+digraph graph8986 {
+	node0 [label="「いつでも"];
+	node1 [label="いいです。"];
+	node0 -> node1;
+}

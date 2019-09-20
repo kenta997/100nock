@@ -1,0 +1,29 @@
+digraph graph6683 {
+	node0 [label="「御休みなもんですか、"];
+	node1 [label="早く"];
+	node2 [label="なさい」と"];
+	node3 [label="叱るように"];
+	node4 [label="言って"];
+	node5 [label="聞かせると"];
+	node6 [label="「それでも"];
+	node7 [label="昨日、"];
+	node8 [label="先生が"];
+	node9 [label="御休だって、"];
+	node10 [label="おっしゃってよ」と"];
+	node11 [label="姉は"];
+	node12 [label="なかなか"];
+	node13 [label="動じない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

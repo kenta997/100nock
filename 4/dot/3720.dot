@@ -1,0 +1,9 @@
+digraph graph3720 {
+	node0 [label="美学者と"];
+	node1 [label="希臘とは"];
+	node2 [label="とうてい"];
+	node3 [label="離れられないやね。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

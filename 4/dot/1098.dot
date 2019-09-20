@@ -1,0 +1,15 @@
+digraph graph1098 {
+	node0 [label="実に"];
+	node1 [label="不思議な"];
+	node2 [label="事が"];
+	node3 [label="ある"];
+	node4 [label="ものじゃないか」"];
+	node5 [label="迷亭は"];
+	node6 [label="すまし返っている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

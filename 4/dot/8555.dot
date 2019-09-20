@@ -1,0 +1,19 @@
+digraph graph8555 {
+	node0 [label="「女房は"];
+	node1 [label="鼻で"];
+	node2 [label="斃れ、"];
+	node3 [label="主人は"];
+	node4 [label="因業で"];
+	node5 [label="斃れ、"];
+	node6 [label="子分は"];
+	node7 [label="探偵で"];
+	node8 [label="斃れか」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

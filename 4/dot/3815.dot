@@ -1,0 +1,37 @@
+digraph graph3815 {
+	node0 [label="主人は"];
+	node1 [label="ちょっと"];
+	node2 [label="神秘的な"];
+	node3 [label="顔を"];
+	node4 [label="して"];
+	node5 [label="しばらく"];
+	node6 [label="一頁を"];
+	node7 [label="無言の"];
+	node8 [label="まま"];
+	node9 [label="眺めているので、"];
+	node10 [label="迷亭は"];
+	node11 [label="横合から"];
+	node12 [label="「何だい新体詩かね」と"];
+	node13 [label="云いながら"];
+	node14 [label="覗き"];
+	node15 [label="込んで"];
+	node16 [label="「やあ、"];
+	node17 [label="捧げたね。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node17;
+	node10 -> node17;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

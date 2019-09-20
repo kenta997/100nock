@@ -1,0 +1,15 @@
+digraph graph4956 {
+	node0 [label="なお"];
+	node1 [label="二週間の"];
+	node2 [label="砲撃を"];
+	node3 [label="食えば"];
+	node4 [label="金柑は"];
+	node5 [label="潰れるに"];
+	node6 [label="相違ない。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,27 @@
+digraph graph5424 {
+	node0 [label="しばらく"];
+	node1 [label="すると"];
+	node2 [label="先生は"];
+	node3 [label="主人に"];
+	node4 [label="向って"];
+	node5 [label="「こう"];
+	node6 [label="やって、"];
+	node7 [label="瞼を"];
+	node8 [label="撫でていると、"];
+	node9 [label="だんだん"];
+	node10 [label="眼が"];
+	node11 [label="重たくなるでしょう」と"];
+	node12 [label="聞いた。"];
+	node0 -> node1;
+	node1 -> node12;
+	node2 -> node12;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

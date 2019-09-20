@@ -1,0 +1,5 @@
+digraph graph3326 {
+	node0 [label="瞬く間の"];
+	node1 [label="出来事である。"];
+	node0 -> node1;
+}

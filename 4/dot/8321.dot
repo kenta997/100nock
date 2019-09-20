@@ -1,0 +1,5 @@
+digraph graph8321 {
+	node0 [label="「おい諸君、"];
+	node1 [label="だまるんだとさ。"];
+	node0 -> node1;
+}

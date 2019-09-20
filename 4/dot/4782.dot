@@ -1,0 +1,31 @@
+digraph graph4782 {
+	node0 [label="以上に"];
+	node1 [label="説く"];
+	node2 [label="ところを"];
+	node3 [label="参考して"];
+	node4 [label="推論して"];
+	node5 [label="見ると、"];
+	node6 [label="吾輩の"];
+	node7 [label="考では"];
+	node8 [label="奥山の"];
+	node9 [label="猿と、"];
+	node10 [label="学校の"];
+	node11 [label="教師が"];
+	node12 [label="からかうには"];
+	node13 [label="一番"];
+	node14 [label="手頃である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

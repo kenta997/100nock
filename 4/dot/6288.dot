@@ -1,0 +1,5 @@
+digraph graph6288 {
+	node0 [label="幸福な"];
+	node1 [label="ものである。"];
+	node0 -> node1;
+}

@@ -1,0 +1,7 @@
+digraph graph1369 {
+	node0 [label="主人はまた"];
+	node1 [label="天然居士に"];
+	node2 [label="取り懸る。"];
+	node0 -> node2;
+	node1 -> node2;
+}

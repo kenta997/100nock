@@ -1,0 +1,13 @@
+digraph graph5784 {
+	node0 [label="苦沙弥先生の如きに"];
+	node1 [label="至っては"];
+	node2 [label="只"];
+	node3 [label="干瓢の"];
+	node4 [label="酢味噌を"];
+	node5 [label="知るのみ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

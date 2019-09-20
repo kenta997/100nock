@@ -1,0 +1,7 @@
+digraph graph6065 {
+	node0 [label="とうてい"];
+	node1 [label="満足は"];
+	node2 [label="得られやしない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

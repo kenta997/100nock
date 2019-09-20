@@ -1,0 +1,9 @@
+digraph graph2696 {
+	node0 [label="　さすがに"];
+	node1 [label="春の"];
+	node2 [label="灯火は"];
+	node3 [label="格別である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

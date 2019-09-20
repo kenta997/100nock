@@ -1,0 +1,33 @@
+digraph graph3885 {
+	node0 [label="それで"];
+	node1 [label="僕は"];
+	node2 [label="あの"];
+	node3 [label="令嬢に対しては"];
+	node4 [label="切実に"];
+	node5 [label="感謝の"];
+	node6 [label="意を"];
+	node7 [label="表しなければならんから"];
+	node8 [label="この"];
+	node9 [label="機を"];
+	node10 [label="利用して、"];
+	node11 [label="わが"];
+	node12 [label="集を"];
+	node13 [label="捧げる"];
+	node14 [label="事に"];
+	node15 [label="したのさ。"];
+	node0 -> node15;
+	node1 -> node15;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

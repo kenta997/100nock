@@ -1,0 +1,9 @@
+digraph graph7764 {
+	node0 [label="「それが"];
+	node1 [label="本因坊流、"];
+	node2 [label="金田流、"];
+	node3 [label="当世紳士流さ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

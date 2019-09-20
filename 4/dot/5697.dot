@@ -1,0 +1,21 @@
+digraph graph5697 {
+	node0 [label="もし"];
+	node1 [label="人間が"];
+	node2 [label="自己以外に"];
+	node3 [label="飛び出す"];
+	node4 [label="事が"];
+	node5 [label="出来たら、"];
+	node6 [label="飛び出す"];
+	node7 [label="途端に"];
+	node8 [label="自己は"];
+	node9 [label="なくなってしまう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

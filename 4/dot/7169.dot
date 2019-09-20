@@ -1,0 +1,33 @@
+digraph graph7169 {
+	node0 [label="大きな"];
+	node1 [label="頭を"];
+	node2 [label="地の"];
+	node3 [label="隙いて"];
+	node4 [label="見える"];
+	node5 [label="ほど"];
+	node6 [label="刈り込んで"];
+	node7 [label="団子っ"];
+	node8 [label="鼻を"];
+	node9 [label="顔の"];
+	node10 [label="真中に"];
+	node11 [label="かためて、"];
+	node12 [label="座敷の"];
+	node13 [label="隅の"];
+	node14 [label="方に"];
+	node15 [label="控えている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

@@ -1,0 +1,11 @@
+digraph graph409 {
+	node0 [label="賞められたのは"];
+	node1 [label="得意であるが"];
+	node2 [label="頭が"];
+	node3 [label="少々"];
+	node4 [label="痛い。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,9 @@
+digraph graph2328 {
+	node0 [label="「相変らず"];
+	node1 [label="気楽な"];
+	node2 [label="事を"];
+	node3 [label="云ってるぜ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,25 @@
+digraph graph7852 {
+	node0 [label="「だって"];
+	node1 [label="一国中"];
+	node2 [label="ことごとく"];
+	node3 [label="黒ければ、"];
+	node4 [label="黒い"];
+	node5 [label="方で"];
+	node6 [label="己惚れ"];
+	node7 [label="はしませんか」と"];
+	node8 [label="東風君が"];
+	node9 [label="もっともな"];
+	node10 [label="質問を"];
+	node11 [label="かけた。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

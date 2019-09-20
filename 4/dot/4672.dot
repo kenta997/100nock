@@ -1,0 +1,23 @@
+digraph graph4672 {
+	node0 [label="この"];
+	node1 [label="垣の"];
+	node2 [label="外は"];
+	node3 [label="五六間の"];
+	node4 [label="空地であって、"];
+	node5 [label="その"];
+	node6 [label="尽くる"];
+	node7 [label="ところに"];
+	node8 [label="檜が"];
+	node9 [label="蓊然と"];
+	node10 [label="五六本併んでいる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

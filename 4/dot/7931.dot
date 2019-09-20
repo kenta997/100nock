@@ -1,0 +1,5 @@
+digraph graph7931 {
+	node0 [label="「それが"];
+	node1 [label="天才だよ。"];
+	node0 -> node1;
+}

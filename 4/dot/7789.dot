@@ -1,0 +1,5 @@
+digraph graph7789 {
+	node0 [label="先生"];
+	node1 [label="話しましょうかね」"];
+	node0 -> node1;
+}

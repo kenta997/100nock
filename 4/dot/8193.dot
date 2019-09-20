@@ -1,0 +1,7 @@
+digraph graph8193 {
+	node0 [label="いつでも"];
+	node1 [label="腹の中で"];
+	node2 [label="出来てるのさ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,9 @@
+digraph graph500 {
+	node0 [label="誰が"];
+	node1 [label="何と"];
+	node2 [label="云っても"];
+	node3 [label="駄目だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

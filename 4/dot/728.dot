@@ -1,0 +1,7 @@
+digraph graph728 {
+	node0 [label="いささか"];
+	node1 [label="手持無沙汰の"];
+	node2 [label="体である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

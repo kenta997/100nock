@@ -1,0 +1,25 @@
+digraph graph4509 {
+	node0 [label="それだから"];
+	node1 [label="そんなに"];
+	node2 [label="病気を"];
+	node3 [label="していると"];
+	node4 [label="殺すぞと"];
+	node5 [label="嚇かせば"];
+	node6 [label="臆病なる"];
+	node7 [label="主人の"];
+	node8 [label="事だから"];
+	node9 [label="びりびりと"];
+	node10 [label="悸え上がるに"];
+	node11 [label="相違ない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

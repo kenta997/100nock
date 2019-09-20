@@ -1,0 +1,21 @@
+digraph graph7113 {
+	node0 [label="だけど"];
+	node1 [label="こないだのように"];
+	node2 [label="蝙蝠傘を"];
+	node3 [label="買って下さる"];
+	node4 [label="御金が"];
+	node5 [label="あるなら、"];
+	node6 [label="保険に"];
+	node7 [label="這入る"];
+	node8 [label="方が"];
+	node9 [label="ましかも知れないわ。"];
+	node0 -> node9;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

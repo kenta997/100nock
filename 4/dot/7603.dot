@@ -1,0 +1,7 @@
+digraph graph7603 {
+	node0 [label="「無絃の"];
+	node1 [label="素琴を"];
+	node2 [label="弾じさ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,13 @@
+digraph graph8244 {
+	node0 [label="「へえ、"];
+	node1 [label="そんな"];
+	node2 [label="苦しい"];
+	node3 [label="思いを"];
+	node4 [label="なさるより"];
+	node5 [label="貰ったらいいでしょう」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,13 @@
+digraph graph1127 {
+	node0 [label="私は"];
+	node1 [label="また"];
+	node2 [label="立ち留って"];
+	node3 [label="耳を"];
+	node4 [label="立てて"];
+	node5 [label="聞きました。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

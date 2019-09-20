@@ -1,0 +1,5 @@
+digraph graph5455 {
+	node0 [label="金時計は"];
+	node1 [label="下げられるたちだ。"];
+	node0 -> node1;
+}

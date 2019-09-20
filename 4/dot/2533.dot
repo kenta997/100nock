@@ -1,0 +1,19 @@
+digraph graph2533 {
+	node0 [label="それだから"];
+	node1 [label="百日紅の"];
+	node2 [label="散るまでに"];
+	node3 [label="著書が"];
+	node4 [label="出来なかったのは"];
+	node5 [label="記憶の"];
+	node6 [label="罪で"];
+	node7 [label="意志の"];
+	node8 [label="罪ではない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,27 @@
+digraph graph2118 {
+	node0 [label="「なあに、"];
+	node1 [label="ただ"];
+	node2 [label="あの男の"];
+	node3 [label="前を"];
+	node4 [label="何とか"];
+	node5 [label="云って"];
+	node6 [label="通ったんだそうです、"];
+	node7 [label="すると、"];
+	node8 [label="いきなり、"];
+	node9 [label="ステッキを"];
+	node10 [label="持って"];
+	node11 [label="跣足で"];
+	node12 [label="飛び出して来たんだそうです。"];
+	node0 -> node6;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

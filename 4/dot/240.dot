@@ -1,0 +1,19 @@
+digraph graph240 {
+	node0 [label="そこで"];
+	node1 [label="おとなしく"];
+	node2 [label="「君などは"];
+	node3 [label="年が"];
+	node4 [label="年であるから"];
+	node5 [label="大分"];
+	node6 [label="とったろう」と"];
+	node7 [label="そそのかして"];
+	node8 [label="見た。"];
+	node0 -> node8;
+	node1 -> node8;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

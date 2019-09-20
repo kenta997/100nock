@@ -1,0 +1,15 @@
+digraph graph825 {
+	node0 [label="「癪だけは"];
+	node1 [label="第一回には、"];
+	node2 [label="ちと"];
+	node3 [label="無理でした」と"];
+	node4 [label="東風子も"];
+	node5 [label="警句を"];
+	node6 [label="吐く。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

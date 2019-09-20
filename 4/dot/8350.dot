@@ -1,0 +1,11 @@
+digraph graph8350 {
+	node0 [label="「狐でも"];
+	node1 [label="いる"];
+	node2 [label="所かい」と"];
+	node3 [label="東風君が"];
+	node4 [label="きいた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

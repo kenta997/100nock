@@ -1,0 +1,9 @@
+digraph graph684 {
+	node0 [label="全体"];
+	node1 [label="何という"];
+	node2 [label="ものですか」"];
+	node3 [label="「あれ？"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

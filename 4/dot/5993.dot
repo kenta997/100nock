@@ -1,0 +1,11 @@
+digraph graph5993 {
+	node0 [label="とかく"];
+	node1 [label="心の"];
+	node2 [label="置きどころは"];
+	node3 [label="ないと"];
+	node4 [label="ある」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

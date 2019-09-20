@@ -1,0 +1,31 @@
+digraph graph6428 {
+	node0 [label="生れ"];
+	node1 [label="ついての"];
+	node2 [label="お多角だから"];
+	node3 [label="人情に"];
+	node4 [label="疎いのは"];
+	node5 [label="とうから"];
+	node6 [label="承知の"];
+	node7 [label="上だが、"];
+	node8 [label="そこを"];
+	node9 [label="うまく"];
+	node10 [label="泣き立てて"];
+	node11 [label="同情を"];
+	node12 [label="起させるのが、"];
+	node13 [label="こっちの"];
+	node14 [label="手際である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

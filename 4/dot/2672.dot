@@ -1,0 +1,35 @@
+digraph graph2672 {
+	node0 [label="　"];
+	node1 [label="ふと"];
+	node2 [label="眼を"];
+	node3 [label="開いて"];
+	node4 [label="見ると"];
+	node5 [label="主人は"];
+	node6 [label="いつの間にか"];
+	node7 [label="書斎から"];
+	node8 [label="寝室へ"];
+	node9 [label="来て"];
+	node10 [label="細君の"];
+	node11 [label="隣に"];
+	node12 [label="延べてある"];
+	node13 [label="布団の"];
+	node14 [label="中に"];
+	node15 [label="いつの間にか"];
+	node16 [label="潜り込んでいる。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node16;
+	node5 -> node16;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

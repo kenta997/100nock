@@ -1,0 +1,5 @@
+digraph graph6812 {
+	node0 [label="何と"];
+	node1 [label="云うの？"];
+	node0 -> node1;
+}

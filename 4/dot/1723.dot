@@ -1,0 +1,13 @@
+digraph graph1723 {
+	node0 [label="猫背の"];
+	node1 [label="鼻は、"];
+	node2 [label="ちと"];
+	node3 [label="奇抜過ぎる」と"];
+	node4 [label="面白そうに"];
+	node5 [label="笑う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

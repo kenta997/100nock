@@ -1,0 +1,9 @@
+digraph graph2887 {
+	node0 [label="名宛は"];
+	node1 [label="ない"];
+	node2 [label="方が"];
+	node3 [label="いい」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,5 @@
+digraph graph709 {
+	node0 [label="御大事に"];
+	node1 [label="なさいまし。"];
+	node0 -> node1;
+}

@@ -1,0 +1,31 @@
+digraph graph5003 {
+	node0 [label="こう"];
+	node1 [label="云う訳だから"];
+	node2 [label="諸君も"];
+	node3 [label="なるべく"];
+	node4 [label="公徳を"];
+	node5 [label="守って、"];
+	node6 [label="いやしくも"];
+	node7 [label="人の"];
+	node8 [label="妨害に"];
+	node9 [label="なると"];
+	node10 [label="思う"];
+	node11 [label="事は"];
+	node12 [label="決して"];
+	node13 [label="やっては"];
+	node14 [label="ならんのである。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

@@ -1,0 +1,5 @@
+digraph graph3012 {
+	node0 [label="「だまっていらっしゃいと"];
+	node1 [label="云うのに」"];
+	node0 -> node1;
+}

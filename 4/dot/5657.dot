@@ -1,0 +1,15 @@
+digraph graph5657 {
+	node0 [label="やや"];
+	node1 [label="あって"];
+	node2 [label="主人は"];
+	node3 [label="「なるほどきたない"];
+	node4 [label="顔だ」と"];
+	node5 [label="独り言を"];
+	node6 [label="云った。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

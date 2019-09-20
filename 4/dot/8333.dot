@@ -1,0 +1,19 @@
+digraph graph8333 {
+	node0 [label="ようやくの"];
+	node1 [label="事草履を"];
+	node2 [label="見つけて、"];
+	node3 [label="表へ"];
+	node4 [label="出ると"];
+	node5 [label="星月夜に"];
+	node6 [label="柿落葉、"];
+	node7 [label="赤毛布に"];
+	node8 [label="ヴァイオリン。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

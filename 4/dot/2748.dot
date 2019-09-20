@@ -1,0 +1,19 @@
+digraph graph2748 {
+	node0 [label="吾輩は"];
+	node1 [label="息を"];
+	node2 [label="凝らして、"];
+	node3 [label="この"];
+	node4 [label="次は"];
+	node5 [label="何を"];
+	node6 [label="するだろうと"];
+	node7 [label="一生懸命に"];
+	node8 [label="なる。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

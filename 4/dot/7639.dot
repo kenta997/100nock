@@ -1,0 +1,9 @@
+digraph graph7639 {
+	node0 [label="「そう"];
+	node1 [label="おいでに"];
+	node2 [label="なったと、"];
+	node3 [label="よろしい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

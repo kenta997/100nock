@@ -1,0 +1,15 @@
+digraph graph1957 {
+	node0 [label="「次へ"];
+	node1 [label="穴二つ幽かなりと"];
+	node2 [label="付けちゃ"];
+	node3 [label="どうだ」と"];
+	node4 [label="迷亭は"];
+	node5 [label="すぐ"];
+	node6 [label="出来る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

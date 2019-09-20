@@ -1,0 +1,9 @@
+digraph graph7409 {
+	node0 [label="金田君及び"];
+	node1 [label="金田令夫人を"];
+	node2 [label="もって"];
+	node3 [label="充たされるであろう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

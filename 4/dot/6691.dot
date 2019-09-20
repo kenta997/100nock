@@ -1,0 +1,29 @@
+digraph graph6691 {
+	node0 [label="踵の"];
+	node1 [label="まがった"];
+	node2 [label="靴を"];
+	node3 [label="履いて、"];
+	node4 [label="紫色の"];
+	node5 [label="袴を"];
+	node6 [label="引きずって、"];
+	node7 [label="髪を"];
+	node8 [label="算盤珠のように"];
+	node9 [label="ふくらまして"];
+	node10 [label="勝手口から"];
+	node11 [label="案内も"];
+	node12 [label="乞わずに"];
+	node13 [label="上って来た。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

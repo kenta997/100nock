@@ -1,0 +1,19 @@
+digraph graph6458 {
+	node0 [label="坊やちゃんも"];
+	node1 [label="なかなか"];
+	node2 [label="自信家だから"];
+	node3 [label="容易に"];
+	node4 [label="姉の"];
+	node5 [label="云う"];
+	node6 [label="事なんか"];
+	node7 [label="聞きそうに"];
+	node8 [label="しない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

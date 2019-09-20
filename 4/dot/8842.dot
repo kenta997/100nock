@@ -1,0 +1,9 @@
+digraph graph8842 {
+	node0 [label="ニーチェの"];
+	node1 [label="時代は"];
+	node2 [label="そうは"];
+	node3 [label="行かないよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

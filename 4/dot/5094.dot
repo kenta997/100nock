@@ -1,0 +1,11 @@
+digraph graph5094 {
+	node0 [label="柳の"];
+	node1 [label="下には"];
+	node2 [label="必ず"];
+	node3 [label="鰌が"];
+	node4 [label="いる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

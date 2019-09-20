@@ -1,0 +1,21 @@
+digraph graph1506 {
+	node0 [label="「それでは"];
+	node1 [label="この"];
+	node2 [label="両三句は"];
+	node3 [label="今晩"];
+	node4 [label="抜く"];
+	node5 [label="事に"];
+	node6 [label="致しまして"];
+	node7 [label="次を"];
+	node8 [label="弁じ——ええ"];
+	node9 [label="申し上げます。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

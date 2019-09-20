@@ -1,0 +1,11 @@
+digraph graph5902 {
+	node0 [label="主人は"];
+	node1 [label="やむを得ず前の"];
+	node2 [label="方へ"];
+	node3 [label="すり"];
+	node4 [label="出る。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

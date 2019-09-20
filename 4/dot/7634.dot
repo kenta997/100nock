@@ -1,0 +1,9 @@
+digraph graph7634 {
+	node0 [label="「迷亭君、"];
+	node1 [label="君の"];
+	node2 [label="碁は"];
+	node3 [label="乱暴だよ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,21 @@
+digraph graph3694 {
+	node0 [label="いつでも"];
+	node1 [label="御袋が"];
+	node2 [label="三日前に"];
+	node3 [label="亡くなりましたと"];
+	node4 [label="云うような"];
+	node5 [label="顔を"];
+	node6 [label="して"];
+	node7 [label="帳場の"];
+	node8 [label="所へ"];
+	node9 [label="控えている。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

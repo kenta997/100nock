@@ -1,0 +1,17 @@
+digraph graph2481 {
+	node0 [label="世の中では"];
+	node1 [label="万事積極的の"];
+	node2 [label="ものが"];
+	node3 [label="人から"];
+	node4 [label="真似ら"];
+	node5 [label="るる"];
+	node6 [label="権利を"];
+	node7 [label="有している。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

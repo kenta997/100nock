@@ -1,0 +1,5 @@
+digraph graph7624 {
+	node0 [label="入らざる"];
+	node1 [label="いたずらだ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,21 @@
+digraph graph5653 {
+	node0 [label="深夜蝋燭を"];
+	node1 [label="立てて、"];
+	node2 [label="広い"];
+	node3 [label="部屋の"];
+	node4 [label="なかで"];
+	node5 [label="一人鏡を"];
+	node6 [label="覗き込むには"];
+	node7 [label="よほどの"];
+	node8 [label="勇気が"];
+	node9 [label="いるそうだ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

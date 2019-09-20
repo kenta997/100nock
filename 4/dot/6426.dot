@@ -1,0 +1,21 @@
+digraph graph6426 {
+	node0 [label="と"];
+	node1 [label="考え定めた"];
+	node2 [label="吾輩は"];
+	node3 [label="にゃあにゃあと"];
+	node4 [label="甘えるごとく、"];
+	node5 [label="訴"];
+	node6 [label="うるがごとく、あるいはまた"];
+	node7 [label="怨ずるがごとく"];
+	node8 [label="泣いて"];
+	node9 [label="見た。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

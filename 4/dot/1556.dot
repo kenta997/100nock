@@ -1,0 +1,17 @@
+digraph graph1556 {
+	node0 [label="ところが"];
+	node1 [label="先生例の"];
+	node2 [label="通り"];
+	node3 [label="独逸語が"];
+	node4 [label="使って"];
+	node5 [label="見たくて"];
+	node6 [label="たまらん"];
+	node7 [label="男だろう。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

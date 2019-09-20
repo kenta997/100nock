@@ -1,0 +1,7 @@
+digraph graph5875 {
+	node0 [label="「誰を"];
+	node1 [label="連れて来"];
+	node2 [label="たんだい」"];
+	node0 -> node1;
+	node1 -> node2;
+}

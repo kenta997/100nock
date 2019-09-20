@@ -1,0 +1,7 @@
+digraph graph8734 {
+	node0 [label="人間全体の"];
+	node1 [label="運命に関する"];
+	node2 [label="社会的現象だからね。"];
+	node0 -> node1;
+	node1 -> node2;
+}

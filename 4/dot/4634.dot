@@ -1,0 +1,7 @@
+digraph graph4634 {
+	node0 [label="ただ"];
+	node1 [label="綴りだけ"];
+	node2 [label="知ってるんだ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,29 @@
+digraph graph5835 {
+	node0 [label="この"];
+	node1 [label="一言でも"];
+	node2 [label="主人の"];
+	node3 [label="愚な"];
+	node4 [label="ところは"];
+	node5 [label="よく"];
+	node6 [label="分るが、"];
+	node7 [label="翻って"];
+	node8 [label="考えて"];
+	node9 [label="見ると"];
+	node10 [label="いささか"];
+	node11 [label="もっともな"];
+	node12 [label="点も"];
+	node13 [label="ある。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

@@ -1,0 +1,9 @@
+digraph graph2384 {
+	node0 [label="そうだって、"];
+	node1 [label="細君も"];
+	node2 [label="そう"];
+	node3 [label="云っていたよ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

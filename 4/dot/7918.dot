@@ -1,0 +1,19 @@
+digraph graph7918 {
+	node0 [label="その"];
+	node1 [label="音を"];
+	node2 [label="聞くと"];
+	node3 [label="急に"];
+	node4 [label="心臓が"];
+	node5 [label="破裂しそうな"];
+	node6 [label="心持で、"];
+	node7 [label="いても"];
+	node8 [label="立ってもいられなくなるんです」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

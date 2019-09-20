@@ -1,0 +1,13 @@
+digraph graph4133 {
+	node0 [label="吾輩が"];
+	node1 [label="いくら"];
+	node2 [label="待ってても"];
+	node3 [label="挨拶も"];
+	node4 [label="しなければ、"];
+	node5 [label="飛びもしない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

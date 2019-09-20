@@ -1,0 +1,29 @@
+digraph graph7773 {
+	node0 [label="「同じ"];
+	node1 [label="芸術だから"];
+	node2 [label="詩歌の"];
+	node3 [label="趣味の"];
+	node4 [label="ある"];
+	node5 [label="ものは"];
+	node6 [label="やはり"];
+	node7 [label="音楽の"];
+	node8 [label="方でも"];
+	node9 [label="上達が"];
+	node10 [label="早いだろうと、"];
+	node11 [label="ひそかに"];
+	node12 [label="恃むところがあるんだが、"];
+	node13 [label="どうだろう」"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

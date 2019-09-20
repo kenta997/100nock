@@ -1,0 +1,9 @@
+digraph graph74 {
+	node0 [label="その"];
+	node1 [label="癖に"];
+	node2 [label="大飯を"];
+	node3 [label="食う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,13 @@
+digraph graph630 {
+	node0 [label="羽根も"];
+	node1 [label="羽子板も"];
+	node2 [label="打ち遣って"];
+	node3 [label="勝手から"];
+	node4 [label="「あらまあ」と"];
+	node5 [label="飛込んで来る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

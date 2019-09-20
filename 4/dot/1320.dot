@@ -1,0 +1,37 @@
+digraph graph1320 {
+	node0 [label="猫よりは"];
+	node1 [label="いつの間にか"];
+	node2 [label="人間の"];
+	node3 [label="方へ"];
+	node4 [label="接近して来たような"];
+	node5 [label="心持に"];
+	node6 [label="なって、"];
+	node7 [label="同族を"];
+	node8 [label="糾合して"];
+	node9 [label="二本足の"];
+	node10 [label="先生と"];
+	node11 [label="雌雄を"];
+	node12 [label="決しようなどと"];
+	node13 [label="云う"];
+	node14 [label="量見は"];
+	node15 [label="昨今の"];
+	node16 [label="ところ"];
+	node17 [label="毛頭ない。"];
+	node0 -> node17;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node17;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

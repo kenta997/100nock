@@ -1,0 +1,9 @@
+digraph graph5399 {
+	node0 [label="「起りますとも、"];
+	node1 [label="夢にまで"];
+	node2 [label="肝癪を"];
+	node3 [label="起します」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

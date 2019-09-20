@@ -1,0 +1,19 @@
+digraph graph3480 {
+	node0 [label="「奥さん、"];
+	node1 [label="帽子は"];
+	node2 [label="その"];
+	node3 [label="くらいに"];
+	node4 [label="して"];
+	node5 [label="この"];
+	node6 [label="鋏を"];
+	node7 [label="御覧"];
+	node8 [label="なさい。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,15 @@
+digraph graph1856 {
+	node0 [label="「うん、"];
+	node1 [label="生意気な"];
+	node2 [label="奴だ、"];
+	node3 [label="ちと"];
+	node4 [label="懲らしめの"];
+	node5 [label="ために"];
+	node6 [label="いじめてやろう。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

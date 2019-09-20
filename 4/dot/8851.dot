@@ -1,0 +1,13 @@
+digraph graph8851 {
+	node0 [label="自由を"];
+	node1 [label="得た"];
+	node2 [label="結果"];
+	node3 [label="不自由を"];
+	node4 [label="感じて"];
+	node5 [label="困っている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

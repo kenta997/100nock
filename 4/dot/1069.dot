@@ -1,0 +1,31 @@
+digraph graph1069 {
+	node0 [label="なぜ"];
+	node1 [label="こう"];
+	node2 [label="云う"];
+	node3 [label="名が"];
+	node4 [label="付いたかと"];
+	node5 [label="云うと、"];
+	node6 [label="昔しからの"];
+	node7 [label="言い伝えで"];
+	node8 [label="誰でも"];
+	node9 [label="この"];
+	node10 [label="松の"];
+	node11 [label="下へ"];
+	node12 [label="来ると"];
+	node13 [label="首が"];
+	node14 [label="縊りたくなる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

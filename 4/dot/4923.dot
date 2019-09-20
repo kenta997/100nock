@@ -1,0 +1,21 @@
+digraph graph4923 {
+	node0 [label="いわんや"];
+	node1 [label="一発を"];
+	node2 [label="送る"];
+	node3 [label="度に"];
+	node4 [label="総軍力を"];
+	node5 [label="合せて"];
+	node6 [label="わーと"];
+	node7 [label="威嚇性大音声を"];
+	node8 [label="出すにおいてを"];
+	node9 [label="やである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

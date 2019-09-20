@@ -1,0 +1,11 @@
+digraph graph5103 {
+	node0 [label="驀然として"];
+	node1 [label="敵の"];
+	node2 [label="一人を"];
+	node3 [label="生"];
+	node4 [label="捕った。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

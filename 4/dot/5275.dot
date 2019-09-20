@@ -1,0 +1,13 @@
+digraph graph5275 {
+	node0 [label="面白いでしょう、"];
+	node1 [label="あの"];
+	node2 [label="頑固なのが"];
+	node3 [label="意気銷沈している"];
+	node4 [label="ところは、"];
+	node5 [label="きっと見物ですよ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

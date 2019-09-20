@@ -1,0 +1,15 @@
+digraph graph283 {
+	node0 [label="中二日"];
+	node1 [label="置いて"];
+	node2 [label="十二月四日の"];
+	node3 [label="日記に"];
+	node4 [label="こんな"];
+	node5 [label="事を"];
+	node6 [label="書いている。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

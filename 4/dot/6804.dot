@@ -1,0 +1,9 @@
+digraph graph6804 {
+	node0 [label="」と"];
+	node1 [label="聞いたのは"];
+	node2 [label="すん"];
+	node3 [label="子である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

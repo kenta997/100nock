@@ -1,0 +1,17 @@
+digraph graph1390 {
+	node0 [label="「なるほどこりゃあ"];
+	node1 [label="善い、"];
+	node2 [label="天然居士相当の"];
+	node3 [label="ところだ」"];
+	node4 [label="主人は"];
+	node5 [label="嬉しそうに"];
+	node6 [label="「善いだろう」と"];
+	node7 [label="云う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

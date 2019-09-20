@@ -1,0 +1,13 @@
+digraph graph4702 {
+	node0 [label="梁上の君子などと"];
+	node1 [label="云って"];
+	node2 [label="泥棒さえ"];
+	node3 [label="君子と"];
+	node4 [label="云う"];
+	node5 [label="世の中である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

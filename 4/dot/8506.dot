@@ -1,0 +1,11 @@
+digraph graph8506 {
+	node0 [label="この"];
+	node1 [label="点において"];
+	node2 [label="今代の"];
+	node3 [label="人は"];
+	node4 [label="探偵的である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,11 @@
+digraph graph1474 {
+	node0 [label="この"];
+	node1 [label="時のみは"];
+	node2 [label="非常に"];
+	node3 [label="丁寧な"];
+	node4 [label="撫で方であった。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

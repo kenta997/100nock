@@ -1,0 +1,7 @@
+digraph graph993 {
+	node0 [label="球が"];
+	node1 [label="空に"];
+	node2 [label="あがる。"];
+	node0 -> node2;
+	node1 -> node2;
+}

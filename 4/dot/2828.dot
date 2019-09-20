@@ -1,0 +1,9 @@
+digraph graph2828 {
+	node0 [label="やがて"];
+	node1 [label="残る"];
+	node2 [label="片足も"];
+	node3 [label="踏み込む。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

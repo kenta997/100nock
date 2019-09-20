@@ -1,0 +1,27 @@
+digraph graph1006 {
+	node0 [label="僕も"];
+	node1 [label="近頃は"];
+	node2 [label="水彩画を"];
+	node3 [label="やめたから、"];
+	node4 [label="その"];
+	node5 [label="代りに"];
+	node6 [label="文章でも"];
+	node7 [label="やろうと"];
+	node8 [label="思ってね」"];
+	node9 [label="「どうして"];
+	node10 [label="遠近無差別黒白平等の"];
+	node11 [label="水彩画の"];
+	node12 [label="比じゃない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

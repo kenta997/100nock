@@ -1,0 +1,13 @@
+digraph graph2026 {
+	node0 [label="寒月君"];
+	node1 [label="もらっちゃ"];
+	node2 [label="いかんよ」と"];
+	node3 [label="大変"];
+	node4 [label="熱心に"];
+	node5 [label="主張する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,21 @@
+digraph graph4539 {
+	node0 [label="吾輩が"];
+	node1 [label="椽側から"];
+	node2 [label="上がるのを"];
+	node3 [label="見て、"];
+	node4 [label="のんきな"];
+	node5 [label="猫だなあ、"];
+	node6 [label="今頃"];
+	node7 [label="どこを"];
+	node8 [label="あるいているんだろうと"];
+	node9 [label="云った。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

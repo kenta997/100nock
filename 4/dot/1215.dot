@@ -1,0 +1,21 @@
+digraph graph1215 {
+	node0 [label="もろ肌を"];
+	node1 [label="脱いで"];
+	node2 [label="石鹸で"];
+	node3 [label="磨き上げた"];
+	node4 [label="皮膚が"];
+	node5 [label="ぴか"];
+	node6 [label="ついて"];
+	node7 [label="黒縮緬の"];
+	node8 [label="羽織と"];
+	node9 [label="反映している。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

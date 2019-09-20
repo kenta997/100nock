@@ -1,0 +1,17 @@
+digraph graph4612 {
+	node0 [label="「重要な"];
+	node1 [label="問題だから"];
+	node2 [label="そう急には"];
+	node3 [label="分らんさ」と"];
+	node4 [label="例の"];
+	node5 [label="肴を"];
+	node6 [label="むしゃむしゃ"];
+	node7 [label="食う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

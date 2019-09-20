@@ -1,0 +1,11 @@
+digraph graph4569 {
+	node0 [label="他人の"];
+	node1 [label="人格を"];
+	node2 [label="重んぜんと"];
+	node3 [label="云う"];
+	node4 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

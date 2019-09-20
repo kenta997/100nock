@@ -1,0 +1,15 @@
+digraph graph4863 {
+	node0 [label="あれも"];
+	node1 [label="医学上から"];
+	node2 [label="診断を"];
+	node3 [label="すると"];
+	node4 [label="警察の"];
+	node5 [label="逆上と"];
+	node6 [label="云う者である。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

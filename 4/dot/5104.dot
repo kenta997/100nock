@@ -1,0 +1,7 @@
+digraph graph5104 {
+	node0 [label="主人に"];
+	node1 [label="しては"];
+	node2 [label="大出来である。"];
+	node0 -> node1;
+	node1 -> node2;
+}

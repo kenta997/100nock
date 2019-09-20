@@ -1,0 +1,15 @@
+digraph graph7819 {
+	node0 [label="これも"];
+	node1 [label="質朴剛健の"];
+	node2 [label="気風を"];
+	node3 [label="あらわす"];
+	node4 [label="美譚だろう、"];
+	node5 [label="ねえ"];
+	node6 [label="独仙君」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

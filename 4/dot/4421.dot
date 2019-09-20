@@ -1,0 +1,7 @@
+digraph graph4421 {
+	node0 [label="本当の"];
+	node1 [label="三介も"];
+	node2 [label="いる。"];
+	node0 -> node1;
+	node1 -> node2;
+}

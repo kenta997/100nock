@@ -1,0 +1,7 @@
+digraph graph7215 {
+	node0 [label="「古井武右衛門——なるほど、"];
+	node1 [label="だいぶ"];
+	node2 [label="長い名だな。"];
+	node0 -> node2;
+	node1 -> node2;
+}

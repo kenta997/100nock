@@ -1,0 +1,5 @@
+digraph graph9037 {
+	node0 [label="「多妻主義じゃないですが、"];
+	node1 [label="肉食論者です」"];
+	node0 -> node1;
+}

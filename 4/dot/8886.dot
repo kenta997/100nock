@@ -1,0 +1,9 @@
+digraph graph8886 {
+	node0 [label="「或る"];
+	node1 [label="人問う、"];
+	node2 [label="いかなるか"];
+	node3 [label="これ最大奇蹟。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

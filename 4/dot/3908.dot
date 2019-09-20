@@ -1,0 +1,33 @@
+digraph graph3908 {
+	node0 [label="あんな"];
+	node1 [label="広い"];
+	node2 [label="所に"];
+	node3 [label="魚が"];
+	node4 [label="何疋"];
+	node5 [label="おるか"];
+	node6 [label="分らないが、"];
+	node7 [label="あの"];
+	node8 [label="魚が"];
+	node9 [label="一疋も"];
+	node10 [label="病気を"];
+	node11 [label="して"];
+	node12 [label="医者に"];
+	node13 [label="かかった"];
+	node14 [label="試しが"];
+	node15 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

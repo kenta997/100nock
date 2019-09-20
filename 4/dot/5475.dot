@@ -1,0 +1,5 @@
+digraph graph5475 {
+	node0 [label="「不平も"];
+	node1 [label="いいさ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,37 @@
+digraph graph1728 {
+	node0 [label="「何ひどい"];
+	node1 [label="ものか、"];
+	node2 [label="あんなのは"];
+	node3 [label="婦人じゃない、"];
+	node4 [label="愚人だ、"];
+	node5 [label="ねえ"];
+	node6 [label="迷亭君」"];
+	node7 [label="「愚人かも"];
+	node8 [label="知れんが、"];
+	node9 [label="なかなか"];
+	node10 [label="えら者だ、"];
+	node11 [label="大分引き掻かれたじゃないか」"];
+	node12 [label="「全体教師を"];
+	node13 [label="何と"];
+	node14 [label="心得ているんだろう」"];
+	node15 [label="「裏の"];
+	node16 [label="車屋くらいに"];
+	node17 [label="心得ているのさ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

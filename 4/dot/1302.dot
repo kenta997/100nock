@@ -1,0 +1,15 @@
+digraph graph1302 {
+	node0 [label="　"];
+	node1 [label="吾輩は"];
+	node2 [label="その後"];
+	node3 [label="野良が"];
+	node4 [label="何百遍"];
+	node5 [label="繰り返されたかを"];
+	node6 [label="知らぬ。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

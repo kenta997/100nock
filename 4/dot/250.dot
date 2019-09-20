@@ -1,0 +1,13 @@
+digraph graph250 {
+	node0 [label="「ところが"];
+	node1 [label="御めえいざって"];
+	node2 [label="え段に"];
+	node3 [label="なると"];
+	node4 [label="奴め最後っ屁を"];
+	node5 [label="こきゃがった。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

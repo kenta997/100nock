@@ -1,0 +1,25 @@
+digraph graph2568 {
+	node0 [label="「ちょっと"];
+	node1 [label="乙だな、"];
+	node2 [label="あんな"];
+	node3 [label="者の"];
+	node4 [label="子でも"];
+	node5 [label="恋をするところが、"];
+	node6 [label="しかし"];
+	node7 [label="大した"];
+	node8 [label="恋じゃなかろう、"];
+	node9 [label="大方"];
+	node10 [label="鼻恋くらいな"];
+	node11 [label="ところだぜ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

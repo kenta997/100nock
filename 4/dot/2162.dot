@@ -1,0 +1,29 @@
+digraph graph2162 {
+	node0 [label="しかし"];
+	node1 [label="向が"];
+	node2 [label="向なら"];
+	node3 [label="こっちも"];
+	node4 [label="こっちと"];
+	node5 [label="云う"];
+	node6 [label="気に"];
+	node7 [label="なるからな——"];
+	node8 [label="つまり"];
+	node9 [label="そんな"];
+	node10 [label="我を"];
+	node11 [label="張るのは"];
+	node12 [label="当人の"];
+	node13 [label="損だからな」"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

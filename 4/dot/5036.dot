@@ -1,0 +1,33 @@
+digraph graph5036 {
+	node0 [label="これと"];
+	node1 [label="相対して"];
+	node2 [label="五六間の"];
+	node3 [label="間隔を"];
+	node4 [label="とってまた"];
+	node5 [label="一人"];
+	node6 [label="立つ、"];
+	node7 [label="擂粉木の"];
+	node8 [label="あとにまた"];
+	node9 [label="一人、"];
+	node10 [label="これは"];
+	node11 [label="臥竜窟に"];
+	node12 [label="顔を"];
+	node13 [label="むけて"];
+	node14 [label="突っ"];
+	node15 [label="立っている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node15;
+	node10 -> node15;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

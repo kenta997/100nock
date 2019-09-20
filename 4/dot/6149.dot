@@ -1,0 +1,33 @@
+digraph graph6149 {
+	node0 [label="「八木が"];
+	node1 [label="独仙なら、"];
+	node2 [label="立町は"];
+	node3 [label="豚仙さ、"];
+	node4 [label="あの"];
+	node5 [label="くらい"];
+	node6 [label="食い意地の"];
+	node7 [label="きたない"];
+	node8 [label="男は"];
+	node9 [label="なかったが、"];
+	node10 [label="あの"];
+	node11 [label="食意地と"];
+	node12 [label="禅坊主の"];
+	node13 [label="わる意地が"];
+	node14 [label="併発したのだから"];
+	node15 [label="助からない。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node9;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

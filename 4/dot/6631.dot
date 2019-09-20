@@ -1,0 +1,15 @@
+digraph graph6631 {
+	node0 [label="吾輩は"];
+	node1 [label="謹んで"];
+	node2 [label="有名なる"];
+	node3 [label="金田君及び"];
+	node4 [label="天下の"];
+	node5 [label="勢力家に"];
+	node6 [label="忠告する。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

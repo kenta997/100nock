@@ -1,0 +1,9 @@
+digraph graph8388 {
+	node0 [label="寒月君ばかりではない、"];
+	node1 [label="おそらく"];
+	node2 [label="誰にでも"];
+	node3 [label="わからないだろう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

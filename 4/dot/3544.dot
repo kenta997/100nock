@@ -1,0 +1,37 @@
+digraph graph3544 {
+	node0 [label="今度は"];
+	node1 [label="先刻のように"];
+	node2 [label="目覚しい"];
+	node3 [label="食方も"];
+	node4 [label="しなかった"];
+	node5 [label="代りに、"];
+	node6 [label="ハンケチを"];
+	node7 [label="使って、"];
+	node8 [label="中途で"];
+	node9 [label="息を"];
+	node10 [label="入れると"];
+	node11 [label="云う"];
+	node12 [label="不体裁も"];
+	node13 [label="なく、"];
+	node14 [label="蒸籠二つを"];
+	node15 [label="安々と"];
+	node16 [label="やってのけたのは"];
+	node17 [label="結構だった。"];
+	node0 -> node17;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+	node16 -> node17;
+}

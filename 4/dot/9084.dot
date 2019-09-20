@@ -1,0 +1,25 @@
+digraph graph9084 {
+	node0 [label="だから"];
+	node1 [label="もう"];
+	node2 [label="一杯ビールを"];
+	node3 [label="飲みます」と"];
+	node4 [label="自分で"];
+	node5 [label="買って来た"];
+	node6 [label="ビールを"];
+	node7 [label="一人で"];
+	node8 [label="ぐいぐい"];
+	node9 [label="飲んで"];
+	node10 [label="真赤に"];
+	node11 [label="なった。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

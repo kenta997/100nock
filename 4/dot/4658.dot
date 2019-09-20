@@ -1,0 +1,5 @@
+digraph graph4658 {
+	node0 [label="「道楽も"];
+	node1 [label="いいさ。"];
+	node0 -> node1;
+}

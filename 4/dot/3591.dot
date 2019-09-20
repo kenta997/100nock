@@ -1,0 +1,31 @@
+digraph graph3591 {
+	node0 [label="「回顧すると"];
+	node1 [label="今を"];
+	node2 [label="去る"];
+	node3 [label="事——ええと——"];
+	node4 [label="何年前だったかな——"];
+	node5 [label="面倒だから"];
+	node6 [label="ほぼ"];
+	node7 [label="十五六年前として"];
+	node8 [label="おこう」"];
+	node9 [label="「冗談じゃない」と"];
+	node10 [label="主人は"];
+	node11 [label="鼻から"];
+	node12 [label="フンと"];
+	node13 [label="息を"];
+	node14 [label="した。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

@@ -1,0 +1,25 @@
+digraph graph4561 {
+	node0 [label="主人は"];
+	node1 [label="二度まで"];
+	node2 [label="思い通りに"];
+	node3 [label="ならんので、"];
+	node4 [label="少々"];
+	node5 [label="焦れ気味で"];
+	node6 [label="「おい、"];
+	node7 [label="ちょっと"];
+	node8 [label="鳴くように"];
+	node9 [label="ぶって"];
+	node10 [label="見ろ」と"];
+	node11 [label="云った。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node11;
+	node5 -> node11;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,11 @@
+digraph graph7320 {
+	node0 [label="「そりゃまた"];
+	node1 [label="飛んでもない"];
+	node2 [label="馬鹿を"];
+	node3 [label="した"];
+	node4 [label="もんだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

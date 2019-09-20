@@ -1,0 +1,5 @@
+digraph graph1004 {
+	node0 [label="凄い"];
+	node1 [label="ものだ。"];
+	node0 -> node1;
+}

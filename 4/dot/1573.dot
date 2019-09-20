@@ -1,0 +1,11 @@
+digraph graph1573 {
+	node0 [label="年は"];
+	node1 [label="四十の"];
+	node2 [label="上を"];
+	node3 [label="少し"];
+	node4 [label="超したくらいだろう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

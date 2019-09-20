@@ -1,0 +1,23 @@
+digraph graph3553 {
+	node0 [label="「ええ、"];
+	node1 [label="なかなか"];
+	node2 [label="複雑な"];
+	node3 [label="問題です、"];
+	node4 [label="第一蛙の"];
+	node5 [label="眼球の"];
+	node6 [label="レンズの"];
+	node7 [label="構造が"];
+	node8 [label="そんな"];
+	node9 [label="単簡な"];
+	node10 [label="ものでありませんからね。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,23 @@
+digraph graph1129 {
+	node0 [label="その"];
+	node1 [label="声は"];
+	node2 [label="遠くの"];
+	node3 [label="方か、"];
+	node4 [label="川の"];
+	node5 [label="底から"];
+	node6 [label="出るようですが"];
+	node7 [label="紛れも"];
+	node8 [label="ない"];
+	node9 [label="○○子の"];
+	node10 [label="声なんでしょう。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,7 @@
+digraph graph7667 {
+	node0 [label="「記憶の"];
+	node1 [label="いい"];
+	node2 [label="男だな。"];
+	node0 -> node1;
+	node1 -> node2;
+}

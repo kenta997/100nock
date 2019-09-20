@@ -1,0 +1,5 @@
+digraph graph3032 {
+	node0 [label="「オタンチン・パレオロガスと"];
+	node1 [label="云うんです。"];
+	node0 -> node1;
+}

@@ -1,0 +1,19 @@
+digraph graph4762 {
+	node0 [label="なぜ"];
+	node1 [label="こんな"];
+	node2 [label="事が"];
+	node3 [label="面白いと"];
+	node4 [label="云うと"];
+	node5 [label="その"];
+	node6 [label="理由は"];
+	node7 [label="いろいろ"];
+	node8 [label="ある。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

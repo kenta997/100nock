@@ -1,0 +1,25 @@
+digraph graph6913 {
+	node0 [label="その"];
+	node1 [label="時"];
+	node2 [label="町内に"];
+	node3 [label="馬鹿竹と"];
+	node4 [label="云って、"];
+	node5 [label="何も"];
+	node6 [label="知らない、"];
+	node7 [label="誰も"];
+	node8 [label="相手に"];
+	node9 [label="しない"];
+	node10 [label="馬鹿が"];
+	node11 [label="いたんですってね。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

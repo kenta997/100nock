@@ -1,0 +1,15 @@
+digraph graph5781 {
+	node0 [label="すべからく"];
+	node1 [label="道え、"];
+	node2 [label="天地と"];
+	node3 [label="我と"];
+	node4 [label="什麼の"];
+	node5 [label="交渉か"];
+	node6 [label="ある。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

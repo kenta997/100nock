@@ -1,0 +1,23 @@
+digraph graph4309 {
+	node0 [label="しかるに"];
+	node1 [label="赤裸の"];
+	node2 [label="一人が"];
+	node3 [label="云うには"];
+	node4 [label="こう"];
+	node5 [label="誰も"];
+	node6 [label="彼も"];
+	node7 [label="同じ"];
+	node8 [label="では勉強する"];
+	node9 [label="甲斐が"];
+	node10 [label="ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,25 @@
+digraph graph7305 {
+	node0 [label="——"];
+	node1 [label="浜田が"];
+	node2 [label="名前が"];
+	node3 [label="なくちゃいけないって"];
+	node4 [label="云いますから、"];
+	node5 [label="君の"];
+	node6 [label="名前を"];
+	node7 [label="かけって"];
+	node8 [label="云ったら、"];
+	node9 [label="僕の"];
+	node10 [label="じゃ"];
+	node11 [label="つまらない。"];
+	node0 -> node11;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

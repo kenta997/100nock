@@ -1,0 +1,9 @@
+digraph graph8356 {
+	node0 [label="「大死一番乾坤新なり」と"];
+	node1 [label="独仙君は"];
+	node2 [label="目くばせを"];
+	node3 [label="する。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

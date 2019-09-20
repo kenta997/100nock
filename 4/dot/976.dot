@@ -1,0 +1,9 @@
+digraph graph976 {
+	node0 [label="球は"];
+	node1 [label="上へ"];
+	node2 [label="上へと"];
+	node3 [label="のぼる。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

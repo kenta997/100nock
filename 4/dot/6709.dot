@@ -1,0 +1,13 @@
+digraph graph6709 {
+	node0 [label="「この"];
+	node1 [label="春"];
+	node2 [label="這入った"];
+	node3 [label="泥棒が"];
+	node4 [label="つら"];
+	node5 [label="まったんだって」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

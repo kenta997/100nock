@@ -1,0 +1,25 @@
+digraph graph5746 {
+	node0 [label="それだから"];
+	node1 [label="毛孔が"];
+	node2 [label="横向であろうとも、"];
+	node3 [label="下向であろうとも"];
+	node4 [label="聊か"];
+	node5 [label="頓着"];
+	node6 [label="なく"];
+	node7 [label="十把一とか"];
+	node8 [label="らげに"];
+	node9 [label="握っては、"];
+	node10 [label="上の方へ"];
+	node11 [label="引っ張り上げる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

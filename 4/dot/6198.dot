@@ -1,0 +1,11 @@
+digraph graph6198 {
+	node0 [label="天道公平君万歳だ」と"];
+	node1 [label="迷亭先生は"];
+	node2 [label="面白がって、"];
+	node3 [label="大に"];
+	node4 [label="笑い出す。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,15 @@
+digraph graph1035 {
+	node0 [label="「行徳の"];
+	node1 [label="俎というのは"];
+	node2 [label="何の"];
+	node3 [label="事ですか」と"];
+	node4 [label="寒月が"];
+	node5 [label="真率に"];
+	node6 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

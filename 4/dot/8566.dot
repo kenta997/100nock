@@ -1,0 +1,11 @@
+digraph graph8566 {
+	node0 [label="「遠慮は"];
+	node1 [label="いらないから"];
+	node2 [label="死ぬさ」と"];
+	node3 [label="迷亭が"];
+	node4 [label="言下に道破する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

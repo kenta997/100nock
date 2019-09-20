@@ -1,0 +1,19 @@
+digraph graph7486 {
+	node0 [label="「こっちの"];
+	node1 [label="方は"];
+	node2 [label="平ですが、"];
+	node3 [label="右の"];
+	node4 [label="端は"];
+	node5 [label="紙が"];
+	node6 [label="余って"];
+	node7 [label="波が"];
+	node8 [label="出来ていますね」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

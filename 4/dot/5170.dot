@@ -1,0 +1,7 @@
+digraph graph5170 {
+	node0 [label="校長でも"];
+	node1 [label="幹事でも"];
+	node2 [label="教頭でも……」"];
+	node0 -> node1;
+	node1 -> node2;
+}

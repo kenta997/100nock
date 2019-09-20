@@ -1,0 +1,15 @@
+digraph graph8046 {
+	node0 [label="「なぜって、"];
+	node1 [label="まだ"];
+	node2 [label="宵の口で"];
+	node3 [label="人が"];
+	node4 [label="大勢"];
+	node5 [label="通るんです"];
+	node6 [label="もの」"];
+	node0 -> node6;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

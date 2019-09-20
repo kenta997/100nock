@@ -1,0 +1,11 @@
+digraph graph1089 {
+	node0 [label="「うちへ"];
+	node1 [label="帰って"];
+	node2 [label="見ると"];
+	node3 [label="東風は"];
+	node4 [label="来ていない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

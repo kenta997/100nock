@@ -1,0 +1,21 @@
+digraph graph1309 {
+	node0 [label="主人が"];
+	node1 [label="書斎にのみ"];
+	node2 [label="閉じ籠っているのを"];
+	node3 [label="人が"];
+	node4 [label="失恋だ"];
+	node5 [label="失恋だと"];
+	node6 [label="評するのも"];
+	node7 [label="無理は"];
+	node8 [label="ないと"];
+	node9 [label="思うようになった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

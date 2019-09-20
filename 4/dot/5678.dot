@@ -1,0 +1,25 @@
+digraph graph5678 {
+	node0 [label="それから"];
+	node1 [label="右の"];
+	node2 [label="手を"];
+	node3 [label="うんと"];
+	node4 [label="伸して、"];
+	node5 [label="出来るだけ"];
+	node6 [label="鏡を"];
+	node7 [label="遠距離に"];
+	node8 [label="持って"];
+	node9 [label="行って"];
+	node10 [label="静かに"];
+	node11 [label="熟視している。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

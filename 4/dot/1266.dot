@@ -1,0 +1,7 @@
+digraph graph1266 {
+	node0 [label="出来たかえ」御師匠さんは"];
+	node1 [label="やはり"];
+	node2 [label="留守ではなかったのだ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

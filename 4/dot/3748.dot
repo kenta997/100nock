@@ -1,0 +1,21 @@
+digraph graph3748 {
+	node0 [label="しばらく」と"];
+	node1 [label="御辞儀を"];
+	node2 [label="する"];
+	node3 [label="東風君の"];
+	node4 [label="顔を"];
+	node5 [label="見ると、"];
+	node6 [label="先日のごとく"];
+	node7 [label="やはり"];
+	node8 [label="奇麗に"];
+	node9 [label="光っている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

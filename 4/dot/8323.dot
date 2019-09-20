@@ -1,0 +1,5 @@
+digraph graph8323 {
+	node0 [label="「しゃべるのは"];
+	node1 [label="君だけだぜ」"];
+	node0 -> node1;
+}

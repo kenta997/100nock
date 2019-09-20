@@ -1,0 +1,11 @@
+digraph graph206 {
+	node0 [label="全てえ"];
+	node1 [label="どこに"];
+	node2 [label="住んでるんだ」"];
+	node3 [label="随分"];
+	node4 [label="傍若無人である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,19 @@
+digraph graph1520 {
+	node0 [label="T1cosα1=T2cosα2……(1)T2cosα2=T3cosα3……(2)……」"];
+	node1 [label="「方程式は"];
+	node2 [label="その"];
+	node3 [label="くらいで"];
+	node4 [label="沢山だろう」と"];
+	node5 [label="主人は"];
+	node6 [label="乱暴な"];
+	node7 [label="事を"];
+	node8 [label="云う。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

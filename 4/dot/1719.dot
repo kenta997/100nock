@@ -1,0 +1,11 @@
+digraph graph1719 {
+	node0 [label="月並も"];
+	node1 [label="あのくらいに"];
+	node2 [label="なると"];
+	node3 [label="なかなか"];
+	node4 [label="振っていますなあ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

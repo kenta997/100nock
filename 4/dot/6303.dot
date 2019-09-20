@@ -1,0 +1,5 @@
+digraph graph6303 {
+	node0 [label="「いくらでも"];
+	node1 [label="恐れ入るがいい」"];
+	node0 -> node1;
+}

@@ -1,0 +1,17 @@
+digraph graph322 {
+	node0 [label="吾輩が"];
+	node1 [label="琥珀よりも"];
+	node2 [label="美しいと"];
+	node3 [label="評した"];
+	node4 [label="彼の"];
+	node5 [label="眼には"];
+	node6 [label="眼脂が"];
+	node7 [label="一杯たまっている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

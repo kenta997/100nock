@@ -1,0 +1,23 @@
+digraph graph1554 {
+	node0 [label="「そりゃ"];
+	node1 [label="好いが、"];
+	node2 [label="その"];
+	node3 [label="展覧場へ"];
+	node4 [label="東風が"];
+	node5 [label="這入って"];
+	node6 [label="見物していると、"];
+	node7 [label="そこへ"];
+	node8 [label="独逸人が"];
+	node9 [label="夫婦連で"];
+	node10 [label="来たんだって。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

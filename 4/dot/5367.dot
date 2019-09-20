@@ -1,0 +1,7 @@
+digraph graph5367 {
+	node0 [label="多勢に無勢どうせ、"];
+	node1 [label="叶わないのは"];
+	node2 [label="知れているさ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

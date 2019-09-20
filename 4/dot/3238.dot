@@ -1,0 +1,11 @@
+digraph graph3238 {
+	node0 [label="下女は"];
+	node1 [label="さっき"];
+	node2 [label="湯に"];
+	node3 [label="行って"];
+	node4 [label="戻って来ん。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

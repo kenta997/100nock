@@ -1,0 +1,27 @@
+digraph graph6430 {
+	node0 [label="その"];
+	node1 [label="泣き声は"];
+	node2 [label="吾ながら"];
+	node3 [label="悲壮の"];
+	node4 [label="音を"];
+	node5 [label="帯びて"];
+	node6 [label="天涯の"];
+	node7 [label="遊子を"];
+	node8 [label="して"];
+	node9 [label="断腸の"];
+	node10 [label="思あらしむるに"];
+	node11 [label="足ると"];
+	node12 [label="信ずる。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

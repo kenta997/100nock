@@ -1,0 +1,33 @@
+digraph graph4260 {
+	node0 [label="人間として"];
+	node1 [label="着物を"];
+	node2 [label="つけないのは"];
+	node3 [label="象の"];
+	node4 [label="鼻"];
+	node5 [label="なきがごとく、"];
+	node6 [label="学校の"];
+	node7 [label="生徒"];
+	node8 [label="なきがごとく、"];
+	node9 [label="兵隊の"];
+	node10 [label="勇気"];
+	node11 [label="なきがごとく"];
+	node12 [label="全く"];
+	node13 [label="その"];
+	node14 [label="本体を"];
+	node15 [label="失している。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+}

@@ -1,0 +1,11 @@
+digraph graph5406 {
+	node0 [label="「ええ、"];
+	node1 [label="そう"];
+	node2 [label="云う"];
+	node3 [label="療法も"];
+	node4 [label="あります」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,31 @@
+digraph graph1043 {
+	node0 [label="寒中は"];
+	node1 [label="夜間外出を"];
+	node2 [label="するなとか、"];
+	node3 [label="冷水浴も"];
+	node4 [label="いいが"];
+	node5 [label="ストーブを"];
+	node6 [label="焚いて"];
+	node7 [label="室を"];
+	node8 [label="煖かに"];
+	node9 [label="してやらないと"];
+	node10 [label="風邪を"];
+	node11 [label="引くとか"];
+	node12 [label="いろいろの"];
+	node13 [label="注意が"];
+	node14 [label="あるのさ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

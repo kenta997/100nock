@@ -1,0 +1,27 @@
+digraph graph2499 {
+	node0 [label="「その"];
+	node1 [label="時の"];
+	node2 [label="君の"];
+	node3 [label="風采は"];
+	node4 [label="なかったぜ、"];
+	node5 [label="金巾の"];
+	node6 [label="しゃつに"];
+	node7 [label="越中褌で"];
+	node8 [label="雨上りの"];
+	node9 [label="水溜りの"];
+	node10 [label="中で"];
+	node11 [label="うんうん"];
+	node12 [label="唸って……」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

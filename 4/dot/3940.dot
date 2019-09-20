@@ -1,0 +1,15 @@
+digraph graph3940 {
+	node0 [label="天の橋立を"];
+	node1 [label="股倉から"];
+	node2 [label="覗いて"];
+	node3 [label="見るとまた"];
+	node4 [label="格別な"];
+	node5 [label="趣が"];
+	node6 [label="出る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

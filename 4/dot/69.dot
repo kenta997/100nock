@@ -1,0 +1,9 @@
+digraph graph69 {
+	node0 [label="当人も"];
+	node1 [label="勉強家であるかの"];
+	node2 [label="ごとく"];
+	node3 [label="見せている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

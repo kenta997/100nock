@@ -1,0 +1,9 @@
+digraph graph7512 {
+	node0 [label="「先生も"];
+	node1 [label="なかなか"];
+	node2 [label="政治家に"];
+	node3 [label="なりましたね。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

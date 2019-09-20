@@ -1,0 +1,23 @@
+digraph graph7760 {
+	node0 [label="まさか"];
+	node1 [label="そこへは"];
+	node2 [label="打つまいと"];
+	node3 [label="思って、"];
+	node4 [label="いささか"];
+	node5 [label="駄弁を"];
+	node6 [label="振って"];
+	node7 [label="肝胆を"];
+	node8 [label="砕いていたが、"];
+	node9 [label="やッぱり"];
+	node10 [label="駄目か」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

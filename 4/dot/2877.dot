@@ -1,0 +1,5 @@
+digraph graph2877 {
+	node0 [label="「なんでも"];
+	node1 [label="夜なかでしょう」"];
+	node0 -> node1;
+}

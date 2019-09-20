@@ -1,0 +1,11 @@
+digraph graph8829 {
+	node0 [label="「曲覚的かも知れないが」と"];
+	node1 [label="今度は"];
+	node2 [label="独仙君が"];
+	node3 [label="口を"];
+	node4 [label="出す。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

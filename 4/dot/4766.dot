@@ -1,0 +1,29 @@
+digraph graph4766 {
+	node0 [label="世の中に"];
+	node1 [label="退屈ほど"];
+	node2 [label="我慢の"];
+	node3 [label="出来にくい"];
+	node4 [label="ものは"];
+	node5 [label="ない、"];
+	node6 [label="何か"];
+	node7 [label="活気を"];
+	node8 [label="刺激する"];
+	node9 [label="事件が"];
+	node10 [label="ないと"];
+	node11 [label="生きているのが"];
+	node12 [label="つらい"];
+	node13 [label="ものだ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

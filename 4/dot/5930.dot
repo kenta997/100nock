@@ -1,0 +1,15 @@
+digraph graph5930 {
+	node0 [label="まさか"];
+	node1 [label="迷亭の"];
+	node2 [label="話ほどではなかろうと"];
+	node3 [label="思っていたが、"];
+	node4 [label="逢って"];
+	node5 [label="見ると"];
+	node6 [label="話以上である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

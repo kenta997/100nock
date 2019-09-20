@@ -1,0 +1,25 @@
+digraph graph1281 {
+	node0 [label="「つまるところ"];
+	node1 [label="表通りの"];
+	node2 [label="教師の"];
+	node3 [label="うちの"];
+	node4 [label="野良猫が"];
+	node5 [label="無暗に"];
+	node6 [label="誘い出したからだと、"];
+	node7 [label="わたしは"];
+	node8 [label="思うよ」"];
+	node9 [label="「ええあの畜生が"];
+	node10 [label="三毛の"];
+	node11 [label="かたきでございますよ」"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

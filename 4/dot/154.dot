@@ -1,0 +1,9 @@
+digraph graph154 {
+	node0 [label="吾輩は"];
+	node1 [label="すでに"];
+	node2 [label="十分"];
+	node3 [label="寝た。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,9 @@
+digraph graph8554 {
+	node0 [label="「時に"];
+	node1 [label="金田のようなのは"];
+	node2 [label="何で"];
+	node3 [label="斃れるだろう」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

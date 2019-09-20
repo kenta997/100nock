@@ -1,0 +1,11 @@
+digraph graph3193 {
+	node0 [label="儒家にも"];
+	node1 [label="静坐の"];
+	node2 [label="工夫と"];
+	node3 [label="云うのが"];
+	node4 [label="あるそうだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

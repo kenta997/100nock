@@ -1,0 +1,33 @@
+digraph graph1837 {
+	node0 [label="空を"];
+	node1 [label="踏むがごとく、"];
+	node2 [label="雲を"];
+	node3 [label="行くがごとく、"];
+	node4 [label="水中に"];
+	node5 [label="磬を"];
+	node6 [label="打つがごとく、"];
+	node7 [label="洞裏に"];
+	node8 [label="瑟を"];
+	node9 [label="鼓するがごとく、"];
+	node10 [label="醍醐の"];
+	node11 [label="妙味を"];
+	node12 [label="甞めて言詮の"];
+	node13 [label="ほかに"];
+	node14 [label="冷暖を"];
+	node15 [label="自知するがごとし。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

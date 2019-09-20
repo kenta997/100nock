@@ -1,0 +1,31 @@
+digraph graph4771 {
+	node0 [label="だから"];
+	node1 [label="一方には"];
+	node2 [label="自分の"];
+	node3 [label="勢力が"];
+	node4 [label="示したくって、"];
+	node5 [label="しかも"];
+	node6 [label="そんなに"];
+	node7 [label="人に"];
+	node8 [label="害を"];
+	node9 [label="与えたくないと"];
+	node10 [label="云う"];
+	node11 [label="場合には、"];
+	node12 [label="からかうのが"];
+	node13 [label="一番"];
+	node14 [label="御恰好である。"];
+	node0 -> node14;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

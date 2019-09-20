@@ -1,0 +1,27 @@
+digraph graph2394 {
+	node0 [label="先日"];
+	node1 [label="鼻と"];
+	node2 [label="喧嘩を"];
+	node3 [label="したのは"];
+	node4 [label="鼻が"];
+	node5 [label="気に"];
+	node6 [label="食わぬからで"];
+	node7 [label="鼻の"];
+	node8 [label="娘には"];
+	node9 [label="何の"];
+	node10 [label="罪も"];
+	node11 [label="ない"];
+	node12 [label="話しである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

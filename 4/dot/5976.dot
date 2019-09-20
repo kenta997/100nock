@@ -1,0 +1,5 @@
+digraph graph5976 {
+	node0 [label="「それだから"];
+	node1 [label="困る。"];
+	node0 -> node1;
+}

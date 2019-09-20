@@ -1,0 +1,25 @@
+digraph graph4545 {
+	node0 [label="こう"];
+	node1 [label="考えて"];
+	node2 [label="膳の"];
+	node3 [label="傍に"];
+	node4 [label="坐って、"];
+	node5 [label="隙が"];
+	node6 [label="あったら"];
+	node7 [label="何か"];
+	node8 [label="頂戴しようと、"];
+	node9 [label="見るごとく"];
+	node10 [label="見ざるごとく"];
+	node11 [label="装っていた。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

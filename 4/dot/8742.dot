@@ -1,0 +1,25 @@
+digraph graph8742 {
+	node0 [label="ふたりの"];
+	node1 [label="人が"];
+	node2 [label="途中で"];
+	node3 [label="逢えばうぬが"];
+	node4 [label="人間なら、"];
+	node5 [label="おれも"];
+	node6 [label="人間だぞと"];
+	node7 [label="心の"];
+	node8 [label="中で"];
+	node9 [label="喧嘩を"];
+	node10 [label="買いながら"];
+	node11 [label="行き違う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node11;
+	node5 -> node11;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

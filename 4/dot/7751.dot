@@ -1,0 +1,13 @@
+digraph graph7751 {
+	node0 [label="「君は"];
+	node1 [label="人間の"];
+	node2 [label="古物と"];
+	node3 [label="ヴァイオリンの"];
+	node4 [label="古物と"];
+	node5 [label="同一視しているんだろう。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

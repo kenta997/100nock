@@ -1,0 +1,9 @@
+digraph graph3268 {
+	node0 [label="心配せんのは、"];
+	node1 [label="心配する"];
+	node2 [label="価値が"];
+	node3 [label="ないからではない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

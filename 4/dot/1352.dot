@@ -1,0 +1,21 @@
+digraph graph1352 {
+	node0 [label="「なんだよ」と"];
+	node1 [label="今度は"];
+	node2 [label="鼻の"];
+	node3 [label="穴へ"];
+	node4 [label="親指と"];
+	node5 [label="人さし指を"];
+	node6 [label="入れて"];
+	node7 [label="鼻毛を"];
+	node8 [label="ぐっと"];
+	node9 [label="抜く。"];
+	node0 -> node9;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

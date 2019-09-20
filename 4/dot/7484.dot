@@ -1,0 +1,21 @@
+digraph graph7484 {
+	node0 [label="この"];
+	node1 [label="くらい"];
+	node2 [label="障子が"];
+	node3 [label="張れれば"];
+	node4 [label="嫁に"];
+	node5 [label="行く"];
+	node6 [label="資格は"];
+	node7 [label="あると"];
+	node8 [label="云って"];
+	node9 [label="威張ってるぜ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

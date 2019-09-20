@@ -1,0 +1,17 @@
+digraph graph7091 {
+	node0 [label="どうも"];
+	node1 [label="この"];
+	node2 [label="頃の"];
+	node3 [label="女学生は"];
+	node4 [label="口が"];
+	node5 [label="悪る"];
+	node6 [label="くって"];
+	node7 [label="いかん。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

@@ -1,0 +1,11 @@
+digraph graph8516 {
+	node0 [label="「苦沙弥君の"];
+	node1 [label="説明は"];
+	node2 [label="よく"];
+	node3 [label="我意を"];
+	node4 [label="得ている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

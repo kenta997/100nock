@@ -1,0 +1,21 @@
+digraph graph7165 {
+	node0 [label="面白い"];
+	node1 [label="男を"];
+	node2 [label="旦那様に"];
+	node3 [label="戴いて、"];
+	node4 [label="短かい猫の"];
+	node5 [label="命の"];
+	node6 [label="うちにも、"];
+	node7 [label="大分多くの"];
+	node8 [label="経験が"];
+	node9 [label="出来る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

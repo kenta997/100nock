@@ -1,0 +1,7 @@
+digraph graph6842 {
+	node0 [label="「よっぽど"];
+	node1 [label="重い"];
+	node2 [label="石地蔵なのね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

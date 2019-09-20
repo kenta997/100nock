@@ -1,0 +1,11 @@
+digraph graph5037 {
+	node0 [label="かくのごとく"];
+	node1 [label="一直線に"];
+	node2 [label="ならんで"];
+	node3 [label="向い合っているのが"];
+	node4 [label="砲手である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

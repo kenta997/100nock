@@ -1,0 +1,17 @@
+digraph graph8658 {
+	node0 [label="なんと"];
+	node1 [label="云う"];
+	node2 [label="所ですか」と"];
+	node3 [label="東風君は"];
+	node4 [label="裸体が"];
+	node5 [label="出さえすれば"];
+	node6 [label="前へ"];
+	node7 [label="乗り出してくる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

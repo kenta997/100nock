@@ -1,0 +1,5 @@
+digraph graph5272 {
+	node0 [label="なに訳は"];
+	node1 [label="ありません。"];
+	node0 -> node1;
+}

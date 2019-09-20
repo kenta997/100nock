@@ -1,0 +1,23 @@
+digraph graph3899 {
+	node0 [label="主人の"];
+	node1 [label="第三女などは"];
+	node2 [label="数え年で"];
+	node3 [label="三つだそうだが、"];
+	node4 [label="智識の"];
+	node5 [label="発達から"];
+	node6 [label="云うと、"];
+	node7 [label="いや"];
+	node8 [label="はや"];
+	node9 [label="鈍い"];
+	node10 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

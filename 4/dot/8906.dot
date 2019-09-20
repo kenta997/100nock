@@ -1,0 +1,25 @@
+digraph graph8906 {
+	node0 [label="ヴァレリアスかつ"];
+	node1 [label="て書を"];
+	node2 [label="その"];
+	node3 [label="友某に"];
+	node4 [label="おくって"];
+	node5 [label="告げて"];
+	node6 [label="曰く天下に"];
+	node7 [label="何事も"];
+	node8 [label="女子の"];
+	node9 [label="忍んで"];
+	node10 [label="なし得ざる"];
+	node11 [label="ものあらず。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

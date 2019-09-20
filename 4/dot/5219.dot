@@ -1,0 +1,29 @@
+digraph graph5219 {
+	node0 [label="金田君は"];
+	node1 [label="車で"];
+	node2 [label="自宅へ"];
+	node3 [label="帰る"];
+	node4 [label="ところ、"];
+	node5 [label="鈴木君は"];
+	node6 [label="金田君の"];
+	node7 [label="留守を"];
+	node8 [label="訪問して"];
+	node9 [label="引き返す"];
+	node10 [label="途中で"];
+	node11 [label="両人が"];
+	node12 [label="ばったりと"];
+	node13 [label="出逢ったのである。"];
+	node0 -> node13;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

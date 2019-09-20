@@ -1,0 +1,19 @@
+digraph graph4679 {
+	node0 [label="南側に"];
+	node1 [label="檜が"];
+	node2 [label="幅を"];
+	node3 [label="利かしているごとく、"];
+	node4 [label="北側には"];
+	node5 [label="桐の"];
+	node6 [label="木が"];
+	node7 [label="七八本"];
+	node8 [label="行列している。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

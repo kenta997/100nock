@@ -1,0 +1,7 @@
+digraph graph6250 {
+	node0 [label="「だって"];
+	node1 [label="せっかく"];
+	node2 [label="知らせて来てくれたんじゃないか」"];
+	node0 -> node2;
+	node1 -> node2;
+}

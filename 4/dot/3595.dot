@@ -1,0 +1,5 @@
+digraph graph3595 {
+	node0 [label="「だまって"];
+	node1 [label="聴いていらっしゃいよ。"];
+	node0 -> node1;
+}

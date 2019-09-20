@@ -1,0 +1,15 @@
+digraph graph5681 {
+	node0 [label="——顔ばかりじゃない"];
+	node1 [label="何でも"];
+	node2 [label="そんな"];
+	node3 [label="ものだ」と"];
+	node4 [label="悟ったような"];
+	node5 [label="ことを"];
+	node6 [label="云う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

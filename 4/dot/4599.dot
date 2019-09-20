@@ -1,0 +1,11 @@
+digraph graph4599 {
+	node0 [label="すると"];
+	node1 [label="主人は"];
+	node2 [label="たちまち"];
+	node3 [label="大きな"];
+	node4 [label="声で"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

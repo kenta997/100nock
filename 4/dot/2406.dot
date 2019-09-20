@@ -1,0 +1,21 @@
+digraph graph2406 {
+	node0 [label="「だろうた"];
+	node1 [label="判然しない"];
+	node2 [label="言葉だ」と"];
+	node3 [label="主人は"];
+	node4 [label="何事に"];
+	node5 [label="よらず、"];
+	node6 [label="正面から、"];
+	node7 [label="どやし付けないと"];
+	node8 [label="気が"];
+	node9 [label="すまない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

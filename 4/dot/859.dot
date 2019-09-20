@@ -1,0 +1,35 @@
+digraph graph859 {
+	node0 [label="「一寸参堂仕り度"];
+	node1 [label="候えども、"];
+	node2 [label="大兄の"];
+	node3 [label="消極主義に"];
+	node4 [label="反して、"];
+	node5 [label="出来得る"];
+	node6 [label="限り"];
+	node7 [label="積極的方針を以て、"];
+	node8 [label="此千古未曾有の"];
+	node9 [label="新年を"];
+	node10 [label="迎うる計画故、"];
+	node11 [label="毎日"];
+	node12 [label="毎日目の"];
+	node13 [label="廻る"];
+	node14 [label="程の"];
+	node15 [label="多忙、"];
+	node16 [label="御推察願上候……」"];
+	node0 -> node1;
+	node1 -> node16;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node16;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node16;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

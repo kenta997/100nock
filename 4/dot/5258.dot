@@ -1,0 +1,19 @@
+digraph graph5258 {
+	node0 [label="「どうも"];
+	node1 [label="損得と"];
+	node2 [label="云う"];
+	node3 [label="観念の"];
+	node4 [label="乏しい"];
+	node5 [label="奴ですから"];
+	node6 [label="無暗に"];
+	node7 [label="痩我慢を"];
+	node8 [label="張るんでしょう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

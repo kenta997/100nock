@@ -1,0 +1,11 @@
+digraph graph4169 {
+	node0 [label="考えて"];
+	node1 [label="見ると"];
+	node2 [label="無理の"];
+	node3 [label="ない"];
+	node4 [label="ところだ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

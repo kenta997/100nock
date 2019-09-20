@@ -1,0 +1,11 @@
+digraph graph3745 {
+	node0 [label="どうせ"];
+	node1 [label="これだけ"];
+	node2 [label="集まれば"];
+	node3 [label="只事では"];
+	node4 [label="すまない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

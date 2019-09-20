@@ -1,0 +1,11 @@
+digraph graph2073 {
+	node0 [label="人の"];
+	node1 [label="邸内へは"];
+	node2 [label="這入り込んで"];
+	node3 [label="差支えなき"];
+	node4 [label="故込まざるを得ず。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph9150 {
+	node0 [label="歌が"];
+	node1 [label="うたいたくなる。"];
+	node0 -> node1;
+}

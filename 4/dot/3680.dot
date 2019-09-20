@@ -1,0 +1,13 @@
+digraph graph3680 {
+	node0 [label="奥さん近頃は"];
+	node1 [label="女学生が"];
+	node2 [label="堕落したの"];
+	node3 [label="何だのと"];
+	node4 [label="やかましく"];
+	node5 [label="云いますがね。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

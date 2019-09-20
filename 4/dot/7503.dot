@@ -1,0 +1,5 @@
+digraph graph7503 {
+	node0 [label="学問は"];
+	node1 [label="出来ますか」"];
+	node0 -> node1;
+}

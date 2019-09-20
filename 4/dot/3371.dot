@@ -1,0 +1,15 @@
+digraph graph3371 {
+	node0 [label="坊主とか"];
+	node1 [label="自称する"];
+	node2 [label="ものは"];
+	node3 [label="いつ"];
+	node4 [label="見ても"];
+	node5 [label="頭を"];
+	node6 [label="青くしている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

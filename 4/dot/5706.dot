@@ -1,0 +1,15 @@
+digraph graph5706 {
+	node0 [label="影を"];
+	node1 [label="追えば"];
+	node2 [label="本体に"];
+	node3 [label="逢着する"];
+	node4 [label="時が"];
+	node5 [label="ないとも"];
+	node6 [label="限らぬ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

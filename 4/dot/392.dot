@@ -1,0 +1,27 @@
+digraph graph392 {
+	node0 [label="この"];
+	node1 [label="寒月という"];
+	node2 [label="男は"];
+	node3 [label="やはり"];
+	node4 [label="主人の"];
+	node5 [label="旧門下生であったそうだが、"];
+	node6 [label="今では"];
+	node7 [label="学校を"];
+	node8 [label="卒業して、"];
+	node9 [label="何でも"];
+	node10 [label="主人より"];
+	node11 [label="立派になっているという"];
+	node12 [label="話しである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

@@ -1,0 +1,15 @@
+digraph graph8738 {
+	node0 [label="前"];
+	node1 [label="申す"];
+	node2 [label="通り"];
+	node3 [label="今の"];
+	node4 [label="世は"];
+	node5 [label="個性中心の"];
+	node6 [label="世である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,33 @@
+digraph graph3700 {
+	node0 [label="おやじは"];
+	node1 [label="この"];
+	node2 [label="男に"];
+	node3 [label="向って"];
+	node4 [label="安ければ"];
+	node5 [label="買ってもいいが、"];
+	node6 [label="もう"];
+	node7 [label="これぎりかいと"];
+	node8 [label="聞くと、"];
+	node9 [label="へえ生憎"];
+	node10 [label="今日は"];
+	node11 [label="みんな"];
+	node12 [label="売り尽して"];
+	node13 [label="たった"];
+	node14 [label="二つに"];
+	node15 [label="なっちまいました。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node15;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node15;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

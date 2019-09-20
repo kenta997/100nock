@@ -1,0 +1,19 @@
+digraph graph4480 {
+	node0 [label="書生は"];
+	node1 [label="後ろを"];
+	node2 [label="振り返って"];
+	node3 [label="「僕は"];
+	node4 [label="もとから"];
+	node5 [label="ここに"];
+	node6 [label="いたのです」と"];
+	node7 [label="おとなしく"];
+	node8 [label="答えた。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

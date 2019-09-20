@@ -1,0 +1,27 @@
+digraph graph1337 {
+	node0 [label="主人は"];
+	node1 [label="筆を"];
+	node2 [label="持って"];
+	node3 [label="首を"];
+	node4 [label="捻ったが"];
+	node5 [label="別段"];
+	node6 [label="名案も"];
+	node7 [label="ない"];
+	node8 [label="ものと"];
+	node9 [label="見えて"];
+	node10 [label="筆の"];
+	node11 [label="穂を"];
+	node12 [label="甞めだした。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

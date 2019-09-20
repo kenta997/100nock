@@ -1,0 +1,29 @@
+digraph graph4519 {
+	node0 [label="その"];
+	node1 [label="声には"];
+	node2 [label="黄なのも、"];
+	node3 [label="青いのも、"];
+	node4 [label="赤いのも、"];
+	node5 [label="黒いのも"];
+	node6 [label="あるが"];
+	node7 [label="互に"];
+	node8 [label="畳なりかかって"];
+	node9 [label="一種"];
+	node10 [label="名状すべからざる"];
+	node11 [label="音響を"];
+	node12 [label="浴場内に"];
+	node13 [label="漲らす。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

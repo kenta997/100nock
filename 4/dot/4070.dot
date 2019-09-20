@@ -1,0 +1,15 @@
+digraph graph4070 {
+	node0 [label="それが"];
+	node1 [label="いやになると"];
+	node2 [label="ご免を"];
+	node3 [label="蒙って"];
+	node4 [label="口の"];
+	node5 [label="内へ"];
+	node6 [label="頬張ってしまう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

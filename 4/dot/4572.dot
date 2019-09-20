@@ -1,0 +1,11 @@
+digraph graph4572 {
+	node0 [label="しかし"];
+	node1 [label="実のところ主人は"];
+	node2 [label="これほど"];
+	node3 [label="けちな"];
+	node4 [label="男ではないのである。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

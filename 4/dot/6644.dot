@@ -1,0 +1,25 @@
+digraph graph6644 {
+	node0 [label="　坊ばが"];
+	node1 [label="一大活躍を"];
+	node2 [label="試みて"];
+	node3 [label="箸を"];
+	node4 [label="刎ね上げた"];
+	node5 [label="時は、"];
+	node6 [label="ちょうど"];
+	node7 [label="とん子が"];
+	node8 [label="飯を"];
+	node9 [label="よそい"];
+	node10 [label="了った"];
+	node11 [label="時である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

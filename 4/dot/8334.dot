@@ -1,0 +1,27 @@
+digraph graph8334 {
+	node0 [label="右へ"];
+	node1 [label="右へと"];
+	node2 [label="爪先上りに"];
+	node3 [label="庚申山へ"];
+	node4 [label="差しかかってくると、"];
+	node5 [label="東嶺寺の"];
+	node6 [label="鐘が"];
+	node7 [label="ボーンと"];
+	node8 [label="毛布を通して、"];
+	node9 [label="耳を通して、"];
+	node10 [label="頭の"];
+	node11 [label="中へ"];
+	node12 [label="響き渡った。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

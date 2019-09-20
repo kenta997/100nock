@@ -1,0 +1,11 @@
+digraph graph3416 {
+	node0 [label="もっとも"];
+	node1 [label="胃弱に"];
+	node2 [label="この"];
+	node3 [label="暑さは"];
+	node4 [label="答えるからね。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

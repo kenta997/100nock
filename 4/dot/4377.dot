@@ -1,0 +1,15 @@
+digraph graph4377 {
+	node0 [label="事に"];
+	node1 [label="よると"];
+	node2 [label="まだ"];
+	node3 [label="生きてるかも知れない」と"];
+	node4 [label="云いながら"];
+	node5 [label="槽から"];
+	node6 [label="上る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

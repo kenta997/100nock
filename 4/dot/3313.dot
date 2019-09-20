@@ -1,0 +1,15 @@
+digraph graph3313 {
+	node0 [label="小癪と"];
+	node1 [label="云おうか、"];
+	node2 [label="卑怯と"];
+	node3 [label="云おうかとうてい"];
+	node4 [label="彼等は"];
+	node5 [label="君子の"];
+	node6 [label="敵でない。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

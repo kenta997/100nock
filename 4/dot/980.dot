@@ -1,0 +1,9 @@
+digraph graph980 {
+	node0 [label="擲つ"];
+	node1 [label="たびに"];
+	node2 [label="球は"];
+	node3 [label="落ちてくる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

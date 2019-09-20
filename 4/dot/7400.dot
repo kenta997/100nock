@@ -1,0 +1,5 @@
+digraph graph7400 {
+	node0 [label="ただ"];
+	node1 [label="名前である。"];
+	node0 -> node1;
+}

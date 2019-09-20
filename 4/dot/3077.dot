@@ -1,0 +1,11 @@
+digraph graph3077 {
+	node0 [label="なん"];
+	node1 [label="ちゅ愚な事です」と"];
+	node2 [label="劈頭"];
+	node3 [label="一番に"];
+	node4 [label="やり込める。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

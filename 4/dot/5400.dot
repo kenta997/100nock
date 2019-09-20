@@ -1,0 +1,9 @@
+digraph graph5400 {
+	node0 [label="「運動でも、"];
+	node1 [label="少し"];
+	node2 [label="なさった"];
+	node3 [label="らいいでしょう」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

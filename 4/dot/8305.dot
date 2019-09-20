@@ -1,0 +1,11 @@
+digraph graph8305 {
+	node0 [label="私は"];
+	node1 [label="弓を"];
+	node2 [label="持ったまま"];
+	node3 [label="ぶるぶると"];
+	node4 [label="ふるえました」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

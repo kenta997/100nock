@@ -1,0 +1,15 @@
+digraph graph5171 {
+	node0 [label="「あの"];
+	node1 [label="校長さんを……」"];
+	node2 [label="下女は"];
+	node3 [label="校長と"];
+	node4 [label="云う"];
+	node5 [label="言葉だけしか"];
+	node6 [label="知らないのである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

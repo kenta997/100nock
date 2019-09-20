@@ -1,0 +1,7 @@
+digraph graph5186 {
+	node0 [label="「丸が"];
+	node1 [label="這入るのも"];
+	node2 [label="仕方がないでしょう。"];
+	node0 -> node1;
+	node1 -> node2;
+}

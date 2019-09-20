@@ -1,0 +1,5 @@
+digraph graph6783 {
+	node0 [label="「八木さんには"];
+	node1 [label="大分閉口しているんですがね。"];
+	node0 -> node1;
+}

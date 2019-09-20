@@ -1,0 +1,7 @@
+digraph graph8405 {
+	node0 [label="「あの"];
+	node1 [label="一件た、"];
+	node2 [label="鼻事件かい。"];
+	node0 -> node1;
+	node1 -> node2;
+}

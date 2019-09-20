@@ -1,0 +1,25 @@
+digraph graph9045 {
+	node0 [label="主人、"];
+	node1 [label="迷亭、"];
+	node2 [label="独仙、"];
+	node3 [label="寒月、"];
+	node4 [label="東風の"];
+	node5 [label="五君は"];
+	node6 [label="恭しく"];
+	node7 [label="コップを"];
+	node8 [label="捧げて、"];
+	node9 [label="三平君の"];
+	node10 [label="艶福を"];
+	node11 [label="祝した。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

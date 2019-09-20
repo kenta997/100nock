@@ -1,0 +1,9 @@
+digraph graph7398 {
+	node0 [label="監督は"];
+	node1 [label="主人が"];
+	node2 [label="好んでなった"];
+	node3 [label="役ではない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

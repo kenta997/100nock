@@ -1,0 +1,29 @@
+digraph graph1949 {
+	node0 [label="例の"];
+	node1 [label="通り"];
+	node2 [label="静かな"];
+	node3 [label="調子で"];
+	node4 [label="「どうか"];
+	node5 [label="私に、"];
+	node6 [label="あの"];
+	node7 [label="娘を"];
+	node8 [label="貰ってくれと"];
+	node9 [label="云う"];
+	node10 [label="依頼なんでしょう」と、また"];
+	node11 [label="紫の"];
+	node12 [label="紐を"];
+	node13 [label="ひねくる。"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

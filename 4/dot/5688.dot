@@ -1,0 +1,9 @@
+digraph graph5688 {
+	node0 [label="いろいろな"];
+	node1 [label="芸を"];
+	node2 [label="やる"];
+	node3 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

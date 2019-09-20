@@ -1,0 +1,19 @@
+digraph graph3653 {
+	node0 [label="主人ばかりではない、"];
+	node1 [label="細君も"];
+	node2 [label="寒月も"];
+	node3 [label="申し合せたように"];
+	node4 [label="首を"];
+	node5 [label="ひねって"];
+	node6 [label="ちょっと"];
+	node7 [label="考えて"];
+	node8 [label="見る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+}

@@ -1,0 +1,9 @@
+digraph graph6187 {
+	node0 [label="「河豚と"];
+	node1 [label="朝鮮仁参の"];
+	node2 [label="取り合せは"];
+	node3 [label="旨いね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

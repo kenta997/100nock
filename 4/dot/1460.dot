@@ -1,0 +1,27 @@
+digraph graph1460 {
+	node0 [label="「君は"];
+	node1 [label="赤ん坊に"];
+	node2 [label="大根卸しを"];
+	node3 [label="甞め"];
+	node4 [label="さしたそうだな」"];
+	node5 [label="「ふむ」と"];
+	node6 [label="主人は"];
+	node7 [label="笑ったが"];
+	node8 [label="「赤ん坊でも"];
+	node9 [label="近頃の"];
+	node10 [label="赤ん坊は"];
+	node11 [label="なかなか"];
+	node12 [label="利口だぜ。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

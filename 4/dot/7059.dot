@@ -1,0 +1,13 @@
+digraph graph7059 {
+	node0 [label="あの"];
+	node1 [label="鉄の"];
+	node2 [label="門を"];
+	node3 [label="観た"];
+	node4 [label="事が"];
+	node5 [label="あるかい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

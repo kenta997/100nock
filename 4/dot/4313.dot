@@ -1,0 +1,31 @@
+digraph graph4313 {
+	node0 [label="何か"];
+	node1 [label="工夫は"];
+	node2 [label="あるまいかと"];
+	node3 [label="十年間"];
+	node4 [label="考えて"];
+	node5 [label="ようやく"];
+	node6 [label="猿股を"];
+	node7 [label="発明して"];
+	node8 [label="すぐさま"];
+	node9 [label="これを"];
+	node10 [label="穿いて、"];
+	node11 [label="どうだ"];
+	node12 [label="恐れ入ったろうと威張って"];
+	node13 [label="そこいらを"];
+	node14 [label="歩いた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

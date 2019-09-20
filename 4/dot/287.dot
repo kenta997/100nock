@@ -1,0 +1,33 @@
+digraph graph287 {
+	node0 [label="これなら"];
+	node1 [label="立派な"];
+	node2 [label="ものだと"];
+	node3 [label="独りで"];
+	node4 [label="眺め暮らしていると、"];
+	node5 [label="夜が"];
+	node6 [label="明けて"];
+	node7 [label="眼が"];
+	node8 [label="覚めて"];
+	node9 [label="やはり"];
+	node10 [label="元の"];
+	node11 [label="通り"];
+	node12 [label="下手である"];
+	node13 [label="事が"];
+	node14 [label="朝日と共に"];
+	node15 [label="明瞭になってしまった。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node15;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

@@ -1,0 +1,9 @@
+digraph graph3209 {
+	node0 [label="庸猫たらんと"];
+	node1 [label="すれば"];
+	node2 [label="鼠を"];
+	node3 [label="捕らざるべからず。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

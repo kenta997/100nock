@@ -1,0 +1,5 @@
+digraph graph4004 {
+	node0 [label="それからまた"];
+	node1 [label="吐き出す。"];
+	node0 -> node1;
+}

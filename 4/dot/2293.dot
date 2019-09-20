@@ -1,0 +1,25 @@
+digraph graph2293 {
+	node0 [label="これほど"];
+	node1 [label="不平が"];
+	node2 [label="あるなら、"];
+	node3 [label="吾輩の"];
+	node4 [label="頸根っこを"];
+	node5 [label="捉えて"];
+	node6 [label="引きずり卸したら"];
+	node7 [label="宜さそうな"];
+	node8 [label="ものだが、"];
+	node9 [label="鈴木君は"];
+	node10 [label="だまって"];
+	node11 [label="見ている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

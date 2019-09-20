@@ -1,0 +1,11 @@
+digraph graph6003 {
+	node0 [label="近頃は"];
+	node1 [label="毎日書斎で"];
+	node2 [label="精神の"];
+	node3 [label="修養ばかり"];
+	node4 [label="しているんですから。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

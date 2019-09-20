@@ -1,0 +1,15 @@
+digraph graph6912 {
+	node0 [label="——"];
+	node1 [label="それで"];
+	node2 [label="叔母さん、"];
+	node3 [label="毎日"];
+	node4 [label="毎晩から"];
+	node5 [label="騒ぎを"];
+	node6 [label="していますとね。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

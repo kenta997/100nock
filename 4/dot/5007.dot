@@ -1,0 +1,19 @@
+digraph graph5007 {
+	node0 [label="皮肉家が"];
+	node1 [label="これを"];
+	node2 [label="よんだら"];
+	node3 [label="この"];
+	node4 [label="にやりの"];
+	node5 [label="裏には"];
+	node6 [label="冷評的分子が"];
+	node7 [label="交っていると"];
+	node8 [label="思うだろう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+}

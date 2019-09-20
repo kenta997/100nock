@@ -1,0 +1,21 @@
+digraph graph1967 {
+	node0 [label="第一の"];
+	node1 [label="不審は、"];
+	node2 [label="もし"];
+	node3 [label="これを"];
+	node4 [label="実用上の"];
+	node5 [label="道具と"];
+	node6 [label="仮定すれば"];
+	node7 [label="穴が"];
+	node8 [label="二つで"];
+	node9 [label="たくさんである。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

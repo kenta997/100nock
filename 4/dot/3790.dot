@@ -1,0 +1,31 @@
+digraph graph3790 {
+	node0 [label="上田敏君の"];
+	node1 [label="説に"];
+	node2 [label="よると"];
+	node3 [label="俳味とか"];
+	node4 [label="滑稽とか"];
+	node5 [label="云う"];
+	node6 [label="ものは"];
+	node7 [label="消極的で"];
+	node8 [label="亡国の"];
+	node9 [label="音だそうだが、"];
+	node10 [label="敏君だけ"];
+	node11 [label="あって"];
+	node12 [label="うまい"];
+	node13 [label="事を"];
+	node14 [label="云ったよ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node14;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

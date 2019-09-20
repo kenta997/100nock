@@ -1,0 +1,5 @@
+digraph graph8200 {
+	node0 [label="弾かなければ"];
+	node1 [label="役に立たない。"];
+	node0 -> node1;
+}

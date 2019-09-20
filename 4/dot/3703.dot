@@ -1,0 +1,15 @@
+digraph graph3703 {
+	node0 [label="こいつの"];
+	node1 [label="方なら"];
+	node2 [label="受け合えない"];
+	node3 [label="代りに"];
+	node4 [label="価段を"];
+	node5 [label="引いておきますと"];
+	node6 [label="云った。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

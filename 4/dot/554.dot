@@ -1,0 +1,7 @@
+digraph graph554 {
+	node0 [label="友人を"];
+	node1 [label="連れて"];
+	node2 [label="無暗にあるく。"];
+	node0 -> node1;
+	node1 -> node2;
+}

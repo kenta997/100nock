@@ -1,0 +1,15 @@
+digraph graph7784 {
+	node0 [label="「独習なら"];
+	node1 [label="天才と"];
+	node2 [label="限った"];
+	node3 [label="事も"];
+	node4 [label="なかろう」と"];
+	node5 [label="寒月君は"];
+	node6 [label="つんとする。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

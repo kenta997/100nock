@@ -1,0 +1,11 @@
+digraph graph2465 {
+	node0 [label="「君は"];
+	node1 [label="一生旅烏かと"];
+	node2 [label="思ってたら、"];
+	node3 [label="いつの間にか"];
+	node4 [label="舞い戻ったね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

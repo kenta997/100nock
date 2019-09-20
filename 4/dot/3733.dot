@@ -1,0 +1,13 @@
+digraph graph3733 {
+	node0 [label="それが"];
+	node1 [label="みんな"];
+	node2 [label="Agnodiceの"];
+	node3 [label="世話なんだから"];
+	node4 [label="大変"];
+	node5 [label="儲かった。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

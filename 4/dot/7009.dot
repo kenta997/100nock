@@ -1,0 +1,35 @@
+digraph graph7009 {
+	node0 [label="　雪江さんと"];
+	node1 [label="叔母さんは"];
+	node2 [label="結婚事件について"];
+	node3 [label="何か"];
+	node4 [label="弁論を"];
+	node5 [label="逞しくしていると、"];
+	node6 [label="さっきから、"];
+	node7 [label="分らないなりに"];
+	node8 [label="謹聴している"];
+	node9 [label="とん子が"];
+	node10 [label="突然"];
+	node11 [label="口を"];
+	node12 [label="開いて"];
+	node13 [label="「わたしも"];
+	node14 [label="御嫁に"];
+	node15 [label="行きたいな」と"];
+	node16 [label="云いだした。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+}

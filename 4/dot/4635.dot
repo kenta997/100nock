@@ -1,0 +1,11 @@
+digraph graph4635 {
+	node0 [label="長く"];
+	node1 [label="書くと"];
+	node2 [label="六寸"];
+	node3 [label="三分くらいに"];
+	node4 [label="かける」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

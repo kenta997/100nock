@@ -1,0 +1,17 @@
+digraph graph1470 {
+	node0 [label="「ところが"];
+	node1 [label="その"];
+	node2 [label="問題が"];
+	node3 [label="マグネ付けられた"];
+	node4 [label="ノッズルについてなどと"];
+	node5 [label="云う"];
+	node6 [label="乾燥無味な"];
+	node7 [label="ものじゃないんだ。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

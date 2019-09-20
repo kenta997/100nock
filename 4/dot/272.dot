@@ -1,0 +1,15 @@
+digraph graph272 {
+	node0 [label="あの"];
+	node1 [label="人の"];
+	node2 [label="妻君は"];
+	node3 [label="芸者だ"];
+	node4 [label="そうだ、"];
+	node5 [label="羨ましい"];
+	node6 [label="事である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

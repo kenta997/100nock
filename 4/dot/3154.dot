@@ -1,0 +1,15 @@
+digraph graph3154 {
+	node0 [label="「そうでございますか、"];
+	node1 [label="私より"];
+	node2 [label="えらいですか」と"];
+	node3 [label="笑いも"];
+	node4 [label="せず"];
+	node5 [label="怒りも"];
+	node6 [label="せぬ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

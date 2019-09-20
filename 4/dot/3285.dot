@@ -1,0 +1,17 @@
+digraph graph3285 {
+	node0 [label="まさか"];
+	node1 [label="易水の"];
+	node2 [label="壮士を"];
+	node3 [label="気取って、"];
+	node4 [label="竜鳴を"];
+	node5 [label="聞こうと"];
+	node6 [label="云う"];
+	node7 [label="酔狂でもあるまい。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

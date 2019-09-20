@@ -1,0 +1,5 @@
+digraph graph6042 {
+	node0 [label="「一人で"];
+	node1 [label="行けますかい」"];
+	node0 -> node1;
+}

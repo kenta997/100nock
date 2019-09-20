@@ -1,0 +1,37 @@
+digraph graph6331 {
+	node0 [label="脳漿"];
+	node1 [label="一勺の"];
+	node2 [label="化学的変化は"];
+	node3 [label="とにかく"];
+	node4 [label="意志の"];
+	node5 [label="動いて"];
+	node6 [label="行為と"];
+	node7 [label="なる"];
+	node8 [label="ところ、"];
+	node9 [label="発して"];
+	node10 [label="言辞と"];
+	node11 [label="化する"];
+	node12 [label="辺には"];
+	node13 [label="不思議にも"];
+	node14 [label="中庸を"];
+	node15 [label="失した"];
+	node16 [label="点が"];
+	node17 [label="多い。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node17;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node17;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node17;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

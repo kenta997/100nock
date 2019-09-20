@@ -1,0 +1,15 @@
+digraph graph5562 {
+	node0 [label="　"];
+	node1 [label="吾輩は"];
+	node2 [label="主人の"];
+	node3 [label="顔を"];
+	node4 [label="見る"];
+	node5 [label="度に"];
+	node6 [label="考える。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

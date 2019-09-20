@@ -1,0 +1,13 @@
+digraph graph7158 {
+	node0 [label="雪江さんの"];
+	node1 [label="紅涙のごときは"];
+	node2 [label="まさしく"];
+	node3 [label="その"];
+	node4 [label="現象の"];
+	node5 [label="一つである。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

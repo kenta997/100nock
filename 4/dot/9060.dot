@@ -1,0 +1,5 @@
+digraph graph9060 {
+	node0 [label="「癒らんでも"];
+	node1 [label="差支えない」"];
+	node0 -> node1;
+}

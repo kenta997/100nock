@@ -1,0 +1,15 @@
+digraph graph288 {
+	node0 [label="　主人は"];
+	node1 [label="夢の"];
+	node2 [label="裡まで"];
+	node3 [label="水彩画の"];
+	node4 [label="未練を"];
+	node5 [label="背負ってあるいていると"];
+	node6 [label="見える。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

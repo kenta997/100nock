@@ -1,0 +1,23 @@
+digraph graph8830 {
+	node0 [label="「とにかく"];
+	node1 [label="人間に"];
+	node2 [label="個性の"];
+	node3 [label="自由を"];
+	node4 [label="許せば"];
+	node5 [label="許す"];
+	node6 [label="ほど"];
+	node7 [label="御互の"];
+	node8 [label="間が"];
+	node9 [label="窮屈になるに"];
+	node10 [label="相違ないよ。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

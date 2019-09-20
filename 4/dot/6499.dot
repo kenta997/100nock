@@ -1,0 +1,11 @@
+digraph graph6499 {
+	node0 [label="主人のごとき"];
+	node1 [label="我儘者には"];
+	node2 [label="なお"];
+	node3 [label="気に"];
+	node4 [label="食わん。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,35 @@
+digraph graph6614 {
+	node0 [label="坊ばは"];
+	node1 [label="当年"];
+	node2 [label="とって"];
+	node3 [label="三歳であるから、"];
+	node4 [label="細君が"];
+	node5 [label="気を"];
+	node6 [label="利かして、"];
+	node7 [label="食事の"];
+	node8 [label="ときには、"];
+	node9 [label="三歳然たる"];
+	node10 [label="小形の"];
+	node11 [label="箸と"];
+	node12 [label="茶碗を"];
+	node13 [label="あてがうのだが、"];
+	node14 [label="坊ばは"];
+	node15 [label="決して"];
+	node16 [label="承知しない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+}

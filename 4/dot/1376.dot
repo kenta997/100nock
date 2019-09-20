@@ -1,0 +1,19 @@
+digraph graph1376 {
+	node0 [label="それから"];
+	node1 [label="裏を"];
+	node2 [label="返して"];
+	node3 [label="「空間に"];
+	node4 [label="生れ、"];
+	node5 [label="空間を"];
+	node6 [label="究め、"];
+	node7 [label="空間に"];
+	node8 [label="死す。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

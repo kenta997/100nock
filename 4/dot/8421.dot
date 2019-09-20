@@ -1,0 +1,19 @@
+digraph graph8421 {
+	node0 [label="そう"];
+	node1 [label="結婚して"];
+	node2 [label="一と"];
+	node3 [label="月も"];
+	node4 [label="たたない"];
+	node5 [label="うちに"];
+	node6 [label="子供が"];
+	node7 [label="生れちゃ事で"];
+	node8 [label="さあ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

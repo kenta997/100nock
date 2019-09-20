@@ -1,0 +1,11 @@
+digraph graph4263 {
+	node0 [label="でありますから"];
+	node1 [label="妾等は"];
+	node2 [label="出席御断わり"];
+	node3 [label="申すと"];
+	node4 [label="云われた。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

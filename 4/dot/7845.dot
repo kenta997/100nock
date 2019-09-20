@@ -1,0 +1,9 @@
+digraph graph7845 {
+	node0 [label="「それで"];
+	node1 [label="よく"];
+	node2 [label="貰い手が"];
+	node3 [label="あるね」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

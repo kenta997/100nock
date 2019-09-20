@@ -1,0 +1,19 @@
+digraph graph1262 {
+	node0 [label="御師匠さんは"];
+	node1 [label="留守でも"];
+	node2 [label="構わんが、"];
+	node3 [label="三毛子は"];
+	node4 [label="少しは"];
+	node5 [label="宜"];
+	node6 [label="い方か、"];
+	node7 [label="それが"];
+	node8 [label="気掛りである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

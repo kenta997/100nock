@@ -1,0 +1,21 @@
+digraph graph5651 {
+	node0 [label="　かくとも"];
+	node1 [label="知らぬ"];
+	node2 [label="主人は"];
+	node3 [label="はなはだ"];
+	node4 [label="熱心なる"];
+	node5 [label="容子を"];
+	node6 [label="もって"];
+	node7 [label="一張来の"];
+	node8 [label="鏡を"];
+	node9 [label="見つめている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

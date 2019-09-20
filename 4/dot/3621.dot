@@ -1,0 +1,5 @@
+digraph graph3621 {
+	node0 [label="こちらからも"];
+	node1 [label="出る。"];
+	node0 -> node1;
+}

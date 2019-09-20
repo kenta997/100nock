@@ -1,0 +1,23 @@
+digraph graph4075 {
+	node0 [label="ただ"];
+	node1 [label="蝉取りは"];
+	node2 [label="蝉を"];
+	node3 [label="取る"];
+	node4 [label="ために"];
+	node5 [label="登り、"];
+	node6 [label="松滑りは、"];
+	node7 [label="登る"];
+	node8 [label="事を"];
+	node9 [label="目的として"];
+	node10 [label="登る。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,7 @@
+digraph graph8086 {
+	node0 [label="「惜しい"];
+	node1 [label="事に"];
+	node2 [label="ならないね。"];
+	node0 -> node1;
+	node1 -> node2;
+}

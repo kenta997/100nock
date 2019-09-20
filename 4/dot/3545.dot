@@ -1,0 +1,25 @@
+digraph graph3545 {
+	node0 [label="「寒月君"];
+	node1 [label="博士論文は"];
+	node2 [label="もう"];
+	node3 [label="脱稿するのかね」と"];
+	node4 [label="主人が"];
+	node5 [label="聞くと"];
+	node6 [label="迷亭も"];
+	node7 [label="その後から"];
+	node8 [label="「金田令嬢が"];
+	node9 [label="お待ちかねだから"];
+	node10 [label="早々呈出したまえ」と"];
+	node11 [label="云う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

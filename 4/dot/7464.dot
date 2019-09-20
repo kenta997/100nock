@@ -1,0 +1,29 @@
+digraph graph7464 {
+	node0 [label="「どうしてでも」と"];
+	node1 [label="雪江さんは"];
+	node2 [label="やに"];
+	node3 [label="すました"];
+	node4 [label="顔を"];
+	node5 [label="即席に"];
+	node6 [label="こしらえて、"];
+	node7 [label="傍に"];
+	node8 [label="あった"];
+	node9 [label="読売新聞の"];
+	node10 [label="上に"];
+	node11 [label="のしかかるように"];
+	node12 [label="眼を"];
+	node13 [label="落した。"];
+	node0 -> node13;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

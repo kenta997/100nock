@@ -1,0 +1,13 @@
+digraph graph4495 {
+	node0 [label="しかし"];
+	node1 [label="一たび流しを"];
+	node2 [label="出て板の間に"];
+	node3 [label="上がれば、"];
+	node4 [label="もう"];
+	node5 [label="化物ではない。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,5 @@
+digraph graph5332 {
+	node0 [label="「騒々しいの"];
+	node1 [label="何のって。"];
+	node0 -> node1;
+}

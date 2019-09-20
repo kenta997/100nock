@@ -1,0 +1,31 @@
+digraph graph6423 {
+	node0 [label="釜の"];
+	node1 [label="周囲には"];
+	node2 [label="沸き上がって"];
+	node3 [label="流れだした"];
+	node4 [label="米の"];
+	node5 [label="汁が、"];
+	node6 [label="かさかさに"];
+	node7 [label="幾条と"];
+	node8 [label="なく"];
+	node9 [label="こびりついて、"];
+	node10 [label="ある"];
+	node11 [label="ものは"];
+	node12 [label="吉野紙を"];
+	node13 [label="貼りつけたごとくに"];
+	node14 [label="見える。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

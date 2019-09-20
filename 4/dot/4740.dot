@@ -1,0 +1,33 @@
+digraph graph4740 {
+	node0 [label="今度は"];
+	node1 [label="北側から"];
+	node2 [label="邸内を"];
+	node3 [label="横断して"];
+	node4 [label="表門から"];
+	node5 [label="抜ける、"];
+	node6 [label="表門を"];
+	node7 [label="がらりと"];
+	node8 [label="あけるから"];
+	node9 [label="御客かと"];
+	node10 [label="思うと"];
+	node11 [label="桐畠の"];
+	node12 [label="方で"];
+	node13 [label="笑う"];
+	node14 [label="声が"];
+	node15 [label="する。"];
+	node0 -> node15;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node15;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

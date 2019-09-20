@@ -1,0 +1,11 @@
+digraph graph2318 {
+	node0 [label="「そりゃ本ものかい」と"];
+	node1 [label="主人は"];
+	node2 [label="無作法な"];
+	node3 [label="質問を"];
+	node4 [label="かける。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

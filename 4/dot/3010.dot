@@ -1,0 +1,13 @@
+digraph graph3010 {
+	node0 [label="この"];
+	node1 [label="禿を"];
+	node2 [label="第一番に"];
+	node3 [label="見付けたのは"];
+	node4 [label="姉の"];
+	node5 [label="とん子である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

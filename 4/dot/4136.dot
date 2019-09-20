@@ -1,0 +1,21 @@
+digraph graph4136 {
+	node0 [label="やっと"];
+	node1 [label="吾輩の"];
+	node2 [label="威光に"];
+	node3 [label="恐れて"];
+	node4 [label="逃げるなと"];
+	node5 [label="思ったら、"];
+	node6 [label="右向から"];
+	node7 [label="左向に"];
+	node8 [label="姿勢を"];
+	node9 [label="かえただけである。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

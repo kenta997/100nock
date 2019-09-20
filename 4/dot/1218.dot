@@ -1,0 +1,9 @@
+digraph graph1218 {
+	node0 [label="それじゃ"];
+	node1 [label="奮発して行こうかな、と"];
+	node2 [label="一ぷくふかしているとようやく甘木先生が"];
+	node3 [label="来た。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,29 @@
+digraph graph3407 {
+	node0 [label="ようやく"];
+	node1 [label="生き帰った"];
+	node2 [label="ところで——"];
+	node3 [label="どうも"];
+	node4 [label="暑いじゃありませんか」"];
+	node5 [label="「この"];
+	node6 [label="両三日は、"];
+	node7 [label="ただ"];
+	node8 [label="じっとしておりましても"];
+	node9 [label="汗が"];
+	node10 [label="出る"];
+	node11 [label="くらいで、"];
+	node12 [label="大変御"];
+	node13 [label="暑うございます。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

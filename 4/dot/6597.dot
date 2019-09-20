@@ -1,0 +1,15 @@
+digraph graph6597 {
+	node0 [label="ただ"];
+	node1 [label="坊ばに"];
+	node2 [label="至っては"];
+	node3 [label="独り異彩を"];
+	node4 [label="放って、"];
+	node5 [label="面長に"];
+	node6 [label="出来上っている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

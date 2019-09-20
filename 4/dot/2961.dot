@@ -1,0 +1,15 @@
+digraph graph2961 {
+	node0 [label="両人共"];
+	node1 [label="十分間ばかりは"];
+	node2 [label="何にも"];
+	node3 [label="せずに"];
+	node4 [label="黙って"];
+	node5 [label="障子を"];
+	node6 [label="睨め付けている。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

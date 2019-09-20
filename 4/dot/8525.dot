@@ -1,0 +1,13 @@
+digraph graph8525 {
+	node0 [label="英吉利の"];
+	node1 [label="ナイスなどと"];
+	node2 [label="自慢する"];
+	node3 [label="行為も"];
+	node4 [label="存外自覚心が"];
+	node5 [label="張り切れそうになっている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

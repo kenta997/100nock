@@ -1,0 +1,17 @@
+digraph graph2131 {
+	node0 [label="しかし"];
+	node1 [label="あの男のは"];
+	node2 [label="吐かなくって"];
+	node3 [label="すむのに"];
+	node4 [label="矢鱈に"];
+	node5 [label="吐くんだから"];
+	node6 [label="始末に"];
+	node7 [label="了えないじゃありませんか。"];
+	node0 -> node7;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

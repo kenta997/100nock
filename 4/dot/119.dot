@@ -1,0 +1,15 @@
+digraph graph119 {
+	node0 [label="まあ"];
+	node1 [label="気を"];
+	node2 [label="永く"];
+	node3 [label="猫の"];
+	node4 [label="時節を"];
+	node5 [label="待つが"];
+	node6 [label="よかろう。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

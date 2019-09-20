@@ -1,0 +1,19 @@
+digraph graph7376 {
+	node0 [label="諸君女に"];
+	node1 [label="向って"];
+	node2 [label="聞いて"];
+	node3 [label="御覧、"];
+	node4 [label="「あなたは"];
+	node5 [label="人が"];
+	node6 [label="困るのを"];
+	node7 [label="面白がって"];
+	node8 [label="笑いますか」と。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

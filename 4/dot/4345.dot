@@ -1,0 +1,15 @@
+digraph graph4345 {
+	node0 [label="何でも"];
+	node1 [label="薬湯とか"];
+	node2 [label="号するのだそうで、"];
+	node3 [label="石灰を"];
+	node4 [label="溶かし込んだような"];
+	node5 [label="色に"];
+	node6 [label="濁っている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

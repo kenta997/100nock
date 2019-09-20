@@ -1,0 +1,15 @@
+digraph graph3230 {
+	node0 [label="その"];
+	node1 [label="籠が"];
+	node2 [label="時々"];
+	node3 [label="風に"];
+	node4 [label="揺れて"];
+	node5 [label="鷹揚に"];
+	node6 [label="動いている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

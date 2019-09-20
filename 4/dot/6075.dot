@@ -1,0 +1,15 @@
+digraph graph6075 {
+	node0 [label="「まあ"];
+	node1 [label="そんな"];
+	node2 [label="贔負が"];
+	node3 [label="あるから"];
+	node4 [label="独仙も"];
+	node5 [label="あれで"];
+	node6 [label="立ち行くんだね。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

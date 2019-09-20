@@ -1,0 +1,21 @@
+digraph graph102 {
+	node0 [label="しかも"];
+	node1 [label="吾輩の"];
+	node2 [label="方で"];
+	node3 [label="少しでも"];
+	node4 [label="手出しを"];
+	node5 [label="しようものなら"];
+	node6 [label="家内総がかりで"];
+	node7 [label="追い廻して"];
+	node8 [label="迫害を"];
+	node9 [label="加える。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,33 @@
+digraph graph8689 {
+	node0 [label="それから"];
+	node1 [label="僕と"];
+	node2 [label="客の"];
+	node3 [label="間に"];
+	node4 [label="二三の"];
+	node5 [label="問答が"];
+	node6 [label="あって、"];
+	node7 [label="とど"];
+	node8 [label="僕が"];
+	node9 [label="狩野法眼元信の"];
+	node10 [label="幅を"];
+	node11 [label="六百円ただし"];
+	node12 [label="月賦"];
+	node13 [label="十円払込の"];
+	node14 [label="事で"];
+	node15 [label="売渡す」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node15;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

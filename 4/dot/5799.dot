@@ -1,0 +1,17 @@
+digraph graph5799 {
+	node0 [label="咄々、"];
+	node1 [label="酔漢漫りに"];
+	node2 [label="胡乱の"];
+	node3 [label="言辞を"];
+	node4 [label="弄して、"];
+	node5 [label="蹣跚として"];
+	node6 [label="墓に"];
+	node7 [label="向う。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,29 @@
+digraph graph4034 {
+	node0 [label="幸に"];
+	node1 [label="爪と"];
+	node2 [label="云う"];
+	node3 [label="利器が"];
+	node4 [label="あるので、"];
+	node5 [label="どうか"];
+	node6 [label="こうか登りは"];
+	node7 [label="する"];
+	node8 [label="ものの、"];
+	node9 [label="はたで"];
+	node10 [label="見る"];
+	node11 [label="ほど"];
+	node12 [label="楽では"];
+	node13 [label="ござらん。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

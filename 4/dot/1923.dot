@@ -1,0 +1,37 @@
+digraph graph1923 {
+	node0 [label="　"];
+	node1 [label="帰って"];
+	node2 [label="見ると、"];
+	node3 [label="奇麗な"];
+	node4 [label="家から"];
+	node5 [label="急に"];
+	node6 [label="汚"];
+	node7 [label="ない所へ"];
+	node8 [label="移ったので、"];
+	node9 [label="何だか"];
+	node10 [label="日当りの"];
+	node11 [label="善い山の上から"];
+	node12 [label="薄黒い"];
+	node13 [label="洞窟の"];
+	node14 [label="中へ"];
+	node15 [label="入り込んだような"];
+	node16 [label="心持ちが"];
+	node17 [label="する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node17;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

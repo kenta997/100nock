@@ -1,0 +1,7 @@
+digraph graph6943 {
+	node0 [label="別に"];
+	node1 [label="論ずるに"];
+	node2 [label="及ばん。"];
+	node0 -> node1;
+	node1 -> node2;
+}

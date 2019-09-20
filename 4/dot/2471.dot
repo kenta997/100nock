@@ -1,0 +1,11 @@
+digraph graph2471 {
+	node0 [label="「今日は"];
+	node1 [label="諸君から"];
+	node2 [label="ひやかされに"];
+	node3 [label="来たような"];
+	node4 [label="ものだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

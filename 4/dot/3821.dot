@@ -1,0 +1,7 @@
+digraph graph3821 {
+	node0 [label="「苦沙弥君、"];
+	node1 [label="これが"];
+	node2 [label="二十世紀なんだよ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

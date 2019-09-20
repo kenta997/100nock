@@ -1,0 +1,15 @@
+digraph graph29 {
+	node0 [label="吾輩は"];
+	node1 [label="藁の"];
+	node2 [label="上から"];
+	node3 [label="急に"];
+	node4 [label="笹原の"];
+	node5 [label="中へ"];
+	node6 [label="棄てられたのである。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

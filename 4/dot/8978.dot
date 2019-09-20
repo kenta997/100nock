@@ -1,0 +1,15 @@
+digraph graph8978 {
+	node0 [label="だから"];
+	node1 [label="どんな"];
+	node2 [label="娘を"];
+	node3 [label="持っても"];
+	node4 [label="心配するが"];
+	node5 [label="ものは"];
+	node6 [label="ないんだよ。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

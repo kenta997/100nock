@@ -1,0 +1,9 @@
+digraph graph8869 {
+	node0 [label="「タマス・ナッシと"];
+	node1 [label="云って"];
+	node2 [label="十六世紀の"];
+	node3 [label="著書だ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

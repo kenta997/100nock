@@ -1,0 +1,7 @@
+digraph graph1196 {
+	node0 [label="情けない"];
+	node1 [label="仕儀に"];
+	node2 [label="なって来た。"];
+	node0 -> node1;
+	node1 -> node2;
+}

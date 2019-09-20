@@ -1,0 +1,15 @@
+digraph graph4933 {
+	node0 [label="さて"];
+	node1 [label="イスキラスも"];
+	node2 [label="作家であるから"];
+	node3 [label="自然の"];
+	node4 [label="勢"];
+	node5 [label="禿げなくては"];
+	node6 [label="ならん。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

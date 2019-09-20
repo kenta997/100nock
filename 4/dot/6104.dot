@@ -1,0 +1,13 @@
+digraph graph6104 {
+	node0 [label="「そうさ、"];
+	node1 [label="当人に"];
+	node2 [label="云わせると"];
+	node3 [label="すこぶる"];
+	node4 [label="ありがたい"];
+	node5 [label="ものさ。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

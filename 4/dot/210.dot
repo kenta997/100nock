@@ -1,0 +1,23 @@
+digraph graph210 {
+	node0 [label="しかし"];
+	node1 [label="その"];
+	node2 [label="膏"];
+	node3 [label="切って"];
+	node4 [label="肥満している"];
+	node5 [label="ところを"];
+	node6 [label="見ると"];
+	node7 [label="御馳走を"];
+	node8 [label="食ってるらしい、"];
+	node9 [label="豊かに"];
+	node10 [label="暮しているらしい。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

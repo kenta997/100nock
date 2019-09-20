@@ -1,0 +1,23 @@
+digraph graph4563 {
+	node0 [label="こう"];
+	node1 [label="先方の"];
+	node2 [label="目的が"];
+	node3 [label="わかれば"];
+	node4 [label="訳は"];
+	node5 [label="ない、"];
+	node6 [label="鳴いてさえやれば"];
+	node7 [label="主人を"];
+	node8 [label="満足させる"];
+	node9 [label="事は"];
+	node10 [label="出来るのだ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

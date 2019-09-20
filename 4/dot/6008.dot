@@ -1,0 +1,5 @@
+digraph graph6008 {
+	node0 [label="「実際"];
+	node1 [label="遊んでるじゃないかの」"];
+	node0 -> node1;
+}

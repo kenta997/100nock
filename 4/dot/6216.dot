@@ -1,0 +1,13 @@
+digraph graph6216 {
+	node0 [label="この間"];
+	node1 [label="深夜御来訪に"];
+	node2 [label="なって"];
+	node3 [label="山の芋を"];
+	node4 [label="持って行かれた"];
+	node5 [label="泥棒君である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

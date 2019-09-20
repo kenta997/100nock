@@ -1,0 +1,7 @@
+digraph graph4018 {
+	node0 [label="秋の初は"];
+	node1 [label="こいつを"];
+	node2 [label="取る。"];
+	node0 -> node2;
+	node1 -> node2;
+}

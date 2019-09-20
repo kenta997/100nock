@@ -1,0 +1,15 @@
+digraph graph4806 {
+	node0 [label="だから"];
+	node1 [label="人間に対しては"];
+	node2 [label="充分"];
+	node3 [label="垣の"];
+	node4 [label="功能を"];
+	node5 [label="つくしているに"];
+	node6 [label="相違ない。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

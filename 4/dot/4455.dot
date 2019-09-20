@@ -1,0 +1,35 @@
+digraph graph4455 {
+	node0 [label="吾輩は"];
+	node1 [label="突然"];
+	node2 [label="この"];
+	node3 [label="異な爺さんに"];
+	node4 [label="逢って"];
+	node5 [label="ちょっと"];
+	node6 [label="驚ろいたから"];
+	node7 [label="こっちの"];
+	node8 [label="記述は"];
+	node9 [label="そのままに"];
+	node10 [label="して、"];
+	node11 [label="しばらく"];
+	node12 [label="爺さんを"];
+	node13 [label="専門に"];
+	node14 [label="観察する"];
+	node15 [label="事に"];
+	node16 [label="した。"];
+	node0 -> node16;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

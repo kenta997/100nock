@@ -1,0 +1,25 @@
+digraph graph6159 {
+	node0 [label="近頃は"];
+	node1 [label="立町老梅なんて"];
+	node2 [label="名は"];
+	node3 [label="つまらないと"];
+	node4 [label="云うので、"];
+	node5 [label="自ら"];
+	node6 [label="天道公平と"];
+	node7 [label="号して、"];
+	node8 [label="天道の"];
+	node9 [label="権化を"];
+	node10 [label="もって"];
+	node11 [label="任じている。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

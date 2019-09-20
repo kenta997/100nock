@@ -1,0 +1,7 @@
+digraph graph7093 {
+	node0 [label="「叔父さんは"];
+	node1 [label="保険が"];
+	node2 [label="嫌でしょう。"];
+	node0 -> node2;
+	node1 -> node2;
+}

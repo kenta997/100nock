@@ -1,0 +1,13 @@
+digraph graph5130 {
+	node0 [label="中学などへ"];
+	node1 [label="入れて"];
+	node2 [label="学問を"];
+	node3 [label="させるのは"];
+	node4 [label="惜しい"];
+	node5 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

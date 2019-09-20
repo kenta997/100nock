@@ -1,0 +1,31 @@
+digraph graph1049 {
+	node0 [label="露西亜と"];
+	node1 [label="戦争が"];
+	node2 [label="始まって"];
+	node3 [label="若い人達は"];
+	node4 [label="大変な"];
+	node5 [label="辛苦を"];
+	node6 [label="して"];
+	node7 [label="御国の"];
+	node8 [label="ために"];
+	node9 [label="働らいているのに"];
+	node10 [label="節季師走でも"];
+	node11 [label="お正月のように"];
+	node12 [label="気楽に"];
+	node13 [label="遊んでいると"];
+	node14 [label="書いてある。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

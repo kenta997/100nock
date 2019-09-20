@@ -1,0 +1,25 @@
+digraph graph6559 {
+	node0 [label="下の"];
+	node1 [label="方に"];
+	node2 [label="大きな"];
+	node3 [label="木板で"];
+	node4 [label="汝はと"];
+	node5 [label="二字だけ"];
+	node6 [label="見える、"];
+	node7 [label="あとが"];
+	node8 [label="見たいが"];
+	node9 [label="あいにく"];
+	node10 [label="露出して"];
+	node11 [label="おらん。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

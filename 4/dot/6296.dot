@@ -1,0 +1,5 @@
+digraph graph6296 {
+	node0 [label="休んでもいいの"];
+	node1 [label="かい」"];
+	node0 -> node1;
+}

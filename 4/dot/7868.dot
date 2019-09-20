@@ -1,0 +1,11 @@
+digraph graph7868 {
+	node0 [label="ねえ"];
+	node1 [label="独仙君、"];
+	node2 [label="君なども"];
+	node3 [label="妻君難の"];
+	node4 [label="方だろう」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

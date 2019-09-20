@@ -1,0 +1,7 @@
+digraph graph2367 {
+	node0 [label="パスカルが"];
+	node1 [label="どうし"];
+	node2 [label="たんだい」"];
+	node0 -> node1;
+	node1 -> node2;
+}

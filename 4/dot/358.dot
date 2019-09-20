@@ -1,0 +1,11 @@
+digraph graph358 {
+	node0 [label="いくら"];
+	node1 [label="猫だって、"];
+	node2 [label="そう"];
+	node3 [label="粗末簡便には"];
+	node4 [label="出来ぬ。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

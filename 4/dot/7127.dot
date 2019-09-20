@@ -1,0 +1,15 @@
+digraph graph7127 {
+	node0 [label="いらないと"];
+	node1 [label="云うから"];
+	node2 [label="還せと"];
+	node3 [label="云うのに"];
+	node4 [label="苛い事が"];
+	node5 [label="ある"];
+	node6 [label="ものか」"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

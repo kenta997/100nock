@@ -1,0 +1,19 @@
+digraph graph2250 {
+	node0 [label="「女は"];
+	node1 [label="髷に"];
+	node2 [label="結うと、"];
+	node3 [label="ここが"];
+	node4 [label="釣れますから"];
+	node5 [label="誰でも"];
+	node6 [label="禿げるんですわ」と"];
+	node7 [label="少しく"];
+	node8 [label="弁護しだす。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

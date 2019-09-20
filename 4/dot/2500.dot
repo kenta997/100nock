@@ -1,0 +1,13 @@
+digraph graph2500 {
+	node0 [label="「それを"];
+	node1 [label="君が"];
+	node2 [label="すました"];
+	node3 [label="顔で"];
+	node4 [label="写生するんだから"];
+	node5 [label="苛い。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

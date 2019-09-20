@@ -1,0 +1,15 @@
+digraph graph3451 {
+	node0 [label="迷亭は"];
+	node1 [label="悟った"];
+	node2 [label="もので"];
+	node3 [label="「いえ"];
+	node4 [label="御茶漬でも"];
+	node5 [label="御湯漬でも"];
+	node6 [label="御免蒙るんです。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

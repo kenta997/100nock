@@ -1,0 +1,25 @@
+digraph graph1208 {
+	node0 [label="妻君は"];
+	node1 [label="命ぜられた"];
+	node2 [label="通り風呂場へ"];
+	node3 [label="行って"];
+	node4 [label="両肌を"];
+	node5 [label="脱いで"];
+	node6 [label="御化粧を"];
+	node7 [label="して、"];
+	node8 [label="箪笥から"];
+	node9 [label="着物を"];
+	node10 [label="出して着"];
+	node11 [label="換える。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

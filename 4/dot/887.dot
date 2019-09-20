@@ -1,0 +1,19 @@
+digraph graph887 {
+	node0 [label="レスター伯が"];
+	node1 [label="エリザベス女皇を"];
+	node2 [label="ケニルウォースに"];
+	node3 [label="招待致し"];
+	node4 [label="候節も"];
+	node5 [label="慥か"];
+	node6 [label="孔雀を"];
+	node7 [label="使用致し"];
+	node8 [label="候様記憶致候。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

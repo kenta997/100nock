@@ -1,0 +1,13 @@
+digraph graph5315 {
+	node0 [label="「昔"];
+	node1 [label="しだって"];
+	node2 [label="今だって"];
+	node3 [label="変りが"];
+	node4 [label="ある"];
+	node5 [label="ものか。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

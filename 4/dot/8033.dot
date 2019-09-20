@@ -1,0 +1,11 @@
+digraph graph8033 {
+	node0 [label="「なかなか"];
+	node1 [label="叙述が"];
+	node2 [label="うまいや」と"];
+	node3 [label="東風君が"];
+	node4 [label="ほめた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

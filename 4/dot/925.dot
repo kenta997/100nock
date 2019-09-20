@@ -1,0 +1,17 @@
+digraph graph925 {
+	node0 [label="「御医者様へ"];
+	node1 [label="連れて行ったの"];
+	node2 [label="かい」"];
+	node3 [label="「ええ、"];
+	node4 [label="あの"];
+	node5 [label="御医者は"];
+	node6 [label="よっぽど"];
+	node7 [label="妙でございますよ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

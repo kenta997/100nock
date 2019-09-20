@@ -1,0 +1,37 @@
+digraph graph1333 {
+	node0 [label="　"];
+	node1 [label="今日は"];
+	node2 [label="上天気の"];
+	node3 [label="日曜なので、"];
+	node4 [label="主人は"];
+	node5 [label="のそのそ"];
+	node6 [label="書斎から"];
+	node7 [label="出て来て、"];
+	node8 [label="吾輩の"];
+	node9 [label="傍へ"];
+	node10 [label="筆硯と"];
+	node11 [label="原稿用紙を"];
+	node12 [label="並べて"];
+	node13 [label="腹這に"];
+	node14 [label="なって、"];
+	node15 [label="しきりに"];
+	node16 [label="何か"];
+	node17 [label="唸っている。"];
+	node0 -> node17;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node17;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

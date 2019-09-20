@@ -1,0 +1,7 @@
+digraph graph6358 {
+	node0 [label="純然たる気じ"];
+	node1 [label="るしに"];
+	node2 [label="極ってる。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,7 @@
+digraph graph902 {
+	node0 [label="　なるほど"];
+	node1 [label="一挙両得に"];
+	node2 [label="相違ない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

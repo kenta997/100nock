@@ -1,0 +1,19 @@
+digraph graph4299 {
+	node0 [label="学問といえども"];
+	node1 [label="その通りだが"];
+	node2 [label="これは"];
+	node3 [label="服装に"];
+	node4 [label="関係が"];
+	node5 [label="ない"];
+	node6 [label="事だから"];
+	node7 [label="以下略と"];
+	node8 [label="する。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,7 @@
+digraph graph7301 {
+	node0 [label="「あの"];
+	node1 [label="金田という"];
+	node2 [label="実業家か」"];
+	node0 -> node1;
+	node1 -> node2;
+}

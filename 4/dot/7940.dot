@@ -1,0 +1,11 @@
+digraph graph7940 {
+	node0 [label="「ちょうど"];
+	node1 [label="十一月の"];
+	node2 [label="天長節の"];
+	node3 [label="前の"];
+	node4 [label="晩でした。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

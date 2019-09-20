@@ -1,0 +1,9 @@
+digraph graph9055 {
+	node0 [label="羽織と"];
+	node1 [label="袴くらい"];
+	node2 [label="どうでも"];
+	node3 [label="しますたい。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

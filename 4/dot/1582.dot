@@ -1,0 +1,25 @@
+digraph graph1582 {
+	node0 [label="吾輩は"];
+	node1 [label="この"];
+	node2 [label="偉大なる"];
+	node3 [label="鼻に"];
+	node4 [label="敬意を"];
+	node5 [label="表する"];
+	node6 [label="ため、"];
+	node7 [label="以来は"];
+	node8 [label="この女を"];
+	node9 [label="称して"];
+	node10 [label="鼻子鼻子と"];
+	node11 [label="呼ぶつもりである。"];
+	node0 -> node11;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

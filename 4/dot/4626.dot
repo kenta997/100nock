@@ -1,0 +1,9 @@
+digraph graph4626 {
+	node0 [label="一番"];
+	node1 [label="長い"];
+	node2 [label="字を"];
+	node3 [label="教えてやろうか」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

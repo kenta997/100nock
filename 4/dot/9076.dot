@@ -1,0 +1,7 @@
+digraph graph9076 {
+	node0 [label="今までの"];
+	node1 [label="関係も"];
+	node2 [label="あるから」"];
+	node0 -> node1;
+	node1 -> node2;
+}

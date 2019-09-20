@@ -1,0 +1,17 @@
+digraph graph4224 {
+	node0 [label="と"];
+	node1 [label="ここまで"];
+	node2 [label="思案を"];
+	node3 [label="定めた"];
+	node4 [label="上で"];
+	node5 [label="のそのそと"];
+	node6 [label="洗湯へ"];
+	node7 [label="出掛けた。"];
+	node0 -> node7;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,11 @@
+digraph graph2356 {
+	node0 [label="それに"];
+	node1 [label="以前から"];
+	node2 [label="あまり"];
+	node3 [label="数奇でない"];
+	node4 [label="方だから」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

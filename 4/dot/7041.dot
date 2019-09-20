@@ -1,0 +1,5 @@
+digraph graph7041 {
+	node0 [label="御前も"];
+	node1 [label="無風流だな。"];
+	node0 -> node1;
+}

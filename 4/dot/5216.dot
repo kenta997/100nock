@@ -1,0 +1,7 @@
+digraph graph5216 {
+	node0 [label="是非しまいまで"];
+	node1 [label="精読しなくては"];
+	node2 [label="いかん。"];
+	node0 -> node1;
+	node1 -> node2;
+}

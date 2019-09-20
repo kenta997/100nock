@@ -1,0 +1,23 @@
+digraph graph6598 {
+	node0 [label="但し"];
+	node1 [label="竪に"];
+	node2 [label="長いのなら"];
+	node3 [label="世間に"];
+	node4 [label="その"];
+	node5 [label="例も"];
+	node6 [label="すくなくないが、"];
+	node7 [label="この"];
+	node8 [label="子のは"];
+	node9 [label="横に"];
+	node10 [label="長いのである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

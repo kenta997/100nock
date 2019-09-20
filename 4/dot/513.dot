@@ -1,0 +1,17 @@
+digraph graph513 {
+	node0 [label="皆川流という"];
+	node1 [label="古流な"];
+	node2 [label="揉み方で"];
+	node3 [label="一二度"];
+	node4 [label="やらせれば"];
+	node5 [label="大抵の"];
+	node6 [label="胃病は"];
+	node7 [label="根治出来る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+}

@@ -1,0 +1,17 @@
+digraph graph1718 {
+	node0 [label="迷亭は"];
+	node1 [label="大きな"];
+	node2 [label="声を"];
+	node3 [label="出して"];
+	node4 [label="「奥さん奥さん、"];
+	node5 [label="月並の"];
+	node6 [label="標本が"];
+	node7 [label="来ましたぜ。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

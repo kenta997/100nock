@@ -1,0 +1,25 @@
+digraph graph5655 {
+	node0 [label="いかに"];
+	node1 [label="白昼といえども、"];
+	node2 [label="主人のように"];
+	node3 [label="かく"];
+	node4 [label="一生懸命に"];
+	node5 [label="見つめている"];
+	node6 [label="以上は"];
+	node7 [label="自分で"];
+	node8 [label="自分の"];
+	node9 [label="顔が"];
+	node10 [label="怖くなるに"];
+	node11 [label="相違ない。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

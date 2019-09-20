@@ -1,0 +1,13 @@
+digraph graph1332 {
+	node0 [label="迷亭、"];
+	node1 [label="寒月諸先生の"];
+	node2 [label="評判だけで"];
+	node3 [label="御免蒙る"];
+	node4 [label="事に"];
+	node5 [label="致そう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,19 @@
+digraph graph3775 {
+	node0 [label="美術学校の"];
+	node1 [label="モデルを"];
+	node2 [label="雇ってくるんです」"];
+	node3 [label="「そりゃ"];
+	node4 [label="警視庁が"];
+	node5 [label="やかましく"];
+	node6 [label="云いそうだな」と"];
+	node7 [label="主人はまた"];
+	node8 [label="心配している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

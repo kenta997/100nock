@@ -1,0 +1,11 @@
+digraph graph4015 {
+	node0 [label="これは"];
+	node1 [label="夏の"];
+	node2 [label="末に"];
+	node3 [label="ならないと"];
+	node4 [label="出て来ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,33 @@
+digraph graph7245 {
+	node0 [label="元来"];
+	node1 [label="武右衛門君は"];
+	node2 [label="中学の"];
+	node3 [label="二年生にしては"];
+	node4 [label="よく"];
+	node5 [label="弁ずる方で、"];
+	node6 [label="頭の"];
+	node7 [label="大きい"];
+	node8 [label="割に"];
+	node9 [label="脳力は"];
+	node10 [label="発達して"];
+	node11 [label="おらんが、"];
+	node12 [label="喋舌る事においては"];
+	node13 [label="乙組中"];
+	node14 [label="鏘々たる"];
+	node15 [label="ものである。"];
+	node0 -> node11;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

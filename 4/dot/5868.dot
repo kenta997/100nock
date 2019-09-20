@@ -1,0 +1,11 @@
+digraph graph5868 {
+	node0 [label="「せんだってから"];
+	node1 [label="精神の"];
+	node2 [label="修養を"];
+	node3 [label="力めているんだ"];
+	node4 [label="もの」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

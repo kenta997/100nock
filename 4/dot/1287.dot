@@ -1,0 +1,19 @@
+digraph graph1287 {
+	node0 [label="三毛のような"];
+	node1 [label="可愛らしい"];
+	node2 [label="猫は"];
+	node3 [label="鐘と"];
+	node4 [label="太鼓で"];
+	node5 [label="探してある"];
+	node6 [label="いたって、"];
+	node7 [label="二人と"];
+	node8 [label="はおりませんからね」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

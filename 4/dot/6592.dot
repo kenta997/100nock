@@ -1,0 +1,21 @@
+digraph graph6592 {
+	node0 [label="もし"];
+	node1 [label="主人に"];
+	node2 [label="泥棒根性が"];
+	node3 [label="あると"];
+	node4 [label="すれば、"];
+	node5 [label="天下の"];
+	node6 [label="人には"];
+	node7 [label="みんな"];
+	node8 [label="泥棒根性が"];
+	node9 [label="ある。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

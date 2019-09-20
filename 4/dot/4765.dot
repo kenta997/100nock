@@ -1,0 +1,35 @@
+digraph graph4765 {
+	node0 [label="昔し"];
+	node1 [label="獄に"];
+	node2 [label="投ぜられた"];
+	node3 [label="囚人の"];
+	node4 [label="一人は"];
+	node5 [label="無聊の"];
+	node6 [label="あまり、"];
+	node7 [label="房の"];
+	node8 [label="壁に"];
+	node9 [label="三角形を"];
+	node10 [label="重ねて"];
+	node11 [label="画いて"];
+	node12 [label="その日を"];
+	node13 [label="くらしたと"];
+	node14 [label="云う"];
+	node15 [label="話が"];
+	node16 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node16;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

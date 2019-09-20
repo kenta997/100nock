@@ -1,0 +1,25 @@
+digraph graph6681 {
+	node0 [label="　主人が"];
+	node1 [label="珍らしく"];
+	node2 [label="車で"];
+	node3 [label="玄関から"];
+	node4 [label="出掛けた"];
+	node5 [label="あとで、"];
+	node6 [label="妻君は"];
+	node7 [label="例のごとく"];
+	node8 [label="食事を"];
+	node9 [label="済ませて"];
+	node10 [label="「さあ学校へ"];
+	node11 [label="おいで。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

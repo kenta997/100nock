@@ -1,0 +1,17 @@
+digraph graph6641 {
+	node0 [label="とん子は"];
+	node1 [label="驚ろく"];
+	node2 [label="景色も"];
+	node3 [label="なく、"];
+	node4 [label="こぼれた"];
+	node5 [label="飯を"];
+	node6 [label="鄭寧に"];
+	node7 [label="拾い始めた。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

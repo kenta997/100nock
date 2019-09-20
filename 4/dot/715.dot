@@ -1,0 +1,17 @@
+digraph graph715 {
+	node0 [label="黒の"];
+	node1 [label="性質として"];
+	node2 [label="他が"];
+	node3 [label="己れを"];
+	node4 [label="軽侮したと"];
+	node5 [label="認むるや否や"];
+	node6 [label="決して"];
+	node7 [label="黙っていない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

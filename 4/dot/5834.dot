@@ -1,0 +1,9 @@
+digraph graph5834 {
+	node0 [label="天晴な"];
+	node1 [label="見識だ」と"];
+	node2 [label="大変"];
+	node3 [label="賞賛した。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,5 @@
+digraph graph1147 {
+	node0 [label="「ハハハハこれは"];
+	node1 [label="面白い。"];
+	node0 -> node1;
+}

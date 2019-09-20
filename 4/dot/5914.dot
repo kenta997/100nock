@@ -1,0 +1,11 @@
+digraph graph5914 {
+	node0 [label="赤十字などと"];
+	node1 [label="称する"];
+	node2 [label="ものは"];
+	node3 [label="全く"];
+	node4 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,33 @@
+digraph graph3244 {
+	node0 [label="わが"];
+	node1 [label="決心と"];
+	node2 [label="云い、"];
+	node3 [label="わが"];
+	node4 [label="意気と"];
+	node5 [label="云い"];
+	node6 [label="台所の"];
+	node7 [label="光景と"];
+	node8 [label="云い、"];
+	node9 [label="四辺の"];
+	node10 [label="寂寞と"];
+	node11 [label="云い、"];
+	node12 [label="全体の"];
+	node13 [label="感じが"];
+	node14 [label="悉く"];
+	node15 [label="悲壮である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

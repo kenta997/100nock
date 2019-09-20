@@ -1,0 +1,25 @@
+digraph graph5839 {
+	node0 [label="それだから"];
+	node1 [label="俗人は"];
+	node2 [label="わからぬ"];
+	node3 [label="事を"];
+	node4 [label="わかったように"];
+	node5 [label="吹聴するにも"];
+	node6 [label="係らず、"];
+	node7 [label="学者は"];
+	node8 [label="わかった"];
+	node9 [label="事を"];
+	node10 [label="わからぬように"];
+	node11 [label="講釈する。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

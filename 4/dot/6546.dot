@@ -1,0 +1,27 @@
+digraph graph6546 {
+	node0 [label="主人が"];
+	node1 [label="昔し"];
+	node2 [label="去る"];
+	node3 [label="所の"];
+	node4 [label="御寺に"];
+	node5 [label="下宿していた"];
+	node6 [label="時、"];
+	node7 [label="襖一と"];
+	node8 [label="重を"];
+	node9 [label="隔てて"];
+	node10 [label="尼が"];
+	node11 [label="五六人"];
+	node12 [label="いた。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

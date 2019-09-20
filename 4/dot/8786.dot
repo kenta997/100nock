@@ -1,0 +1,27 @@
+digraph graph8786 {
+	node0 [label="僕などは"];
+	node1 [label="未来記を"];
+	node2 [label="作るだけ"];
+	node3 [label="あって、"];
+	node4 [label="頭脳が"];
+	node5 [label="時勢より"];
+	node6 [label="一二歩ずつ"];
+	node7 [label="前へ"];
+	node8 [label="出ているから"];
+	node9 [label="ちゃんと"];
+	node10 [label="今から"];
+	node11 [label="独身で"];
+	node12 [label="いるんだよ。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

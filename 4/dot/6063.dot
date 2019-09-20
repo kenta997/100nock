@@ -1,0 +1,21 @@
+digraph graph6063 {
+	node0 [label="「君は"];
+	node1 [label="しきりに"];
+	node2 [label="時候おくれを"];
+	node3 [label="気に"];
+	node4 [label="するが、"];
+	node5 [label="時と場合に"];
+	node6 [label="よると、"];
+	node7 [label="時候おくれの"];
+	node8 [label="方が"];
+	node9 [label="えらいんだぜ。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

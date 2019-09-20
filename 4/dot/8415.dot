@@ -1,0 +1,15 @@
+digraph graph8415 {
+	node0 [label="「なぜって、"];
+	node1 [label="私には"];
+	node2 [label="もう"];
+	node3 [label="歴然と"];
+	node4 [label="した"];
+	node5 [label="女房が"];
+	node6 [label="あるんです」"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

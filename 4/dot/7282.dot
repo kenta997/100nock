@@ -1,0 +1,11 @@
+digraph graph7282 {
+	node0 [label="一体"];
+	node1 [label="誰が"];
+	node2 [label="何を"];
+	node3 [label="し"];
+	node4 [label="たんだい」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

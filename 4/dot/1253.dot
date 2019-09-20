@@ -1,0 +1,13 @@
+digraph graph1253 {
+	node0 [label="かれは"];
+	node1 [label="なぜ"];
+	node2 [label="両人の"];
+	node3 [label="話しを"];
+	node4 [label="沈黙して"];
+	node5 [label="聞いていられないのだろう。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

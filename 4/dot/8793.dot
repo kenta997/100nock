@@ -1,0 +1,29 @@
+digraph graph8793 {
+	node0 [label="いやしくも"];
+	node1 [label="人間の"];
+	node2 [label="意義を"];
+	node3 [label="完から"];
+	node4 [label="しめん"];
+	node5 [label="ためには、"];
+	node6 [label="いかなる"];
+	node7 [label="価を"];
+	node8 [label="払うとも"];
+	node9 [label="構わないから"];
+	node10 [label="この"];
+	node11 [label="個性を"];
+	node12 [label="保持すると同時に"];
+	node13 [label="発達せしめなければならん。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

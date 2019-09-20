@@ -1,0 +1,15 @@
+digraph graph4552 {
+	node0 [label="　こうですかと"];
+	node1 [label="細君は"];
+	node2 [label="平手で"];
+	node3 [label="吾輩の"];
+	node4 [label="頭を"];
+	node5 [label="ちょっと"];
+	node6 [label="敲く。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

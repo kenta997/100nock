@@ -1,0 +1,13 @@
+digraph graph26 {
+	node0 [label="その"];
+	node1 [label="上今までの"];
+	node2 [label="所とは"];
+	node3 [label="違って"];
+	node4 [label="無暗に"];
+	node5 [label="明るい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

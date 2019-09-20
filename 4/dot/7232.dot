@@ -1,0 +1,29 @@
+digraph graph7232 {
+	node0 [label="寄りついたのは"];
+	node1 [label="古井武右衛門君を"];
+	node2 [label="もって"];
+	node3 [label="嚆矢と"];
+	node4 [label="する"];
+	node5 [label="くらいな"];
+	node6 [label="珍客であるが、"];
+	node7 [label="その"];
+	node8 [label="来訪の"];
+	node9 [label="主意が"];
+	node10 [label="わからんには"];
+	node11 [label="主人も"];
+	node12 [label="大に"];
+	node13 [label="閉口しているらしい。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

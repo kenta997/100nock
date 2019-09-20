@@ -1,0 +1,23 @@
+digraph graph1772 {
+	node0 [label="僕に"];
+	node1 [label="男爵の"];
+	node2 [label="伯父が"];
+	node3 [label="ありゃ、"];
+	node4 [label="今頃は"];
+	node5 [label="局長くらいに"];
+	node6 [label="なって"];
+	node7 [label="いま"];
+	node8 [label="さあ」と"];
+	node9 [label="平気な"];
+	node10 [label="ものである。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

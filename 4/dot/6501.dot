@@ -1,0 +1,11 @@
+digraph graph6501 {
+	node0 [label="見ると"];
+	node1 [label="大きな"];
+	node2 [label="眼を"];
+	node3 [label="二つとも"];
+	node4 [label="開いている。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

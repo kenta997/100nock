@@ -1,0 +1,17 @@
+digraph graph4155 {
+	node0 [label="名前は"];
+	node1 [label="まだ"];
+	node2 [label="ないから"];
+	node3 [label="係わりようが"];
+	node4 [label="なかろうと"];
+	node5 [label="云うなら"];
+	node6 [label="体面に"];
+	node7 [label="係わる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

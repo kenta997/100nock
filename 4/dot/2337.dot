@@ -1,0 +1,27 @@
+digraph graph2337 {
+	node0 [label="下の"];
+	node1 [label="方に"];
+	node2 [label="なると"];
+	node3 [label="やはり"];
+	node4 [label="つまらん"];
+	node5 [label="御世辞を"];
+	node6 [label="振り撒いたり、"];
+	node7 [label="好かん猪口を"];
+	node8 [label="いただきに"];
+	node9 [label="出たり"];
+	node10 [label="随分"];
+	node11 [label="愚な"];
+	node12 [label="もんだよ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

@@ -1,0 +1,35 @@
+digraph graph7349 {
+	node0 [label="　吾輩が"];
+	node1 [label="この際"];
+	node2 [label="武右衛門君と、"];
+	node3 [label="主人と、"];
+	node4 [label="細君及雪江嬢を"];
+	node5 [label="面白がるのは、"];
+	node6 [label="単に"];
+	node7 [label="外部の"];
+	node8 [label="事件が"];
+	node9 [label="鉢合せを"];
+	node10 [label="して、"];
+	node11 [label="その"];
+	node12 [label="鉢合せが"];
+	node13 [label="波動を"];
+	node14 [label="乙な"];
+	node15 [label="ところに"];
+	node16 [label="伝えるからではない。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

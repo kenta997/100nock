@@ -1,0 +1,7 @@
+digraph graph3271 {
+	node0 [label="安心は"];
+	node1 [label="万物に"];
+	node2 [label="必要である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

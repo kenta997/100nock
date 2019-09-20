@@ -1,0 +1,11 @@
+digraph graph1033 {
+	node0 [label="「まず"];
+	node1 [label="そんな"];
+	node2 [label="ところだろう」と"];
+	node3 [label="主人が"];
+	node4 [label="云う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

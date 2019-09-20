@@ -1,0 +1,7 @@
+digraph graph8778 {
+	node0 [label="「それで"];
+	node1 [label="夫婦が"];
+	node2 [label="わかれるんですか。"];
+	node0 -> node2;
+	node1 -> node2;
+}

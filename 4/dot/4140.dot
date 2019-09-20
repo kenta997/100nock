@@ -1,0 +1,15 @@
+digraph graph4140 {
+	node0 [label="先方は"];
+	node1 [label="羽根の"];
+	node2 [label="ある"];
+	node3 [label="身分であるから、"];
+	node4 [label="こんな"];
+	node5 [label="所へは"];
+	node6 [label="とまりつけている。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

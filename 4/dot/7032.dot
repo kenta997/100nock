@@ -1,0 +1,11 @@
+digraph graph7032 {
+	node0 [label="　油壺なんか何で"];
+	node1 [label="持って"];
+	node2 [label="いらっ"];
+	node3 [label="しったの"];
+	node4 [label="？"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

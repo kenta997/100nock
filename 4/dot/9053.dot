@@ -1,0 +1,7 @@
+digraph graph9053 {
+	node0 [label="「不人情じゃないが、"];
+	node1 [label="おれは"];
+	node2 [label="出ないよ」"];
+	node0 -> node2;
+	node1 -> node2;
+}

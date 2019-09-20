@@ -1,0 +1,5 @@
+digraph graph7120 {
+	node0 [label="今日"];
+	node1 [label="持って来たか」"];
+	node0 -> node1;
+}

@@ -1,0 +1,11 @@
+digraph graph7260 {
+	node0 [label="「いいだろう」と"];
+	node1 [label="主人は"];
+	node2 [label="勝手な"];
+	node3 [label="判断を"];
+	node4 [label="する。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

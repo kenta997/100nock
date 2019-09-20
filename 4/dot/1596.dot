@@ -1,0 +1,25 @@
+digraph graph1596 {
+	node0 [label="それに"];
+	node1 [label="どの"];
+	node2 [label="会社でも"];
+	node3 [label="重役なんで——"];
+	node4 [label="多分"];
+	node5 [label="御存知で"];
+	node6 [label="しょうが」"];
+	node7 [label="これでも"];
+	node8 [label="恐れ入らぬかと"];
+	node9 [label="云う"];
+	node10 [label="顔付を"];
+	node11 [label="する。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

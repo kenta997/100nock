@@ -1,0 +1,11 @@
+digraph graph2242 {
+	node0 [label="別段"];
+	node1 [label="露見を"];
+	node2 [label="恐れた"];
+	node3 [label="様子も"];
+	node4 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

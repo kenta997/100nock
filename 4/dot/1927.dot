@@ -1,0 +1,33 @@
+digraph graph1927 {
+	node0 [label="座敷へ"];
+	node1 [label="這入って"];
+	node2 [label="見ると"];
+	node3 [label="驚いたのは"];
+	node4 [label="迷亭先生"];
+	node5 [label="まだ"];
+	node6 [label="帰らない、"];
+	node7 [label="巻煙草の"];
+	node8 [label="吸い殻を"];
+	node9 [label="蜂の巣のごとく"];
+	node10 [label="火鉢の"];
+	node11 [label="中へ"];
+	node12 [label="突き立てて、"];
+	node13 [label="大胡坐で"];
+	node14 [label="何か"];
+	node15 [label="話し立てている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

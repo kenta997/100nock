@@ -1,0 +1,21 @@
+digraph graph2517 {
+	node0 [label="それで"];
+	node1 [label="詰問を"];
+	node2 [label="受けると"];
+	node3 [label="決して"];
+	node4 [label="詫びた"];
+	node5 [label="事が"];
+	node6 [label="ない"];
+	node7 [label="何とか"];
+	node8 [label="蚊とか"];
+	node9 [label="云う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

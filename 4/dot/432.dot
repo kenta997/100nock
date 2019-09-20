@@ -1,0 +1,13 @@
+digraph graph432 {
+	node0 [label="出る"];
+	node1 [label="ときは"];
+	node2 [label="懐手を"];
+	node3 [label="して"];
+	node4 [label="ぶらりと"];
+	node5 [label="出る。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

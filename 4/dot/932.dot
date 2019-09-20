@@ -1,0 +1,15 @@
+digraph graph932 {
+	node0 [label="「何だか"];
+	node1 [label="しくしく"];
+	node2 [label="云うようだが……」"];
+	node3 [label="「ええきっと風邪を"];
+	node4 [label="引いて"];
+	node5 [label="咽喉が"];
+	node6 [label="痛むんでございますよ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,29 @@
+digraph graph7835 {
+	node0 [label="一代の"];
+	node1 [label="才人ウェルテル君が"];
+	node2 [label="ヴァイオリンを"];
+	node3 [label="習い出した"];
+	node4 [label="逸話を"];
+	node5 [label="聞かなくっちゃ、"];
+	node6 [label="先祖へ"];
+	node7 [label="済まないから"];
+	node8 [label="失敬する」と"];
+	node9 [label="席を"];
+	node10 [label="はずして、"];
+	node11 [label="寒月君の"];
+	node12 [label="方へ"];
+	node13 [label="すり出して来た。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

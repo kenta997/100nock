@@ -1,0 +1,23 @@
+digraph graph1907 {
+	node0 [label="「ちょっと用が"];
+	node1 [label="あるから"];
+	node2 [label="嬢を"];
+	node3 [label="呼んで来いと"];
+	node4 [label="おっしゃいました」"];
+	node5 [label="「うるさいね、"];
+	node6 [label="知らないてば」と"];
+	node7 [label="令嬢は"];
+	node8 [label="第二の"];
+	node9 [label="剣突を"];
+	node10 [label="食わせる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

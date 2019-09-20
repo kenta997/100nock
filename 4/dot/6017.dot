@@ -1,0 +1,9 @@
+digraph graph6017 {
+	node0 [label="これから"];
+	node1 [label="電車で"];
+	node2 [label="行くと"];
+	node3 [label="すぐです」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

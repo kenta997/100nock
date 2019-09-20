@@ -1,0 +1,13 @@
+digraph graph3254 {
+	node0 [label="鼻を"];
+	node1 [label="付けて"];
+	node2 [label="臭いで"];
+	node3 [label="見ると"];
+	node4 [label="少々"];
+	node5 [label="鼠臭い。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

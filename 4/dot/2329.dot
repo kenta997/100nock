@@ -1,0 +1,13 @@
+digraph graph2329 {
+	node0 [label="一番"];
+	node1 [label="大きいのは"];
+	node2 [label="いくつに"];
+	node3 [label="なるかね、"];
+	node4 [label="もう"];
+	node5 [label="よっぽどだろう」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

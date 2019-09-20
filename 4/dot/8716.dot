@@ -1,0 +1,27 @@
+digraph graph8716 {
+	node0 [label="今苦沙弥君か"];
+	node1 [label="迷亭君が、"];
+	node2 [label="君が"];
+	node3 [label="無断で"];
+	node4 [label="結婚したのが"];
+	node5 [label="穏当でないから、"];
+	node6 [label="金田とか"];
+	node7 [label="云う"];
+	node8 [label="人に"];
+	node9 [label="謝罪しろと"];
+	node10 [label="忠告したら"];
+	node11 [label="君"];
+	node12 [label="どうです。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

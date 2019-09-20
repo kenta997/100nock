@@ -1,0 +1,5 @@
+digraph graph2304 {
+	node0 [label="「さあ"];
+	node1 [label="敷きたまえ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,31 @@
+digraph graph344 {
+	node0 [label="からだを"];
+	node1 [label="拗じ向けたり、"];
+	node2 [label="手を"];
+	node3 [label="延ばして"];
+	node4 [label="年寄が"];
+	node5 [label="三世相を"];
+	node6 [label="見るようにしたり、"];
+	node7 [label="または"];
+	node8 [label="窓の"];
+	node9 [label="方へ"];
+	node10 [label="むいて"];
+	node11 [label="鼻の"];
+	node12 [label="先まで"];
+	node13 [label="持って来たりして"];
+	node14 [label="見ている。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

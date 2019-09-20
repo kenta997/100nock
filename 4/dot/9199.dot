@@ -1,0 +1,9 @@
+digraph graph9199 {
+	node0 [label="苦しいのだか"];
+	node1 [label="ありがたいのだか"];
+	node2 [label="見当が"];
+	node3 [label="つかない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

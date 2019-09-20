@@ -1,0 +1,15 @@
+digraph graph2173 {
+	node0 [label="よく"];
+	node1 [label="私が"];
+	node2 [label="苦"];
+	node3 [label="沙弥の"];
+	node4 [label="所へ"];
+	node5 [label="参って"];
+	node6 [label="談じましょう」"];
+	node0 -> node6;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

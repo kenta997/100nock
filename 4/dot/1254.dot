@@ -1,0 +1,21 @@
+digraph graph1254 {
+	node0 [label="負けぬ"];
+	node1 [label="気に"];
+	node2 [label="なって"];
+	node3 [label="愚にも"];
+	node4 [label="つかぬ"];
+	node5 [label="駄弁を"];
+	node6 [label="弄すれば"];
+	node7 [label="何の"];
+	node8 [label="所得が"];
+	node9 [label="あるだろう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

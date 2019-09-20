@@ -1,0 +1,19 @@
+digraph graph8413 {
+	node0 [label="「へへへへ"];
+	node1 [label="いろいろ"];
+	node2 [label="御心配を"];
+	node3 [label="かけて"];
+	node4 [label="済みませんが、"];
+	node5 [label="もう"];
+	node6 [label="博士には"];
+	node7 [label="ならないでも"];
+	node8 [label="いいのです」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

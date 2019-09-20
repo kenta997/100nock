@@ -1,0 +1,7 @@
+digraph graph7781 {
+	node0 [label="「なあに先生も"];
+	node1 [label="何も"];
+	node2 [label="ありゃしない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

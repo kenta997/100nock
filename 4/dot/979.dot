@@ -1,0 +1,5 @@
+digraph graph979 {
+	node0 [label="再び"];
+	node1 [label="三度。"];
+	node0 -> node1;
+}

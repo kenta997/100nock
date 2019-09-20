@@ -1,0 +1,27 @@
+digraph graph3199 {
+	node0 [label="大声は"];
+	node1 [label="俚耳に"];
+	node2 [label="入らず、"];
+	node3 [label="陽春白雪の"];
+	node4 [label="詩には"];
+	node5 [label="和する"];
+	node6 [label="もの"];
+	node7 [label="少なしの"];
+	node8 [label="喩も"];
+	node9 [label="古い"];
+	node10 [label="昔から"];
+	node11 [label="ある"];
+	node12 [label="事だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node12;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

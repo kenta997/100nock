@@ -1,0 +1,21 @@
+digraph graph3091 {
+	node0 [label="「猫は"];
+	node1 [label="どうでも"];
+	node2 [label="好いが、"];
+	node3 [label="着物を"];
+	node4 [label="とられたので"];
+	node5 [label="寒く"];
+	node6 [label="ていかん」と"];
+	node7 [label="大に"];
+	node8 [label="銷沈の"];
+	node9 [label="体である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,9 @@
+digraph graph2996 {
+	node0 [label="「御母"];
+	node1 [label="あさま、"];
+	node2 [label="夕べ泥棒が"];
+	node3 [label="這入ったの？"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

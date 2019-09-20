@@ -1,0 +1,17 @@
+digraph graph184 {
+	node0 [label="広くはないが"];
+	node1 [label="瀟洒と"];
+	node2 [label="した"];
+	node3 [label="心持ち"];
+	node4 [label="好く"];
+	node5 [label="日の"];
+	node6 [label="当る"];
+	node7 [label="所だ。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+}

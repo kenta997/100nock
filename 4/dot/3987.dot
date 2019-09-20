@@ -1,0 +1,11 @@
+digraph graph3987 {
+	node0 [label="蟷螂君は"];
+	node1 [label="まだ"];
+	node2 [label="五六寸しか"];
+	node3 [label="逃げ延びて"];
+	node4 [label="おらん。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

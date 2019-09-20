@@ -1,0 +1,15 @@
+digraph graph675 {
+	node0 [label="「一体"];
+	node1 [label="あなたの"];
+	node2 [label="所の"];
+	node3 [label="御主人は"];
+	node4 [label="何ですか」"];
+	node5 [label="「あら御主人だって、"];
+	node6 [label="妙なのね。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

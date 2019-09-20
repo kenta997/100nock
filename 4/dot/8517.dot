@@ -1,0 +1,13 @@
+digraph graph8517 {
+	node0 [label="昔"];
+	node1 [label="しの人は"];
+	node2 [label="己れを"];
+	node3 [label="忘れろと"];
+	node4 [label="教えた"];
+	node5 [label="ものだ。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

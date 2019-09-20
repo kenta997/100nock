@@ -1,0 +1,11 @@
+digraph graph5074 {
+	node0 [label="四つ目垣の"];
+	node1 [label="うちで"];
+	node2 [label="騒動すれば"];
+	node3 [label="主人が"];
+	node4 [label="怒り出さなければならん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

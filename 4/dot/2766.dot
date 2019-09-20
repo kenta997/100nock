@@ -1,0 +1,13 @@
+digraph graph2766 {
+	node0 [label="現に"];
+	node1 [label="聖書とか"];
+	node2 [label="云う"];
+	node3 [label="ものには"];
+	node4 [label="その通りと"];
+	node5 [label="明記してあるそうだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

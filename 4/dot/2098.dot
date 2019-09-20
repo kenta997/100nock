@@ -1,0 +1,27 @@
+digraph graph2098 {
+	node0 [label="普通と"];
+	node1 [label="云うと"];
+	node2 [label="結構なようだが、"];
+	node3 [label="普通の"];
+	node4 [label="極平凡の"];
+	node5 [label="堂に"];
+	node6 [label="上り、"];
+	node7 [label="庸俗の"];
+	node8 [label="室に"];
+	node9 [label="入ったのは"];
+	node10 [label="むしろ"];
+	node11 [label="憫然の"];
+	node12 [label="至りだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node12;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

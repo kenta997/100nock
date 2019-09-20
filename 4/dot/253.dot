@@ -1,0 +1,21 @@
+digraph graph253 {
+	node0 [label="ちっと"];
+	node1 [label="景気を"];
+	node2 [label="付けて"];
+	node3 [label="やろうと"];
+	node4 [label="思って"];
+	node5 [label="「しかし"];
+	node6 [label="鼠なら"];
+	node7 [label="君に"];
+	node8 [label="睨まれては"];
+	node9 [label="百年目だろう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,9 @@
+digraph graph2944 {
+	node0 [label="オタンチン・パレオロガスの"];
+	node1 [label="意味を"];
+	node2 [label="聞かして"];
+	node3 [label="頂戴」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

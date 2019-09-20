@@ -1,0 +1,21 @@
+digraph graph7570 {
+	node0 [label="「しかし"];
+	node1 [label="愚じゃないか、"];
+	node2 [label="知りもしない"];
+	node3 [label="ところへ、"];
+	node4 [label="いたずらに"];
+	node5 [label="艶書を"];
+	node6 [label="送るなんて、"];
+	node7 [label="まるで"];
+	node8 [label="常識を"];
+	node9 [label="かいてるじゃないか」"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

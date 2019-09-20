@@ -1,0 +1,31 @@
+digraph graph4900 {
+	node0 [label="酔っぱらいのように"];
+	node1 [label="管を"];
+	node2 [label="捲いていると、"];
+	node3 [label="いつの間にか"];
+	node4 [label="酒飲みのような"];
+	node5 [label="心持に"];
+	node6 [label="なる、"];
+	node7 [label="坐禅を"];
+	node8 [label="して"];
+	node9 [label="線香一本の"];
+	node10 [label="間我慢していると"];
+	node11 [label="どことなく"];
+	node12 [label="坊主らしい"];
+	node13 [label="気分に"];
+	node14 [label="なれる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node14;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

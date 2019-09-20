@@ -1,0 +1,21 @@
+digraph graph2816 {
+	node0 [label="この"];
+	node1 [label="泥棒君が"];
+	node2 [label="天地の"];
+	node3 [label="間に"];
+	node4 [label="存在するのは"];
+	node5 [label="富子嬢の"];
+	node6 [label="生活を"];
+	node7 [label="幸福な"];
+	node8 [label="らしむる"];
+	node9 [label="一大要件である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

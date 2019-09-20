@@ -1,0 +1,5 @@
+digraph graph4622 {
+	node0 [label="「字って"];
+	node1 [label="横文字ですか」"];
+	node0 -> node1;
+}

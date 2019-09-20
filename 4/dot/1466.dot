@@ -1,0 +1,13 @@
+digraph graph1466 {
+	node0 [label="先生"];
+	node1 [label="何でも"];
+	node2 [label="理学協会で"];
+	node3 [label="演説を"];
+	node4 [label="するとか"];
+	node5 [label="云うのでね。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

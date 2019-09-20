@@ -1,0 +1,13 @@
+digraph graph2866 {
+	node0 [label="時間が"];
+	node1 [label="分るくらいなら"];
+	node2 [label="何にも"];
+	node3 [label="盗まれる"];
+	node4 [label="必要は"];
+	node5 [label="ないのである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

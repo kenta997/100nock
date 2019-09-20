@@ -1,0 +1,9 @@
+digraph graph5305 {
+	node0 [label="どうも"];
+	node1 [label="君は"];
+	node2 [label="あまり"];
+	node3 [label="陰気過ぎるようだ」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

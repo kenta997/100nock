@@ -1,0 +1,11 @@
+digraph graph3715 {
+	node0 [label="迷亭は"];
+	node1 [label="敷島の"];
+	node2 [label="煙くらいで"];
+	node3 [label="辟易する"];
+	node4 [label="男ではない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

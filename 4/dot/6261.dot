@@ -1,0 +1,5 @@
+digraph graph6261 {
+	node0 [label="「君が"];
+	node1 [label="したのさ」"];
+	node0 -> node1;
+}

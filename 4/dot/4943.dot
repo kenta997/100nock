@@ -1,0 +1,23 @@
+digraph graph4943 {
+	node0 [label="さすがの"];
+	node1 [label="鷲も"];
+	node2 [label="少々"];
+	node3 [label="持て余した"];
+	node4 [label="折柄、"];
+	node5 [label="遥かの"];
+	node6 [label="下界に"];
+	node7 [label="ぴかと"];
+	node8 [label="光った"];
+	node9 [label="者が"];
+	node10 [label="ある。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

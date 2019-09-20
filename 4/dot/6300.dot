@@ -1,0 +1,5 @@
+digraph graph6300 {
+	node0 [label="「知る"];
+	node1 [label="ものか。"];
+	node0 -> node1;
+}

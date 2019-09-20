@@ -1,0 +1,9 @@
+digraph graph7756 {
+	node0 [label="考える"];
+	node1 [label="暇も"];
+	node2 [label="何も"];
+	node3 [label="ありゃしない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

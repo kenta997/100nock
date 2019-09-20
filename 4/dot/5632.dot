@@ -1,0 +1,29 @@
+digraph graph5632 {
+	node0 [label="必ず"];
+	node1 [label="二寸くらいの"];
+	node2 [label="長さに"];
+	node3 [label="して、"];
+	node4 [label="それを"];
+	node5 [label="御大そうに"];
+	node6 [label="左の"];
+	node7 [label="方で"];
+	node8 [label="分けるのみか、"];
+	node9 [label="右の"];
+	node10 [label="端を"];
+	node11 [label="ちょっと"];
+	node12 [label="跳ね返して"];
+	node13 [label="澄している。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

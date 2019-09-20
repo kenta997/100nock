@@ -1,0 +1,21 @@
+digraph graph6481 {
+	node0 [label="その"];
+	node1 [label="代り"];
+	node2 [label="十文半の"];
+	node3 [label="甲の"];
+	node4 [label="高い"];
+	node5 [label="足が、"];
+	node6 [label="夜具の"];
+	node7 [label="裾から"];
+	node8 [label="一本"];
+	node9 [label="食み出している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

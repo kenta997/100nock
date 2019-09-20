@@ -1,0 +1,9 @@
+digraph graph8882 {
+	node0 [label="「寒月君の"];
+	node1 [label="妻君は"];
+	node2 [label="大きいかい、"];
+	node3 [label="小さいかい」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

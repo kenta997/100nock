@@ -1,0 +1,9 @@
+digraph graph5739 {
+	node0 [label="　"];
+	node1 [label="今度は"];
+	node2 [label="髯を"];
+	node3 [label="ねじり始めた。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

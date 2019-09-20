@@ -1,0 +1,7 @@
+digraph graph4427 {
+	node0 [label="昔は"];
+	node1 [label="斬り"];
+	node2 [label="合いばかりさ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

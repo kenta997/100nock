@@ -1,0 +1,11 @@
+digraph graph5326 {
+	node0 [label="「裏の"];
+	node1 [label="書生が"];
+	node2 [label="ボールを"];
+	node3 [label="庭へ"];
+	node4 [label="投げ込んだんだ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

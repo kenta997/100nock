@@ -1,0 +1,7 @@
+digraph graph7453 {
+	node0 [label="「どうです"];
+	node1 [label="冒険に"];
+	node2 [label="出掛けませんか。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,23 @@
+digraph graph4860 {
+	node0 [label="性分によって"];
+	node1 [label="多少の"];
+	node2 [label="増減は"];
+	node3 [label="あるが、"];
+	node4 [label="まず"];
+	node5 [label="大抵"];
+	node6 [label="一人前に"];
+	node7 [label="付"];
+	node8 [label="五升"];
+	node9 [label="五合の"];
+	node10 [label="割合である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node10;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

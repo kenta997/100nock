@@ -1,0 +1,7 @@
+digraph graph7604 {
+	node0 [label="「無線の"];
+	node1 [label="電信を"];
+	node2 [label="かけかね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,37 @@
+digraph graph6088 {
+	node0 [label="「これは"];
+	node1 [label="舶来の"];
+	node2 [label="膏薬で、"];
+	node3 [label="近来"];
+	node4 [label="独逸の"];
+	node5 [label="名医が"];
+	node6 [label="発明したので、"];
+	node7 [label="印度人などの"];
+	node8 [label="毒蛇に"];
+	node9 [label="噛まれた"];
+	node10 [label="時に"];
+	node11 [label="用いると"];
+	node12 [label="即効が"];
+	node13 [label="あるんだから、"];
+	node14 [label="これさえ"];
+	node15 [label="貼っておけば"];
+	node16 [label="大丈夫だと"];
+	node17 [label="云ってね」"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

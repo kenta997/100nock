@@ -1,0 +1,25 @@
+digraph graph8817 {
+	node0 [label="「今でさえ"];
+	node1 [label="それほどでなければ、"];
+	node2 [label="人文の"];
+	node3 [label="発達した"];
+	node4 [label="未来即ち例の"];
+	node5 [label="一大哲学者が"];
+	node6 [label="出て非結婚論を"];
+	node7 [label="主張する"];
+	node8 [label="時分には"];
+	node9 [label="誰も"];
+	node10 [label="よみ手は"];
+	node11 [label="なくなるぜ。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

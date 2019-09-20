@@ -1,0 +1,19 @@
+digraph graph2855 {
+	node0 [label="また"];
+	node1 [label="その"];
+	node2 [label="袋の"];
+	node3 [label="中から"];
+	node4 [label="一本出してランプに"];
+	node5 [label="翳して"];
+	node6 [label="火を"];
+	node7 [label="点"];
+	node8 [label="ける。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

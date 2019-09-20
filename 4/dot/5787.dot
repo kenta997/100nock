@@ -1,0 +1,7 @@
+digraph graph5787 {
+	node0 [label="親友も"];
+	node1 [label="汝を"];
+	node2 [label="売るべし。"];
+	node0 -> node2;
+	node1 -> node2;
+}

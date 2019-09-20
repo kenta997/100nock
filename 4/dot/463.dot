@@ -1,0 +1,13 @@
+digraph graph463 {
+	node0 [label="「あなたは"];
+	node1 [label="ほんとに"];
+	node2 [label="厭きっぽい」と"];
+	node3 [label="細君が"];
+	node4 [label="独言のように"];
+	node5 [label="いう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,27 @@
+digraph graph1626 {
+	node0 [label="「寒月が"];
+	node1 [label="何か"];
+	node2 [label="その"];
+	node3 [label="御令嬢に"];
+	node4 [label="恋着したというような"];
+	node5 [label="事でもありますか」"];
+	node6 [label="あるなら"];
+	node7 [label="云って"];
+	node8 [label="見ろと"];
+	node9 [label="云う"];
+	node10 [label="権幕で"];
+	node11 [label="主人は"];
+	node12 [label="反り返る。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

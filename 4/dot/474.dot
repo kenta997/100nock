@@ -1,0 +1,23 @@
+digraph graph474 {
+	node0 [label="大方"];
+	node1 [label="そんな"];
+	node2 [label="事だろうと"];
+	node3 [label="思いながら"];
+	node4 [label="なお"];
+	node5 [label="注意していると、"];
+	node6 [label="今度は"];
+	node7 [label="日記帳を"];
+	node8 [label="出して下のような"];
+	node9 [label="事を"];
+	node10 [label="書きつけた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,25 @@
+digraph graph1387 {
+	node0 [label="元来"];
+	node1 [label="坊主の"];
+	node2 [label="つける"];
+	node3 [label="戒名ほど"];
+	node4 [label="俗な"];
+	node5 [label="ものは"];
+	node6 [label="無いからな」と"];
+	node7 [label="天然居士は"];
+	node8 [label="よほど"];
+	node9 [label="雅な"];
+	node10 [label="名のように"];
+	node11 [label="自慢する。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

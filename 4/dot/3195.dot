@@ -1,0 +1,11 @@
+digraph graph3195 {
+	node0 [label="脳中の"];
+	node1 [label="活力は"];
+	node2 [label="人一倍"];
+	node3 [label="熾に"];
+	node4 [label="燃えている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

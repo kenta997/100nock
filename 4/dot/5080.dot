@@ -1,0 +1,29 @@
+digraph graph5080 {
+	node0 [label="もし"];
+	node1 [label="この"];
+	node2 [label="律のみによって"];
+	node3 [label="物体の"];
+	node4 [label="運動が"];
+	node5 [label="支配せらるるならば"];
+	node6 [label="主人の"];
+	node7 [label="頭は"];
+	node8 [label="この"];
+	node9 [label="時に"];
+	node10 [label="イスキラスと"];
+	node11 [label="運命を"];
+	node12 [label="同じく"];
+	node13 [label="したであろう。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

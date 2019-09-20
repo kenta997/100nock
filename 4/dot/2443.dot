@@ -1,0 +1,7 @@
+digraph graph2443 {
+	node0 [label="「気を"];
+	node1 [label="引いて"];
+	node2 [label="見る？"];
+	node0 -> node1;
+	node1 -> node2;
+}

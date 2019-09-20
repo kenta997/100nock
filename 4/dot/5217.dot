@@ -1,0 +1,21 @@
+digraph graph5217 {
+	node0 [label="　"];
+	node1 [label="大事件の"];
+	node2 [label="あった"];
+	node3 [label="翌日、"];
+	node4 [label="吾輩は"];
+	node5 [label="ちょっと"];
+	node6 [label="散歩が"];
+	node7 [label="したくなったから"];
+	node8 [label="表へ"];
+	node9 [label="出た。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

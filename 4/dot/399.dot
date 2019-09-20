@@ -1,0 +1,23 @@
+digraph graph399 {
+	node0 [label="この"];
+	node1 [label="羽織は"];
+	node2 [label="木綿で"];
+	node3 [label="ゆきが"];
+	node4 [label="短かい、"];
+	node5 [label="下から"];
+	node6 [label="べん"];
+	node7 [label="べら者が"];
+	node8 [label="左右へ"];
+	node9 [label="五分くらいずつ"];
+	node10 [label="はみ出している。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

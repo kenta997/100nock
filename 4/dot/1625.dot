@@ -1,0 +1,25 @@
+digraph graph1625 {
+	node0 [label="「話しは"];
+	node1 [label="そんなに"];
+	node2 [label="運んで"];
+	node3 [label="るんじゃ"];
+	node4 [label="ありませんが——"];
+	node5 [label="寒月さんだって"];
+	node6 [label="満更"];
+	node7 [label="嬉しくない"];
+	node8 [label="事も"];
+	node9 [label="ないでしょう」と"];
+	node10 [label="土俵際で"];
+	node11 [label="持ち直す。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

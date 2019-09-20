@@ -1,0 +1,15 @@
+digraph graph3265 {
+	node0 [label="また"];
+	node1 [label="法の"];
+	node2 [label="つかない"];
+	node3 [label="者は"];
+	node4 [label="起らないと"];
+	node5 [label="考えたくなる"];
+	node6 [label="ものである。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

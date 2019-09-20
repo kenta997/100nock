@@ -1,0 +1,15 @@
+digraph graph544 {
+	node0 [label="小供の"];
+	node1 [label="食いこぼした"];
+	node2 [label="麺麭も"];
+	node3 [label="食うし、"];
+	node4 [label="餅菓子の"];
+	node5 [label="※も"];
+	node6 [label="なめる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,7 @@
+digraph graph7969 {
+	node0 [label="「また"];
+	node1 [label="柿を"];
+	node2 [label="食ったのかい。"];
+	node0 -> node2;
+	node1 -> node2;
+}

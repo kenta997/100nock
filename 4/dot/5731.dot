@@ -1,0 +1,11 @@
+digraph graph5731 {
+	node0 [label="もっとも"];
+	node1 [label="平常から"];
+	node2 [label="あまり"];
+	node3 [label="晴れ晴れしい"];
+	node4 [label="眼ではない。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,13 @@
+digraph graph8875 {
+	node0 [label="「まず"];
+	node1 [label="古来の"];
+	node2 [label="賢哲が"];
+	node3 [label="女性観を"];
+	node4 [label="紹介すべしと"];
+	node5 [label="書いてある。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

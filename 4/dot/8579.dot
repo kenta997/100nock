@@ -1,0 +1,7 @@
+digraph graph8579 {
+	node0 [label="「そんな"];
+	node1 [label="問題は"];
+	node2 [label="ありませんよ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

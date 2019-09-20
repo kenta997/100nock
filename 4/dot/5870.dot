@@ -1,0 +1,15 @@
+digraph graph5870 {
+	node0 [label="精神を"];
+	node1 [label="修養して"];
+	node2 [label="返事が"];
+	node3 [label="出来なくなった"];
+	node4 [label="日には"];
+	node5 [label="来客は"];
+	node6 [label="御難だね。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,15 @@
+digraph graph4841 {
+	node0 [label="いないかと"];
+	node1 [label="思って"];
+	node2 [label="窓から"];
+	node3 [label="のぞくと"];
+	node4 [label="必ず"];
+	node5 [label="一二人"];
+	node6 [label="這入っている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

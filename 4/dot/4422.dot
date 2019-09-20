@@ -1,0 +1,29 @@
+digraph graph4422 {
+	node0 [label="風邪を"];
+	node1 [label="引いたと"];
+	node2 [label="見えて、"];
+	node3 [label="この"];
+	node4 [label="あついのに"];
+	node5 [label="ちゃんちゃんを"];
+	node6 [label="着て、"];
+	node7 [label="小判形の"];
+	node8 [label="桶から"];
+	node9 [label="ざあと"];
+	node10 [label="旦那の"];
+	node11 [label="肩へ"];
+	node12 [label="湯を"];
+	node13 [label="あびせる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

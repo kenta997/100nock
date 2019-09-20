@@ -1,0 +1,33 @@
+digraph graph4548 {
+	node0 [label="正面に"];
+	node1 [label="控えたる"];
+	node2 [label="妻君は"];
+	node3 [label="これまた"];
+	node4 [label="無言の"];
+	node5 [label="まま"];
+	node6 [label="箸の"];
+	node7 [label="上下に"];
+	node8 [label="運動する"];
+	node9 [label="様子、"];
+	node10 [label="主人の"];
+	node11 [label="両顎の"];
+	node12 [label="離合開闔の"];
+	node13 [label="具合を"];
+	node14 [label="熱心に"];
+	node15 [label="研究している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node15;
+	node3 -> node15;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

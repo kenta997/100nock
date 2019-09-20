@@ -1,0 +1,15 @@
+digraph graph3644 {
+	node0 [label="「そうさ、"];
+	node1 [label="君などは"];
+	node2 [label="先方が"];
+	node3 [label="騒ぎ立てるんだが、"];
+	node4 [label="中には"];
+	node5 [label="滑稽なのが"];
+	node6 [label="あるよ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,9 @@
+digraph graph7015 {
+	node0 [label="いっしょに"];
+	node1 [label="招魂社へ"];
+	node2 [label="御嫁に"];
+	node3 [label="行きましょう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

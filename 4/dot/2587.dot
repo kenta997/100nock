@@ -1,0 +1,23 @@
+digraph graph2587 {
+	node0 [label="主人はまた"];
+	node1 [label="始まったなと"];
+	node2 [label="云わぬばかりに、"];
+	node3 [label="象牙の"];
+	node4 [label="箸で"];
+	node5 [label="菓子皿の"];
+	node6 [label="縁を"];
+	node7 [label="かんかん"];
+	node8 [label="叩いて"];
+	node9 [label="俯つ"];
+	node10 [label="向いている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

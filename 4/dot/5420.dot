@@ -1,0 +1,19 @@
+digraph graph5420 {
+	node0 [label="　相談は"];
+	node1 [label="たちまち"];
+	node2 [label="一決して、"];
+	node3 [label="主人は"];
+	node4 [label="いよいよ"];
+	node5 [label="催眠術を"];
+	node6 [label="懸けら"];
+	node7 [label="るる"];
+	node8 [label="事となった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

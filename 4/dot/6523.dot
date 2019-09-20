@@ -1,0 +1,15 @@
+digraph graph6523 {
+	node0 [label="こう"];
+	node1 [label="なると"];
+	node2 [label="精神修養も"];
+	node3 [label="八木独仙も"];
+	node4 [label="何も"];
+	node5 [label="あった"];
+	node6 [label="ものじゃない。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

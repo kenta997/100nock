@@ -1,0 +1,5 @@
+digraph graph5143 {
+	node0 [label="「うそを"];
+	node1 [label="つけ。"];
+	node0 -> node1;
+}

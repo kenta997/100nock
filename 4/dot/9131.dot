@@ -1,0 +1,23 @@
+digraph graph9131 {
+	node0 [label="思い切って"];
+	node1 [label="飲んで"];
+	node2 [label="見ろと、"];
+	node3 [label="勢"];
+	node4 [label="よく"];
+	node5 [label="舌を"];
+	node6 [label="入れて"];
+	node7 [label="ぴちゃぴちゃ"];
+	node8 [label="やって"];
+	node9 [label="見ると"];
+	node10 [label="驚いた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

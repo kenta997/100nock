@@ -1,0 +1,5 @@
+digraph graph7533 {
+	node0 [label="冗談に"];
+	node1 [label="したんだよ。"];
+	node0 -> node1;
+}

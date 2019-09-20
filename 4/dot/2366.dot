@@ -1,0 +1,15 @@
+digraph graph2366 {
+	node0 [label="「また"];
+	node1 [label="知ってるかか、"];
+	node2 [label="まるで"];
+	node3 [label="試験を"];
+	node4 [label="受けに"];
+	node5 [label="来たような"];
+	node6 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

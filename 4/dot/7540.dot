@@ -1,0 +1,13 @@
+digraph graph7540 {
+	node0 [label="で"];
+	node1 [label="今"];
+	node2 [label="来たのが"];
+	node3 [label="名前を"];
+	node4 [label="借した"];
+	node5 [label="奴なんだがね。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

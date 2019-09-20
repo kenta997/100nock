@@ -1,0 +1,9 @@
+digraph graph865 {
+	node0 [label="　"];
+	node1 [label="うるさいなと、"];
+	node2 [label="主人は"];
+	node3 [label="読みとばす。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

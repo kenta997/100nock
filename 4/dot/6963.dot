@@ -1,0 +1,15 @@
+digraph graph6963 {
+	node0 [label="あんなに"];
+	node1 [label="御化粧を"];
+	node2 [label="すれば"];
+	node3 [label="たいていの"];
+	node4 [label="人は"];
+	node5 [label="よく"];
+	node6 [label="見えるわ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

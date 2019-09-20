@@ -1,0 +1,9 @@
+digraph graph3667 {
+	node0 [label="これを"];
+	node1 [label="承った"];
+	node2 [label="細君は"];
+	node3 [label="承知しない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

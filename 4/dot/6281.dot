@@ -1,0 +1,13 @@
+digraph graph6281 {
+	node0 [label="ただ"];
+	node1 [label="そう"];
+	node2 [label="思って"];
+	node3 [label="独りで"];
+	node4 [label="強情を"];
+	node5 [label="張ってるんだ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

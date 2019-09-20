@@ -1,0 +1,11 @@
+digraph graph2596 {
+	node0 [label="しかし"];
+	node1 [label="智識以上の"];
+	node2 [label="珍宝が"];
+	node3 [label="世の中に"];
+	node4 [label="あろうか。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

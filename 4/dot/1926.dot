@@ -1,0 +1,31 @@
+digraph graph1926 {
+	node0 [label="吾輩も"];
+	node1 [label="少し"];
+	node2 [label="変だと"];
+	node3 [label="思って、"];
+	node4 [label="例の"];
+	node5 [label="尻尾に"];
+	node6 [label="伺いを"];
+	node7 [label="立てて"];
+	node8 [label="見たら、"];
+	node9 [label="その通り"];
+	node10 [label="その通りと"];
+	node11 [label="尻尾の"];
+	node12 [label="先から"];
+	node13 [label="御託宣が"];
+	node14 [label="あった。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node14;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

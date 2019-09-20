@@ -1,0 +1,11 @@
+digraph graph5066 {
+	node0 [label="大抵一隊の"];
+	node1 [label="砲手に"];
+	node2 [label="一つもしくは"];
+	node3 [label="二つの"];
+	node4 [label="割である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

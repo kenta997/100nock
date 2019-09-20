@@ -1,0 +1,13 @@
+digraph graph6879 {
+	node0 [label="ごまかしも"];
+	node1 [label="たいていに"];
+	node2 [label="すればいいのに、"];
+	node3 [label="今度は"];
+	node4 [label="殿下さまに"];
+	node5 [label="化けて来たんだって。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

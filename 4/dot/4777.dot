@@ -1,0 +1,33 @@
+digraph graph4777 {
+	node0 [label="しかも"];
+	node1 [label="理窟の"];
+	node2 [label="わからない"];
+	node3 [label="俗物や、"];
+	node4 [label="あまり"];
+	node5 [label="自己が"];
+	node6 [label="恃みになりそうもなくて"];
+	node7 [label="落ちつきの"];
+	node8 [label="ない"];
+	node9 [label="者は、"];
+	node10 [label="あらゆる"];
+	node11 [label="機会を"];
+	node12 [label="利用して、"];
+	node13 [label="この"];
+	node14 [label="証券を"];
+	node15 [label="握ろうとする。"];
+	node0 -> node15;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

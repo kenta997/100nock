@@ -1,0 +1,15 @@
+digraph graph3681 {
+	node0 [label="なに"];
+	node1 [label="昔は"];
+	node2 [label="これより"];
+	node3 [label="烈しかったんですよ」"];
+	node4 [label="「そうでしょうか」と"];
+	node5 [label="細君は"];
+	node6 [label="真面目である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

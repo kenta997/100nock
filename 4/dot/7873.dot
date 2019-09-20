@@ -1,0 +1,15 @@
+digraph graph7873 {
+	node0 [label="もう少し"];
+	node1 [label="勝ったつもりだったが、"];
+	node2 [label="こしらえて"];
+	node3 [label="見ると、"];
+	node4 [label="たった"];
+	node5 [label="十八目の"];
+	node6 [label="差か。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

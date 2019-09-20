@@ -1,0 +1,5 @@
+digraph graph5635 {
+	node0 [label="本人も"];
+	node1 [label="得意である。"];
+	node0 -> node1;
+}

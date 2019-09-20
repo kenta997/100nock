@@ -1,0 +1,33 @@
+digraph graph60 {
+	node0 [label="下女は"];
+	node1 [label="吾輩を"];
+	node2 [label="ぶら下げて"];
+	node3 [label="主人の"];
+	node4 [label="方へ"];
+	node5 [label="向けて"];
+	node6 [label="この"];
+	node7 [label="宿なしの"];
+	node8 [label="小猫が"];
+	node9 [label="いくら"];
+	node10 [label="出しても"];
+	node11 [label="出しても"];
+	node12 [label="御台所へ"];
+	node13 [label="上って来て"];
+	node14 [label="困りますと"];
+	node15 [label="いう。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node14;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

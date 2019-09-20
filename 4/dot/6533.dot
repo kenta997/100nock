@@ -1,0 +1,13 @@
+digraph graph6533 {
+	node0 [label="広ければこそ"];
+	node1 [label="金田君や"];
+	node2 [label="金田君の"];
+	node3 [label="犬が"];
+	node4 [label="人間として"];
+	node5 [label="通用しているのでもあろう。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

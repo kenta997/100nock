@@ -1,0 +1,23 @@
+digraph graph3325 {
+	node0 [label="これに"];
+	node1 [label="続く"];
+	node2 [label="黒い"];
+	node3 [label="影は"];
+	node4 [label="後ろに"];
+	node5 [label="廻るかと"];
+	node6 [label="思う"];
+	node7 [label="間もなく"];
+	node8 [label="吾輩の"];
+	node9 [label="尻尾へ"];
+	node10 [label="ぶら下がる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

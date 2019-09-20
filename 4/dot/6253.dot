@@ -1,0 +1,7 @@
+digraph graph6253 {
+	node0 [label="「しかし"];
+	node1 [label="ただの"];
+	node2 [label="商売じゃない」"];
+	node0 -> node2;
+	node1 -> node2;
+}

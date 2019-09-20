@@ -1,0 +1,9 @@
+digraph graph3201 {
+	node0 [label="必竟"];
+	node1 [label="無理な"];
+	node2 [label="注文に"];
+	node3 [label="過ぎん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

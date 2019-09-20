@@ -1,0 +1,11 @@
+digraph graph4259 {
+	node0 [label="皮を"];
+	node1 [label="着た"];
+	node2 [label="猿の"];
+	node3 [label="子分ではないと"];
+	node4 [label="思っていた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph2711 {
+	node0 [label="どうも"];
+	node1 [label="鼠らしくない。"];
+	node0 -> node1;
+}

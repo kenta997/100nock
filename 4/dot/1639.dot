@@ -1,0 +1,9 @@
+digraph graph1639 {
+	node0 [label="両人は"];
+	node1 [label="申し合せたごとく"];
+	node2 [label="「ハハハハハ」と"];
+	node3 [label="笑い崩れる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

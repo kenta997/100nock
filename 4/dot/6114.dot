@@ -1,0 +1,11 @@
+digraph graph6114 {
+	node0 [label="無覚禅師の"];
+	node1 [label="電光ときたら"];
+	node2 [label="寄宿舎中誰も知らない"];
+	node3 [label="ものは"];
+	node4 [label="ないくらいだった。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

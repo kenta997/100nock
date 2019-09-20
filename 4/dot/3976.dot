@@ -1,0 +1,29 @@
+digraph graph3976 {
+	node0 [label="あの"];
+	node1 [label="羽根は"];
+	node2 [label="平生"];
+	node3 [label="大事に"];
+	node4 [label="畳んであるが、"];
+	node5 [label="引き掻き方が"];
+	node6 [label="烈しいと、"];
+	node7 [label="ぱっと"];
+	node8 [label="乱れて"];
+	node9 [label="中から"];
+	node10 [label="吉野紙のような"];
+	node11 [label="薄色の"];
+	node12 [label="下着が"];
+	node13 [label="あらわれる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

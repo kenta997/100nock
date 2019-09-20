@@ -1,0 +1,15 @@
+digraph graph3717 {
+	node0 [label="僕の"];
+	node1 [label="近所の"];
+	node2 [label="女学校の"];
+	node3 [label="生徒などと"];
+	node4 [label="来たら"];
+	node5 [label="えらい"];
+	node6 [label="ものだぜ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

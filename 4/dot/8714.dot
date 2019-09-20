@@ -1,0 +1,21 @@
+digraph graph8714 {
+	node0 [label="「いや"];
+	node1 [label="冗談のようだが、"];
+	node2 [label="実際"];
+	node3 [label="参考に"];
+	node4 [label="なる"];
+	node5 [label="話ですよ、"];
+	node6 [label="寒月君」と"];
+	node7 [label="独仙君は"];
+	node8 [label="寒月君に"];
+	node9 [label="向いだした。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

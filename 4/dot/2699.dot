@@ -1,0 +1,21 @@
+digraph graph2699 {
+	node0 [label="この"];
+	node1 [label="下女は"];
+	node2 [label="人から"];
+	node3 [label="歯軋りを"];
+	node4 [label="すると"];
+	node5 [label="云われると"];
+	node6 [label="いつでも"];
+	node7 [label="これを"];
+	node8 [label="否定する"];
+	node9 [label="女である。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

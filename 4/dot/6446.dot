@@ -1,0 +1,27 @@
+digraph graph6446 {
+	node0 [label="御三は"];
+	node1 [label="突然"];
+	node2 [label="膝を"];
+	node3 [label="ついて、"];
+	node4 [label="揚げ板を"];
+	node5 [label="一枚"];
+	node6 [label="はね除けて、"];
+	node7 [label="中から"];
+	node8 [label="堅炭の"];
+	node9 [label="四寸ばかり"];
+	node10 [label="長いのを"];
+	node11 [label="一本"];
+	node12 [label="つかみ出した。"];
+	node0 -> node12;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

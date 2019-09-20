@@ -1,0 +1,9 @@
+digraph graph6918 {
+	node0 [label="「雪江さん"];
+	node1 [label="飄然て、"];
+	node2 [label="馬鹿竹の"];
+	node3 [label="お友達？"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

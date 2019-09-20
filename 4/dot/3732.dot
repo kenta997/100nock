@@ -1,0 +1,13 @@
+digraph graph3732 {
+	node0 [label="あちらでも"];
+	node1 [label="おぎゃあと"];
+	node2 [label="生れる"];
+	node3 [label="こちらでも"];
+	node4 [label="おぎゃあと"];
+	node5 [label="生れる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

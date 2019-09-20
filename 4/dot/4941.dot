@@ -1,0 +1,15 @@
+digraph graph4941 {
+	node0 [label="いくら"];
+	node1 [label="美味でも"];
+	node2 [label="甲羅つきでは"];
+	node3 [label="どう"];
+	node4 [label="する"];
+	node5 [label="事も"];
+	node6 [label="出来ん。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

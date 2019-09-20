@@ -1,0 +1,9 @@
+digraph graph9113 {
+	node0 [label="秋の"];
+	node1 [label="木の葉は"];
+	node2 [label="大概落ち"];
+	node3 [label="尽した。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,5 @@
+digraph graph3146 {
+	node0 [label="「大変学問の"];
+	node1 [label="出来る方だそうです」"];
+	node0 -> node1;
+}

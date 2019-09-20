@@ -1,0 +1,11 @@
+digraph graph1515 {
+	node0 [label="Ｗは"];
+	node1 [label="勿論"];
+	node2 [label="女の"];
+	node3 [label="体重と"];
+	node4 [label="御承知下さい。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

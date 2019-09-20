@@ -1,0 +1,15 @@
+digraph graph3058 {
+	node0 [label="この"];
+	node1 [label="猫が"];
+	node2 [label="犬なら"];
+	node3 [label="よかったに——"];
+	node4 [label="惜しい"];
+	node5 [label="事を"];
+	node6 [label="したなあ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

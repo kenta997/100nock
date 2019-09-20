@@ -1,0 +1,11 @@
+digraph graph9064 {
+	node0 [label="出来るなら"];
+	node1 [label="媒酌人たるの"];
+	node2 [label="栄を"];
+	node3 [label="得たいくらいの"];
+	node4 [label="ものだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

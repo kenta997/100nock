@@ -1,0 +1,5 @@
+digraph graph7365 {
+	node0 [label="拙だから"];
+	node1 [label="珍重されない。"];
+	node0 -> node1;
+}

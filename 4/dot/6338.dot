@@ -1,0 +1,9 @@
+digraph graph6338 {
+	node0 [label="しかし"];
+	node1 [label="脈には"];
+	node2 [label="変りは"];
+	node3 [label="ないようだ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

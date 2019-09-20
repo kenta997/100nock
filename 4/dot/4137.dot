@@ -1,0 +1,35 @@
+digraph graph4137 {
+	node0 [label="この"];
+	node1 [label="野郎！　"];
+	node2 [label="地面の"];
+	node3 [label="上なら"];
+	node4 [label="その"];
+	node5 [label="分に"];
+	node6 [label="捨ておくのではないが、"];
+	node7 [label="いかんせん、"];
+	node8 [label="たださえ"];
+	node9 [label="骨の"];
+	node10 [label="折れる"];
+	node11 [label="道中に、"];
+	node12 [label="勘左衛門などを"];
+	node13 [label="相手に"];
+	node14 [label="している"];
+	node15 [label="余裕が"];
+	node16 [label="ない。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node16;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

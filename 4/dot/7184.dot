@@ -1,0 +1,29 @@
+digraph graph7184 {
+	node0 [label="塵積って"];
+	node1 [label="山を"];
+	node2 [label="なすと"];
+	node3 [label="云うから、"];
+	node4 [label="微々たる"];
+	node5 [label="一生徒も"];
+	node6 [label="多勢が"];
+	node7 [label="聚合すると"];
+	node8 [label="侮るべからざる"];
+	node9 [label="団体と"];
+	node10 [label="なって、"];
+	node11 [label="排斥運動や"];
+	node12 [label="ストライキを"];
+	node13 [label="しでかすかも知れない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

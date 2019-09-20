@@ -1,0 +1,23 @@
+digraph graph2879 {
+	node0 [label="「たしかな"];
+	node1 [label="ところは"];
+	node2 [label="よく"];
+	node3 [label="考えて"];
+	node4 [label="見ないと"];
+	node5 [label="分りませんわ」と"];
+	node6 [label="細君は"];
+	node7 [label="まだ"];
+	node8 [label="考える"];
+	node9 [label="つもりで"];
+	node10 [label="いる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

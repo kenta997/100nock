@@ -1,0 +1,7 @@
+digraph graph5234 {
+	node0 [label="「へえ、"];
+	node1 [label="それは"];
+	node2 [label="好都合でございました。"];
+	node0 -> node2;
+	node1 -> node2;
+}

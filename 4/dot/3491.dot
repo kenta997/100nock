@@ -1,0 +1,21 @@
+digraph graph3491 {
+	node0 [label="うんと突き込んで"];
+	node1 [label="こじ開けると"];
+	node2 [label="大抵の"];
+	node3 [label="釘付の"];
+	node4 [label="箱なん"];
+	node5 [label="ざあ"];
+	node6 [label="苦も"];
+	node7 [label="なく"];
+	node8 [label="蓋が"];
+	node9 [label="とれる。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

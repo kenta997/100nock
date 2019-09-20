@@ -1,0 +1,13 @@
+digraph graph800 {
+	node0 [label="「はあ、"];
+	node1 [label="何か"];
+	node2 [label="御用で」と"];
+	node3 [label="主人も"];
+	node4 [label="負けずに"];
+	node5 [label="済ます。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

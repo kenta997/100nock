@@ -1,0 +1,7 @@
+digraph graph1928 {
+	node0 [label="いつの間にか"];
+	node1 [label="寒月君さえ"];
+	node2 [label="来ている。"];
+	node0 -> node2;
+	node1 -> node2;
+}

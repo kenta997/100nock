@@ -1,0 +1,7 @@
+digraph graph1544 {
+	node0 [label="純然たる"];
+	node1 [label="天然居士の"];
+	node2 [label="再来だ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

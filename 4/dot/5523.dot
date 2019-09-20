@@ -1,0 +1,15 @@
+digraph graph5523 {
+	node0 [label="日本の"];
+	node1 [label="文明は"];
+	node2 [label="自分以外の"];
+	node3 [label="状態を"];
+	node4 [label="変化させて"];
+	node5 [label="満足を"];
+	node6 [label="求めるのじゃない。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

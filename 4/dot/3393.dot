@@ -1,0 +1,5 @@
+digraph graph3393 {
+	node0 [label="毛衣では"];
+	node1 [label="全く熱つ過ぎる。"];
+	node0 -> node1;
+}

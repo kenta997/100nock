@@ -1,0 +1,7 @@
+digraph graph7621 {
+	node0 [label="高が"];
+	node1 [label="一尺四方くらいの"];
+	node2 [label="面積だ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

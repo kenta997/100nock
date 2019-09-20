@@ -1,0 +1,9 @@
+digraph graph1359 {
+	node0 [label="粘着力が"];
+	node1 [label="強いので"];
+	node2 [label="決して"];
+	node3 [label="飛ばない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

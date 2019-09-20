@@ -1,0 +1,27 @@
+digraph graph6591 {
+	node0 [label="こんな"];
+	node1 [label="人が"];
+	node2 [label="世の中に"];
+	node3 [label="充満している"];
+	node4 [label="以上は"];
+	node5 [label="長火鉢事件を"];
+	node6 [label="もって"];
+	node7 [label="主人に"];
+	node8 [label="泥棒根性が"];
+	node9 [label="あると"];
+	node10 [label="断定する"];
+	node11 [label="訳には"];
+	node12 [label="行かぬ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

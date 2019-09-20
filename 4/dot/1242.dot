@@ -1,0 +1,35 @@
+digraph graph1242 {
+	node0 [label="もう"];
+	node1 [label="十五分ばかり"];
+	node2 [label="早く"];
+	node3 [label="甘木先生が"];
+	node4 [label="来てくれたら"];
+	node5 [label="僕の"];
+	node6 [label="義理も"];
+	node7 [label="立つし、"];
+	node8 [label="妻も"];
+	node9 [label="満足した"];
+	node10 [label="ろうに、"];
+	node11 [label="わずか"];
+	node12 [label="十五分の差でね、"];
+	node13 [label="実に"];
+	node14 [label="残念な"];
+	node15 [label="事を"];
+	node16 [label="した。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node16;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

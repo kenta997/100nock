@@ -1,0 +1,19 @@
+digraph graph1792 {
+	node0 [label="吾輩でも"];
+	node1 [label="奮発して、"];
+	node2 [label="敵城へ"];
+	node3 [label="乗り込んで"];
+	node4 [label="その"];
+	node5 [label="動静を"];
+	node6 [label="偵察してやらなくては、"];
+	node7 [label="あまり"];
+	node8 [label="不公平である。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

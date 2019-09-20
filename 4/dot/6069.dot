@@ -1,0 +1,9 @@
+digraph graph6069 {
+	node0 [label="何だか"];
+	node1 [label="八木独仙君のような"];
+	node2 [label="事を"];
+	node3 [label="云ってるね」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,23 @@
+digraph graph1522 {
+	node0 [label="「それじゃ"];
+	node1 [label="首脳だけは"];
+	node2 [label="逐って"];
+	node3 [label="伺う"];
+	node4 [label="事に"];
+	node5 [label="しようじゃないか」と"];
+	node6 [label="迷亭も"];
+	node7 [label="少々"];
+	node8 [label="恐縮の"];
+	node9 [label="体に"];
+	node10 [label="見受けられる。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

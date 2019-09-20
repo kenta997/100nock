@@ -1,0 +1,23 @@
+digraph graph8532 {
+	node0 [label="そこで"];
+	node1 [label="並みいる"];
+	node2 [label="士官も"];
+	node3 [label="我"];
+	node4 [label="劣らじと"];
+	node5 [label="水盃を"];
+	node6 [label="挙げて"];
+	node7 [label="下士官の"];
+	node8 [label="健康を"];
+	node9 [label="祝したと"];
+	node10 [label="云うぜ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

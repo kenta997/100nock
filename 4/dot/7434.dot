@@ -1,0 +1,9 @@
+digraph graph7434 {
+	node0 [label="「虎の"];
+	node1 [label="鳴き声を"];
+	node2 [label="聞いたって"];
+	node3 [label="詰らないじゃないか」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

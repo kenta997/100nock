@@ -1,0 +1,5 @@
+digraph graph6722 {
+	node0 [label="きっと"];
+	node1 [label="神経衰弱なんでしょう」"];
+	node0 -> node1;
+}

@@ -1,0 +1,13 @@
+digraph graph6606 {
+	node0 [label="承知しているだけで"];
+	node1 [label="片付ける"];
+	node2 [label="手腕の"];
+	node3 [label="ない"];
+	node4 [label="事も"];
+	node5 [label="自覚している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

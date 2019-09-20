@@ -1,0 +1,11 @@
+digraph graph1360 {
+	node0 [label="「いやに"];
+	node1 [label="頑固だな」と"];
+	node2 [label="主人は"];
+	node3 [label="一生懸命に"];
+	node4 [label="吹く。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

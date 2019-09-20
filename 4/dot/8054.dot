@@ -1,0 +1,15 @@
+digraph graph8054 {
+	node0 [label="ヴァイオリンを"];
+	node1 [label="弾いて"];
+	node2 [label="殺されるよりも、"];
+	node3 [label="弾かずに"];
+	node4 [label="生きてる"];
+	node5 [label="方が"];
+	node6 [label="楽ですよ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,11 @@
+digraph graph9087 {
+	node0 [label="もう"];
+	node1 [label="帰ろうか」と"];
+	node2 [label="まず"];
+	node3 [label="独仙君が"];
+	node4 [label="立ち上がる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

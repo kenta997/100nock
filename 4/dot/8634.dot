@@ -1,0 +1,33 @@
+digraph graph8634 {
+	node0 [label="「なぜって"];
+	node1 [label="今の"];
+	node2 [label="人間は"];
+	node3 [label="生命が"];
+	node4 [label="大事だから"];
+	node5 [label="警察で"];
+	node6 [label="保護するんだが、"];
+	node7 [label="その"];
+	node8 [label="時分の"];
+	node9 [label="国民は"];
+	node10 [label="生きてるのが"];
+	node11 [label="苦痛だから、"];
+	node12 [label="巡査が"];
+	node13 [label="慈悲の"];
+	node14 [label="ために"];
+	node15 [label="打ち殺してくれるのさ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

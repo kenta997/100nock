@@ -1,0 +1,11 @@
+digraph graph8983 {
+	node0 [label="すぐ"];
+	node1 [label="活版に"];
+	node2 [label="して"];
+	node3 [label="方々へ"];
+	node4 [label="くばります。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

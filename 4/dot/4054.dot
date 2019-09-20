@@ -1,0 +1,27 @@
+digraph graph4054 {
+	node0 [label="下から"];
+	node1 [label="一間ばかりの"];
+	node2 [label="ところで"];
+	node3 [label="梧桐は"];
+	node4 [label="注文通り"];
+	node5 [label="二叉に"];
+	node6 [label="なっているから、"];
+	node7 [label="ここで"];
+	node8 [label="一休息して"];
+	node9 [label="葉裏から"];
+	node10 [label="蝉の"];
+	node11 [label="所在地を"];
+	node12 [label="探偵する。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

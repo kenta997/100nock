@@ -1,0 +1,11 @@
+digraph graph8222 {
+	node0 [label="いや"];
+	node1 [label="もう"];
+	node2 [label="二目とは"];
+	node3 [label="見られない"];
+	node4 [label="ありさまさ……」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

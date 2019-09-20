@@ -1,0 +1,19 @@
+digraph graph4365 {
+	node0 [label="その"];
+	node1 [label="隣りに"];
+	node2 [label="頭の"];
+	node3 [label="禿げた"];
+	node4 [label="爺さんが"];
+	node5 [label="五分刈を"];
+	node6 [label="捕えて"];
+	node7 [label="何か"];
+	node8 [label="弁じている。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

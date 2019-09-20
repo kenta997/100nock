@@ -1,0 +1,9 @@
+digraph graph1005 {
+	node0 [label="恐縮だ」"];
+	node1 [label="「そんなに"];
+	node2 [label="恐縮するには"];
+	node3 [label="及ばん。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

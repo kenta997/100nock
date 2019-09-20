@@ -1,0 +1,31 @@
+digraph graph1740 {
+	node0 [label="　主人は"];
+	node1 [label="伯父さんと"];
+	node2 [label="云う"];
+	node3 [label="言葉を"];
+	node4 [label="聞いて"];
+	node5 [label="急に"];
+	node6 [label="思い出したように"];
+	node7 [label="「君に"];
+	node8 [label="伯父が"];
+	node9 [label="あると"];
+	node10 [label="云う"];
+	node11 [label="事は、"];
+	node12 [label="今日"];
+	node13 [label="始めて"];
+	node14 [label="聞いた。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

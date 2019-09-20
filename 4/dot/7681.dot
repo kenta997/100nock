@@ -1,0 +1,7 @@
+digraph graph7681 {
+	node0 [label="「生死事大、"];
+	node1 [label="無常迅速、"];
+	node2 [label="あきらめるさ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

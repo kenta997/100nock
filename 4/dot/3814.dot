@@ -1,0 +1,7 @@
+digraph graph3814 {
+	node0 [label="と"];
+	node1 [label="二行に"];
+	node2 [label="かいてある。"];
+	node0 -> node2;
+	node1 -> node2;
+}

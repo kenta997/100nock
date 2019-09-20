@@ -1,0 +1,7 @@
+digraph graph8290 {
+	node0 [label="こっちへ"];
+	node1 [label="出て来て、"];
+	node2 [label="聞きたまえ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

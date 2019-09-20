@@ -1,0 +1,13 @@
+digraph graph574 {
+	node0 [label="爪を"];
+	node1 [label="見ると"];
+	node2 [label="餅の"];
+	node3 [label="上皮が"];
+	node4 [label="引き掛って"];
+	node5 [label="ねばねばする。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

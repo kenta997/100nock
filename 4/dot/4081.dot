@@ -1,0 +1,11 @@
+digraph graph4081 {
+	node0 [label="——"];
+	node1 [label="換言すれば"];
+	node2 [label="爪懸りの"];
+	node3 [label="いいものは"];
+	node4 [label="ない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph4251 {
+	node0 [label="台湾の"];
+	node1 [label="生蕃である。"];
+	node0 -> node1;
+}

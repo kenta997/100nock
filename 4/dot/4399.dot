@@ -1,0 +1,7 @@
+digraph graph4399 {
+	node0 [label="ただ"];
+	node1 [label="じっとして"];
+	node2 [label="赤くなっているばかりである。"];
+	node0 -> node1;
+	node1 -> node2;
+}

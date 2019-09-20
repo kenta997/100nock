@@ -1,0 +1,5 @@
+digraph graph5749 {
+	node0 [label="否でも応でもさかに"];
+	node1 [label="扱き上げる。"];
+	node0 -> node1;
+}

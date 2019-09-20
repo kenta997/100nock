@@ -1,0 +1,33 @@
+digraph graph4685 {
+	node0 [label="玉を"];
+	node1 [label="抱いて"];
+	node2 [label="罪"];
+	node3 [label="ありと"];
+	node4 [label="云う"];
+	node5 [label="古語が"];
+	node6 [label="あるそうだが、"];
+	node7 [label="これは"];
+	node8 [label="桐を"];
+	node9 [label="生やして"];
+	node10 [label="銭なしと"];
+	node11 [label="云っても"];
+	node12 [label="しかるべき"];
+	node13 [label="もので、"];
+	node14 [label="いわゆる"];
+	node15 [label="宝の持ち腐れである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

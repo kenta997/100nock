@@ -1,0 +1,7 @@
+digraph graph4577 {
+	node0 [label="殺せば"];
+	node1 [label="死ぬに"];
+	node2 [label="極まっている。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,37 @@
+digraph graph2698 {
+	node0 [label="もう"];
+	node1 [label="何時だろうと"];
+	node2 [label="室の"];
+	node3 [label="中を"];
+	node4 [label="見廻すと"];
+	node5 [label="四隣は"];
+	node6 [label="しんとして"];
+	node7 [label="ただ"];
+	node8 [label="聞える"];
+	node9 [label="ものは"];
+	node10 [label="柱時計と"];
+	node11 [label="細君の"];
+	node12 [label="いびきと"];
+	node13 [label="遠方で"];
+	node14 [label="下女の"];
+	node15 [label="歯軋りを"];
+	node16 [label="する"];
+	node17 [label="音のみである。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node17;
+	node5 -> node17;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node17;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

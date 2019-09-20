@@ -1,0 +1,11 @@
+digraph graph770 {
+	node0 [label="「また"];
+	node1 [label="馬鹿な"];
+	node2 [label="茶番"];
+	node3 [label="見たような"];
+	node4 [label="事なんでしょう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

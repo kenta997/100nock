@@ -1,0 +1,5 @@
+digraph graph7519 {
+	node0 [label="「なに愚な"];
+	node1 [label="事さ。"];
+	node0 -> node1;
+}

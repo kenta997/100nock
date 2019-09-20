@@ -1,0 +1,19 @@
+digraph graph5824 {
+	node0 [label="人間は"];
+	node1 [label="馬鹿であると"];
+	node2 [label="云おうが、"];
+	node3 [label="人間は"];
+	node4 [label="利口であると"];
+	node5 [label="云おうが"];
+	node6 [label="手も"];
+	node7 [label="なく"];
+	node8 [label="わかる事だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

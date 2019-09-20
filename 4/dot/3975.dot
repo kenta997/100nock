@@ -1,0 +1,23 @@
+digraph graph3975 {
+	node0 [label="ところを"];
+	node1 [label="一足飛びに"];
+	node2 [label="君の"];
+	node3 [label="後ろへ"];
+	node4 [label="廻って"];
+	node5 [label="今度は"];
+	node6 [label="背面から"];
+	node7 [label="君の"];
+	node8 [label="羽根を"];
+	node9 [label="軽く"];
+	node10 [label="引き掻く。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

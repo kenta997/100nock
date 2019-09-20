@@ -1,0 +1,31 @@
+digraph graph1251 {
+	node0 [label="吾輩の"];
+	node1 [label="主人の"];
+	node2 [label="我儘で"];
+	node3 [label="偏狭な"];
+	node4 [label="事は"];
+	node5 [label="前から"];
+	node6 [label="承知していたが、"];
+	node7 [label="平常は"];
+	node8 [label="言葉数を"];
+	node9 [label="使わないので"];
+	node10 [label="何だか"];
+	node11 [label="了解しかねる"];
+	node12 [label="点が"];
+	node13 [label="あるように"];
+	node14 [label="思われていた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

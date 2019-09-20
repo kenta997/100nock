@@ -1,0 +1,9 @@
+digraph graph4134 {
+	node0 [label="吾輩は"];
+	node1 [label="仕方がないから、"];
+	node2 [label="そろそろ"];
+	node3 [label="歩き出した。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

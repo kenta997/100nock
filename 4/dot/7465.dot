@@ -1,0 +1,11 @@
+digraph graph7465 {
+	node0 [label="細君は"];
+	node1 [label="もう"];
+	node2 [label="一応"];
+	node3 [label="協商を"];
+	node4 [label="始める。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

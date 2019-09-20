@@ -1,0 +1,5 @@
+digraph graph2968 {
+	node0 [label="「おや"];
+	node1 [label="多々良さん」"];
+	node0 -> node1;
+}

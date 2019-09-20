@@ -1,0 +1,5 @@
+digraph graph8781 {
+	node0 [label="きっと"];
+	node1 [label="わかれる。"];
+	node0 -> node1;
+}

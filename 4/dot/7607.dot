@@ -1,0 +1,5 @@
+digraph graph7607 {
+	node0 [label="「どっちでも"];
+	node1 [label="構わない」"];
+	node0 -> node1;
+}

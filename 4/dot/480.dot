@@ -1,0 +1,23 @@
+digraph graph480 {
+	node0 [label="吾輩だって"];
+	node1 [label="喜多床へ"];
+	node2 [label="行って"];
+	node3 [label="顔さえ"];
+	node4 [label="剃って"];
+	node5 [label="貰やあ、"];
+	node6 [label="そんなに"];
+	node7 [label="人間と"];
+	node8 [label="異った"];
+	node9 [label="ところは"];
+	node10 [label="ありゃしない。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

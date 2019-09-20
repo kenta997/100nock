@@ -1,0 +1,23 @@
+digraph graph1498 {
+	node0 [label="寒月君そんな"];
+	node1 [label="弥次馬に"];
+	node2 [label="構わず、"];
+	node3 [label="さっさと"];
+	node4 [label="やるが"];
+	node5 [label="好い」と"];
+	node6 [label="主人は"];
+	node7 [label="なるべく"];
+	node8 [label="早く"];
+	node9 [label="難関を"];
+	node10 [label="切り抜けようとする。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,9 @@
+digraph graph501 {
+	node0 [label="どうしたって"];
+	node1 [label="利かない"];
+	node2 [label="ものは"];
+	node3 [label="利かないのだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,5 @@
+digraph graph6507 {
+	node0 [label="「馬鹿を"];
+	node1 [label="云え」"];
+	node0 -> node1;
+}

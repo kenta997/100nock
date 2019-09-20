@@ -1,0 +1,11 @@
+digraph graph3141 {
+	node0 [label="否"];
+	node1 [label="困窮するだけに"];
+	node2 [label="人一倍"];
+	node3 [label="金が"];
+	node4 [label="欲しいのかも知れない。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,19 @@
+digraph graph4494 {
+	node0 [label="肺の"];
+	node1 [label="所に"];
+	node2 [label="胃が"];
+	node3 [label="陣取って、"];
+	node4 [label="和唐内が"];
+	node5 [label="清和源氏に"];
+	node6 [label="なって、"];
+	node7 [label="民さんが"];
+	node8 [label="不信用でもよかろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

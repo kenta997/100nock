@@ -1,0 +1,7 @@
+digraph graph6495 {
+	node0 [label="早く"];
+	node1 [label="なさらないと"];
+	node2 [label="間に合いませんよ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

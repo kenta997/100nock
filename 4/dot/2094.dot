@@ -1,0 +1,33 @@
+digraph graph2094 {
+	node0 [label="ただ"];
+	node1 [label="胡麻塩色の"];
+	node2 [label="口髯が"];
+	node3 [label="好い加減な"];
+	node4 [label="所から"];
+	node5 [label="乱雑に"];
+	node6 [label="茂生しているので、"];
+	node7 [label="あの"];
+	node8 [label="上に"];
+	node9 [label="孔が"];
+	node10 [label="二つ"];
+	node11 [label="あるはずだと"];
+	node12 [label="結論だけは"];
+	node13 [label="苦も"];
+	node14 [label="なく"];
+	node15 [label="出来る。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

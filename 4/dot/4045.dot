@@ -1,0 +1,15 @@
+digraph graph4045 {
+	node0 [label="充分"];
+	node1 [label="研究すれば"];
+	node2 [label="これだけで"];
+	node3 [label="たしかに"];
+	node4 [label="博士論文の"];
+	node5 [label="価値は"];
+	node6 [label="ある。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,29 @@
+digraph graph6346 {
+	node0 [label="もし"];
+	node1 [label="健康な"];
+	node2 [label="人を"];
+	node3 [label="本位に"];
+	node4 [label="して"];
+	node5 [label="その"];
+	node6 [label="傍へ"];
+	node7 [label="自分を"];
+	node8 [label="置いて"];
+	node9 [label="考えて"];
+	node10 [label="見たらあるいは"];
+	node11 [label="反対の"];
+	node12 [label="結果が"];
+	node13 [label="出るかも知れない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

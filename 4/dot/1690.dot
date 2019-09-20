@@ -1,0 +1,35 @@
+digraph graph1690 {
+	node0 [label="「何か"];
+	node1 [label="御宅に"];
+	node2 [label="手紙かなんぞ"];
+	node3 [label="当人の"];
+	node4 [label="書いた"];
+	node5 [label="ものでもございますなら"];
+	node6 [label="ちょっと"];
+	node7 [label="拝見したい"];
+	node8 [label="もんでございますが」"];
+	node9 [label="「端書なら"];
+	node10 [label="沢山"];
+	node11 [label="あります、"];
+	node12 [label="御覧なさい」と"];
+	node13 [label="主人は"];
+	node14 [label="書斎から"];
+	node15 [label="三四十枚"];
+	node16 [label="持って来る。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+}

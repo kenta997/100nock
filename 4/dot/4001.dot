@@ -1,0 +1,5 @@
+digraph graph4001 {
+	node0 [label="放しておいてまた"];
+	node1 [label="抑える。"];
+	node0 -> node1;
+}

@@ -32,7 +32,7 @@ lattice = lattice.split("\nEOS")[:-1]
 lattice = [x.split("* ")[1:] for x in lattice]
 lattice = [[y.split("\n") for y in x] for x in lattice]
 lattice = [[[y[0].split(" ")] + [z.replace("\t", ",").split(",") for z in y[1:]] for y in x] for x in lattice]
-lattice = [[Chunk([Morph(z[0], z[7], z[1], z[2]) for z in y[1:] if len(z) == 10], int(y[0][1][:-1])) for y in x] for x in lattice]
+lattice = [[Chunk([Morph(z[0], z[7], z[1], z[2]) for z in y[1:] if len(z) >= 8], int(y[0][1][:-1])) for y in x] for x in lattice]
 
 for x in lattice:
     for i, y in enumerate(x):
@@ -43,4 +43,7 @@ for x in lattice:
 for i, x in enumerate(lattice[7]):
     print(i)
     print(x)
+
+with open("41.txt", mode="w") as f:
+    f.writelines(["".join([str(i) + "\n" + str(y) + "\n" for i, y in enumerate(x)]) for x in lattice])
 

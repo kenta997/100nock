@@ -1,0 +1,5 @@
+digraph graph5866 {
+	node0 [label="「云えん事も"];
+	node1 [label="ないさ」"];
+	node0 -> node1;
+}

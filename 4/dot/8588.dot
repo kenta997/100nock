@@ -1,0 +1,5 @@
+digraph graph8588 {
+	node0 [label="「錬金術以前から"];
+	node1 [label="分明ですよ」"];
+	node0 -> node1;
+}

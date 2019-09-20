@@ -1,0 +1,11 @@
+digraph graph7666 {
+	node0 [label="「君"];
+	node1 [label="さっきから、"];
+	node2 [label="六返"];
+	node3 [label="待ったを"];
+	node4 [label="したじゃないか」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

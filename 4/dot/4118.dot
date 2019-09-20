@@ -1,0 +1,9 @@
+digraph graph4118 {
+	node0 [label="左右は"];
+	node1 [label="双方共"];
+	node2 [label="四間に"];
+	node3 [label="過ぎん。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

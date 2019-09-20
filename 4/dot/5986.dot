@@ -1,0 +1,7 @@
+digraph graph5986 {
+	node0 [label="「心を"];
+	node1 [label="どこに"];
+	node2 [label="置こうぞ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

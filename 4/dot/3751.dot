@@ -1,0 +1,7 @@
+digraph graph3751 {
+	node0 [label="「いや暑いのに、"];
+	node1 [label="よく"];
+	node2 [label="御出掛だね。"];
+	node0 -> node2;
+	node1 -> node2;
+}

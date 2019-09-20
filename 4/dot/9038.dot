@@ -1,0 +1,23 @@
+digraph graph9038 {
+	node0 [label="「何でも"];
+	node1 [label="いいから、"];
+	node2 [label="そんな"];
+	node3 [label="ものは"];
+	node4 [label="早く"];
+	node5 [label="しまったら、"];
+	node6 [label="よかろう」と"];
+	node7 [label="主人は"];
+	node8 [label="叱りつけるように"];
+	node9 [label="言い放ったので、"];
+	node10 [label="三平君は"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

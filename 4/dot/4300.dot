@@ -1,0 +1,11 @@
+digraph graph4300 {
+	node0 [label="　衣服は"];
+	node1 [label="かくのごとく"];
+	node2 [label="人間にも"];
+	node3 [label="大事な"];
+	node4 [label="ものである。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

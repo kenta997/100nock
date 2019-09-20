@@ -1,0 +1,9 @@
+digraph graph5154 {
+	node0 [label="「それでも"];
+	node1 [label="落雲館の"];
+	node2 [label="生徒に"];
+	node3 [label="違ないんですから」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

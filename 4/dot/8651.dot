@@ -1,0 +1,5 @@
+digraph graph8651 {
+	node0 [label="「冬も"];
+	node1 [label="やるんですか」"];
+	node0 -> node1;
+}

@@ -1,0 +1,7 @@
+digraph graph1577 {
+	node0 [label="鼻だけは"];
+	node1 [label="無暗に"];
+	node2 [label="大きい。"];
+	node0 -> node2;
+	node1 -> node2;
+}

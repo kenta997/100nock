@@ -1,0 +1,13 @@
+digraph graph4503 {
+	node0 [label="校長に"];
+	node1 [label="依頼して"];
+	node2 [label="免職して"];
+	node3 [label="貰う"];
+	node4 [label="事即ち"];
+	node5 [label="これなり。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

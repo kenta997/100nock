@@ -1,0 +1,11 @@
+digraph graph1118 {
+	node0 [label="「すべて"];
+	node1 [label="曖々然として"];
+	node2 [label="昧々然たる"];
+	node3 [label="かたで"];
+	node4 [label="行くつもりかね」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph8885 {
+	node0 [label="さああとを"];
+	node1 [label="読んだ」"];
+	node0 -> node1;
+}

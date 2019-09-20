@@ -1,0 +1,17 @@
+digraph graph5607 {
+	node0 [label="長さ六尺、"];
+	node1 [label="幅"];
+	node2 [label="三尺"];
+	node3 [label="八寸高さこれに"];
+	node4 [label="かなうと"];
+	node5 [label="云う"];
+	node6 [label="大きな"];
+	node7 [label="机である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

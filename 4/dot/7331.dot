@@ -1,0 +1,9 @@
+digraph graph7331 {
+	node0 [label="「する"];
+	node1 [label="気でもなかったんですが、"];
+	node2 [label="つい"];
+	node3 [label="やってしまったんです。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

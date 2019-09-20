@@ -1,0 +1,23 @@
+digraph graph2783 {
+	node0 [label="製作の"];
+	node1 [label="上に"];
+	node2 [label="変化を"];
+	node3 [label="あらわすのが"];
+	node4 [label="困難であるならば、"];
+	node5 [label="その上に"];
+	node6 [label="徹頭徹尾の"];
+	node7 [label="模傚を"];
+	node8 [label="示すのも"];
+	node9 [label="同様に"];
+	node10 [label="困難である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

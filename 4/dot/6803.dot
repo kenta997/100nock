@@ -1,0 +1,21 @@
+digraph graph6803 {
+	node0 [label="「雪江さん"];
+	node1 [label="何の"];
+	node2 [label="御話し、"];
+	node3 [label="わたし御話しが"];
+	node4 [label="大好き」と"];
+	node5 [label="云ったのは"];
+	node6 [label="とん子で"];
+	node7 [label="「やっぱり"];
+	node8 [label="かちかち山の"];
+	node9 [label="御話し？"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

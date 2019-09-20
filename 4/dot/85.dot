@@ -1,0 +1,19 @@
+digraph graph85 {
+	node0 [label="　吾輩が"];
+	node1 [label="この"];
+	node2 [label="家へ"];
+	node3 [label="住み込んだ"];
+	node4 [label="当時は、"];
+	node5 [label="主人以外の"];
+	node6 [label="ものには"];
+	node7 [label="はなはだ"];
+	node8 [label="不人望であった。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

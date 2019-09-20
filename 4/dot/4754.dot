@@ -1,0 +1,17 @@
+digraph graph4754 {
+	node0 [label="この間主人が"];
+	node1 [label="動物園から"];
+	node2 [label="帰って来て"];
+	node3 [label="しきりに"];
+	node4 [label="感心して"];
+	node5 [label="話した"];
+	node6 [label="事が"];
+	node7 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

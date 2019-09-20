@@ -1,0 +1,23 @@
+digraph graph2777 {
+	node0 [label="もし"];
+	node1 [label="全然"];
+	node2 [label="無能でなくとも"];
+	node3 [label="人間以上の"];
+	node4 [label="能力は"];
+	node5 [label="決して"];
+	node6 [label="ない"];
+	node7 [label="者であると"];
+	node8 [label="断定が"];
+	node9 [label="出来るだろうと"];
+	node10 [label="思う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

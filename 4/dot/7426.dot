@@ -1,0 +1,5 @@
+digraph graph7426 {
+	node0 [label="久し振りに"];
+	node1 [label="出ませんか」"];
+	node0 -> node1;
+}

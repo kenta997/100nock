@@ -1,0 +1,15 @@
+digraph graph8039 {
+	node0 [label="「買おうと"];
+	node1 [label="思いましたが、"];
+	node2 [label="まて"];
+	node3 [label="しばし、"];
+	node4 [label="ここが"];
+	node5 [label="肝心の"];
+	node6 [label="ところだ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

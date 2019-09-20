@@ -1,0 +1,9 @@
+digraph graph3340 {
+	node0 [label="前足を"];
+	node1 [label="懸け"];
+	node2 [label="易えて足懸りを"];
+	node3 [label="深くしようとする。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

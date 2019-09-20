@@ -1,0 +1,7 @@
+digraph graph3052 {
+	node0 [label="うちの"];
+	node1 [label="ものだ"];
+	node2 [label="もの」"];
+	node0 -> node1;
+	node1 -> node2;
+}

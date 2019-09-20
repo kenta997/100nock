@@ -1,0 +1,25 @@
+digraph graph860 {
+	node0 [label="　なるほど"];
+	node1 [label="あの男の"];
+	node2 [label="事だから"];
+	node3 [label="正月は"];
+	node4 [label="遊び"];
+	node5 [label="廻るのに"];
+	node6 [label="忙が"];
+	node7 [label="しいに違いないと、"];
+	node8 [label="主人は"];
+	node9 [label="腹の中で"];
+	node10 [label="迷亭君に"];
+	node11 [label="同意する。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

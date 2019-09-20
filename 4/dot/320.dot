@@ -1,0 +1,11 @@
+digraph graph320 {
+	node0 [label="　車屋の"];
+	node1 [label="黒は"];
+	node2 [label="その後"];
+	node3 [label="跛に"];
+	node4 [label="なった。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,27 @@
+digraph graph300 {
+	node0 [label="吾輩は"];
+	node1 [label="椽側で"];
+	node2 [label="この"];
+	node3 [label="対話を"];
+	node4 [label="聞いて"];
+	node5 [label="彼の"];
+	node6 [label="今日の"];
+	node7 [label="日記には"];
+	node8 [label="いかなる"];
+	node9 [label="事が"];
+	node10 [label="記さるるであろうかと"];
+	node11 [label="予め"];
+	node12 [label="想像せざるを得なかった。"];
+	node0 -> node12;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

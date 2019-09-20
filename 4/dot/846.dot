@@ -1,0 +1,11 @@
+digraph graph846 {
+	node0 [label="吾輩は"];
+	node1 [label="ぼたりと"];
+	node2 [label="畳の"];
+	node3 [label="上へ"];
+	node4 [label="落ちる。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

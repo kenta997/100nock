@@ -1,0 +1,13 @@
+digraph graph360 {
+	node0 [label="目付でも、"];
+	node1 [label="鼻付でも、"];
+	node2 [label="毛並でも、"];
+	node3 [label="足並でも、"];
+	node4 [label="みんな"];
+	node5 [label="違う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

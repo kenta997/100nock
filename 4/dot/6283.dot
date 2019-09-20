@@ -1,0 +1,13 @@
+digraph graph6283 {
+	node0 [label="主人は"];
+	node1 [label="久し振りで"];
+	node2 [label="迷亭を"];
+	node3 [label="凹ましたと"];
+	node4 [label="思って"];
+	node5 [label="大得意である。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

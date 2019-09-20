@@ -1,0 +1,23 @@
+digraph graph2281 {
+	node0 [label="この"];
+	node1 [label="時"];
+	node2 [label="鈴木君の"];
+	node3 [label="胸の"];
+	node4 [label="うちに"];
+	node5 [label="ちょっとの"];
+	node6 [label="間顔色にも"];
+	node7 [label="出ぬ"];
+	node8 [label="ほどの"];
+	node9 [label="風波が"];
+	node10 [label="起った。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

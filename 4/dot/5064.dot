@@ -1,0 +1,11 @@
+digraph graph5064 {
+	node0 [label="これが"];
+	node1 [label="ころがり込まなければ"];
+	node2 [label="攻撃の"];
+	node3 [label="目的は"];
+	node4 [label="達せられんのである。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

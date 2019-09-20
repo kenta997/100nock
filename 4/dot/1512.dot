@@ -1,0 +1,11 @@
+digraph graph1512 {
+	node0 [label="「まず"];
+	node1 [label="女が"];
+	node2 [label="同距離に"];
+	node3 [label="釣られると"];
+	node4 [label="仮定します。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

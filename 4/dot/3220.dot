@@ -1,0 +1,11 @@
+digraph graph3220 {
+	node0 [label="今まで"];
+	node1 [label="捕らんのは、"];
+	node2 [label="捕り"];
+	node3 [label="たくないからの"];
+	node4 [label="事さ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

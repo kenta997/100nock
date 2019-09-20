@@ -1,0 +1,9 @@
+digraph graph8466 {
+	node0 [label="あんな"];
+	node1 [label="奴に"];
+	node2 [label="つかまったら"];
+	node3 [label="因果だよ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

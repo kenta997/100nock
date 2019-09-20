@@ -1,0 +1,9 @@
+digraph graph8141 {
+	node0 [label="「まだ"];
+	node1 [label="売る"];
+	node2 [label="どこじゃ"];
+	node3 [label="ありません」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

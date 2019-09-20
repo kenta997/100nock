@@ -1,0 +1,19 @@
+digraph graph2621 {
+	node0 [label="苦労と"];
+	node1 [label="心配と"];
+	node2 [label="争論とが"];
+	node3 [label="なくて"];
+	node4 [label="事件が"];
+	node5 [label="進捗すれば"];
+	node6 [label="人生の目的は"];
+	node7 [label="極楽流に"];
+	node8 [label="達せられるのである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

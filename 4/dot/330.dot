@@ -1,0 +1,7 @@
+digraph graph330 {
+	node0 [label="水彩画も"];
+	node1 [label="滅多に"];
+	node2 [label="かかない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

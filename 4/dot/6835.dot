@@ -1,0 +1,15 @@
+digraph graph6835 {
+	node0 [label="「八木先生の"];
+	node1 [label="演説は"];
+	node2 [label="こんなのよ」と"];
+	node3 [label="雪江さんが"];
+	node4 [label="とうとう"];
+	node5 [label="口を"];
+	node6 [label="切った。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

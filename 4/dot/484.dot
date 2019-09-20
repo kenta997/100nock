@@ -1,0 +1,21 @@
+digraph graph484 {
+	node0 [label="白い"];
+	node1 [label="歯を"];
+	node2 [label="出して"];
+	node3 [label="笑いながら"];
+	node4 [label="「源ちゃん昨夕は——"];
+	node5 [label="つい"];
+	node6 [label="忙が"];
+	node7 [label="しかった"];
+	node8 [label="もんだから」と"];
+	node9 [label="云った。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node8;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

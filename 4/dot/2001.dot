@@ -1,0 +1,25 @@
+digraph graph2001 {
+	node0 [label="しかし"];
+	node1 [label="癲癇病みの"];
+	node2 [label="御かめのごとく"];
+	node3 [label="眉の"];
+	node4 [label="根に"];
+	node5 [label="八字を"];
+	node6 [label="刻んで、"];
+	node7 [label="細い"];
+	node8 [label="眼を"];
+	node9 [label="釣るし"];
+	node10 [label="上げらるるのは"];
+	node11 [label="事実であります。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

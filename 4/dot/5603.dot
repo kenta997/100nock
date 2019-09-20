@@ -1,0 +1,9 @@
+digraph graph5603 {
+	node0 [label="　今日は"];
+	node1 [label="あれから"];
+	node2 [label="ちょうど"];
+	node3 [label="七日目である。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

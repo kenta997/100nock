@@ -1,0 +1,15 @@
+digraph graph2541 {
+	node0 [label="しかし"];
+	node1 [label="著書と"];
+	node2 [label="云えば"];
+	node3 [label="君、"];
+	node4 [label="今日は"];
+	node5 [label="一大珍報を"];
+	node6 [label="齎らして来たんだよ」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

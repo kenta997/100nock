@@ -1,0 +1,29 @@
+digraph graph6945 {
+	node0 [label="あなた方が"];
+	node1 [label="馬鹿竹に"];
+	node2 [label="なれば"];
+	node3 [label="夫婦の"];
+	node4 [label="間、"];
+	node5 [label="嫁姑の"];
+	node6 [label="間に"];
+	node7 [label="起る"];
+	node8 [label="忌わしき"];
+	node9 [label="葛藤の"];
+	node10 [label="三分一は"];
+	node11 [label="たしかに"];
+	node12 [label="減ぜられるに"];
+	node13 [label="相違ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

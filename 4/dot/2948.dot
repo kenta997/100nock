@@ -1,0 +1,13 @@
+digraph graph2948 {
+	node0 [label="「愚な事を"];
+	node1 [label="言わんで、"];
+	node2 [label="早く"];
+	node3 [label="あとを"];
+	node4 [label="云うが"];
+	node5 [label="好い。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

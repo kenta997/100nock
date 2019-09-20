@@ -1,0 +1,13 @@
+digraph graph3468 {
+	node0 [label="潰れた"];
+	node1 [label="帽子は"];
+	node2 [label="麺棒で"];
+	node3 [label="延した"];
+	node4 [label="蕎麦のように"];
+	node5 [label="平たくなる。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,19 @@
+digraph graph2247 {
+	node0 [label="「どうだって"];
+	node1 [label="宜"];
+	node2 [label="いって、"];
+	node3 [label="自分の"];
+	node4 [label="頭じゃないか」と"];
+	node5 [label="主人は"];
+	node6 [label="少々"];
+	node7 [label="怒気を"];
+	node8 [label="帯びている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

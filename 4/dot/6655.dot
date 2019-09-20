@@ -1,0 +1,19 @@
+digraph graph6655 {
+	node0 [label="すん"];
+	node1 [label="子は"];
+	node2 [label="ワッと"];
+	node3 [label="云いながら"];
+	node4 [label="口中の"];
+	node5 [label="芋を"];
+	node6 [label="食卓の"];
+	node7 [label="上へ"];
+	node8 [label="吐き出した。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

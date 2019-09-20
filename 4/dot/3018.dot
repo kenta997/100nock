@@ -1,0 +1,5 @@
+digraph graph3018 {
+	node0 [label="なかなか"];
+	node1 [label="癒りません。"];
+	node0 -> node1;
+}

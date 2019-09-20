@@ -1,0 +1,13 @@
+digraph graph7071 {
+	node0 [label="「日本の"];
+	node1 [label="警察が"];
+	node2 [label="いけないって、"];
+	node3 [label="吉原を"];
+	node4 [label="散歩しちゃ"];
+	node5 [label="なおいけないわ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

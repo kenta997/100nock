@@ -1,0 +1,11 @@
+digraph graph5800 {
+	node0 [label="油"];
+	node1 [label="尽きて"];
+	node2 [label="灯"];
+	node3 [label="自ら"];
+	node4 [label="滅す。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

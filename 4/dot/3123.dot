@@ -1,0 +1,23 @@
+digraph graph3123 {
+	node0 [label="その"];
+	node1 [label="内を"];
+	node2 [label="毎月"];
+	node3 [label="五円宛会社の"];
+	node4 [label="方で"];
+	node5 [label="預って"];
+	node6 [label="積んでおいて、"];
+	node7 [label="いざと"];
+	node8 [label="云う"];
+	node9 [label="時に"];
+	node10 [label="やります。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

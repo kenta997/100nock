@@ -1,0 +1,27 @@
+digraph graph7182 {
+	node0 [label="こう"];
+	node1 [label="やって"];
+	node2 [label="一人ずつ"];
+	node3 [label="相対に"];
+	node4 [label="なると、"];
+	node5 [label="いかに"];
+	node6 [label="愚※なる"];
+	node7 [label="主人といえども"];
+	node8 [label="生徒に対して"];
+	node9 [label="幾分かの"];
+	node10 [label="重みが"];
+	node11 [label="あるように"];
+	node12 [label="思われる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

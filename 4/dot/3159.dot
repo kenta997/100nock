@@ -1,0 +1,13 @@
+digraph graph3159 {
+	node0 [label="博士論文を"];
+	node1 [label="かくなんて、"];
+	node2 [label="もう少し"];
+	node3 [label="話せる"];
+	node4 [label="人物かと"];
+	node5 [label="思ったら」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,37 @@
+digraph graph2856 {
+	node0 [label="旨"];
+	node1 [label="まそうに"];
+	node2 [label="深く"];
+	node3 [label="吸って"];
+	node4 [label="吐き出した"];
+	node5 [label="煙りが、"];
+	node6 [label="乳色の"];
+	node7 [label="ホヤを"];
+	node8 [label="繞って"];
+	node9 [label="まだ"];
+	node10 [label="消えぬ"];
+	node11 [label="間に、"];
+	node12 [label="陰士の"];
+	node13 [label="足音は"];
+	node14 [label="椽側を"];
+	node15 [label="次第に"];
+	node16 [label="遠のいて"];
+	node17 [label="聞えなくなった。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node17;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node17;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node16;
+	node15 -> node16;
+	node16 -> node17;
+}

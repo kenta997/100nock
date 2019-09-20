@@ -1,0 +1,25 @@
+digraph graph3629 {
+	node0 [label="「それがさ、"];
+	node1 [label="僕にも"];
+	node2 [label="識別しにくかったから、"];
+	node3 [label="しばらく"];
+	node4 [label="拝見していて、"];
+	node5 [label="その"];
+	node6 [label="薬缶が"];
+	node7 [label="こちらを"];
+	node8 [label="向く"];
+	node9 [label="段に"];
+	node10 [label="なって"];
+	node11 [label="驚ろいたね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

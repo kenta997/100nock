@@ -1,0 +1,27 @@
+digraph graph2117 {
+	node0 [label="「へえ"];
+	node1 [label="どうしてまた"];
+	node2 [label="そんな"];
+	node3 [label="乱暴な"];
+	node4 [label="事を"];
+	node5 [label="やったんで……」と"];
+	node6 [label="これには、"];
+	node7 [label="さすがの"];
+	node8 [label="御客さんも"];
+	node9 [label="少し"];
+	node10 [label="不審を"];
+	node11 [label="起したと"];
+	node12 [label="見える。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

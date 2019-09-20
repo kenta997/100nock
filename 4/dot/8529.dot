@@ -1,0 +1,25 @@
+digraph graph8529 {
+	node0 [label="「やはり"];
+	node1 [label="英国の"];
+	node2 [label="ある"];
+	node3 [label="兵営で"];
+	node4 [label="聯隊の"];
+	node5 [label="士官が"];
+	node6 [label="大勢して"];
+	node7 [label="一人の"];
+	node8 [label="下士官を"];
+	node9 [label="御馳走した"];
+	node10 [label="事が"];
+	node11 [label="ある。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

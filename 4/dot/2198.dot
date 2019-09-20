@@ -1,0 +1,9 @@
+digraph graph2198 {
+	node0 [label="談話も"];
+	node1 [label="これだけ"];
+	node2 [label="聞けば"];
+	node3 [label="大丈夫沢山である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

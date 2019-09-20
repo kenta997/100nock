@@ -1,0 +1,13 @@
+digraph graph4078 {
+	node0 [label="従って"];
+	node1 [label="松の"];
+	node2 [label="幹ほど"];
+	node3 [label="滑らない"];
+	node4 [label="ものは"];
+	node5 [label="ない。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

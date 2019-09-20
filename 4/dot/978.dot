@@ -1,0 +1,9 @@
+digraph graph978 {
+	node0 [label="彼等はまた"];
+	node1 [label="球を"];
+	node2 [label="高く"];
+	node3 [label="擲つ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

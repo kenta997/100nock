@@ -1,0 +1,13 @@
+digraph graph7401 {
+	node0 [label="ただ"];
+	node1 [label="名前だけでは"];
+	node2 [label="どう"];
+	node3 [label="する"];
+	node4 [label="事も"];
+	node5 [label="出来ない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

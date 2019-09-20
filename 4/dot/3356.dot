@@ -1,0 +1,23 @@
+digraph graph3356 {
+	node0 [label="主人は"];
+	node1 [label="手持無沙汰に"];
+	node2 [label="「何だ誰だ、"];
+	node3 [label="大きな"];
+	node4 [label="音を"];
+	node5 [label="させたのは」と"];
+	node6 [label="怒気を"];
+	node7 [label="帯びて"];
+	node8 [label="相手も"];
+	node9 [label="いないのに"];
+	node10 [label="聞いている。"];
+	node0 -> node10;
+	node1 -> node9;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

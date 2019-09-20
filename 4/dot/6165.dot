@@ -1,0 +1,11 @@
+digraph graph6165 {
+	node0 [label="気狂の"];
+	node1 [label="癖に"];
+	node2 [label="うまい名を"];
+	node3 [label="つけた"];
+	node4 [label="ものだね。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,13 @@
+digraph graph225 {
+	node0 [label="一と"];
+	node1 [label="月と"];
+	node2 [label="たたねえ"];
+	node3 [label="うちに"];
+	node4 [label="見違えるように"];
+	node5 [label="太れるぜ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

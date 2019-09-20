@@ -1,0 +1,5 @@
+digraph graph3731 {
+	node0 [label="ところが、"];
+	node1 [label="奥さん流行りましたね。"];
+	node0 -> node1;
+}

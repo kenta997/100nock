@@ -1,0 +1,7 @@
+digraph graph7404 {
+	node0 [label="笑われるなどとは"];
+	node1 [label="思も"];
+	node2 [label="寄らなかったろう。"];
+	node0 -> node2;
+	node1 -> node2;
+}

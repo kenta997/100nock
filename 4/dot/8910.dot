@@ -1,0 +1,27 @@
+digraph graph8910 {
+	node0 [label="避くべからざる"];
+	node1 [label="苦しみに"];
+	node2 [label="あらずや、"];
+	node3 [label="必然の"];
+	node4 [label="害に"];
+	node5 [label="あらずや、"];
+	node6 [label="自然の"];
+	node7 [label="誘惑に"];
+	node8 [label="あらずや、"];
+	node9 [label="蜜に"];
+	node10 [label="似たる"];
+	node11 [label="毒に"];
+	node12 [label="あらずや。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

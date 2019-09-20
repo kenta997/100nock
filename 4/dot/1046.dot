@@ -1,0 +1,11 @@
+digraph graph1046 {
+	node0 [label="何か"];
+	node1 [label="大著述でもして"];
+	node2 [label="家名を"];
+	node3 [label="揚げなくては"];
+	node4 [label="ならん。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

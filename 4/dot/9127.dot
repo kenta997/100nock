@@ -1,0 +1,11 @@
+digraph graph9127 {
+	node0 [label="猫だって"];
+	node1 [label="飲めば"];
+	node2 [label="陽気にならん"];
+	node3 [label="事も"];
+	node4 [label="あるまい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

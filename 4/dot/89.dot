@@ -1,0 +1,19 @@
+digraph graph89 {
+	node0 [label="朝主人が"];
+	node1 [label="新聞を"];
+	node2 [label="読む"];
+	node3 [label="ときは"];
+	node4 [label="必ず"];
+	node5 [label="彼の"];
+	node6 [label="膝の"];
+	node7 [label="上に"];
+	node8 [label="乗る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

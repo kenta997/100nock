@@ -1,0 +1,11 @@
+digraph graph5241 {
+	node0 [label="「何なら、"];
+	node1 [label="御都合の"];
+	node2 [label="とき"];
+	node3 [label="出直して"];
+	node4 [label="伺いましょう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

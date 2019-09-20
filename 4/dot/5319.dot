@@ -1,0 +1,13 @@
+digraph graph5319 {
+	node0 [label="「ははは"];
+	node1 [label="しかし"];
+	node2 [label="そんなに"];
+	node3 [label="留め度も"];
+	node4 [label="なく"];
+	node5 [label="笑わなくってもいいさ。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

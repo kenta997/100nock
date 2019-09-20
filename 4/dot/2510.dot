@@ -1,0 +1,19 @@
+digraph graph2510 {
+	node0 [label="「僕の"];
+	node1 [label="有望な"];
+	node2 [label="画才が"];
+	node3 [label="頓挫して"];
+	node4 [label="一向"];
+	node5 [label="振わなくなったのも"];
+	node6 [label="全く"];
+	node7 [label="あの"];
+	node8 [label="時からだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

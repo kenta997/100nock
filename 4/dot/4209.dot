@@ -1,0 +1,13 @@
+digraph graph4209 {
+	node0 [label="いくら、"];
+	node1 [label="むずむずしたって"];
+	node2 [label="我慢するより"];
+	node3 [label="ほかに"];
+	node4 [label="致し方は"];
+	node5 [label="あるまい。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

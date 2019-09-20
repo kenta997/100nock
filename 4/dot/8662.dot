@@ -1,0 +1,21 @@
+digraph graph8662 {
+	node0 [label="「お寺の"];
+	node1 [label="鐘つき番に"];
+	node2 [label="賄賂を"];
+	node3 [label="使って、"];
+	node4 [label="日没を"];
+	node5 [label="合図に"];
+	node6 [label="撞く"];
+	node7 [label="鐘を"];
+	node8 [label="一時間前に"];
+	node9 [label="鳴らした。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,13 @@
+digraph graph5009 {
+	node0 [label="悪いと"];
+	node1 [label="云うより"];
+	node2 [label="そんなに"];
+	node3 [label="智慧の"];
+	node4 [label="発達した"];
+	node5 [label="男ではない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

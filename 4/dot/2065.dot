@@ -1,0 +1,15 @@
+digraph graph2065 {
+	node0 [label="如是観によりて、"];
+	node1 [label="如是法を"];
+	node2 [label="信じている"];
+	node3 [label="吾輩は"];
+	node4 [label="それだから"];
+	node5 [label="どこへでも"];
+	node6 [label="這入って行く。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,15 @@
+digraph graph856 {
+	node0 [label="　"];
+	node1 [label="いつに"];
+	node2 [label="なく"];
+	node3 [label="出が"];
+	node4 [label="真面目だと"];
+	node5 [label="主人が"];
+	node6 [label="思う。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

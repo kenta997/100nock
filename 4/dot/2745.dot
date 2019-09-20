@@ -1,0 +1,9 @@
+digraph graph2745 {
+	node0 [label="ミチリミチリと"];
+	node1 [label="椽側を"];
+	node2 [label="伝って"];
+	node3 [label="近づいて来る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,7 @@
+digraph graph4978 {
+	node0 [label="「あれは"];
+	node1 [label="本校の"];
+	node2 [label="生徒です」"];
+	node0 -> node2;
+	node1 -> node2;
+}

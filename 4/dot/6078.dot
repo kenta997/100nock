@@ -1,0 +1,15 @@
+digraph graph6078 {
+	node0 [label="そうして"];
+	node1 [label="あれも"];
+	node2 [label="寄宿舎時代から"];
+	node3 [label="あの"];
+	node4 [label="通りの"];
+	node5 [label="恰好で"];
+	node6 [label="生えていたんだ。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

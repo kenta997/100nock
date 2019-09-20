@@ -1,0 +1,5 @@
+digraph graph7677 {
+	node0 [label="「春風影裏じゃない、"];
+	node1 [label="電光影裏だよ。"];
+	node0 -> node1;
+}

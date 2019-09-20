@@ -1,0 +1,11 @@
+digraph graph5304 {
+	node0 [label="世の中は"];
+	node1 [label="笑って"];
+	node2 [label="面白く"];
+	node3 [label="暮すのが"];
+	node4 [label="得だよ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,9 @@
+digraph graph2126 {
+	node0 [label="やはり"];
+	node1 [label="苦沙弥の"];
+	node2 [label="所で"];
+	node3 [label="御逢いになったんですか。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

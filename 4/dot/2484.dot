@@ -1,0 +1,7 @@
+digraph graph2484 {
+	node0 [label="「曾呂崎と"];
+	node1 [label="云えば"];
+	node2 [label="死んだそうだな。"];
+	node0 -> node1;
+	node1 -> node2;
+}

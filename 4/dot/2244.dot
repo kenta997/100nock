@@ -1,0 +1,17 @@
+digraph graph2244 {
+	node0 [label="「嫁に"];
+	node1 [label="くる"];
+	node2 [label="ときから"];
+	node3 [label="あるのか、"];
+	node4 [label="結婚後新たに"];
+	node5 [label="出来たのか」と"];
+	node6 [label="主人が"];
+	node7 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

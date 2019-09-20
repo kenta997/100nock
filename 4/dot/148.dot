@@ -1,0 +1,11 @@
+digraph graph148 {
+	node0 [label="実に"];
+	node1 [label="その通りだ」と"];
+	node2 [label="主人は"];
+	node3 [label="無暗に"];
+	node4 [label="感心している。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

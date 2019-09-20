@@ -1,0 +1,13 @@
+digraph graph4581 {
+	node0 [label="天麩羅を"];
+	node1 [label="食えば"];
+	node2 [label="必ず"];
+	node3 [label="下痢する"];
+	node4 [label="事に"];
+	node5 [label="なる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

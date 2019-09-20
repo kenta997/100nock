@@ -1,0 +1,21 @@
+digraph graph5664 {
+	node0 [label="「なるほどきたない"];
+	node1 [label="顔だ」と"];
+	node2 [label="云った"];
+	node3 [label="あとで、"];
+	node4 [label="何を"];
+	node5 [label="考え出したか、"];
+	node6 [label="ぷうっと"];
+	node7 [label="頬っ"];
+	node8 [label="ぺたを"];
+	node9 [label="膨らました。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,9 @@
+digraph graph7295 {
+	node0 [label="では"];
+	node1 [label="誰も"];
+	node2 [label="送らんの"];
+	node3 [label="かい」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

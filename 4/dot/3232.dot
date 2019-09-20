@@ -1,0 +1,5 @@
+digraph graph3232 {
+	node0 [label="　これから"];
+	node1 [label="作戦計画だ。"];
+	node0 -> node1;
+}

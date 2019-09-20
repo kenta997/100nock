@@ -1,0 +1,17 @@
+digraph graph2842 {
+	node0 [label="　"];
+	node1 [label="やがて"];
+	node2 [label="陰士は"];
+	node3 [label="山の芋の"];
+	node4 [label="箱を"];
+	node5 [label="恭しく"];
+	node6 [label="古毛布に"];
+	node7 [label="くるみ初めた。"];
+	node0 -> node7;
+	node1 -> node7;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

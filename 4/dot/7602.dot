@@ -1,0 +1,7 @@
+digraph graph7602 {
+	node0 [label="宛然たる"];
+	node1 [label="列仙伝中の"];
+	node2 [label="人物だね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

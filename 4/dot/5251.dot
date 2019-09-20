@@ -1,0 +1,9 @@
+digraph graph5251 {
+	node0 [label="あの"];
+	node1 [label="事件以来"];
+	node2 [label="胸糞が"];
+	node3 [label="わるくってね」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

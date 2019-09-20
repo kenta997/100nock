@@ -1,0 +1,15 @@
+digraph graph5937 {
+	node0 [label="これは"];
+	node1 [label="あながち"];
+	node2 [label="主人が"];
+	node3 [label="知っ"];
+	node4 [label="高振りを"];
+	node5 [label="した"];
+	node6 [label="訳ではない。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

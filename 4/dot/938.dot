@@ -1,0 +1,13 @@
+digraph graph938 {
+	node0 [label="　下女は"];
+	node1 [label="国事の"];
+	node2 [label="秘密でも"];
+	node3 [label="語る"];
+	node4 [label="時のように"];
+	node5 [label="大得意である。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

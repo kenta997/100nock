@@ -1,0 +1,17 @@
+digraph graph4242 {
+	node0 [label="板の"];
+	node1 [label="高さは"];
+	node2 [label="地面を"];
+	node3 [label="去る"];
+	node4 [label="約一メートルだから"];
+	node5 [label="飛び上がるには"];
+	node6 [label="御誂えの"];
+	node7 [label="上等である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

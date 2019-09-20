@@ -1,0 +1,11 @@
+digraph graph9183 {
+	node0 [label="気は"];
+	node1 [label="焦るが、"];
+	node2 [label="足は"];
+	node3 [label="さほど"];
+	node4 [label="利かなくなる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

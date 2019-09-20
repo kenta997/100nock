@@ -1,0 +1,15 @@
+digraph graph353 {
+	node0 [label="出来る事なら"];
+	node1 [label="その"];
+	node2 [label="絵が"];
+	node3 [label="吾輩であると"];
+	node4 [label="云う"];
+	node5 [label="事を"];
+	node6 [label="知らしてやりたい。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

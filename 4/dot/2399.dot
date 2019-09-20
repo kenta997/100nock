@@ -1,0 +1,13 @@
+digraph graph2399 {
+	node0 [label="——"];
+	node1 [label="もし当人同志が"];
+	node2 [label="好いているなら——"];
+	node3 [label="しかし"];
+	node4 [label="それが"];
+	node5 [label="問題である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

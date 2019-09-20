@@ -1,0 +1,37 @@
+digraph graph6410 {
+	node0 [label="かるが"];
+	node1 [label="故に"];
+	node2 [label="奇麗な"];
+	node3 [label="所は"];
+	node4 [label="毎日"];
+	node5 [label="奇麗だが、"];
+	node6 [label="ごみの"];
+	node7 [label="ある"];
+	node8 [label="所、"];
+	node9 [label="ほこりの"];
+	node10 [label="積って"];
+	node11 [label="いる"];
+	node12 [label="所は"];
+	node13 [label="いつでも"];
+	node14 [label="ごみが"];
+	node15 [label="溜って"];
+	node16 [label="ほこりが"];
+	node17 [label="積っている。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node17;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node17;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node17;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

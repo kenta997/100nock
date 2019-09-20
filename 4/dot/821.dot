@@ -1,0 +1,25 @@
+digraph graph821 {
+	node0 [label="花魁が"];
+	node1 [label="法学士の"];
+	node2 [label="Ｋ君でしたが、"];
+	node3 [label="口髯を"];
+	node4 [label="生やして、"];
+	node5 [label="女の"];
+	node6 [label="甘ったるい"];
+	node7 [label="せりふを"];
+	node8 [label="使"];
+	node9 [label="かうのですから"];
+	node10 [label="ちょっと"];
+	node11 [label="妙でした。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

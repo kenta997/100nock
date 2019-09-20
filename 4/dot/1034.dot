@@ -1,0 +1,37 @@
+digraph graph1034 {
+	node0 [label="実は"];
+	node1 [label="行徳の"];
+	node2 [label="俎と"];
+	node3 [label="云う"];
+	node4 [label="語を"];
+	node5 [label="主人は"];
+	node6 [label="解さないのであるが、"];
+	node7 [label="さすが"];
+	node8 [label="永年教師を"];
+	node9 [label="して"];
+	node10 [label="胡魔化しつけている"];
+	node11 [label="ものだから、"];
+	node12 [label="こんな"];
+	node13 [label="時には"];
+	node14 [label="教場の"];
+	node15 [label="経験を"];
+	node16 [label="社交上にも"];
+	node17 [label="応用するのである。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node17;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node17;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

@@ -1,0 +1,13 @@
+digraph graph2497 {
+	node0 [label="「あの"];
+	node1 [label="時の"];
+	node2 [label="坊主の"];
+	node3 [label="怒り方は"];
+	node4 [label="実に"];
+	node5 [label="烈しかった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

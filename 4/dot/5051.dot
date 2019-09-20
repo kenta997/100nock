@@ -1,0 +1,11 @@
+digraph graph5051 {
+	node0 [label="ダムダム弾は"];
+	node1 [label="何で"];
+	node2 [label="製造したか"];
+	node3 [label="局外者には"];
+	node4 [label="分らない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

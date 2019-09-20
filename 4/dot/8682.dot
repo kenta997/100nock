@@ -1,0 +1,5 @@
+digraph graph8682 {
+	node0 [label="「まあさ、"];
+	node1 [label="小説だよ。"];
+	node0 -> node1;
+}

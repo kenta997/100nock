@@ -1,0 +1,27 @@
+digraph graph4052 {
+	node0 [label="声は"];
+	node1 [label="すれども"];
+	node2 [label="姿は"];
+	node3 [label="見えずと"];
+	node4 [label="云う"];
+	node5 [label="俗謡は"];
+	node6 [label="とくに"];
+	node7 [label="吾輩の"];
+	node8 [label="ために"];
+	node9 [label="作った"];
+	node10 [label="者ではなかろうかと"];
+	node11 [label="怪しまれる"];
+	node12 [label="くらいである。"];
+	node0 -> node12;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

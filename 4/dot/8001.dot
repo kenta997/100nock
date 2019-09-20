@@ -1,0 +1,31 @@
+digraph graph8001 {
+	node0 [label="私は"];
+	node1 [label="性来騒々しい"];
+	node2 [label="所が"];
+	node3 [label="嫌ですから、"];
+	node4 [label="わざと"];
+	node5 [label="便利な"];
+	node6 [label="市内を"];
+	node7 [label="避けて、"];
+	node8 [label="人迹稀な"];
+	node9 [label="寒村の"];
+	node10 [label="百姓家に"];
+	node11 [label="しばらく"];
+	node12 [label="蝸牛の"];
+	node13 [label="庵を"];
+	node14 [label="結んでいたのです……」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node14;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

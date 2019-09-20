@@ -1,0 +1,9 @@
+digraph graph2926 {
+	node0 [label="煮て"];
+	node1 [label="食うつもりか、"];
+	node2 [label="とろろ汁にする"];
+	node3 [label="つもりか」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

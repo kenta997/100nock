@@ -1,0 +1,31 @@
+digraph graph7414 {
+	node0 [label="　"];
+	node1 [label="かように"];
+	node2 [label="考えて"];
+	node3 [label="面白いなと"];
+	node4 [label="思っていると、"];
+	node5 [label="格子が"];
+	node6 [label="がらがらと"];
+	node7 [label="あいて、"];
+	node8 [label="玄関の"];
+	node9 [label="障子の"];
+	node10 [label="蔭から"];
+	node11 [label="顔が"];
+	node12 [label="半分"];
+	node13 [label="ぬうと"];
+	node14 [label="出た。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

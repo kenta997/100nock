@@ -1,0 +1,9 @@
+digraph graph2928 {
+	node0 [label="泥棒の"];
+	node1 [label="ところへ"];
+	node2 [label="行って"];
+	node3 [label="聞いていらっしゃい」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

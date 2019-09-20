@@ -1,0 +1,11 @@
+digraph graph7614 {
+	node0 [label="しからば"];
+	node1 [label="謙遜して、"];
+	node2 [label="定石に"];
+	node3 [label="ここいらから"];
+	node4 [label="行こう」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,19 @@
+digraph graph1831 {
+	node0 [label="奥様の"];
+	node1 [label="鼻が"];
+	node2 [label="大き過ぎるの、"];
+	node3 [label="顔が"];
+	node4 [label="気に"];
+	node5 [label="喰わないのって——そりゃあ"];
+	node6 [label="酷い"];
+	node7 [label="事を"];
+	node8 [label="云うんだよ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

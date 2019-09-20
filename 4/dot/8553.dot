@@ -1,0 +1,33 @@
+digraph graph8553 {
+	node0 [label="「ひやひや」と"];
+	node1 [label="迷亭君が"];
+	node2 [label="手を"];
+	node3 [label="たたくと、"];
+	node4 [label="苦沙弥君は"];
+	node5 [label="にやにや"];
+	node6 [label="笑いながら"];
+	node7 [label="「これで"];
+	node8 [label="なかなか"];
+	node9 [label="そう"];
+	node10 [label="甘くは"];
+	node11 [label="行かないのだよ」と"];
+	node12 [label="答えたら、"];
+	node13 [label="みんな"];
+	node14 [label="一度に"];
+	node15 [label="笑い出した。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node15;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

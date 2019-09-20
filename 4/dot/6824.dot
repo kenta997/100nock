@@ -1,0 +1,19 @@
+digraph graph6824 {
+	node0 [label="しかし"];
+	node1 [label="中途で"];
+	node2 [label="口を"];
+	node3 [label="出された"];
+	node4 [label="ものだから、"];
+	node5 [label="続きを"];
+	node6 [label="忘れてしまって、"];
+	node7 [label="あとが"];
+	node8 [label="出て来ない。"];
+	node0 -> node8;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,19 @@
+digraph graph1377 {
+	node0 [label="空たり間たり"];
+	node1 [label="天然居士噫」と"];
+	node2 [label="意味不明な"];
+	node3 [label="語を"];
+	node4 [label="連ねている"];
+	node5 [label="ところへ"];
+	node6 [label="例のごとく"];
+	node7 [label="迷亭が"];
+	node8 [label="這入って来る。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

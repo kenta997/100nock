@@ -1,0 +1,7 @@
+digraph graph8895 {
+	node0 [label="「先生樽の"];
+	node1 [label="中で"];
+	node2 [label="考えたね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

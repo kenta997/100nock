@@ -1,0 +1,27 @@
+digraph graph946 {
+	node0 [label="ちょっと"];
+	node1 [label="厄介な"];
+	node2 [label="癖であるが、"];
+	node3 [label="なぜ"];
+	node4 [label="こんな"];
+	node5 [label="事を"];
+	node6 [label="根気"];
+	node7 [label="よく"];
+	node8 [label="続けているのか"];
+	node9 [label="吾等猫などには"];
+	node10 [label="到底"];
+	node11 [label="想像も"];
+	node12 [label="つかん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node12;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

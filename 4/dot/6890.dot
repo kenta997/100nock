@@ -1,0 +1,29 @@
+digraph graph6890 {
+	node0 [label="法螺吹きも"];
+	node1 [label="しようが"];
+	node2 [label="ないから、"];
+	node3 [label="とても"];
+	node4 [label="私の"];
+	node5 [label="手際では、"];
+	node6 [label="あの"];
+	node7 [label="地蔵は"];
+	node8 [label="どう"];
+	node9 [label="する"];
+	node10 [label="事も"];
+	node11 [label="出来ませんと"];
+	node12 [label="降参を"];
+	node13 [label="したそうです」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

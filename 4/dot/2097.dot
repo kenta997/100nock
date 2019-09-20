@@ -1,0 +1,19 @@
+digraph graph2097 {
+	node0 [label="ただし"];
+	node1 [label="普通なだけに、"];
+	node2 [label="これぞと"];
+	node3 [label="取り立てて"];
+	node4 [label="紹介するに"];
+	node5 [label="足るような"];
+	node6 [label="雑作は"];
+	node7 [label="一つも"];
+	node8 [label="ない。"];
+	node0 -> node8;
+	node1 -> node8;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

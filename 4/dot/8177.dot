@@ -1,0 +1,5 @@
+digraph graph8177 {
+	node0 [label="今大変な"];
+	node1 [label="ところだよ。"];
+	node0 -> node1;
+}

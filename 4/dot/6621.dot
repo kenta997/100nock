@@ -1,0 +1,17 @@
+digraph graph6621 {
+	node0 [label="茶碗の中は"];
+	node1 [label="飯が"];
+	node2 [label="八分通り"];
+	node3 [label="盛り込まれて、"];
+	node4 [label="その上に"];
+	node5 [label="味噌汁が"];
+	node6 [label="一面に"];
+	node7 [label="漲っている。"];
+	node0 -> node7;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

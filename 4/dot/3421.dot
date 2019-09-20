@@ -1,0 +1,33 @@
+digraph graph3421 {
+	node0 [label="　迷亭は"];
+	node1 [label="そんな"];
+	node2 [label="事には"];
+	node3 [label="頓着なく"];
+	node4 [label="「奥さん、"];
+	node5 [label="昨日"];
+	node6 [label="はね、"];
+	node7 [label="屋根の"];
+	node8 [label="上で"];
+	node9 [label="玉子の"];
+	node10 [label="フライを"];
+	node11 [label="して"];
+	node12 [label="見ましたよ」と"];
+	node13 [label="妙な"];
+	node14 [label="事を"];
+	node15 [label="云う。"];
+	node0 -> node15;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

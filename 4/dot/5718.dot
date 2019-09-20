@@ -1,0 +1,21 @@
+digraph graph5718 {
+	node0 [label="自分で"];
+	node1 [label="自分の"];
+	node2 [label="馬鹿を"];
+	node3 [label="承知している"];
+	node4 [label="ほど"];
+	node5 [label="尊"];
+	node6 [label="とく"];
+	node7 [label="見える"];
+	node8 [label="事は"];
+	node9 [label="ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,21 @@
+digraph graph1489 {
+	node0 [label="波斯人は……」"];
+	node1 [label="「寒月君"];
+	node2 [label="首縊りと"];
+	node3 [label="縁が"];
+	node4 [label="だんだん"];
+	node5 [label="遠くなるようだが"];
+	node6 [label="大丈夫かい」と"];
+	node7 [label="迷亭が"];
+	node8 [label="口を"];
+	node9 [label="入れる。"];
+	node0 -> node9;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,9 @@
+digraph graph1992 {
+	node0 [label="「さようしから"];
+	node1 [label="ば顔を"];
+	node2 [label="洗って"];
+	node3 [label="出直しましょうかな。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

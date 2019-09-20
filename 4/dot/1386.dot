@@ -1,0 +1,23 @@
+digraph graph1386 {
+	node0 [label="しかし"];
+	node1 [label="その"];
+	node2 [label="曾呂崎を"];
+	node3 [label="天然居士に"];
+	node4 [label="変化させたのは"];
+	node5 [label="一体"];
+	node6 [label="誰の"];
+	node7 [label="所作だい」"];
+	node8 [label="「僕さ、"];
+	node9 [label="僕が"];
+	node10 [label="つけてやったんだ。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,15 @@
+digraph graph9003 {
+	node0 [label="私の"];
+	node1 [label="御馳走するのは"];
+	node2 [label="そんな"];
+	node3 [label="安いのじゃないですが、"];
+	node4 [label="君"];
+	node5 [label="一つ譜を"];
+	node6 [label="作ってくれませんか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,13 @@
+digraph graph5529 {
+	node0 [label="山を"];
+	node1 [label="越さなくとも"];
+	node2 [label="満足だと"];
+	node3 [label="云う"];
+	node4 [label="心持ちを"];
+	node5 [label="養成するのだ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

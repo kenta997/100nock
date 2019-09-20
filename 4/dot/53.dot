@@ -1,0 +1,13 @@
+digraph graph53 {
+	node0 [label="しかし"];
+	node1 [label="ひもじいのと"];
+	node2 [label="寒いのには"];
+	node3 [label="どうしても"];
+	node4 [label="我慢が"];
+	node5 [label="出来ん。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

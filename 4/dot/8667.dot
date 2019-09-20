@@ -1,0 +1,11 @@
+digraph graph8667 {
+	node0 [label="恥ずかしいが"];
+	node1 [label="どう"];
+	node2 [label="する"];
+	node3 [label="事も"];
+	node4 [label="出来ない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

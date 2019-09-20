@@ -1,0 +1,25 @@
+digraph graph7345 {
+	node0 [label="彼は"];
+	node1 [label="万物の"];
+	node2 [label="霊を"];
+	node3 [label="背中へ"];
+	node4 [label="担いで、"];
+	node5 [label="おれの"];
+	node6 [label="鼻は"];
+	node7 [label="どこに"];
+	node8 [label="あるか"];
+	node9 [label="教えてくれ、"];
+	node10 [label="教えてくれと"];
+	node11 [label="騒ぎ立てている。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,7 @@
+digraph graph6676 {
+	node0 [label="無能な"];
+	node1 [label="ところが"];
+	node2 [label="上等なのである。"];
+	node0 -> node1;
+	node1 -> node2;
+}

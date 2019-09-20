@@ -1,0 +1,21 @@
+digraph graph5947 {
+	node0 [label="「みんなが"];
+	node1 [label="これを"];
+	node2 [label="鉄扇鉄扇と"];
+	node3 [label="云うが、"];
+	node4 [label="これは"];
+	node5 [label="甲割と"];
+	node6 [label="称えて"];
+	node7 [label="鉄扇とは"];
+	node8 [label="まるで"];
+	node9 [label="別物で……」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

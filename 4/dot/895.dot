@@ -1,0 +1,7 @@
+digraph graph895 {
+	node0 [label="　また"];
+	node1 [label="大兄のごとくか、"];
+	node2 [label="失敬な。"];
+	node0 -> node1;
+	node1 -> node2;
+}

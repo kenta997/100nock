@@ -1,0 +1,15 @@
+digraph graph4461 {
+	node0 [label="仕方がないものだから"];
+	node1 [label="たちまち"];
+	node2 [label="機鋒を"];
+	node3 [label="転じて、"];
+	node4 [label="小供の"];
+	node5 [label="親に"];
+	node6 [label="向った。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

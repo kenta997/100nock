@@ -1,0 +1,9 @@
+digraph graph732 {
+	node0 [label="ほんとに"];
+	node1 [label="憎らしい"];
+	node2 [label="猫だっちゃありゃ"];
+	node3 [label="あしない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

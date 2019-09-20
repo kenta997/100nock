@@ -1,0 +1,15 @@
+digraph graph2012 {
+	node0 [label="αは"];
+	node1 [label="鼻と"];
+	node2 [label="顔の"];
+	node3 [label="平面の"];
+	node4 [label="交叉より"];
+	node5 [label="生ずる"];
+	node6 [label="角度であります。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

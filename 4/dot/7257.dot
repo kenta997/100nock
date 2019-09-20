@@ -1,0 +1,11 @@
+digraph graph7257 {
+	node0 [label="わたしも"];
+	node1 [label="他言は"];
+	node2 [label="しないから」と"];
+	node3 [label="穏やかに"];
+	node4 [label="つけ加えた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

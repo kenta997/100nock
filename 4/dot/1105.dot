@@ -1,0 +1,31 @@
+digraph graph1105 {
+	node0 [label="これも"];
+	node1 [label="ちょうど"];
+	node2 [label="明ければ"];
+	node3 [label="昨年の"];
+	node4 [label="暮の"];
+	node5 [label="事で"];
+	node6 [label="しかも"];
+	node7 [label="先生と"];
+	node8 [label="同日"];
+	node9 [label="同刻くらいに"];
+	node10 [label="起った"];
+	node11 [label="出来事ですから"];
+	node12 [label="なおさら"];
+	node13 [label="不思議に"];
+	node14 [label="思われます」"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

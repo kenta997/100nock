@@ -1,0 +1,5 @@
+digraph graph8740 {
+	node0 [label="あっても"];
+	node1 [label="認められなかった。"];
+	node0 -> node1;
+}

@@ -1,0 +1,9 @@
+digraph graph6155 {
+	node0 [label="独仙の"];
+	node1 [label="勢力も"];
+	node2 [label="なかなか"];
+	node3 [label="えらいよ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

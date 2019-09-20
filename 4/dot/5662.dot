@@ -1,0 +1,9 @@
+digraph graph5662 {
+	node0 [label="苦労人でないと"];
+	node1 [label="とうてい"];
+	node2 [label="解脱は"];
+	node3 [label="出来ない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

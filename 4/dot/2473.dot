@@ -1,0 +1,7 @@
+digraph graph2473 {
+	node0 [label="「そりゃ"];
+	node1 [label="馬鹿に"];
+	node2 [label="出来ないな。"];
+	node0 -> node2;
+	node1 -> node2;
+}

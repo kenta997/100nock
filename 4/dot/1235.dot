@@ -1,0 +1,13 @@
+digraph graph1235 {
+	node0 [label="早く"];
+	node1 [label="飲んで"];
+	node2 [label="早く"];
+	node3 [label="出掛けなくては"];
+	node4 [label="義理が"];
+	node5 [label="悪い。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

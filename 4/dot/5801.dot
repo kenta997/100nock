@@ -1,0 +1,9 @@
+digraph graph5801 {
+	node0 [label="業"];
+	node1 [label="尽きて"];
+	node2 [label="何物をか"];
+	node3 [label="遺す。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

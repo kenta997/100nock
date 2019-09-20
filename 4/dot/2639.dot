@@ -1,0 +1,5 @@
+digraph graph2639 {
+	node0 [label="愛嬌が"];
+	node1 [label="あっていい。"];
+	node0 -> node1;
+}

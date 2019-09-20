@@ -1,0 +1,33 @@
+digraph graph3949 {
+	node0 [label="この"];
+	node1 [label="二つの"];
+	node2 [label="源因から"];
+	node3 [label="して"];
+	node4 [label="吾輩の"];
+	node5 [label="選んだ"];
+	node6 [label="運動は"];
+	node7 [label="一文"];
+	node8 [label="いらず"];
+	node9 [label="器械なしと"];
+	node10 [label="名"];
+	node11 [label="づくべき"];
+	node12 [label="種類に"];
+	node13 [label="属する"];
+	node14 [label="者と"];
+	node15 [label="思う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

@@ -1,0 +1,13 @@
+digraph graph2825 {
+	node0 [label="寒月だと"];
+	node1 [label="云ったのは"];
+	node2 [label="全く"];
+	node3 [label="我知らずの"];
+	node4 [label="寝言と"];
+	node5 [label="見える。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

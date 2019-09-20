@@ -1,0 +1,7 @@
+digraph graph2569 {
+	node0 [label="「鼻恋でも"];
+	node1 [label="寒月が"];
+	node2 [label="貰えばいいが」"];
+	node0 -> node2;
+	node1 -> node2;
+}

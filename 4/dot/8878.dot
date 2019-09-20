@@ -1,0 +1,5 @@
+digraph graph8878 {
+	node0 [label="「みんな"];
+	node1 [label="聞いてるよ。"];
+	node0 -> node1;
+}

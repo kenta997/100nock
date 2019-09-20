@@ -1,0 +1,7 @@
+digraph graph4107 {
+	node0 [label="実に"];
+	node1 [label="見易き"];
+	node2 [label="道理である。"];
+	node0 -> node1;
+	node1 -> node2;
+}

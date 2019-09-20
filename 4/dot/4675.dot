@@ -1,0 +1,21 @@
+digraph graph4675 {
+	node0 [label="しかし"];
+	node1 [label="この"];
+	node2 [label="下宿が"];
+	node3 [label="群鶴館なら"];
+	node4 [label="先生の"];
+	node5 [label="居は"];
+	node6 [label="たしかに"];
+	node7 [label="臥竜窟くらいな"];
+	node8 [label="価値は"];
+	node9 [label="ある。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

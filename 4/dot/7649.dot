@@ -1,0 +1,7 @@
+digraph graph7649 {
+	node0 [label="そこを"];
+	node1 [label="切られちゃ"];
+	node2 [label="死んでしまう。"];
+	node0 -> node1;
+	node1 -> node2;
+}

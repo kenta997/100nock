@@ -1,0 +1,13 @@
+digraph graph3835 {
+	node0 [label="寒月は"];
+	node1 [label="「なあある"];
+	node2 [label="ほど」と"];
+	node3 [label="云って"];
+	node4 [label="東風君に"];
+	node5 [label="返す。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,27 @@
+digraph graph6320 {
+	node0 [label="のみならず"];
+	node1 [label="彼の"];
+	node2 [label="唱道する"];
+	node3 [label="ところの"];
+	node4 [label="説は"];
+	node5 [label="何だか"];
+	node6 [label="非常識で、"];
+	node7 [label="迷亭の"];
+	node8 [label="云う"];
+	node9 [label="通り"];
+	node10 [label="多少瘋癲的系統に"];
+	node11 [label="属しても"];
+	node12 [label="おりそうだ。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

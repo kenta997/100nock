@@ -1,0 +1,19 @@
+digraph graph4912 {
+	node0 [label="分りにくいと"];
+	node1 [label="主人の"];
+	node2 [label="逆上は"];
+	node3 [label="空名に"];
+	node4 [label="帰して、"];
+	node5 [label="世間からは"];
+	node6 [label="よもや"];
+	node7 [label="それほどでもなかろうと"];
+	node8 [label="見くびられるかも知れない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

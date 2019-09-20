@@ -1,0 +1,7 @@
+digraph graph6077 {
+	node0 [label="あの"];
+	node1 [label="髯が"];
+	node2 [label="君全く山羊だからね。"];
+	node0 -> node1;
+	node1 -> node2;
+}

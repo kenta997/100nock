@@ -1,0 +1,19 @@
+digraph graph5024 {
+	node0 [label="連想は"];
+	node1 [label="当人の"];
+	node2 [label="随意だが"];
+	node3 [label="それ以外の"];
+	node4 [label="戦争は"];
+	node5 [label="ない"];
+	node6 [label="ものと"];
+	node7 [label="心得るのは"];
+	node8 [label="不都合だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

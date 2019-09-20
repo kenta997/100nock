@@ -1,0 +1,19 @@
+digraph graph7402 {
+	node0 [label="名前が"];
+	node1 [label="いざと"];
+	node2 [label="云う"];
+	node3 [label="場合に"];
+	node4 [label="役に立つなら"];
+	node5 [label="雪江さんは"];
+	node6 [label="名前だけで"];
+	node7 [label="見合が"];
+	node8 [label="出来る訳だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

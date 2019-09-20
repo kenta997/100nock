@@ -1,0 +1,27 @@
+digraph graph488 {
+	node0 [label="この"];
+	node1 [label="主人の"];
+	node2 [label="今の"];
+	node3 [label="心は"];
+	node4 [label="怒っているのだか、"];
+	node5 [label="浮かれているのだか、または"];
+	node6 [label="哲人の"];
+	node7 [label="遺書に"];
+	node8 [label="一道の"];
+	node9 [label="慰安を"];
+	node10 [label="求めつつあるのか、"];
+	node11 [label="ちっとも"];
+	node12 [label="分らない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

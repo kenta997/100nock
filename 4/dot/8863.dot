@@ -1,0 +1,13 @@
+digraph graph8863 {
+	node0 [label="すると"];
+	node1 [label="主人が"];
+	node2 [label="突然"];
+	node3 [label="こんな"];
+	node4 [label="事を"];
+	node5 [label="云い出した。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

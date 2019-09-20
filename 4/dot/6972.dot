@@ -1,0 +1,7 @@
+digraph graph6972 {
+	node0 [label="無暗に"];
+	node1 [label="威張るんです"];
+	node2 [label="もの。"];
+	node0 -> node1;
+	node1 -> node2;
+}

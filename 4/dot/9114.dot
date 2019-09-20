@@ -1,0 +1,19 @@
+digraph graph9114 {
+	node0 [label="死ぬのが"];
+	node1 [label="万物の"];
+	node2 [label="定業で、"];
+	node3 [label="生きていても"];
+	node4 [label="あんまり"];
+	node5 [label="役に立たないなら、"];
+	node6 [label="早く"];
+	node7 [label="死ぬだけが"];
+	node8 [label="賢こいかも知れない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

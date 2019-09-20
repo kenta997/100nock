@@ -1,0 +1,11 @@
+digraph graph8228 {
+	node0 [label="主人も"];
+	node1 [label="本を"];
+	node2 [label="よみながら、"];
+	node3 [label="くすくすと"];
+	node4 [label="笑った。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

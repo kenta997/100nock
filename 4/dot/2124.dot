@@ -1,0 +1,13 @@
+digraph graph2124 {
+	node0 [label="私しゃ"];
+	node1 [label="あんな"];
+	node2 [label="変梃な"];
+	node3 [label="人にゃ"];
+	node4 [label="初めて"];
+	node5 [label="逢いましたよ」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

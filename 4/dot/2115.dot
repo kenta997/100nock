@@ -1,0 +1,13 @@
+digraph graph2115 {
+	node0 [label="学校へ"];
+	node1 [label="出ても"];
+	node2 [label="福地さんや、"];
+	node3 [label="津木さんには"];
+	node4 [label="口も"];
+	node5 [label="利かないんだそうです。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

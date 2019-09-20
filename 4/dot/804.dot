@@ -1,0 +1,11 @@
+digraph graph804 {
+	node0 [label="近松と"];
+	node1 [label="いえば"];
+	node2 [label="戯曲家の"];
+	node3 [label="近松に"];
+	node4 [label="極っている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

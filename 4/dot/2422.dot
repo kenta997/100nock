@@ -1,0 +1,33 @@
+digraph graph2422 {
+	node0 [label="鈴木君は"];
+	node1 [label="こいつ、"];
+	node2 [label="この"];
+	node3 [label="様子では、"];
+	node4 [label="ことに"];
+	node5 [label="よると"];
+	node6 [label="やり損なうなと"];
+	node7 [label="疳"];
+	node8 [label="づいたと"];
+	node9 [label="見えて、"];
+	node10 [label="主人にも"];
+	node11 [label="判断の"];
+	node12 [label="出来そうな"];
+	node13 [label="方面へと"];
+	node14 [label="話頭を"];
+	node15 [label="移す。"];
+	node0 -> node15;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

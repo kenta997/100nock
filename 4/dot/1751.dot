@@ -1,0 +1,11 @@
+digraph graph1751 {
+	node0 [label="まあ"];
+	node1 [label="ステッキの"];
+	node2 [label="代りくらいに"];
+	node3 [label="考えてるかも"];
+	node4 [label="知れんよ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

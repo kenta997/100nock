@@ -1,0 +1,11 @@
+digraph graph6449 {
+	node0 [label="御三は"];
+	node1 [label="そんな"];
+	node2 [label="事に"];
+	node3 [label="頓着する"];
+	node4 [label="女ではない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

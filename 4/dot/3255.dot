@@ -1,0 +1,23 @@
+digraph graph3255 {
+	node0 [label="もし"];
+	node1 [label="ここから"];
+	node2 [label="吶喊して"];
+	node3 [label="出たら、"];
+	node4 [label="柱を"];
+	node5 [label="楯に"];
+	node6 [label="やり過ごしておいて、"];
+	node7 [label="横合から"];
+	node8 [label="あっと"];
+	node9 [label="爪を"];
+	node10 [label="かける。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,37 @@
+digraph graph5622 {
+	node0 [label="　"];
+	node1 [label="まだ"];
+	node2 [label="考えているのか"];
+	node3 [label="下手の"];
+	node4 [label="考と"];
+	node5 [label="云う"];
+	node6 [label="喩も"];
+	node7 [label="あるのにと"];
+	node8 [label="後ろから"];
+	node9 [label="覗き込んで"];
+	node10 [label="見ると、"];
+	node11 [label="机の"];
+	node12 [label="上で"];
+	node13 [label="いやに"];
+	node14 [label="ぴかぴかと"];
+	node15 [label="光った"];
+	node16 [label="ものが"];
+	node17 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node17;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

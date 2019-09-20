@@ -1,0 +1,17 @@
+digraph graph8572 {
+	node0 [label="「そうさ、"];
+	node1 [label="禅語に"];
+	node2 [label="鉄牛面の"];
+	node3 [label="鉄牛心、"];
+	node4 [label="牛鉄面の"];
+	node5 [label="牛鉄心と"];
+	node6 [label="云うのが"];
+	node7 [label="ある」"];
+	node0 -> node7;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

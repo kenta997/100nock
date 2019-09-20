@@ -1,0 +1,7 @@
+digraph graph5341 {
+	node0 [label="なあに"];
+	node1 [label="小供だあね、"];
+	node2 [label="打ちゃっておけばいいさ」"];
+	node0 -> node2;
+	node1 -> node2;
+}

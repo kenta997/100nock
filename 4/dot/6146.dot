@@ -1,0 +1,5 @@
+digraph graph6146 {
+	node0 [label="「本物た"];
+	node1 [label="あ何だい」"];
+	node0 -> node1;
+}

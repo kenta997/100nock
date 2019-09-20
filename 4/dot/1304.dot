@@ -1,0 +1,15 @@
+digraph graph1304 {
+	node0 [label="その後"];
+	node1 [label="二絃琴の"];
+	node2 [label="御師匠さんの"];
+	node3 [label="近所へは"];
+	node4 [label="寄りついた"];
+	node5 [label="事が"];
+	node6 [label="ない。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

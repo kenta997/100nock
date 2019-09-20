@@ -1,0 +1,29 @@
+digraph graph9180 {
+	node0 [label="もがけば"];
+	node1 [label="がりがりと"];
+	node2 [label="甕に"];
+	node3 [label="爪が"];
+	node4 [label="あたるのみで、"];
+	node5 [label="あたった"];
+	node6 [label="時は、"];
+	node7 [label="少し"];
+	node8 [label="浮く"];
+	node9 [label="気味だが、"];
+	node10 [label="すべれば"];
+	node11 [label="たちまち"];
+	node12 [label="ぐっと"];
+	node13 [label="もぐる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

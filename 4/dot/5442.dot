@@ -1,0 +1,7 @@
+digraph graph5442 {
+	node0 [label="しかも"];
+	node1 [label="珍客が"];
+	node2 [label="来た。"];
+	node0 -> node2;
+	node1 -> node2;
+}

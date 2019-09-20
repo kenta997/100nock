@@ -1,0 +1,7 @@
+digraph graph6023 {
+	node0 [label="よく"];
+	node1 [label="気をつけんと"];
+	node2 [label="いけない」"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,9 @@
+digraph graph7894 {
+	node0 [label="「向上の"];
+	node1 [label="一路は"];
+	node2 [label="ヴァイオリンなどで"];
+	node3 [label="開ける者ではない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

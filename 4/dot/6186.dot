@@ -1,0 +1,11 @@
+digraph graph6186 {
+	node0 [label="「それから"];
+	node1 [label="河豚と"];
+	node2 [label="朝鮮仁参か"];
+	node3 [label="何か"];
+	node4 [label="書いてある」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,13 @@
+digraph graph5757 {
+	node0 [label="第一信は"];
+	node1 [label="活版ずりで"];
+	node2 [label="何だか"];
+	node3 [label="いかめしい"];
+	node4 [label="文字が"];
+	node5 [label="並べてある。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

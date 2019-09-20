@@ -1,0 +1,17 @@
+digraph graph7358 {
+	node0 [label="人間が"];
+	node1 [label="そんなに"];
+	node2 [label="情深い、"];
+	node3 [label="思いやりの"];
+	node4 [label="ある"];
+	node5 [label="動物であるとは"];
+	node6 [label="はなはだ"];
+	node7 [label="受け取りにくい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

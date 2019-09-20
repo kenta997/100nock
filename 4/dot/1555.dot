@@ -1,0 +1,15 @@
+digraph graph1555 {
+	node0 [label="それが"];
+	node1 [label="最初は"];
+	node2 [label="日本語で"];
+	node3 [label="東風に"];
+	node4 [label="何か"];
+	node5 [label="質問した"];
+	node6 [label="そうだ。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

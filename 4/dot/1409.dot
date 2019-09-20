@@ -1,0 +1,29 @@
+digraph graph1409 {
+	node0 [label="「何でも"];
+	node1 [label="大根卸の"];
+	node2 [label="中には"];
+	node3 [label="ジヤスターゼが"];
+	node4 [label="有るとか"];
+	node5 [label="云う話しを"];
+	node6 [label="新聞で"];
+	node7 [label="読んでからです」"];
+	node8 [label="「なるほどそれで"];
+	node9 [label="ジャムの"];
+	node10 [label="損害を"];
+	node11 [label="償おうと"];
+	node12 [label="云う"];
+	node13 [label="趣向ですな。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

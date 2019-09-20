@@ -1,0 +1,23 @@
+digraph graph440 {
+	node0 [label="それに"];
+	node1 [label="この"];
+	node2 [label="人目を"];
+	node3 [label="忍んで"];
+	node4 [label="間食を"];
+	node5 [label="するという"];
+	node6 [label="癖は、"];
+	node7 [label="何も"];
+	node8 [label="吾等猫族に"];
+	node9 [label="限った"];
+	node10 [label="事ではない。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

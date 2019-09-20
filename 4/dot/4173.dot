@@ -1,0 +1,13 @@
+digraph graph4173 {
+	node0 [label="烏の"];
+	node1 [label="勘公と"];
+	node2 [label="あって"];
+	node3 [label="見れば"];
+	node4 [label="致し方が"];
+	node5 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

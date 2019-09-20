@@ -1,0 +1,33 @@
+digraph graph5220 {
+	node0 [label="近来は"];
+	node1 [label="金田の"];
+	node2 [label="邸内も"];
+	node3 [label="珍らしくなくなったから、"];
+	node4 [label="滅多に"];
+	node5 [label="あちらの"];
+	node6 [label="方角へは"];
+	node7 [label="足が"];
+	node8 [label="向かなかったが、"];
+	node9 [label="こう"];
+	node10 [label="御目に"];
+	node11 [label="懸って"];
+	node12 [label="見ると、"];
+	node13 [label="何となく"];
+	node14 [label="御"];
+	node15 [label="懐かしい。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

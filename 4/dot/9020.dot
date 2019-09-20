@@ -1,0 +1,5 @@
+digraph graph9020 {
+	node0 [label="是非周旋を"];
+	node1 [label="願いましょう」"];
+	node0 -> node1;
+}

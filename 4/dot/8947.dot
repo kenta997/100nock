@@ -1,0 +1,9 @@
+digraph graph8947 {
+	node0 [label="釣に"];
+	node1 [label="行った"];
+	node2 [label="事が"];
+	node3 [label="ありますか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

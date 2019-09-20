@@ -1,0 +1,37 @@
+digraph graph519 {
+	node0 [label="それから、"];
+	node1 [label="一日牛乳ばかり"];
+	node2 [label="飲んで"];
+	node3 [label="暮して"];
+	node4 [label="見たが、"];
+	node5 [label="この"];
+	node6 [label="時は"];
+	node7 [label="腸の"];
+	node8 [label="中で"];
+	node9 [label="どぼりど"];
+	node10 [label="ぼりと"];
+	node11 [label="音が"];
+	node12 [label="して"];
+	node13 [label="大水でも"];
+	node14 [label="出たように"];
+	node15 [label="思われて"];
+	node16 [label="終夜"];
+	node17 [label="眠れなかった。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node17;
+	node5 -> node6;
+	node6 -> node17;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

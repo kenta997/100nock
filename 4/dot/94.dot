@@ -1,0 +1,25 @@
+digraph graph94 {
+	node0 [label="この"];
+	node1 [label="小供というのは"];
+	node2 [label="五つと"];
+	node3 [label="三つで"];
+	node4 [label="夜に"];
+	node5 [label="なると"];
+	node6 [label="二人が"];
+	node7 [label="一つ"];
+	node8 [label="床へ"];
+	node9 [label="入って"];
+	node10 [label="一間へ"];
+	node11 [label="寝る。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

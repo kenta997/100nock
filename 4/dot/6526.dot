@@ -1,0 +1,5 @@
+digraph graph6526 {
+	node0 [label="非常な"];
+	node1 [label="壮観である。"];
+	node0 -> node1;
+}

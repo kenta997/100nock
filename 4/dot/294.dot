@@ -1,0 +1,17 @@
+digraph graph294 {
+	node0 [label="さすが"];
+	node1 [label="アンドレア・デル・サルトだ」と"];
+	node2 [label="日記の"];
+	node3 [label="事は"];
+	node4 [label="おくびにも"];
+	node5 [label="出さないで、また"];
+	node6 [label="アンドレア・デル・サルトに"];
+	node7 [label="感心する。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

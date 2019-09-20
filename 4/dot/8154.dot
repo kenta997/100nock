@@ -1,0 +1,5 @@
+digraph graph8154 {
+	node0 [label="どこへ"];
+	node1 [label="入れたい」"];
+	node0 -> node1;
+}

@@ -1,0 +1,21 @@
+digraph graph3432 {
+	node0 [label="「昔し"];
+	node1 [label="ハーキュリスが"];
+	node2 [label="牛を"];
+	node3 [label="引っ張って来たんです」"];
+	node4 [label="「その"];
+	node5 [label="ハーキュリスと"];
+	node6 [label="云うのは"];
+	node7 [label="牛飼ででもござん"];
+	node8 [label="すか」"];
+	node9 [label="「牛飼じゃありませんよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

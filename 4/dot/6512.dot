@@ -1,0 +1,19 @@
+digraph graph6512 {
+	node0 [label="こんな"];
+	node1 [label="御袋を"];
+	node2 [label="持ったが"];
+	node3 [label="最後"];
+	node4 [label="朝から"];
+	node5 [label="晩まで"];
+	node6 [label="泣き"];
+	node7 [label="通しに"];
+	node8 [label="泣いていなくてはならない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

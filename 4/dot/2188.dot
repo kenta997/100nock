@@ -1,0 +1,7 @@
+digraph graph2188 {
+	node0 [label="だから"];
+	node1 [label="標札は"];
+	node2 [label="当にゃなりませんよ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

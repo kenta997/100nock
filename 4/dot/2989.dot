@@ -1,0 +1,11 @@
+digraph graph2989 {
+	node0 [label="「多々良さん"];
+	node1 [label="せんだっては"];
+	node2 [label="御親切に"];
+	node3 [label="沢山"];
+	node4 [label="ありがとう」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,7 @@
+digraph graph1101 {
+	node0 [label="極めて"];
+	node1 [label="静かな"];
+	node2 [label="調子である。"];
+	node0 -> node1;
+	node1 -> node2;
+}

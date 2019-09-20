@@ -1,0 +1,17 @@
+digraph graph2314 {
+	node0 [label="会社の"];
+	node1 [label="方は"];
+	node2 [label="君の"];
+	node3 [label="職業とは"];
+	node4 [label="違って"];
+	node5 [label="随分"];
+	node6 [label="忙が"];
+	node7 [label="しいんだから」"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

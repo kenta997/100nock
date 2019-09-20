@@ -1,0 +1,21 @@
+digraph graph6713 {
+	node0 [label="取られた"];
+	node1 [label="ものが"];
+	node2 [label="出たから"];
+	node3 [label="取りに"];
+	node4 [label="来いって、"];
+	node5 [label="昨日"];
+	node6 [label="巡査が"];
+	node7 [label="わざわざ"];
+	node8 [label="来た"];
+	node9 [label="もんですから」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

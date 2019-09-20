@@ -1,0 +1,21 @@
+digraph graph8756 {
+	node0 [label="親が"];
+	node1 [label="息子の"];
+	node2 [label="個性を"];
+	node3 [label="認めて"];
+	node4 [label="これに"];
+	node5 [label="尊敬を"];
+	node6 [label="払えばこそ、"];
+	node7 [label="こんな"];
+	node8 [label="美風が"];
+	node9 [label="成立するのだ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

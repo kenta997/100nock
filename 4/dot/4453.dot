@@ -1,0 +1,5 @@
+digraph graph4453 {
+	node0 [label="和唐内は"];
+	node1 [label="「愛嬌ものだね。"];
+	node0 -> node1;
+}

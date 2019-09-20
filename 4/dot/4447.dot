@@ -1,0 +1,29 @@
+digraph graph4447 {
+	node0 [label="こう"];
+	node1 [label="順々に"];
+	node2 [label="書いてくると、"];
+	node3 [label="書く"];
+	node4 [label="事が"];
+	node5 [label="多過ぎて"];
+	node6 [label="到底"];
+	node7 [label="吾輩の"];
+	node8 [label="手際には"];
+	node9 [label="その"];
+	node10 [label="一斑さえ"];
+	node11 [label="形容する"];
+	node12 [label="事が"];
+	node13 [label="出来ん。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

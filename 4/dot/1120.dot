@@ -1,0 +1,27 @@
+digraph graph1120 {
+	node0 [label="欄干に"];
+	node1 [label="倚って"];
+	node2 [label="下を"];
+	node3 [label="見ると"];
+	node4 [label="満潮か"];
+	node5 [label="干潮か"];
+	node6 [label="分りませんが、"];
+	node7 [label="黒い"];
+	node8 [label="水が"];
+	node9 [label="かたまって"];
+	node10 [label="ただ"];
+	node11 [label="動いているように"];
+	node12 [label="見えます。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

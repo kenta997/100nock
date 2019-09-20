@@ -1,0 +1,23 @@
+digraph graph3248 {
+	node0 [label="周密なる"];
+	node1 [label="観察から"];
+	node2 [label="得た"];
+	node3 [label="材料を"];
+	node4 [label="綜合して"];
+	node5 [label="見ると"];
+	node6 [label="鼠賊の"];
+	node7 [label="逸出するのには"];
+	node8 [label="三つの"];
+	node9 [label="行路が"];
+	node10 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

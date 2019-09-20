@@ -1,0 +1,15 @@
+digraph graph7726 {
+	node0 [label="かい巻に"];
+	node1 [label="長き"];
+	node2 [label="夜"];
+	node3 [label="守るや"];
+	node4 [label="ヴァイオリンは"];
+	node5 [label="どう"];
+	node6 [label="だい。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

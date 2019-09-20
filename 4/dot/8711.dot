@@ -1,0 +1,25 @@
+digraph graph8711 {
+	node0 [label="ことに"];
+	node1 [label="寒月君や、"];
+	node2 [label="東風君のような"];
+	node3 [label="経験の"];
+	node4 [label="乏しい"];
+	node5 [label="青年諸君は、"];
+	node6 [label="よく"];
+	node7 [label="僕らの"];
+	node8 [label="云う"];
+	node9 [label="事を"];
+	node10 [label="聞いて"];
+	node11 [label="だまされないようにしなくっちゃいけない」"];
+	node0 -> node11;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

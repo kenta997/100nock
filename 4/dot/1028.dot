@@ -1,0 +1,7 @@
+digraph graph1028 {
+	node0 [label="東風の"];
+	node1 [label="御宮は"];
+	node2 [label="面白かろう。"];
+	node0 -> node1;
+	node1 -> node2;
+}

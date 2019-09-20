@@ -1,0 +1,11 @@
+digraph graph4855 {
+	node0 [label="次には"];
+	node1 [label="憂液、"];
+	node2 [label="これは"];
+	node3 [label="人間を"];
+	node4 [label="陰気にする。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

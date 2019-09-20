@@ -1,0 +1,17 @@
+digraph graph369 {
+	node0 [label="それで"];
+	node1 [label="自分だけは"];
+	node2 [label="すこぶる"];
+	node3 [label="達観したような"];
+	node4 [label="面構を"];
+	node5 [label="しているのは"];
+	node6 [label="ちょっと"];
+	node7 [label="おかしい。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

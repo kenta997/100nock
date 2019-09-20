@@ -1,0 +1,25 @@
+digraph graph808 {
+	node0 [label="「それじゃ"];
+	node1 [label="一人で"];
+	node2 [label="朗読するのですか、または"];
+	node3 [label="役割を"];
+	node4 [label="極めて"];
+	node5 [label="やるんですか」"];
+	node6 [label="「役を"];
+	node7 [label="極めて"];
+	node8 [label="懸"];
+	node9 [label="合で"];
+	node10 [label="やって"];
+	node11 [label="見ました。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

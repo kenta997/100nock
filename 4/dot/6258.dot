@@ -1,0 +1,11 @@
+digraph graph6258 {
+	node0 [label="「ハハハそれじゃ"];
+	node1 [label="刑事の"];
+	node2 [label="悪口は"];
+	node3 [label="やめに"];
+	node4 [label="しよう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

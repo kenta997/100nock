@@ -1,0 +1,5 @@
+digraph graph7939 {
+	node0 [label="「ふむ、"];
+	node1 [label="どうして」"];
+	node0 -> node1;
+}

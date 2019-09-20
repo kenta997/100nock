@@ -1,0 +1,15 @@
+digraph graph803 {
+	node0 [label="　"];
+	node1 [label="あの"];
+	node2 [label="浄瑠璃の"];
+	node3 [label="近松ですか」"];
+	node4 [label="近松に"];
+	node5 [label="二人は"];
+	node6 [label="ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

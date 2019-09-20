@@ -1,0 +1,9 @@
+digraph graph5995 {
+	node0 [label="伯父さんも"];
+	node1 [label="なかなか"];
+	node2 [label="記憶が"];
+	node3 [label="いい。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

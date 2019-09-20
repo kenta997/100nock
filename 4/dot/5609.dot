@@ -1,0 +1,15 @@
+digraph graph5609 {
+	node0 [label="近所の"];
+	node1 [label="建具屋に"];
+	node2 [label="談判して"];
+	node3 [label="寝台兼机として"];
+	node4 [label="製造せし"];
+	node5 [label="めたる稀代の"];
+	node6 [label="品物である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

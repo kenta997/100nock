@@ -1,0 +1,13 @@
+digraph graph6058 {
+	node0 [label="精神の"];
+	node1 [label="修養を"];
+	node2 [label="主張する"];
+	node3 [label="ところなぞは"];
+	node4 [label="大に"];
+	node5 [label="敬服していい」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

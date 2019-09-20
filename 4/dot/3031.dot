@@ -1,0 +1,5 @@
+digraph graph3031 {
+	node0 [label="長かって、"];
+	node1 [label="どげんですか」"];
+	node0 -> node1;
+}

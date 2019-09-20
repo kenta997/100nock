@@ -1,0 +1,11 @@
+digraph graph2873 {
+	node0 [label="「ええ"];
+	node1 [label="私しの"];
+	node2 [label="伏せったのは、"];
+	node3 [label="あなたより"];
+	node4 [label="前です」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

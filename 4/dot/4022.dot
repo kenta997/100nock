@@ -1,0 +1,15 @@
+digraph graph4022 {
+	node0 [label="吾輩の"];
+	node1 [label="取るのは"];
+	node2 [label="この"];
+	node3 [label="蟻の"];
+	node4 [label="領分に"];
+	node5 [label="寝転んでいる"];
+	node6 [label="奴ではない。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

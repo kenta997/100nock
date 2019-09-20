@@ -1,0 +1,11 @@
+digraph graph7140 {
+	node0 [label="「よくってよ、"];
+	node1 [label="どうせ"];
+	node2 [label="無教育なんですから、"];
+	node3 [label="何とでも"];
+	node4 [label="おっしゃい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

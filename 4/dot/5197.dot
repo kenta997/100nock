@@ -1,0 +1,11 @@
+digraph graph5197 {
+	node0 [label="「いや、"];
+	node1 [label="そう"];
+	node2 [label="事が"];
+	node3 [label="分かれば"];
+	node4 [label="よろしいです。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

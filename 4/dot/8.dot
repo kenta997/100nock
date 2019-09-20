@@ -1,0 +1,21 @@
+digraph graph8 {
+	node0 [label="しかし"];
+	node1 [label="その"];
+	node2 [label="当時は"];
+	node3 [label="何という"];
+	node4 [label="考も"];
+	node5 [label="なかったから"];
+	node6 [label="別段"];
+	node7 [label="恐し"];
+	node8 [label="いとも"];
+	node9 [label="思わなかった。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

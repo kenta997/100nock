@@ -1,0 +1,9 @@
+digraph graph4511 {
+	node0 [label="それでも"];
+	node1 [label="落ちなければ"];
+	node2 [label="それまでの"];
+	node3 [label="事さ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

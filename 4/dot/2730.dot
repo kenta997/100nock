@@ -1,0 +1,13 @@
+digraph graph2730 {
+	node0 [label="陰士でも"];
+	node1 [label="吾輩ほど"];
+	node2 [label="夜陰に"];
+	node3 [label="眼は"];
+	node4 [label="利かぬと"];
+	node5 [label="見える。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

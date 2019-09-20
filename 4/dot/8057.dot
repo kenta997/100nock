@@ -1,0 +1,5 @@
+digraph graph8057 {
+	node0 [label="「じれったい"];
+	node1 [label="男だな。"];
+	node0 -> node1;
+}

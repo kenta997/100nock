@@ -1,0 +1,17 @@
+digraph graph8195 {
+	node0 [label="「先生、"];
+	node1 [label="子規さんとは"];
+	node2 [label="御つき合でしたか」と"];
+	node3 [label="正直な"];
+	node4 [label="東風君は"];
+	node5 [label="真率な"];
+	node6 [label="質問を"];
+	node7 [label="かける。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+}

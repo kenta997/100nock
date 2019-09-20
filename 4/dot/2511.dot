@@ -1,0 +1,7 @@
+digraph graph2511 {
+	node0 [label="君に"];
+	node1 [label="機鋒を"];
+	node2 [label="折られたのだね。"];
+	node0 -> node2;
+	node1 -> node2;
+}

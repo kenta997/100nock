@@ -1,0 +1,5 @@
+digraph graph1279 {
+	node0 [label="これも"];
+	node1 [label="寿命だから」"];
+	node0 -> node1;
+}

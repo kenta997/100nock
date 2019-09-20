@@ -1,0 +1,31 @@
+digraph graph6693 {
+	node0 [label="学校の"];
+	node1 [label="生徒だそうだが、"];
+	node2 [label="折々"];
+	node3 [label="日曜に"];
+	node4 [label="やって来て、"];
+	node5 [label="よく"];
+	node6 [label="叔父さんと"];
+	node7 [label="喧嘩を"];
+	node8 [label="して"];
+	node9 [label="帰って行く"];
+	node10 [label="雪江とか"];
+	node11 [label="云う"];
+	node12 [label="奇麗な"];
+	node13 [label="名の"];
+	node14 [label="お嬢さんである。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

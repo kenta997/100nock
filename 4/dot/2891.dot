@@ -1,0 +1,13 @@
+digraph graph2891 {
+	node0 [label="盗られた"];
+	node1 [label="あとなんだから」と"];
+	node2 [label="平気な"];
+	node3 [label="事を"];
+	node4 [label="云って"];
+	node5 [label="帰って行く。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

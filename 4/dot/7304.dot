@@ -1,0 +1,13 @@
+digraph graph7304 {
+	node0 [label="「あすこの"];
+	node1 [label="娘が"];
+	node2 [label="ハイカラで"];
+	node3 [label="生意気だから"];
+	node4 [label="艶書を"];
+	node5 [label="送ったんです。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

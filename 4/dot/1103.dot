@@ -1,0 +1,9 @@
+digraph graph1103 {
+	node0 [label="「おや君も"];
+	node1 [label="首を"];
+	node2 [label="縊りたくなったの"];
+	node3 [label="かい」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

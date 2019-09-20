@@ -1,0 +1,15 @@
+digraph graph2591 {
+	node0 [label="彼の"];
+	node1 [label="説明に"];
+	node2 [label="曰くさ——"];
+	node3 [label="おい菓子皿などを"];
+	node4 [label="叩かんで"];
+	node5 [label="謹聴していなくちゃ"];
+	node6 [label="いかん。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

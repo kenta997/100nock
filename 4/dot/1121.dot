@@ -1,0 +1,15 @@
+digraph graph1121 {
+	node0 [label="花川戸の"];
+	node1 [label="方から"];
+	node2 [label="人力車が"];
+	node3 [label="一台馳けて来て"];
+	node4 [label="橋の"];
+	node5 [label="上を"];
+	node6 [label="通りました。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

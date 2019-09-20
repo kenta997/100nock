@@ -1,0 +1,15 @@
+digraph graph7360 {
+	node0 [label="云わば"];
+	node1 [label="ごまかし性表情で、"];
+	node2 [label="実を"];
+	node3 [label="云うと"];
+	node4 [label="大分骨が"];
+	node5 [label="折れる"];
+	node6 [label="芸術である。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

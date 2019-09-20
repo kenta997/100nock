@@ -1,0 +1,5 @@
+digraph graph9014 {
+	node0 [label="高島田が"];
+	node1 [label="ある。"];
+	node0 -> node1;
+}

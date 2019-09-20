@@ -1,0 +1,9 @@
+digraph graph8412 {
+	node0 [label="少し"];
+	node1 [label="しっかりして、"];
+	node2 [label="珠を"];
+	node3 [label="磨いてくれたまえ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

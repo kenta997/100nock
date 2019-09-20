@@ -1,0 +1,13 @@
+digraph graph145 {
+	node0 [label="「へえアンドレア・デル・サルトが"];
+	node1 [label="そんな"];
+	node2 [label="事を"];
+	node3 [label="いった"];
+	node4 [label="事が"];
+	node5 [label="あるかい。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

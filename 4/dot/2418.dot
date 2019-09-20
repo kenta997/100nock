@@ -1,0 +1,15 @@
+digraph graph2418 {
+	node0 [label="「その"];
+	node1 [label="愚な"];
+	node2 [label="奴が"];
+	node3 [label="随分"];
+	node4 [label="世の中にゃ"];
+	node5 [label="あるから"];
+	node6 [label="仕方がない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

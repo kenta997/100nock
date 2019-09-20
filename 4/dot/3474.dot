@@ -1,0 +1,37 @@
+digraph graph3474 {
+	node0 [label="細君は"];
+	node1 [label="無論の"];
+	node2 [label="事心配そうに"];
+	node3 [label="「せっかく"];
+	node4 [label="見事な"];
+	node5 [label="帽子を"];
+	node6 [label="もし"];
+	node7 [label="壊わしでも"];
+	node8 [label="しちゃあ"];
+	node9 [label="大変ですから、"];
+	node10 [label="もう"];
+	node11 [label="好い"];
+	node12 [label="加減に"];
+	node13 [label="なすったら"];
+	node14 [label="宜"];
+	node15 [label="うござんしょう」と"];
+	node16 [label="注意を"];
+	node17 [label="する。"];
+	node0 -> node17;
+	node1 -> node2;
+	node2 -> node17;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

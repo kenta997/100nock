@@ -1,0 +1,15 @@
+digraph graph3096 {
+	node0 [label="「先生は"];
+	node1 [label="実業家は"];
+	node2 [label="嫌だから、"];
+	node3 [label="そんな"];
+	node4 [label="事を"];
+	node5 [label="言ったって"];
+	node6 [label="駄目よ」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,7 @@
+digraph graph2365 {
+	node0 [label="君パスカルの"];
+	node1 [label="事を"];
+	node2 [label="知ってるか」"];
+	node0 -> node1;
+	node1 -> node2;
+}

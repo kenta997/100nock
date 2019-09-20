@@ -1,0 +1,5 @@
+digraph graph8697 {
+	node0 [label="「一念万年、"];
+	node1 [label="万年一念。"];
+	node0 -> node1;
+}

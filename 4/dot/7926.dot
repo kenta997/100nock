@@ -1,0 +1,5 @@
+digraph graph7926 {
+	node0 [label="とうてい"];
+	node1 [label="言いあらわせないです」"];
+	node0 -> node1;
+}

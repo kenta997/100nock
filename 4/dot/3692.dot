@@ -1,0 +1,5 @@
+digraph graph3692 {
+	node0 [label="立派な"];
+	node1 [label="うちだ。"];
+	node0 -> node1;
+}

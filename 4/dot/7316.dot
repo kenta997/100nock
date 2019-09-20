@@ -1,0 +1,9 @@
+digraph graph7316 {
+	node0 [label="「ええ、"];
+	node1 [label="文章は"];
+	node2 [label="浜田が"];
+	node3 [label="書いたんです。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

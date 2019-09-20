@@ -1,0 +1,9 @@
+digraph graph1155 {
+	node0 [label="「僕のも"];
+	node1 [label="去年の"];
+	node2 [label="暮の"];
+	node3 [label="事だ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

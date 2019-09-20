@@ -1,0 +1,11 @@
+digraph graph5699 {
+	node0 [label="いくら"];
+	node1 [label="仕てやりたくても、"];
+	node2 [label="貰いたくても、"];
+	node3 [label="出来ない"];
+	node4 [label="相談である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

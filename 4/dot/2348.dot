@@ -1,0 +1,15 @@
+digraph graph2348 {
+	node0 [label="「三角術は"];
+	node1 [label="冗談でも"];
+	node2 [label="いいが、"];
+	node3 [label="あすこの"];
+	node4 [label="女房の"];
+	node5 [label="鼻は"];
+	node6 [label="なんだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

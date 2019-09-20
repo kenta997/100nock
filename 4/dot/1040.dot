@@ -1,0 +1,9 @@
+digraph graph1040 {
+	node0 [label="「たしか"];
+	node1 [label="暮の"];
+	node2 [label="二十七日と"];
+	node3 [label="記憶しているがね。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

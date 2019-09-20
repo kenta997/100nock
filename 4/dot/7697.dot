@@ -1,0 +1,11 @@
+digraph graph7697 {
+	node0 [label="「それだから"];
+	node1 [label="早く"];
+	node2 [label="持って来ないと"];
+	node3 [label="心配だと"];
+	node4 [label="云うのです」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

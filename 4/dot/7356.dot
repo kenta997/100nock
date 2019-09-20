@@ -1,0 +1,15 @@
+digraph graph7356 {
+	node0 [label="関係の"];
+	node1 [label="薄い"];
+	node2 [label="ところには"];
+	node3 [label="同情も"];
+	node4 [label="自から"];
+	node5 [label="薄い"];
+	node6 [label="訳である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

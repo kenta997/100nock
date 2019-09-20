@@ -1,0 +1,5 @@
+digraph graph6184 {
+	node0 [label="それから"];
+	node1 [label="？"];
+	node0 -> node1;
+}

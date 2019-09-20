@@ -1,0 +1,11 @@
+digraph graph4980 {
+	node0 [label="「いや"];
+	node1 [label="ボールが"];
+	node2 [label="つい"];
+	node3 [label="飛んだ"];
+	node4 [label="ものですから」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

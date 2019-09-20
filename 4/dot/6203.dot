@@ -1,0 +1,31 @@
+digraph graph6203 {
+	node0 [label="いくら"];
+	node1 [label="迷亭でも"];
+	node2 [label="御客さんには"];
+	node3 [label="相違ない、"];
+	node4 [label="その"];
+	node5 [label="御客さんが"];
+	node6 [label="玄関へ"];
+	node7 [label="出張するのに"];
+	node8 [label="主人たる"];
+	node9 [label="苦沙弥先生が"];
+	node10 [label="座敷へ"];
+	node11 [label="構え込んで"];
+	node12 [label="動かん"];
+	node13 [label="法は"];
+	node14 [label="ない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node14;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

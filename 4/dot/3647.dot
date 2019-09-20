@@ -1,0 +1,11 @@
+digraph graph3647 {
+	node0 [label="先生その昔静岡の"];
+	node1 [label="東西館へ"];
+	node2 [label="泊った"];
+	node3 [label="事が"];
+	node4 [label="あるのさ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

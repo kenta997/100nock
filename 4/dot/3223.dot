@@ -1,0 +1,13 @@
+digraph graph3223 {
+	node0 [label="戦闘線は"];
+	node1 [label="勿論"];
+	node2 [label="あまり"];
+	node3 [label="広かろう"];
+	node4 [label="はずが"];
+	node5 [label="ない。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

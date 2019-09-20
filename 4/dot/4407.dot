@@ -1,0 +1,7 @@
+digraph graph4407 {
+	node0 [label="「いろいろな"];
+	node1 [label="ものに"];
+	node2 [label="利きますよ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

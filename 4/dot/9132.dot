@@ -1,0 +1,15 @@
+digraph graph9132 {
+	node0 [label="何だか"];
+	node1 [label="舌の"];
+	node2 [label="先を"];
+	node3 [label="針で"];
+	node4 [label="さされたように"];
+	node5 [label="ぴりりと"];
+	node6 [label="した。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

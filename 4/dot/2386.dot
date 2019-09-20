@@ -1,0 +1,9 @@
+digraph graph2386 {
+	node0 [label="「あんな"];
+	node1 [label="鼻を"];
+	node2 [label="つけて来るから"];
+	node3 [label="悪るいや」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

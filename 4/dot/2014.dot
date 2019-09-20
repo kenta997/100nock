@@ -1,0 +1,9 @@
+digraph graph2014 {
+	node0 [label="どうです"];
+	node1 [label="大抵"];
+	node2 [label="お分りに"];
+	node3 [label="なりましたか。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

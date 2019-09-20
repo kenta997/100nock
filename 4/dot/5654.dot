@@ -1,0 +1,33 @@
+digraph graph5654 {
+	node0 [label="吾輩などは"];
+	node1 [label="始めて"];
+	node2 [label="当家の"];
+	node3 [label="令嬢から"];
+	node4 [label="鏡を"];
+	node5 [label="顔の"];
+	node6 [label="前へ"];
+	node7 [label="押し付けられた"];
+	node8 [label="時に、"];
+	node9 [label="はっと"];
+	node10 [label="仰天して"];
+	node11 [label="屋敷の"];
+	node12 [label="まわりを"];
+	node13 [label="三度馳け"];
+	node14 [label="回った"];
+	node15 [label="くらいである。"];
+	node0 -> node15;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+}

@@ -1,0 +1,9 @@
+digraph graph8818 {
+	node0 [label="いや"];
+	node1 [label="君の"];
+	node2 [label="だから"];
+	node3 [label="読まないのじゃない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

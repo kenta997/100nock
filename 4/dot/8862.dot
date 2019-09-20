@@ -1,0 +1,11 @@
+digraph graph8862 {
+	node0 [label="「そりゃ妻君を"];
+	node1 [label="持ち立てだからさ」と"];
+	node2 [label="迷亭君が"];
+	node3 [label="すぐ"];
+	node4 [label="解釈した。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,15 @@
+digraph graph2786 {
+	node0 [label="人間の"];
+	node1 [label="用うる"];
+	node2 [label="国語は"];
+	node3 [label="全然"];
+	node4 [label="模傚主義で"];
+	node5 [label="伝習する"];
+	node6 [label="ものである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

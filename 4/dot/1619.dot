@@ -1,0 +1,37 @@
+digraph graph1619 {
+	node0 [label="「それが"];
+	node1 [label="伺えれば"];
+	node2 [label="大変"];
+	node3 [label="都合が"];
+	node4 [label="宜しいのでございますが……」"];
+	node5 [label="「それじゃ、"];
+	node6 [label="御令嬢を"];
+	node7 [label="寒月に"];
+	node8 [label="おやりに"];
+	node9 [label="なりたいと"];
+	node10 [label="おっしゃるんで」"];
+	node11 [label="「やりたいなんて"];
+	node12 [label="えんじゃ"];
+	node13 [label="無いんです」と"];
+	node14 [label="鼻子は"];
+	node15 [label="急に"];
+	node16 [label="主人を"];
+	node17 [label="参らせる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

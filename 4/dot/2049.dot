@@ -1,0 +1,7 @@
+digraph graph2049 {
+	node0 [label="金田邸は"];
+	node1 [label="吾輩の"];
+	node2 [label="煙草である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

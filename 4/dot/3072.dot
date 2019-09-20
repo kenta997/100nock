@@ -1,0 +1,35 @@
+digraph graph3072 {
+	node0 [label="人を見たら泥棒と思えと"];
+	node1 [label="云う"];
+	node2 [label="格言は"];
+	node3 [label="寒月第二世の"];
+	node4 [label="行為によって"];
+	node5 [label="すでに"];
+	node6 [label="証拠立てられたが、"];
+	node7 [label="人を"];
+	node8 [label="見たら"];
+	node9 [label="猫食いと"];
+	node10 [label="思えとは"];
+	node11 [label="吾輩も"];
+	node12 [label="多々良君の"];
+	node13 [label="御蔭によって"];
+	node14 [label="始めて"];
+	node15 [label="感得した"];
+	node16 [label="真理である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node16;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+}

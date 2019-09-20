@@ -1,0 +1,5 @@
+digraph graph8332 {
+	node0 [label="「まあ"];
+	node1 [label="聞いてたまい。"];
+	node0 -> node1;
+}

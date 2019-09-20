@@ -1,0 +1,25 @@
+digraph graph4273 {
+	node0 [label="日本でさえ"];
+	node1 [label="裸で"];
+	node2 [label="道中が"];
+	node3 [label="なる"];
+	node4 [label="ものかと"];
+	node5 [label="云うくらいだから"];
+	node6 [label="独逸や"];
+	node7 [label="英吉利で"];
+	node8 [label="裸に"];
+	node9 [label="なって"];
+	node10 [label="おれば"];
+	node11 [label="死んでしまう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

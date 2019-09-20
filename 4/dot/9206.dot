@@ -1,0 +1,9 @@
+digraph graph9206 {
+	node0 [label="死んで"];
+	node1 [label="この"];
+	node2 [label="太平を"];
+	node3 [label="得る。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

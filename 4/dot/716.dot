@@ -1,0 +1,17 @@
+digraph graph716 {
+	node0 [label="「おい、"];
+	node1 [label="名なしの"];
+	node2 [label="権兵衛、"];
+	node3 [label="近頃"];
+	node4 [label="じゃ"];
+	node5 [label="乙う"];
+	node6 [label="高く"];
+	node7 [label="留ってるじゃあねえか。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

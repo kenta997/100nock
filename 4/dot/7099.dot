@@ -1,0 +1,5 @@
+digraph graph7099 {
+	node0 [label="女学生は"];
+	node1 [label="無用の長物だ」"];
+	node0 -> node1;
+}

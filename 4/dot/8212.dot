@@ -1,0 +1,19 @@
+digraph graph8212 {
+	node0 [label="ある日藤さんが"];
+	node1 [label="散歩に"];
+	node2 [label="出た"];
+	node3 [label="あとで、"];
+	node4 [label="よせばいいのに苦沙弥君が"];
+	node5 [label="ちょっと"];
+	node6 [label="盗んで"];
+	node7 [label="飲んだ"];
+	node8 [label="ところが……」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

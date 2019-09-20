@@ -1,0 +1,23 @@
+digraph graph7959 {
+	node0 [label="「それからまた"];
+	node1 [label="もぐって"];
+	node2 [label="眼を"];
+	node3 [label="ふさいで、"];
+	node4 [label="早く"];
+	node5 [label="日が"];
+	node6 [label="暮れればいいがと、"];
+	node7 [label="ひそかに"];
+	node8 [label="神仏に"];
+	node9 [label="念じて"];
+	node10 [label="見た。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

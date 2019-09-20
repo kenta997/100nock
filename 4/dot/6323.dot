@@ -1,0 +1,9 @@
+digraph graph6323 {
+	node0 [label="滅多に"];
+	node1 [label="近寄ると"];
+	node2 [label="同系統内に"];
+	node3 [label="引き摺り込まれそうである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

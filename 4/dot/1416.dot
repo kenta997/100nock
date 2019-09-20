@@ -1,0 +1,13 @@
+digraph graph1416 {
+	node0 [label="「まあ"];
+	node1 [label="そんなに"];
+	node2 [label="不平を"];
+	node3 [label="云わんでも"];
+	node4 [label="善いで"];
+	node5 [label="さあ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,11 @@
+digraph graph6231 {
+	node0 [label="「盗難品は……」と"];
+	node1 [label="云いかけたが、"];
+	node2 [label="あいにく"];
+	node3 [label="先生たいがい"];
+	node4 [label="忘れている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

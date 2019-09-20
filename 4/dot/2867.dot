@@ -1,0 +1,17 @@
+digraph graph2867 {
+	node0 [label="それに"];
+	node1 [label="気が付かぬ"];
+	node2 [label="主人夫婦は"];
+	node3 [label="しきりに"];
+	node4 [label="この"];
+	node5 [label="質問に対して"];
+	node6 [label="相談を"];
+	node7 [label="している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,5 @@
+digraph graph8378 {
+	node0 [label="「ハハハハこれは"];
+	node1 [label="上出来。"];
+	node0 -> node1;
+}

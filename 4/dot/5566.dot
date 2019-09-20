@@ -1,0 +1,5 @@
+digraph graph5566 {
+	node0 [label="あばた自身だって"];
+	node1 [label="心細いに違いない。"];
+	node0 -> node1;
+}

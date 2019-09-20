@@ -1,0 +1,15 @@
+digraph graph3934 {
+	node0 [label="吾人の"];
+	node1 [label="評価は"];
+	node2 [label="時と場合に"];
+	node3 [label="応じ"];
+	node4 [label="吾輩の"];
+	node5 [label="眼玉のごとく"];
+	node6 [label="変化する。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,23 @@
+digraph graph9122 {
+	node0 [label="コップが"];
+	node1 [label="盆の"];
+	node2 [label="上に"];
+	node3 [label="三つ"];
+	node4 [label="並んで、"];
+	node5 [label="その"];
+	node6 [label="二つに"];
+	node7 [label="茶色の"];
+	node8 [label="水が"];
+	node9 [label="半分ほど"];
+	node10 [label="たまっている。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

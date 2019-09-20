@@ -1,0 +1,9 @@
+digraph graph4109 {
+	node0 [label="爪は"];
+	node1 [label="あっても"];
+	node2 [label="役には"];
+	node3 [label="立たん。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

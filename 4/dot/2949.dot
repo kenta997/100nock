@@ -1,0 +1,11 @@
+digraph graph2949 {
+	node0 [label="早く"];
+	node1 [label="告訴を"];
+	node2 [label="せんと"];
+	node3 [label="品物が"];
+	node4 [label="返らんぞ」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

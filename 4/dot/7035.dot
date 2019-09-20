@@ -1,0 +1,13 @@
+digraph graph7035 {
+	node0 [label="そんな"];
+	node1 [label="趣味の"];
+	node2 [label="ない"];
+	node3 [label="事を"];
+	node4 [label="云うから"];
+	node5 [label="困る」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

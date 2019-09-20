@@ -1,0 +1,27 @@
+digraph graph3073 {
+	node0 [label="世に"];
+	node1 [label="住めば"];
+	node2 [label="事を"];
+	node3 [label="知る、"];
+	node4 [label="事を"];
+	node5 [label="知るは"];
+	node6 [label="嬉しいが"];
+	node7 [label="日に日に"];
+	node8 [label="危険が"];
+	node9 [label="多くて、"];
+	node10 [label="日に日に"];
+	node11 [label="油断が"];
+	node12 [label="ならなくなる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

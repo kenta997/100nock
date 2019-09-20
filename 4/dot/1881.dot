@@ -1,0 +1,5 @@
+digraph graph1881 {
+	node0 [label="全体御前は"];
+	node1 [label="誰だい。"];
+	node0 -> node1;
+}

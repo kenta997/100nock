@@ -1,0 +1,9 @@
+digraph graph3127 {
+	node0 [label="「それだから"];
+	node1 [label="実業家に"];
+	node2 [label="限ると"];
+	node3 [label="云うんです。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

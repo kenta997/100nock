@@ -1,0 +1,19 @@
+digraph graph3484 {
+	node0 [label="ここに三日月形の"];
+	node1 [label="欠け目が"];
+	node2 [label="ありましょう、"];
+	node3 [label="ここへ"];
+	node4 [label="葉巻を"];
+	node5 [label="入れて"];
+	node6 [label="ぷつりと"];
+	node7 [label="口を"];
+	node8 [label="切るんです。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

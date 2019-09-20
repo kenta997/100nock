@@ -1,0 +1,33 @@
+digraph graph3576 {
+	node0 [label="すると"];
+	node1 [label="今まで"];
+	node2 [label="三人の"];
+	node3 [label="談話を"];
+	node4 [label="分らぬながら"];
+	node5 [label="傾聴していた"];
+	node6 [label="細君が"];
+	node7 [label="「それでも"];
+	node8 [label="金田さんは"];
+	node9 [label="家族中"];
+	node10 [label="残らず、"];
+	node11 [label="先月から"];
+	node12 [label="大磯へ"];
+	node13 [label="行っていらっしゃるじゃありませんか」と"];
+	node14 [label="不審そうに"];
+	node15 [label="尋ねる。"];
+	node0 -> node15;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

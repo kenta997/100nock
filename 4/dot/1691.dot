@@ -1,0 +1,35 @@
+digraph graph1691 {
+	node0 [label="「そんなに"];
+	node1 [label="沢山拝見しないでも——"];
+	node2 [label="その"];
+	node3 [label="内の"];
+	node4 [label="二三枚だけ……」"];
+	node5 [label="「どれどれ"];
+	node6 [label="僕が"];
+	node7 [label="好いのを"];
+	node8 [label="撰って"];
+	node9 [label="やろう」と"];
+	node10 [label="迷亭先生は"];
+	node11 [label="「これな"];
+	node12 [label="ざあ"];
+	node13 [label="面白いでしょう」と"];
+	node14 [label="一枚の"];
+	node15 [label="絵葉書を"];
+	node16 [label="出す。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

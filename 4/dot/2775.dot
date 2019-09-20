@@ -1,0 +1,25 @@
+digraph graph2775 {
+	node0 [label="人間は"];
+	node1 [label="この"];
+	node2 [label="点において"];
+	node3 [label="大に"];
+	node4 [label="神に"];
+	node5 [label="恐れ入っているようである、"];
+	node6 [label="なるほど"];
+	node7 [label="人間の"];
+	node8 [label="観察点から"];
+	node9 [label="云えば"];
+	node10 [label="もっともな"];
+	node11 [label="恐れ入り方である。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

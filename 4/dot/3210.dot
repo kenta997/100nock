@@ -1,0 +1,15 @@
+digraph graph3210 {
+	node0 [label="——"];
+	node1 [label="吾輩は"];
+	node2 [label="とうとう"];
+	node3 [label="鼠を"];
+	node4 [label="とる"];
+	node5 [label="事に"];
+	node6 [label="極めた。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,11 @@
+digraph graph2072 {
+	node0 [label="天秤棒は"];
+	node1 [label="避けざるべから"];
+	node2 [label="ざるが"];
+	node3 [label="故に、"];
+	node4 [label="忍ばざるべからず。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

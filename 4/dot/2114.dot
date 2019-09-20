@@ -1,0 +1,11 @@
+digraph graph2114 {
+	node0 [label="「ところが"];
+	node1 [label="鈴木さん、"];
+	node2 [label="まあなんて"];
+	node3 [label="頑固な"];
+	node4 [label="男なんでしょう。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

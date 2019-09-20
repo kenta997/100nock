@@ -1,0 +1,9 @@
+digraph graph8890 {
+	node0 [label="「どうせ"];
+	node1 [label="振られた"];
+	node2 [label="賢者に"];
+	node3 [label="相違ないね」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

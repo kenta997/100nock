@@ -1,0 +1,13 @@
+digraph graph388 {
+	node0 [label="人間も"];
+	node1 [label="この"];
+	node2 [label="くらい"];
+	node3 [label="偏屈になれば"];
+	node4 [label="申し分は"];
+	node5 [label="ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

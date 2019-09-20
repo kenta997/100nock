@@ -1,0 +1,9 @@
+digraph graph5912 {
+	node0 [label="昔は"];
+	node1 [label="赤十字なんて"];
+	node2 [label="ものも"];
+	node3 [label="なかったでしょう」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

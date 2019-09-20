@@ -1,0 +1,27 @@
+digraph graph5081 {
+	node0 [label="幸に"];
+	node1 [label="して"];
+	node2 [label="ニュートンは"];
+	node3 [label="第一則を"];
+	node4 [label="定むると同時に"];
+	node5 [label="第二則も"];
+	node6 [label="製造してくれたので"];
+	node7 [label="主人の"];
+	node8 [label="頭は"];
+	node9 [label="危うき"];
+	node10 [label="うちに"];
+	node11 [label="一命を"];
+	node12 [label="取りとめた。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

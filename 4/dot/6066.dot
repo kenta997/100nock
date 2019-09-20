@@ -1,0 +1,17 @@
+digraph graph6066 {
+	node0 [label="そこへ"];
+	node1 [label="行くと"];
+	node2 [label="東洋流の"];
+	node3 [label="学問は"];
+	node4 [label="消極的で"];
+	node5 [label="大に"];
+	node6 [label="味が"];
+	node7 [label="ある。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

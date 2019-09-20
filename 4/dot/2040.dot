@@ -1,0 +1,15 @@
+digraph graph2040 {
+	node0 [label="人通りは"];
+	node1 [label="一人も"];
+	node2 [label="ない、"];
+	node3 [label="ちょっと"];
+	node4 [label="狐に"];
+	node5 [label="抓まれた"];
+	node6 [label="体である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,5 @@
+digraph graph7040 {
+	node0 [label="「そこが"];
+	node1 [label="面白いんだ。"];
+	node0 -> node1;
+}

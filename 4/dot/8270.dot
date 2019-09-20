@@ -1,0 +1,27 @@
+digraph graph8270 {
+	node0 [label="ついで"];
+	node1 [label="にあの"];
+	node2 [label="碁盤の"];
+	node3 [label="上で"];
+	node4 [label="昼寝を"];
+	node5 [label="している"];
+	node6 [label="先生——"];
+	node7 [label="何とか"];
+	node8 [label="云いましたね、"];
+	node9 [label="え、"];
+	node10 [label="独仙先生、——"];
+	node11 [label="独仙先生にも"];
+	node12 [label="聞いていただきたいな。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

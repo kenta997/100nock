@@ -1,0 +1,9 @@
+digraph graph9006 {
+	node0 [label="「ただは"];
+	node1 [label="頼みません、"];
+	node2 [label="御礼は"];
+	node3 [label="するです。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

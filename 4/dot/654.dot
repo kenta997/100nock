@@ -1,0 +1,29 @@
+digraph graph654 {
+	node0 [label="杉垣の"];
+	node1 [label="隙から、"];
+	node2 [label="いるかなと"];
+	node3 [label="思って"];
+	node4 [label="見渡すと、"];
+	node5 [label="三毛子は"];
+	node6 [label="正月だから"];
+	node7 [label="首輪の"];
+	node8 [label="新しいのを"];
+	node9 [label="して"];
+	node10 [label="行儀"];
+	node11 [label="よく"];
+	node12 [label="椽側に"];
+	node13 [label="坐っている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

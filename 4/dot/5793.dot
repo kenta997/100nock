@@ -1,0 +1,9 @@
+digraph graph5793 {
+	node0 [label="汝"];
+	node1 [label="何を"];
+	node2 [label="恃まんと"];
+	node3 [label="するか。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

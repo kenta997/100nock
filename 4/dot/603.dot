@@ -1,0 +1,11 @@
+digraph graph603 {
+	node0 [label="早く"];
+	node1 [label="食い切って"];
+	node2 [label="逃げないと"];
+	node3 [label="御三が"];
+	node4 [label="来る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

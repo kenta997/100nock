@@ -1,0 +1,19 @@
+digraph graph789 {
+	node0 [label="「すると"];
+	node1 [label="ボイも"];
+	node2 [label="気の毒だと"];
+	node3 [label="見えて、"];
+	node4 [label="その内"];
+	node5 [label="材料が"];
+	node6 [label="参りましたら、"];
+	node7 [label="どうか"];
+	node8 [label="願いますってんでしょう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

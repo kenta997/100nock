@@ -1,0 +1,7 @@
+digraph graph3870 {
+	node0 [label="魂であるから"];
+	node1 [label="常に"];
+	node2 [label="ふらふらしている」"];
+	node0 -> node2;
+	node1 -> node2;
+}

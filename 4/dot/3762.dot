@@ -1,0 +1,5 @@
+digraph graph3762 {
+	node0 [label="「脚本は"];
+	node1 [label="えらい。"];
+	node0 -> node1;
+}

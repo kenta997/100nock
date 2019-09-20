@@ -1,0 +1,5 @@
+digraph graph5308 {
+	node0 [label="「冗談"];
+	node1 [label="云っちゃいけない。"];
+	node0 -> node1;
+}

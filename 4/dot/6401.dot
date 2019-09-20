@@ -1,0 +1,37 @@
+digraph graph6401 {
+	node0 [label="親兄弟に"];
+	node1 [label="見離され、"];
+	node2 [label="あかの"];
+	node3 [label="他人の"];
+	node4 [label="傾城に、"];
+	node5 [label="可愛"];
+	node6 [label="がらり"];
+	node7 [label="ょうはずがない、"];
+	node8 [label="とある"];
+	node9 [label="以上は、"];
+	node10 [label="細君にさえ"];
+	node11 [label="持てない"];
+	node12 [label="主人が、"];
+	node13 [label="世間一般の"];
+	node14 [label="淑女に"];
+	node15 [label="気に入る"];
+	node16 [label="はずが"];
+	node17 [label="ない。"];
+	node0 -> node1;
+	node1 -> node17;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node17;
+	node5 -> node17;
+	node6 -> node17;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node17;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node17;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

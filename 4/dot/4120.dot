@@ -1,0 +1,21 @@
+digraph graph4120 {
+	node0 [label="これは"];
+	node1 [label="やり損う"];
+	node2 [label="事も"];
+	node3 [label="まま"];
+	node4 [label="あるが、"];
+	node5 [label="首尾"];
+	node6 [label="よく"];
+	node7 [label="行くと"];
+	node8 [label="お慰に"];
+	node9 [label="なる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

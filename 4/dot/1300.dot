@@ -1,0 +1,5 @@
+digraph graph1300 {
+	node0 [label="失敬な"];
+	node1 [label="奴だ。"];
+	node0 -> node1;
+}

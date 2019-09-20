@@ -1,0 +1,11 @@
+digraph graph9168 {
+	node0 [label="　我に"];
+	node1 [label="帰った"];
+	node2 [label="ときは"];
+	node3 [label="水の上に"];
+	node4 [label="浮いている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

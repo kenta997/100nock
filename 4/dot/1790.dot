@@ -1,0 +1,25 @@
+digraph graph1790 {
+	node0 [label="迷亭は"];
+	node1 [label="銭に"];
+	node2 [label="不自由は"];
+	node3 [label="しないが、"];
+	node4 [label="あんな"];
+	node5 [label="偶然童子だから、"];
+	node6 [label="寒月に"];
+	node7 [label="援けを"];
+	node8 [label="与える"];
+	node9 [label="便宜は"];
+	node10 [label="尠"];
+	node11 [label="かろう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

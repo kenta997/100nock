@@ -1,0 +1,9 @@
+digraph graph3789 {
+	node0 [label="「たった"];
+	node1 [label="それだけで"];
+	node2 [label="俳劇は"];
+	node3 [label="すさまじいね。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

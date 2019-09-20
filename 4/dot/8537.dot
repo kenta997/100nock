@@ -1,0 +1,15 @@
+digraph graph8537 {
+	node0 [label="「親切の"];
+	node1 [label="方の"];
+	node2 [label="自覚心は"];
+	node3 [label="まあ"];
+	node4 [label="いいがね」と"];
+	node5 [label="独仙君は"];
+	node6 [label="進行する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

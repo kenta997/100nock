@@ -1,0 +1,27 @@
+digraph graph1185 {
+	node0 [label="是非"];
+	node1 [label="連れて行ってやりたいが"];
+	node2 [label="こう"];
+	node3 [label="悪寒が"];
+	node4 [label="して"];
+	node5 [label="眼が"];
+	node6 [label="くらんでは"];
+	node7 [label="電車へ"];
+	node8 [label="乗るどころか、"];
+	node9 [label="靴脱へ"];
+	node10 [label="降りる"];
+	node11 [label="事も"];
+	node12 [label="出来ない。"];
+	node0 -> node1;
+	node1 -> node12;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

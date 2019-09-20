@@ -1,0 +1,7 @@
+digraph graph5679 {
+	node0 [label="「このくらい"];
+	node1 [label="離れると"];
+	node2 [label="そんなでもない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

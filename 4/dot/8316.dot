@@ -1,0 +1,9 @@
+digraph graph8316 {
+	node0 [label="これなら"];
+	node1 [label="大丈夫と"];
+	node2 [label="ぬっくと"];
+	node3 [label="立ち上がる……」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

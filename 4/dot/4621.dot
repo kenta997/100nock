@@ -1,0 +1,7 @@
+digraph graph4621 {
+	node0 [label="長い"];
+	node1 [label="字を"];
+	node2 [label="知ってるか」"];
+	node0 -> node1;
+	node1 -> node2;
+}

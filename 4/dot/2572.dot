@@ -1,0 +1,15 @@
+digraph graph2572 {
+	node0 [label="「軟化は"];
+	node1 [label="せん、"];
+	node2 [label="僕は"];
+	node3 [label="決して"];
+	node4 [label="軟化は"];
+	node5 [label="せん"];
+	node6 [label="しかし……」"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,7 @@
+digraph graph1867 {
+	node0 [label="そらあすこにも"];
+	node1 [label="何か事が"];
+	node2 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+}

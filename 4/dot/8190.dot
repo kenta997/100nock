@@ -1,0 +1,17 @@
+digraph graph8190 {
+	node0 [label="秋"];
+	node1 [label="淋し"];
+	node2 [label="つづらに"];
+	node3 [label="かくす"];
+	node4 [label="ヴァイオリンは"];
+	node5 [label="どう"];
+	node6 [label="だい、"];
+	node7 [label="両君」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

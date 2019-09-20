@@ -1,0 +1,23 @@
+digraph graph1201 {
+	node0 [label="あなたくらい"];
+	node1 [label="冷酷な"];
+	node2 [label="人は"];
+	node3 [label="ありはしないと"];
+	node4 [label="非常な"];
+	node5 [label="権幕なんで、"];
+	node6 [label="僕も"];
+	node7 [label="せっかくの"];
+	node8 [label="計画の"];
+	node9 [label="腰を"];
+	node10 [label="折られてしまった。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

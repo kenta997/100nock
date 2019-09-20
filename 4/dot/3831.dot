@@ -1,0 +1,9 @@
+digraph graph3831 {
+	node0 [label="おお我、"];
+	node1 [label="ああ我、"];
+	node2 [label="辛き"];
+	node3 [label="この世に"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

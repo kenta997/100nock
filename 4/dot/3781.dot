@@ -1,0 +1,27 @@
+digraph graph3781 {
+	node0 [label="着付けは"];
+	node1 [label="陸軍の"];
+	node2 [label="御用達"];
+	node3 [label="見たようだけれども"];
+	node4 [label="俳人だから"];
+	node5 [label="なるべく"];
+	node6 [label="悠々として"];
+	node7 [label="腹の中では"];
+	node8 [label="句案に"];
+	node9 [label="余念の"];
+	node10 [label="ない"];
+	node11 [label="体であるか"];
+	node12 [label="なくっちゃいけない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node12;
+	node7 -> node12;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

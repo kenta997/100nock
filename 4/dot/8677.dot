@@ -1,0 +1,9 @@
+digraph graph8677 {
+	node0 [label="上等品だから"];
+	node1 [label="みんな"];
+	node2 [label="高価に"];
+	node3 [label="きまってる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

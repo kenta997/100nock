@@ -1,0 +1,13 @@
+digraph graph4296 {
+	node0 [label="西洋人は"];
+	node1 [label="強いから"];
+	node2 [label="無理でも"];
+	node3 [label="馬鹿気ていても"];
+	node4 [label="真似なければ"];
+	node5 [label="やり切れないのだろう。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

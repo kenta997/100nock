@@ -1,0 +1,15 @@
+digraph graph521 {
+	node0 [label="これも"];
+	node1 [label="多少"];
+	node2 [label="やったが"];
+	node3 [label="何となく"];
+	node4 [label="腹中が"];
+	node5 [label="不安で"];
+	node6 [label="困る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,31 @@
+digraph graph1838 {
+	node0 [label="月並な"];
+	node1 [label="西洋館も"];
+	node2 [label="なく、"];
+	node3 [label="模範勝手も"];
+	node4 [label="なく、"];
+	node5 [label="車屋の"];
+	node6 [label="神さんも、"];
+	node7 [label="権助も、"];
+	node8 [label="飯焚も、"];
+	node9 [label="御嬢さまも、"];
+	node10 [label="仲働きも、"];
+	node11 [label="鼻子夫人も、"];
+	node12 [label="夫人の"];
+	node13 [label="旦那様も"];
+	node14 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

@@ -1,0 +1,5 @@
+digraph graph7525 {
+	node0 [label="「君も"];
+	node1 [label="心配だろうが……」"];
+	node0 -> node1;
+}

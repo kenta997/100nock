@@ -1,0 +1,29 @@
+digraph graph5768 {
+	node0 [label="自分を"];
+	node1 [label="歓迎した"];
+	node2 [label="後なら"];
+	node3 [label="大抵の"];
+	node4 [label="ものは"];
+	node5 [label="歓迎しそうであるが、"];
+	node6 [label="自分が"];
+	node7 [label="朝夕に"];
+	node8 [label="差し支える"];
+	node9 [label="間は、"];
+	node10 [label="歓迎は"];
+	node11 [label="華族様に"];
+	node12 [label="任せておく"];
+	node13 [label="了見らしい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

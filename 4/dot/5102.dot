@@ -1,0 +1,5 @@
+digraph graph5102 {
+	node0 [label="猛然として"];
+	node1 [label="馳け出した。"];
+	node0 -> node1;
+}

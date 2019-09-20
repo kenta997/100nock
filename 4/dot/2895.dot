@@ -1,0 +1,11 @@
+digraph graph2895 {
+	node0 [label="「その"];
+	node1 [label="風は"];
+	node2 [label="なんだ、"];
+	node3 [label="宿場女郎の"];
+	node4 [label="出来損い見たようだ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

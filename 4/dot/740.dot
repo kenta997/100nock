@@ -1,0 +1,11 @@
+digraph graph740 {
+	node0 [label="しゃけの"];
+	node1 [label="一切や"];
+	node2 [label="二切で"];
+	node3 [label="相変らずた"];
+	node4 [label="あ何だ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

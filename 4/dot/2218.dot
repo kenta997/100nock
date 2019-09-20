@@ -1,0 +1,21 @@
+digraph graph2218 {
+	node0 [label="御両人は"];
+	node1 [label="結婚後"];
+	node2 [label="一ヵ年も"];
+	node3 [label="立たぬ"];
+	node4 [label="間に"];
+	node5 [label="礼儀作法などと"];
+	node6 [label="窮屈な"];
+	node7 [label="境遇を"];
+	node8 [label="脱却せられた"];
+	node9 [label="超然的夫婦である。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

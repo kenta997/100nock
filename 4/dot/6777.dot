@@ -1,0 +1,11 @@
+digraph graph6777 {
+	node0 [label="「ところが"];
+	node1 [label="鈴木さんは、"];
+	node2 [label="うちじゃ"];
+	node3 [label="評判が"];
+	node4 [label="わるいのよ」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

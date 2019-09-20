@@ -1,0 +1,21 @@
+digraph graph4298 {
+	node0 [label="気が"];
+	node1 [label="利かんでも"];
+	node2 [label="仕方がないと"];
+	node3 [label="云うなら"];
+	node4 [label="勘弁するから、"];
+	node5 [label="あまり"];
+	node6 [label="日本人を"];
+	node7 [label="えらい"];
+	node8 [label="者と"];
+	node9 [label="思ってはいけない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

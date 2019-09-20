@@ -1,0 +1,13 @@
+digraph graph1871 {
+	node0 [label="惜哉障子越しで"];
+	node1 [label="玉の"];
+	node2 [label="御姿を"];
+	node3 [label="拝する"];
+	node4 [label="事が"];
+	node5 [label="出来ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

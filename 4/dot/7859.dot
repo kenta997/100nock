@@ -1,0 +1,7 @@
+digraph graph7859 {
+	node0 [label="どこへ"];
+	node1 [label="行ったの"];
+	node2 [label="だい」"];
+	node0 -> node1;
+	node1 -> node2;
+}

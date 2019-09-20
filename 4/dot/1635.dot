@@ -1,0 +1,11 @@
+digraph graph1635 {
+	node0 [label="「御忘れに"];
+	node1 [label="なったら"];
+	node2 [label="私しから"];
+	node3 [label="御話を"];
+	node4 [label="しましょう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

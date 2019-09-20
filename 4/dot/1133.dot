@@ -1,0 +1,33 @@
+digraph graph1133 {
+	node0 [label="その"];
+	node1 [label="時に"];
+	node2 [label="私は"];
+	node3 [label="この"];
+	node4 [label="「夜」の"];
+	node5 [label="中に"];
+	node6 [label="巻き込まれて、"];
+	node7 [label="あの"];
+	node8 [label="声の"];
+	node9 [label="出る"];
+	node10 [label="所へ"];
+	node11 [label="行きたいと"];
+	node12 [label="云う"];
+	node13 [label="気が"];
+	node14 [label="むらむらと"];
+	node15 [label="起ったのです。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

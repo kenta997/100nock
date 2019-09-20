@@ -1,0 +1,5 @@
+digraph graph8078 {
+	node0 [label="「犬は"];
+	node1 [label="残酷ですね。"];
+	node0 -> node1;
+}

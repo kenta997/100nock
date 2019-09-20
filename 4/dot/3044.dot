@@ -1,0 +1,27 @@
+digraph graph3044 {
+	node0 [label="どうも"];
+	node1 [label="妻が"];
+	node2 [label="俺の"];
+	node3 [label="ジャムの"];
+	node4 [label="舐め方が"];
+	node5 [label="烈しいと"];
+	node6 [label="云って"];
+	node7 [label="困るが、"];
+	node8 [label="俺は"];
+	node9 [label="そんなに"];
+	node10 [label="舐める"];
+	node11 [label="つもりは"];
+	node12 [label="ない。"];
+	node0 -> node6;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

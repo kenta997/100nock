@@ -1,0 +1,15 @@
+digraph graph2593 {
+	node0 [label="それ"];
+	node1 [label="故に"];
+	node2 [label="褒美にも"];
+	node3 [label="なり、"];
+	node4 [label="奨励の"];
+	node5 [label="具とも"];
+	node6 [label="なる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

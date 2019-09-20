@@ -1,0 +1,27 @@
+digraph graph2911 {
+	node0 [label="「糸織の"];
+	node1 [label="羽織です、"];
+	node2 [label="あれは"];
+	node3 [label="河野の"];
+	node4 [label="叔母さんの"];
+	node5 [label="形身に"];
+	node6 [label="もらったんで、"];
+	node7 [label="同じ"];
+	node8 [label="糸織でも"];
+	node9 [label="今の"];
+	node10 [label="糸織とは、"];
+	node11 [label="たちが"];
+	node12 [label="違います」"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

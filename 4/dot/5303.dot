@@ -1,0 +1,7 @@
+digraph graph5303 {
+	node0 [label="心配が"];
+	node1 [label="一番"];
+	node2 [label="毒だからな。"];
+	node0 -> node2;
+	node1 -> node2;
+}

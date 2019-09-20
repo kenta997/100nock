@@ -1,0 +1,25 @@
+digraph graph5031 {
+	node0 [label="それで"];
+	node1 [label="まず"];
+	node2 [label="蜂の"];
+	node3 [label="陣立て"];
+	node4 [label="いかんと"];
+	node5 [label="見てあると、"];
+	node6 [label="四つ目垣の"];
+	node7 [label="外側に"];
+	node8 [label="縦列を"];
+	node9 [label="形ちづくった"];
+	node10 [label="一隊が"];
+	node11 [label="ある。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

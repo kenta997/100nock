@@ -1,0 +1,19 @@
+digraph graph7725 {
+	node0 [label="明治の"];
+	node1 [label="秀才は"];
+	node2 [label="ヴァイオリンを"];
+	node3 [label="抱いて"];
+	node4 [label="寝なくっちゃ"];
+	node5 [label="古人を"];
+	node6 [label="凌ぐ"];
+	node7 [label="訳には"];
+	node8 [label="行かないよ。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

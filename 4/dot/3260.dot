@@ -1,0 +1,15 @@
+digraph graph3260 {
+	node0 [label="二口なら"];
+	node1 [label="どうにか、"];
+	node2 [label="こう"];
+	node3 [label="にか"];
+	node4 [label="やってのける"];
+	node5 [label="自信が"];
+	node6 [label="ある。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

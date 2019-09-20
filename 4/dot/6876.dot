@@ -1,0 +1,9 @@
+digraph graph6876 {
+	node0 [label="首尾"];
+	node1 [label="よく"];
+	node2 [label="煙に"];
+	node3 [label="捲いたの？"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

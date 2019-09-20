@@ -1,0 +1,11 @@
+digraph graph1695 {
+	node0 [label="鼻子は"];
+	node1 [label="下女が"];
+	node2 [label="新聞を"];
+	node3 [label="読むように"];
+	node4 [label="読み出す。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

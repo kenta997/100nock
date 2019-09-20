@@ -1,0 +1,35 @@
+digraph graph1344 {
+	node0 [label="やがて"];
+	node1 [label="「天然居士は"];
+	node2 [label="空間を"];
+	node3 [label="研究し、"];
+	node4 [label="論語を"];
+	node5 [label="読み、"];
+	node6 [label="焼芋を"];
+	node7 [label="食い、"];
+	node8 [label="鼻汁を"];
+	node9 [label="垂らす"];
+	node10 [label="人である」と"];
+	node11 [label="言文一致体で"];
+	node12 [label="一気呵成に"];
+	node13 [label="書き流した、"];
+	node14 [label="何となく"];
+	node15 [label="ごたごたした"];
+	node16 [label="文章である。"];
+	node0 -> node13;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

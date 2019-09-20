@@ -1,0 +1,15 @@
+digraph graph7958 {
+	node0 [label="「柿はいいが"];
+	node1 [label="それから、"];
+	node2 [label="どう"];
+	node3 [label="したい」と"];
+	node4 [label="今度は"];
+	node5 [label="東風君が"];
+	node6 [label="きく。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

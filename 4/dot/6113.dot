@@ -1,0 +1,9 @@
+digraph graph6113 {
+	node0 [label="あれが"];
+	node1 [label="十年前からの"];
+	node2 [label="御箱なんだから"];
+	node3 [label="おかしいよ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

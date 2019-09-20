@@ -1,0 +1,5 @@
+digraph graph8942 {
+	node0 [label="「何か"];
+	node1 [label="釣れたかい」"];
+	node0 -> node1;
+}

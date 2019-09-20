@@ -1,0 +1,15 @@
+digraph graph1760 {
+	node0 [label="それで"];
+	node1 [label="間に合ったの"];
+	node2 [label="かい」"];
+	node3 [label="「まあ、"];
+	node4 [label="どうにか、"];
+	node5 [label="こうに"];
+	node6 [label="かおっついたんだろう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

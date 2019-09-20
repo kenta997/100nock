@@ -1,0 +1,27 @@
+digraph graph8686 {
+	node0 [label="それじゃ"];
+	node1 [label="月賦で"];
+	node2 [label="いただきましょう、"];
+	node3 [label="月賦も"];
+	node4 [label="細く、"];
+	node5 [label="長く、"];
+	node6 [label="どうせ"];
+	node7 [label="これから"];
+	node8 [label="御贔屓に"];
+	node9 [label="なるんですから——いえ、"];
+	node10 [label="ちっとも"];
+	node11 [label="御遠慮には"];
+	node12 [label="及びません。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

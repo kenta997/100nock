@@ -1,0 +1,15 @@
+digraph graph5625 {
+	node0 [label="しかし"];
+	node1 [label="主人は"];
+	node2 [label="何の"];
+	node3 [label="ために"];
+	node4 [label="書斎で"];
+	node5 [label="鏡などを"];
+	node6 [label="振り舞わしているのであろう。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

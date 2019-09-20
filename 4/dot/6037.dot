@@ -1,0 +1,11 @@
+digraph graph6037 {
+	node0 [label="少し"];
+	node1 [label="気を"];
+	node2 [label="付けないと"];
+	node3 [label="人に"];
+	node4 [label="笑われる」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

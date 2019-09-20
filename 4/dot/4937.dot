@@ -1,0 +1,21 @@
+digraph graph4937 {
+	node0 [label="禿げ"];
+	node1 [label="頭を"];
+	node2 [label="日に"];
+	node3 [label="あてて"];
+	node4 [label="遠方から"];
+	node5 [label="見ると、"];
+	node6 [label="大変"];
+	node7 [label="よく"];
+	node8 [label="光る"];
+	node9 [label="ものだ。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,5 @@
+digraph graph2617 {
+	node0 [label="鈴木君は"];
+	node1 [label="利口者である。"];
+	node0 -> node1;
+}

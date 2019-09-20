@@ -1,0 +1,13 @@
+digraph graph6854 {
+	node0 [label="「その"];
+	node1 [label="法螺を"];
+	node2 [label="吹く"];
+	node3 [label="人は"];
+	node4 [label="何を"];
+	node5 [label="したんです」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

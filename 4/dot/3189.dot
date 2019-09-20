@@ -1,0 +1,29 @@
+digraph graph3189 {
+	node0 [label="とかく"];
+	node1 [label="物象にのみ"];
+	node2 [label="使役せらるる"];
+	node3 [label="俗人は、"];
+	node4 [label="五感の"];
+	node5 [label="刺激以外に"];
+	node6 [label="何等の"];
+	node7 [label="活動も"];
+	node8 [label="ないので、"];
+	node9 [label="他を"];
+	node10 [label="評価するのでも"];
+	node11 [label="形骸以外に"];
+	node12 [label="渉らんのは"];
+	node13 [label="厄介である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

@@ -1,0 +1,25 @@
+digraph graph3887 {
+	node0 [label="いくら"];
+	node1 [label="駄弁家の"];
+	node2 [label="寄合でも"];
+	node3 [label="そう"];
+	node4 [label="長くは"];
+	node5 [label="続かん"];
+	node6 [label="ものと"];
+	node7 [label="見えて、"];
+	node8 [label="談話の"];
+	node9 [label="火の手は"];
+	node10 [label="大分下火に"];
+	node11 [label="なった。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

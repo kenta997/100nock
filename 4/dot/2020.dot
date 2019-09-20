@@ -1,0 +1,27 @@
+digraph graph2020 {
+	node0 [label="「当り前さ結論の"];
+	node1 [label="ない"];
+	node2 [label="演舌は、"];
+	node3 [label="デザートの"];
+	node4 [label="ない"];
+	node5 [label="西洋料理のような"];
+	node6 [label="ものだ、——"];
+	node7 [label="いいか"];
+	node8 [label="両君"];
+	node9 [label="能く"];
+	node10 [label="聞き給え、"];
+	node11 [label="これからが"];
+	node12 [label="結論だぜ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node12;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

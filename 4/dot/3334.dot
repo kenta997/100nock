@@ -1,0 +1,5 @@
+digraph graph3334 {
+	node0 [label="距離は"];
+	node1 [label="五尺。"];
+	node0 -> node1;
+}

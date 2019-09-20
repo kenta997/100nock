@@ -1,0 +1,11 @@
+digraph graph6262 {
+	node0 [label="「僕が"];
+	node1 [label="泥棒に"];
+	node2 [label="近付きが"];
+	node3 [label="ある"];
+	node4 [label="もんか」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

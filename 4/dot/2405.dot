@@ -1,0 +1,15 @@
+digraph graph2405 {
+	node0 [label="従って"];
+	node1 [label="円転滑脱の"];
+	node2 [label="鈴木君も"];
+	node3 [label="ちょっと"];
+	node4 [label="狼狽の"];
+	node5 [label="気味に"];
+	node6 [label="見える。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

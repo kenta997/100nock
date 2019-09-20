@@ -1,0 +1,11 @@
+digraph graph3394 {
+	node0 [label="　"];
+	node1 [label="これでは"];
+	node2 [label="一手専売の"];
+	node3 [label="昼寝も"];
+	node4 [label="出来ない。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

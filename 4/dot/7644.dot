@@ -1,0 +1,15 @@
+digraph graph7644 {
+	node0 [label="ついで、"];
+	node1 [label="くりゃるな"];
+	node2 [label="八幡鐘をと、"];
+	node3 [label="こう"];
+	node4 [label="やったら、"];
+	node5 [label="どう"];
+	node6 [label="するかね」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

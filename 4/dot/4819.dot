@@ -1,0 +1,35 @@
+digraph graph4819 {
+	node0 [label="もし"];
+	node1 [label="追い懸けられたら"];
+	node2 [label="逃げるのに、"];
+	node3 [label="少々"];
+	node4 [label="ひまが"];
+	node5 [label="いるから、"];
+	node6 [label="予め"];
+	node7 [label="逃げる"];
+	node8 [label="時間を"];
+	node9 [label="勘定に"];
+	node10 [label="入れて、"];
+	node11 [label="捕えら"];
+	node12 [label="るる"];
+	node13 [label="危険の"];
+	node14 [label="ない所で"];
+	node15 [label="遊弋を"];
+	node16 [label="している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node16;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

@@ -1,0 +1,35 @@
+digraph graph866 {
+	node0 [label="「右の如く"];
+	node1 [label="謡曲会、"];
+	node2 [label="俳句会、"];
+	node3 [label="短歌会、"];
+	node4 [label="新体詩会等、"];
+	node5 [label="会の"];
+	node6 [label="連発にて"];
+	node7 [label="当分の"];
+	node8 [label="間は、"];
+	node9 [label="のべつ幕無しに"];
+	node10 [label="出勤致し"];
+	node11 [label="候為め、"];
+	node12 [label="不得已賀状を以て"];
+	node13 [label="拝趨の"];
+	node14 [label="礼に"];
+	node15 [label="易"];
+	node16 [label="え候段不悪御宥恕被下度候。"];
+	node0 -> node16;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node16;
+	node10 -> node16;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

@@ -1,0 +1,5 @@
+digraph graph2412 {
+	node0 [label="「あの"];
+	node1 [label="娘がか」"];
+	node0 -> node1;
+}

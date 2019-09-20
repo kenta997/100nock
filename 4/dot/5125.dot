@@ -1,0 +1,11 @@
+digraph graph5125 {
+	node0 [label="大抵は"];
+	node1 [label="上衣"];
+	node2 [label="もちょっ"];
+	node3 [label="着も"];
+	node4 [label="つけておらん。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,27 @@
+digraph graph1835 {
+	node0 [label="なるほど"];
+	node1 [label="この"];
+	node2 [label="手合が"];
+	node3 [label="苦"];
+	node4 [label="沙弥先生を"];
+	node5 [label="冷やかしに"];
+	node6 [label="来るなと"];
+	node7 [label="三人の"];
+	node8 [label="横を、"];
+	node9 [label="そっと"];
+	node10 [label="通り抜けて"];
+	node11 [label="奥へ"];
+	node12 [label="這入る。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

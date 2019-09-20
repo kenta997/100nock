@@ -1,0 +1,37 @@
+digraph graph1809 {
+	node0 [label="猫と"];
+	node1 [label="生れた"];
+	node2 [label="因果で"];
+	node3 [label="寒月、"];
+	node4 [label="迷亭、"];
+	node5 [label="苦沙弥諸先生と"];
+	node6 [label="三寸の"];
+	node7 [label="舌頭に"];
+	node8 [label="相互の"];
+	node9 [label="思想を"];
+	node10 [label="交換する"];
+	node11 [label="技倆は"];
+	node12 [label="ないが、"];
+	node13 [label="猫だけに"];
+	node14 [label="忍びの"];
+	node15 [label="術は"];
+	node16 [label="諸先生より"];
+	node17 [label="達者である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node17;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

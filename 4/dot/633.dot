@@ -1,0 +1,9 @@
+digraph graph633 {
+	node0 [label="面白い"];
+	node1 [label="面白いと"];
+	node2 [label="云うのは"];
+	node3 [label="小供ばかりである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

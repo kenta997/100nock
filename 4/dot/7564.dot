@@ -1,0 +1,5 @@
+digraph graph7564 {
+	node0 [label="「とにかく"];
+	node1 [label="可愛想ですよ。"];
+	node0 -> node1;
+}

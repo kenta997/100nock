@@ -1,0 +1,25 @@
+digraph graph2659 {
+	node0 [label="隣町の"];
+	node1 [label="下宿で"];
+	node2 [label="明笛を"];
+	node3 [label="吹くのが"];
+	node4 [label="絶えたり"];
+	node5 [label="続いたりして"];
+	node6 [label="眠い"];
+	node7 [label="耳底に"];
+	node8 [label="折々"];
+	node9 [label="鈍い"];
+	node10 [label="刺激を"];
+	node11 [label="与える。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,15 @@
+digraph graph8023 {
+	node0 [label="要するに"];
+	node1 [label="ヴァイオリンを"];
+	node2 [label="買ったのか、"];
+	node3 [label="買わないのか」と"];
+	node4 [label="主人が"];
+	node5 [label="じれったそうに"];
+	node6 [label="聞く。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

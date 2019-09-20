@@ -1,0 +1,15 @@
+digraph graph2086 {
+	node0 [label="人を"];
+	node1 [label="人と"];
+	node2 [label="思わない"];
+	node3 [label="くらいなら"];
+	node4 [label="猫を"];
+	node5 [label="猫とも"];
+	node6 [label="思うまい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

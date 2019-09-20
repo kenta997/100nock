@@ -1,0 +1,19 @@
+digraph graph4419 {
+	node0 [label="坊主が"];
+	node1 [label="石壁を"];
+	node2 [label="向いて"];
+	node3 [label="しゃがんでいると"];
+	node4 [label="後ろから、"];
+	node5 [label="小坊主が"];
+	node6 [label="しきりに"];
+	node7 [label="肩を"];
+	node8 [label="叩いている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

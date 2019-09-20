@@ -1,0 +1,15 @@
+digraph graph2411 {
+	node0 [label="何でも"];
+	node1 [label="時々は"];
+	node2 [label="寒月君の"];
+	node3 [label="悪口を"];
+	node4 [label="云う"];
+	node5 [label="事も"];
+	node6 [label="あるそうだがね」"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

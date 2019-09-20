@@ -1,0 +1,11 @@
+digraph graph8098 {
+	node0 [label="罪人は"];
+	node1 [label="いいですが"];
+	node2 [label="十時に"];
+	node3 [label="ならないのには"];
+	node4 [label="弱りました」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

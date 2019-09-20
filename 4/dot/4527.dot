@@ -1,0 +1,7 @@
+digraph graph4527 {
+	node0 [label="ニーチェの"];
+	node1 [label="いわゆる"];
+	node2 [label="超人だ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

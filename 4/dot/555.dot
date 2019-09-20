@@ -1,0 +1,11 @@
+digraph graph555 {
+	node0 [label="友人は"];
+	node1 [label="訳が"];
+	node2 [label="わからず"];
+	node3 [label="にくっ"];
+	node4 [label="付いて行く。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

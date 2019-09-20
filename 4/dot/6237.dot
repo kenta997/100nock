@@ -1,0 +1,7 @@
+digraph graph6237 {
+	node0 [label="巡査だけは"];
+	node1 [label="存外"];
+	node2 [label="真面目である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

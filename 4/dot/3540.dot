@@ -1,0 +1,27 @@
+digraph graph3540 {
+	node0 [label="迷亭は"];
+	node1 [label="何にも"];
+	node2 [label="云わないで"];
+	node3 [label="箸を"];
+	node4 [label="置いて"];
+	node5 [label="胸を"];
+	node6 [label="二三度"];
+	node7 [label="敲いたが"];
+	node8 [label="「奥さん笊は"];
+	node9 [label="大抵"];
+	node10 [label="三口半か"];
+	node11 [label="四口で"];
+	node12 [label="食うんですね。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

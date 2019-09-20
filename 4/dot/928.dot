@@ -1,0 +1,35 @@
+digraph graph928 {
+	node0 [label="これですって"];
+	node1 [label="三毛を"];
+	node2 [label="膝の"];
+	node3 [label="上へ"];
+	node4 [label="直したら、"];
+	node5 [label="にやにや"];
+	node6 [label="笑いながら、"];
+	node7 [label="猫の"];
+	node8 [label="病気は"];
+	node9 [label="わしにも"];
+	node10 [label="分らん、"];
+	node11 [label="抛っておいたら"];
+	node12 [label="今に"];
+	node13 [label="癒るだろうってんです"];
+	node14 [label="もの、"];
+	node15 [label="あんまり"];
+	node16 [label="苛いじゃございませんか。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node16;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

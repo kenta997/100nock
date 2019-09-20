@@ -1,0 +1,29 @@
+digraph graph1166 {
+	node0 [label="あなたは"];
+	node1 [label="三十三間堂も"];
+	node2 [label="御嫌いか"];
+	node3 [label="知らないが、"];
+	node4 [label="私に"];
+	node5 [label="聞かせるのだから"];
+	node6 [label="いっしょに"];
+	node7 [label="行って"];
+	node8 [label="下すっても"];
+	node9 [label="宜"];
+	node10 [label="いでしょうと"];
+	node11 [label="手詰の"];
+	node12 [label="談判を"];
+	node13 [label="する。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

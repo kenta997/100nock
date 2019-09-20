@@ -1,0 +1,9 @@
+digraph graph4716 {
+	node0 [label="但し"];
+	node1 [label="ほかに"];
+	node2 [label="言葉が"];
+	node3 [label="ないのである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,17 @@
+digraph graph2068 {
+	node0 [label="——"];
+	node1 [label="しかし"];
+	node2 [label="猫の"];
+	node3 [label="悲しさは"];
+	node4 [label="力ずくでは"];
+	node5 [label="到底"];
+	node6 [label="人間には"];
+	node7 [label="叶わない。"];
+	node0 -> node7;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,5 @@
+digraph graph7056 {
+	node0 [label="「どこって"];
+	node1 [label="日本堤界隈さ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,15 @@
+digraph graph530 {
+	node0 [label="主人の"];
+	node1 [label="心は"];
+	node2 [label="吾輩の"];
+	node3 [label="眼球のように"];
+	node4 [label="間断"];
+	node5 [label="なく"];
+	node6 [label="変化している。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

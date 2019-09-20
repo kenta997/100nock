@@ -1,0 +1,5 @@
+digraph graph9196 {
+	node0 [label="勝手にするが"];
+	node1 [label="いい。"];
+	node0 -> node1;
+}

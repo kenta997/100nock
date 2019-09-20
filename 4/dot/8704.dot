@@ -1,0 +1,19 @@
+digraph graph8704 {
+	node0 [label="人間は"];
+	node1 [label="利口のようだが、"];
+	node2 [label="習慣に"];
+	node3 [label="迷って、"];
+	node4 [label="根本を"];
+	node5 [label="忘れると"];
+	node6 [label="云う"];
+	node7 [label="大弱点が"];
+	node8 [label="ある。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

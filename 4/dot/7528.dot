@@ -1,0 +1,9 @@
+digraph graph7528 {
+	node0 [label="いくら、"];
+	node1 [label="艶書が"];
+	node2 [label="降り込んだって"];
+	node3 [label="大丈夫です」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,9 @@
+digraph graph5512 {
+	node0 [label="西洋人の"];
+	node1 [label="遣り口は"];
+	node2 [label="みんな"];
+	node3 [label="これさ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

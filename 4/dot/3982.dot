@@ -1,0 +1,15 @@
+digraph graph3982 {
+	node0 [label="これだけ"];
+	node1 [label="参ると"];
+	node2 [label="眼識の"];
+	node3 [label="ある"];
+	node4 [label="蟷螂なら"];
+	node5 [label="必ず"];
+	node6 [label="逃げ出す。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

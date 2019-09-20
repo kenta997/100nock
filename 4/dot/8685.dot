@@ -1,0 +1,9 @@
+digraph graph8685 {
+	node0 [label="客は"];
+	node1 [label="そうも"];
+	node2 [label="行かないからと"];
+	node3 [label="躊躇する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

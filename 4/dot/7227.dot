@@ -1,0 +1,13 @@
+digraph graph7227 {
+	node0 [label="のみならず、"];
+	node1 [label="時々は"];
+	node2 [label="夢に"];
+	node3 [label="見るくらい"];
+	node4 [label="感銘した"];
+	node5 [label="頭である。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

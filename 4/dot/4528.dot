@@ -1,0 +1,5 @@
+digraph graph4528 {
+	node0 [label="魔中の"];
+	node1 [label="大王だ。"];
+	node0 -> node1;
+}

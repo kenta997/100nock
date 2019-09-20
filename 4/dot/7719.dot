@@ -1,0 +1,9 @@
+digraph graph7719 {
+	node0 [label="「ヴァイオリンも"];
+	node1 [label="抱いて"];
+	node2 [label="寝たの"];
+	node3 [label="かい」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

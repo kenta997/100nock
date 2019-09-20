@@ -1,0 +1,19 @@
+digraph graph6612 {
+	node0 [label="これほど"];
+	node1 [label="おやじが"];
+	node2 [label="処置に"];
+	node3 [label="窮しているとは"];
+	node4 [label="夢にも"];
+	node5 [label="知らず、"];
+	node6 [label="楽しそうに"];
+	node7 [label="ご飯を"];
+	node8 [label="たべる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

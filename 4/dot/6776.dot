@@ -1,0 +1,13 @@
+digraph graph6776 {
+	node0 [label="ああ"];
+	node1 [label="云う"];
+	node2 [label="穏やかな"];
+	node3 [label="人だと"];
+	node4 [label="よっぽど"];
+	node5 [label="楽ですがねえ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

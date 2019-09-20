@@ -1,0 +1,15 @@
+digraph graph7623 {
+	node0 [label="引き寄せて"];
+	node1 [label="結べば"];
+	node2 [label="草の"];
+	node3 [label="庵にて、"];
+	node4 [label="解くれば"];
+	node5 [label="もとの"];
+	node6 [label="野原なりけり。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

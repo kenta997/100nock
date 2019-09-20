@@ -1,0 +1,17 @@
+digraph graph606 {
+	node0 [label="考えて"];
+	node1 [label="見ると"];
+	node2 [label="耳と"];
+	node3 [label="尻尾は"];
+	node4 [label="餅と"];
+	node5 [label="何等の"];
+	node6 [label="関係も"];
+	node7 [label="ない。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

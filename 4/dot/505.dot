@@ -1,0 +1,13 @@
+digraph graph505 {
+	node0 [label="人間の"];
+	node1 [label="日記の"];
+	node2 [label="本色は"];
+	node3 [label="こう"];
+	node4 [label="云う辺に"];
+	node5 [label="存するのかも知れない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

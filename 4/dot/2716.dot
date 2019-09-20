@@ -1,0 +1,5 @@
+digraph graph2716 {
+	node0 [label="決して"];
+	node1 [label="鼠ではない。"];
+	node0 -> node1;
+}

@@ -1,0 +1,23 @@
+digraph graph4592 {
+	node0 [label="ところが"];
+	node1 [label="主人の"];
+	node2 [label="自信は"];
+	node3 [label="えらい"];
+	node4 [label="もので、"];
+	node5 [label="おれが"];
+	node6 [label="神経病じゃない、"];
+	node7 [label="世の中の"];
+	node8 [label="奴が"];
+	node9 [label="神経病だと"];
+	node10 [label="頑張っている。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

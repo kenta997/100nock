@@ -1,0 +1,11 @@
+digraph graph7505 {
+	node0 [label="こないだ"];
+	node1 [label="コロンバスを"];
+	node2 [label="訳して下さいって"];
+	node3 [label="大に"];
+	node4 [label="弱った」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

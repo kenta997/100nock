@@ -1,0 +1,13 @@
+digraph graph1286 {
+	node0 [label="不器量な"];
+	node1 [label="野良猫は"];
+	node2 [label="達者で"];
+	node3 [label="いたずらを"];
+	node4 [label="しているし……」"];
+	node5 [label="「その通りでございますよ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,15 @@
+digraph graph5769 {
+	node0 [label="主人は"];
+	node1 [label="第二信を"];
+	node2 [label="取り上げたが"];
+	node3 [label="「ヤ、"];
+	node4 [label="これも"];
+	node5 [label="活版だ」と"];
+	node6 [label="云った。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

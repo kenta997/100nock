@@ -1,0 +1,19 @@
+digraph graph811 {
+	node0 [label="鼻から"];
+	node1 [label="吹き出した"];
+	node2 [label="日の出の"];
+	node3 [label="煙りが"];
+	node4 [label="耳を"];
+	node5 [label="掠めて"];
+	node6 [label="顔の"];
+	node7 [label="横手へ"];
+	node8 [label="廻る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

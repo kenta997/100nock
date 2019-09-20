@@ -1,0 +1,23 @@
+digraph graph2119 {
+	node0 [label="よしんば、"];
+	node1 [label="ちっとや"];
+	node2 [label="そっと、"];
+	node3 [label="何か"];
+	node4 [label="云ったって"];
+	node5 [label="小供じゃありませんか、"];
+	node6 [label="髯面の"];
+	node7 [label="大僧の"];
+	node8 [label="癖に"];
+	node9 [label="しかも"];
+	node10 [label="教師じゃありませんか」"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

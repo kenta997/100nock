@@ -1,0 +1,11 @@
+digraph graph7499 {
+	node0 [label="寒月君は"];
+	node1 [label="もっと"];
+	node2 [label="令嬢らしいのを"];
+	node3 [label="貰うが"];
+	node4 [label="いい。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

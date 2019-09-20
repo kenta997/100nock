@@ -1,0 +1,17 @@
+digraph graph7463 {
+	node0 [label="「どうして」と"];
+	node1 [label="細君は"];
+	node2 [label="少々"];
+	node3 [label="驚ろいた"];
+	node4 [label="体で"];
+	node5 [label="笑いを"];
+	node6 [label="はたと"];
+	node7 [label="留める。"];
+	node0 -> node7;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

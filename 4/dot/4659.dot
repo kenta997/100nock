@@ -1,0 +1,11 @@
+digraph graph4659 {
+	node0 [label="桂月が"];
+	node1 [label="勧めなくっても"];
+	node2 [label="金さえ"];
+	node3 [label="あれば"];
+	node4 [label="やるかも知れない」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

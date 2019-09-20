@@ -1,0 +1,11 @@
+digraph graph8149 {
+	node0 [label="穴を"];
+	node1 [label="掘って"];
+	node2 [label="埋めちゃ"];
+	node3 [label="掘り出すのが"];
+	node4 [label="面倒だろう」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

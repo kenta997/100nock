@@ -1,0 +1,13 @@
+digraph graph3352 {
+	node0 [label="「泥棒！」と"];
+	node1 [label="主人は"];
+	node2 [label="胴間声を"];
+	node3 [label="張り上げて"];
+	node4 [label="寝室から"];
+	node5 [label="飛び出して来る。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

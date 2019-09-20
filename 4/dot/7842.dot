@@ -1,0 +1,15 @@
+digraph graph7842 {
+	node0 [label="そうして"];
+	node1 [label="塩風に"];
+	node2 [label="吹かれつけている"];
+	node3 [label="せいか、"];
+	node4 [label="どうも、"];
+	node5 [label="色が"];
+	node6 [label="黒いね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

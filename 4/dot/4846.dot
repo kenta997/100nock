@@ -1,0 +1,7 @@
+digraph graph4846 {
+	node0 [label="　事件は"];
+	node1 [label="大概逆上から"];
+	node2 [label="出る者だ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

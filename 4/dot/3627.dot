@@ -1,0 +1,27 @@
+digraph graph3627 {
+	node0 [label="「それから"];
+	node1 [label="明朝に"];
+	node2 [label="なって"];
+	node3 [label="眼を"];
+	node4 [label="覚してからが"];
+	node5 [label="失恋で"];
+	node6 [label="さあ」"];
+	node7 [label="「どうか"];
+	node8 [label="なさったんですか」"];
+	node9 [label="「いえ"];
+	node10 [label="別に"];
+	node11 [label="どうも"];
+	node12 [label="しやしませんがね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

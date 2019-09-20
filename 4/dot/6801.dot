@@ -1,0 +1,15 @@
+digraph graph6801 {
+	node0 [label="妻君は"];
+	node1 [label="「そんなに"];
+	node2 [label="騒がないで、"];
+	node3 [label="みんな"];
+	node4 [label="静かにして"];
+	node5 [label="御坐"];
+	node6 [label="わりなさい。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

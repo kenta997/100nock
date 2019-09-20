@@ -1,0 +1,23 @@
+digraph graph6332 {
+	node0 [label="舌上に"];
+	node1 [label="竜泉なく、"];
+	node2 [label="腋下に"];
+	node3 [label="清風を"];
+	node4 [label="生ぜざるも、"];
+	node5 [label="歯根に"];
+	node6 [label="狂臭"];
+	node7 [label="あり、"];
+	node8 [label="筋頭に"];
+	node9 [label="瘋味あるを"];
+	node10 [label="いかんせん。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

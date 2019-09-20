@@ -1,0 +1,11 @@
+digraph graph1602 {
+	node0 [label="知っても"];
+	node1 [label="尊敬畏服の"];
+	node2 [label="念は"];
+	node3 [label="毫も"];
+	node4 [label="起らんのである。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

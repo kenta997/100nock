@@ -1,0 +1,31 @@
+digraph graph418 {
+	node0 [label="或"];
+	node1 [label="人は"];
+	node2 [label="失恋の"];
+	node3 [label="ためだとも"];
+	node4 [label="云うし、"];
+	node5 [label="或人は"];
+	node6 [label="胃弱の"];
+	node7 [label="せいだとも"];
+	node8 [label="云うし、また"];
+	node9 [label="或人は"];
+	node10 [label="金が"];
+	node11 [label="なくて"];
+	node12 [label="臆病な"];
+	node13 [label="性質だからだとも"];
+	node14 [label="云う。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

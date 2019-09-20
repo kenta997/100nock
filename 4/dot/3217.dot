@@ -1,0 +1,25 @@
+digraph graph3217 {
+	node0 [label="女"];
+	node1 [label="賢しゅうしてと"];
+	node2 [label="云う"];
+	node3 [label="諺は"];
+	node4 [label="あるが"];
+	node5 [label="猫"];
+	node6 [label="賢しゅうして"];
+	node7 [label="鼠捕り損うと"];
+	node8 [label="云う"];
+	node9 [label="格言は"];
+	node10 [label="まだ"];
+	node11 [label="無いはずだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,23 @@
+digraph graph5572 {
+	node0 [label="ところが"];
+	node1 [label="宗伯老が"];
+	node2 [label="亡くなられて"];
+	node3 [label="その"];
+	node4 [label="養子の"];
+	node5 [label="代に"];
+	node6 [label="なったら、"];
+	node7 [label="かごが"];
+	node8 [label="たちまち"];
+	node9 [label="人力車に"];
+	node10 [label="変じた。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

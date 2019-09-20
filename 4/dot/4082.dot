@@ -1,0 +1,13 @@
+digraph graph4082 {
+	node0 [label="その"];
+	node1 [label="爪懸りの"];
+	node2 [label="いい"];
+	node3 [label="幹へ"];
+	node4 [label="一気呵成に"];
+	node5 [label="馳け上る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

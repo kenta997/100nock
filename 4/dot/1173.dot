@@ -1,0 +1,21 @@
+digraph graph1173 {
+	node0 [label="すると"];
+	node1 [label="君"];
+	node2 [label="不思議な"];
+	node3 [label="事には"];
+	node4 [label="その"];
+	node5 [label="時から"];
+	node6 [label="急に"];
+	node7 [label="悪寒が"];
+	node8 [label="し"];
+	node9 [label="出してね」"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

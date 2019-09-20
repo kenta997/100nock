@@ -1,0 +1,9 @@
+digraph graph8296 {
+	node0 [label="「知りませんね、"];
+	node1 [label="あるなら"];
+	node2 [label="伺いたい"];
+	node3 [label="もので」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

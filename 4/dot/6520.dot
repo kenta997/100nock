@@ -1,0 +1,7 @@
+digraph graph6520 {
+	node0 [label="そのほか苦手は"];
+	node1 [label="いろいろ"];
+	node2 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+}

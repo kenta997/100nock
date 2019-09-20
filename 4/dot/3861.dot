@@ -1,0 +1,11 @@
+digraph graph3861 {
+	node0 [label="詐偽師、"];
+	node1 [label="山師、"];
+	node2 [label="人殺しも"];
+	node3 [label="大和魂を"];
+	node4 [label="有っている」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

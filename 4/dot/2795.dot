@@ -1,0 +1,5 @@
+digraph graph2795 {
+	node0 [label="なぜ"];
+	node1 [label="湧いた？"];
+	node0 -> node1;
+}

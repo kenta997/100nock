@@ -1,0 +1,9 @@
+digraph graph6019 {
+	node0 [label="「ああ杉原ですか、"];
+	node1 [label="あの"];
+	node2 [label="爺さんも"];
+	node3 [label="達者ですね」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

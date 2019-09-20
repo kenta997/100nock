@@ -1,0 +1,7 @@
+digraph graph2313 {
+	node0 [label="悪るく"];
+	node1 [label="思ってくれたも"];
+	node2 [label="うな。"];
+	node0 -> node1;
+	node1 -> node2;
+}

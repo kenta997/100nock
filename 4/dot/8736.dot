@@ -1,0 +1,9 @@
+digraph graph8736 {
+	node0 [label="驚ろくな"];
+	node1 [label="かれ、"];
+	node2 [label="結婚の"];
+	node3 [label="不可能。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

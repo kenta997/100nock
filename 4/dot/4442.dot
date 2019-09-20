@@ -1,0 +1,29 @@
+digraph graph4442 {
+	node0 [label="その"];
+	node1 [label="横に"];
+	node2 [label="年の"];
+	node3 [label="頃は"];
+	node4 [label="十七八で"];
+	node5 [label="君とか"];
+	node6 [label="僕とか"];
+	node7 [label="生意気な"];
+	node8 [label="事を"];
+	node9 [label="べらべら"];
+	node10 [label="喋舌ってるのは"];
+	node11 [label="この"];
+	node12 [label="近所の"];
+	node13 [label="書生だろう。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

@@ -1,0 +1,9 @@
+digraph graph4403 {
+	node0 [label="「なあに"];
+	node1 [label="これが"];
+	node2 [label="ちょうど"];
+	node3 [label="いい加減です。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

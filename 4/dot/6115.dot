@@ -1,0 +1,25 @@
+digraph graph6115 {
+	node0 [label="それに"];
+	node1 [label="先生"];
+	node2 [label="時々"];
+	node3 [label="せき込むと"];
+	node4 [label="間違えて"];
+	node5 [label="電光影裏を"];
+	node6 [label="逆さまに"];
+	node7 [label="春風影裏に"];
+	node8 [label="電光を"];
+	node9 [label="きると"];
+	node10 [label="云うから"];
+	node11 [label="面白い。"];
+	node0 -> node10;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

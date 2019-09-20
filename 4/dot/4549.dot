@@ -1,0 +1,23 @@
+digraph graph4549 {
+	node0 [label="「おい、"];
+	node1 [label="その"];
+	node2 [label="猫の"];
+	node3 [label="頭を"];
+	node4 [label="ちょっと"];
+	node5 [label="撲って"];
+	node6 [label="見ろ」と"];
+	node7 [label="主人は"];
+	node8 [label="突然"];
+	node9 [label="細君に"];
+	node10 [label="請求した。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

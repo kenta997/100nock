@@ -1,0 +1,29 @@
+digraph graph8961 {
+	node0 [label="「煙草でもですね、"];
+	node1 [label="朝日や、"];
+	node2 [label="敷島を"];
+	node3 [label="ふかしていては"];
+	node4 [label="幅が"];
+	node5 [label="利かんです」と"];
+	node6 [label="云いながら、"];
+	node7 [label="吸口に"];
+	node8 [label="金箔の"];
+	node9 [label="ついた"];
+	node10 [label="埃及煙草を"];
+	node11 [label="出して、"];
+	node12 [label="すぱすぱ"];
+	node13 [label="吸い出した、"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

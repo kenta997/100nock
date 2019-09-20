@@ -1,0 +1,33 @@
+digraph graph3345 {
+	node0 [label="これでは"];
+	node1 [label="ならぬと"];
+	node2 [label="左の"];
+	node3 [label="前足を"];
+	node4 [label="抜き"];
+	node5 [label="易える"];
+	node6 [label="拍子に、"];
+	node7 [label="爪を"];
+	node8 [label="見事に"];
+	node9 [label="懸け損じたので"];
+	node10 [label="吾輩は"];
+	node11 [label="右の"];
+	node12 [label="爪一本で"];
+	node13 [label="棚から"];
+	node14 [label="ぶら"];
+	node15 [label="下った。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

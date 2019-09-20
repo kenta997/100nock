@@ -1,0 +1,5 @@
+digraph graph2941 {
+	node0 [label="「何でも"];
+	node1 [label="いい。"];
+	node0 -> node1;
+}

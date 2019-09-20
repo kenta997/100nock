@@ -1,0 +1,27 @@
+digraph graph4919 {
+	node0 [label="この"];
+	node1 [label="ダムダム弾は"];
+	node2 [label="通称を"];
+	node3 [label="ボールと"];
+	node4 [label="称えて、"];
+	node5 [label="擂粉木の"];
+	node6 [label="大きな"];
+	node7 [label="奴を"];
+	node8 [label="もって"];
+	node9 [label="任意これを"];
+	node10 [label="敵中に"];
+	node11 [label="発射する"];
+	node12 [label="仕掛である。"];
+	node0 -> node1;
+	node1 -> node12;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

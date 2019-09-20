@@ -1,0 +1,7 @@
+digraph graph4871 {
+	node0 [label="樹下石上とは"];
+	node1 [label="難行苦行の"];
+	node2 [label="ためではない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

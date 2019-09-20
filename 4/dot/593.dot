@@ -1,0 +1,11 @@
+digraph graph593 {
+	node0 [label="もう"];
+	node1 [label="一辺"];
+	node2 [label="噛み直そうとすると"];
+	node3 [label="動きが"];
+	node4 [label="とれない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

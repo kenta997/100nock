@@ -1,0 +1,5 @@
+digraph graph8371 {
+	node0 [label="「ヴァイオリンは"];
+	node1 [label="弾かないのかい」"];
+	node0 -> node1;
+}

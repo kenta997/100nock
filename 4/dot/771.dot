@@ -1,0 +1,13 @@
+digraph graph771 {
+	node0 [label="あの男は"];
+	node1 [label="あれが"];
+	node2 [label="癖でね」と"];
+	node3 [label="急に"];
+	node4 [label="アンドレア・デル・サルト事件を"];
+	node5 [label="思い出す。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,15 @@
+digraph graph1372 {
+	node0 [label="「香一※も"];
+	node1 [label="あまり"];
+	node2 [label="唐突だから"];
+	node3 [label="已めろ」と"];
+	node4 [label="惜気も"];
+	node5 [label="なく"];
+	node6 [label="筆誅する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

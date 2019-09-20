@@ -1,0 +1,23 @@
+digraph graph8583 {
+	node0 [label="どうして"];
+	node1 [label="借りた"];
+	node2 [label="金を"];
+	node3 [label="返さずに"];
+	node4 [label="済ますかが"];
+	node5 [label="問題であるごとく、"];
+	node6 [label="どう"];
+	node7 [label="したら"];
+	node8 [label="死なずに"];
+	node9 [label="済むかが"];
+	node10 [label="問題である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,7 @@
+digraph graph2869 {
+	node0 [label="「そうですね」と"];
+	node1 [label="細君は"];
+	node2 [label="考える。"];
+	node0 -> node2;
+	node1 -> node2;
+}

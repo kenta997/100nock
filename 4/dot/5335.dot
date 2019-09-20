@@ -1,0 +1,5 @@
+digraph graph5335 {
+	node0 [label="「ハハハ大分"];
+	node1 [label="怒ったね。"];
+	node0 -> node1;
+}

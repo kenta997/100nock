@@ -1,0 +1,23 @@
+digraph graph5504 {
+	node0 [label="西洋人の"];
+	node1 [label="やり方は"];
+	node2 [label="積極的積極的と"];
+	node3 [label="云って"];
+	node4 [label="近頃"];
+	node5 [label="大分"];
+	node6 [label="流行るが、"];
+	node7 [label="あれは"];
+	node8 [label="大なる"];
+	node9 [label="欠点を"];
+	node10 [label="持っているよ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

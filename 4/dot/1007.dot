@@ -1,0 +1,21 @@
+digraph graph1007 {
+	node0 [label="感服の"];
+	node1 [label="至りだよ」"];
+	node2 [label="「そう"];
+	node3 [label="ほめてくれると"];
+	node4 [label="僕も"];
+	node5 [label="乗り気になる」と"];
+	node6 [label="主人は"];
+	node7 [label="あくまでも"];
+	node8 [label="疳違いを"];
+	node9 [label="している。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

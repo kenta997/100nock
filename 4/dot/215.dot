@@ -1,0 +1,9 @@
+digraph graph215 {
+	node0 [label="同盟敬遠主義の"];
+	node1 [label="的に"];
+	node2 [label="なっている"];
+	node3 [label="奴だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,13 @@
+digraph graph3793 {
+	node0 [label="第一劇だか"];
+	node1 [label="茶番だか"];
+	node2 [label="何だか"];
+	node3 [label="あまり"];
+	node4 [label="消極的で"];
+	node5 [label="分らないじゃないか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

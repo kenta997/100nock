@@ -1,0 +1,21 @@
+digraph graph1637 {
+	node0 [label="偉大なる"];
+	node1 [label="鼻が"];
+	node2 [label="ますます"];
+	node3 [label="異彩を"];
+	node4 [label="放って、"];
+	node5 [label="迷亭も"];
+	node6 [label="主人も"];
+	node7 [label="有れども"];
+	node8 [label="無きがごとき"];
+	node9 [label="有様である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

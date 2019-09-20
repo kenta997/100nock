@@ -1,0 +1,9 @@
+digraph graph6178 {
+	node0 [label="「気狂だけに"];
+	node1 [label="大に"];
+	node2 [label="凝った"];
+	node3 [label="ものさ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

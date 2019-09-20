@@ -1,0 +1,7 @@
+digraph graph5148 {
+	node0 [label="「ボールが"];
+	node1 [label="飛び込んだ"];
+	node2 [label="ものですから」"];
+	node0 -> node1;
+	node1 -> node2;
+}

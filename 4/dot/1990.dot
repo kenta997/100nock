@@ -1,0 +1,7 @@
+digraph graph1990 {
+	node0 [label="迷亭自身も"];
+	node1 [label="愉快そうに"];
+	node2 [label="笑う。"];
+	node0 -> node2;
+	node1 -> node2;
+}

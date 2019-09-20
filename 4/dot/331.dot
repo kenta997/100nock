@@ -1,0 +1,11 @@
+digraph graph331 {
+	node0 [label="タカジヤスターゼも"];
+	node1 [label="功能が"];
+	node2 [label="ないと"];
+	node3 [label="いって"];
+	node4 [label="やめてしまった。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

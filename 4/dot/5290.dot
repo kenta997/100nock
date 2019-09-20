@@ -1,0 +1,11 @@
+digraph graph5290 {
+	node0 [label="　"];
+	node1 [label="鈴木君は"];
+	node2 [label="あいかわらず調子の"];
+	node3 [label="いい"];
+	node4 [label="男である。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

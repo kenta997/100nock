@@ -1,0 +1,13 @@
+digraph graph1048 {
+	node0 [label="それから"];
+	node1 [label="なお"];
+	node2 [label="読んで行くと"];
+	node3 [label="御前なんぞは"];
+	node4 [label="実に"];
+	node5 [label="仕合せ者だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

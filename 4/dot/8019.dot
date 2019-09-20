@@ -1,0 +1,35 @@
+digraph graph8019 {
+	node0 [label="森から"];
+	node1 [label="上は"];
+	node2 [label="のべつ"];
+	node3 [label="幕なしの"];
+	node4 [label="星月夜で、"];
+	node5 [label="例の"];
+	node6 [label="天の河が"];
+	node7 [label="長瀬川を"];
+	node8 [label="筋違に"];
+	node9 [label="横切って"];
+	node10 [label="末は——"];
+	node11 [label="末は、"];
+	node12 [label="そうですね、"];
+	node13 [label="まず"];
+	node14 [label="布哇の"];
+	node15 [label="方へ"];
+	node16 [label="流れています……」"];
+	node0 -> node16;
+	node1 -> node16;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node16;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node16;
+	node11 -> node16;
+	node12 -> node16;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

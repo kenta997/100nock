@@ -1,0 +1,11 @@
+digraph graph1666 {
+	node0 [label="　鼻子は"];
+	node1 [label="ようやく納得して"];
+	node2 [label="そろそろ"];
+	node3 [label="質問を"];
+	node4 [label="呈出する。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

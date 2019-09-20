@@ -1,0 +1,7 @@
+digraph graph9059 {
+	node0 [label="「胃病が"];
+	node1 [label="癒ります"];
+	node2 [label="ばい」"];
+	node0 -> node1;
+	node1 -> node2;
+}

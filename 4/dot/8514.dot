@@ -1,0 +1,11 @@
+digraph graph8514 {
+	node0 [label="「なるほど"];
+	node1 [label="面白い"];
+	node2 [label="解釈だ」と"];
+	node3 [label="独仙君が"];
+	node4 [label="云い出した。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

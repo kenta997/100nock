@@ -1,0 +1,21 @@
+digraph graph2435 {
+	node0 [label="　"];
+	node1 [label="こう"];
+	node2 [label="云われて"];
+	node3 [label="見ると、"];
+	node4 [label="先方で"];
+	node5 [label="博士を"];
+	node6 [label="請求するのも、"];
+	node7 [label="あながち"];
+	node8 [label="無理でもないように"];
+	node9 [label="思われて来る。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

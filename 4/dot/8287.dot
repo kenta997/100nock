@@ -1,0 +1,11 @@
+digraph graph8287 {
+	node0 [label="「どう"];
+	node1 [label="するのかな、"];
+	node2 [label="とんと"];
+	node3 [label="見当が"];
+	node4 [label="つかない」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

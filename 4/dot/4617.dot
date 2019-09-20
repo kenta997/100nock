@@ -1,0 +1,7 @@
+digraph graph4617 {
+	node0 [label="もう"];
+	node1 [label="大分"];
+	node2 [label="赤くなっていらっしゃいますよ」"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,31 @@
+digraph graph8293 {
+	node0 [label="「君は"];
+	node1 [label="無絃の"];
+	node2 [label="素琴を"];
+	node3 [label="弾ずる"];
+	node4 [label="連中だから"];
+	node5 [label="困らない"];
+	node6 [label="方なんだが、"];
+	node7 [label="寒月君のは、"];
+	node8 [label="きいきい"];
+	node9 [label="ぴいぴい"];
+	node10 [label="近所合壁へ"];
+	node11 [label="聞えるのだから"];
+	node12 [label="大に"];
+	node13 [label="困ってる"];
+	node14 [label="ところだ」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node14;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

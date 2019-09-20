@@ -1,0 +1,13 @@
+digraph graph3107 {
+	node0 [label="「一番"];
+	node1 [label="嫌だ」"];
+	node2 [label="主人の"];
+	node3 [label="返事は"];
+	node4 [label="もっとも"];
+	node5 [label="簡明である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

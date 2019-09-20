@@ -1,0 +1,23 @@
+digraph graph342 {
+	node0 [label="主人は"];
+	node1 [label="例の"];
+	node2 [label="書斎で"];
+	node3 [label="この"];
+	node4 [label="絵を、"];
+	node5 [label="横から"];
+	node6 [label="見たり、"];
+	node7 [label="竪から"];
+	node8 [label="眺めたりして、"];
+	node9 [label="うまい色だなと"];
+	node10 [label="いう。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,13 @@
+digraph graph3297 {
+	node0 [label="ここから"];
+	node1 [label="出るわいと"];
+	node2 [label="穴の"];
+	node3 [label="横へ"];
+	node4 [label="すくんで"];
+	node5 [label="待っている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

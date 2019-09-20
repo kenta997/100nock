@@ -1,0 +1,9 @@
+digraph graph2311 {
+	node0 [label="「うん、"];
+	node1 [label="もう"];
+	node2 [label="十年近くに"];
+	node3 [label="なるね。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

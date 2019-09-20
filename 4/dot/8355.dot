@@ -1,0 +1,15 @@
+digraph graph8355 {
+	node0 [label="「やっと"];
+	node1 [label="安心した」と"];
+	node2 [label="迷亭君が"];
+	node3 [label="胸を"];
+	node4 [label="撫でおろす"];
+	node5 [label="真似を"];
+	node6 [label="する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

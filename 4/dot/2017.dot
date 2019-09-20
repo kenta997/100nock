@@ -1,0 +1,15 @@
+digraph graph2017 {
+	node0 [label="苦"];
+	node1 [label="沙弥は"];
+	node2 [label="とにかく、"];
+	node3 [label="君は"];
+	node4 [label="理学士だから"];
+	node5 [label="分るだろうと"];
+	node6 [label="思ったのに。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

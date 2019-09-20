@@ -1,0 +1,7 @@
+digraph graph7502 {
+	node0 [label="「大変"];
+	node1 [label="大きな"];
+	node2 [label="頭ですね。"];
+	node0 -> node2;
+	node1 -> node2;
+}

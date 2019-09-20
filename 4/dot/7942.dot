@@ -1,0 +1,15 @@
+digraph graph7942 {
+	node0 [label="私は"];
+	node1 [label="病気だと"];
+	node2 [label="云って、"];
+	node3 [label="その日は"];
+	node4 [label="学校も"];
+	node5 [label="休んで"];
+	node6 [label="寝ていました。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

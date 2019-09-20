@@ -1,0 +1,15 @@
+digraph graph1517 {
+	node0 [label="　迷亭と"];
+	node1 [label="主人は"];
+	node2 [label="顔を"];
+	node3 [label="見合せて"];
+	node4 [label="「大抵"];
+	node5 [label="分った」と"];
+	node6 [label="云う。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

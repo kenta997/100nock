@@ -1,0 +1,5 @@
+digraph graph3963 {
+	node0 [label="第一に"];
+	node1 [label="蟷螂狩り。"];
+	node0 -> node1;
+}

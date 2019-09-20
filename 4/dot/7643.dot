@@ -1,0 +1,11 @@
+digraph graph7643 {
+	node0 [label="まさか、"];
+	node1 [label="つぐ"];
+	node2 [label="気遣は"];
+	node3 [label="なかろうと"];
+	node4 [label="思った。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

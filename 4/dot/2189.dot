@@ -1,0 +1,19 @@
+digraph graph2189 {
+	node0 [label="あんな"];
+	node1 [label="面倒臭い"];
+	node2 [label="事を"];
+	node3 [label="するより"];
+	node4 [label="せめて"];
+	node5 [label="木札でも"];
+	node6 [label="懸けたら"];
+	node7 [label="よさそうな"];
+	node8 [label="もんですがねえ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

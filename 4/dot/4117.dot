@@ -1,0 +1,11 @@
+digraph graph4117 {
+	node0 [label="椽側と"];
+	node1 [label="平行している"];
+	node2 [label="一片は"];
+	node3 [label="八九間も"];
+	node4 [label="あろう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

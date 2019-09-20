@@ -1,0 +1,17 @@
+digraph graph8126 {
+	node0 [label="「夜通し"];
+	node1 [label="あるいていたような"];
+	node2 [label="ものだね」と"];
+	node3 [label="東風君が"];
+	node4 [label="気の毒そうに"];
+	node5 [label="云うと"];
+	node6 [label="「やっと"];
+	node7 [label="上がった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,5 @@
+digraph graph5724 {
+	node0 [label="たのもしい"];
+	node1 [label="男だ。"];
+	node0 -> node1;
+}

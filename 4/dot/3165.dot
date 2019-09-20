@@ -1,0 +1,15 @@
+digraph graph3165 {
+	node0 [label="「いいえ、"];
+	node1 [label="あの"];
+	node2 [label="人にゃ、"];
+	node3 [label="まだ"];
+	node4 [label="そんな"];
+	node5 [label="事は"];
+	node6 [label="云い切りません。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

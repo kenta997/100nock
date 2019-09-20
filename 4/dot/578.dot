@@ -1,0 +1,17 @@
+digraph graph578 {
+	node0 [label="御三は"];
+	node1 [label="暮も"];
+	node2 [label="春も"];
+	node3 [label="同じような"];
+	node4 [label="顔を"];
+	node5 [label="して"];
+	node6 [label="羽根を"];
+	node7 [label="ついている。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

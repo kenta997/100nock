@@ -1,0 +1,11 @@
+digraph graph9201 {
+	node0 [label="どこに"];
+	node1 [label="どうして"];
+	node2 [label="いても"];
+	node3 [label="差支えは"];
+	node4 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

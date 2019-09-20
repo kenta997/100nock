@@ -1,0 +1,11 @@
+digraph graph7944 {
+	node0 [label="「偽病を"];
+	node1 [label="つかって"];
+	node2 [label="学校まで"];
+	node3 [label="休んだの"];
+	node4 [label="かい」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

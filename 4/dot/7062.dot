@@ -1,0 +1,15 @@
+digraph graph7062 {
+	node0 [label="吉原なんて"];
+	node1 [label="賤業婦の"];
+	node2 [label="いる"];
+	node3 [label="所へ"];
+	node4 [label="行く"];
+	node5 [label="因縁が"];
+	node6 [label="ありませんわ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

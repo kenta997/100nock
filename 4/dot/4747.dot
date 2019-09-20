@@ -1,0 +1,5 @@
+digraph graph4747 {
+	node0 [label="主人は"];
+	node1 [label="愚物である。"];
+	node0 -> node1;
+}

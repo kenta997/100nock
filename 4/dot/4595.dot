@@ -1,0 +1,5 @@
+digraph graph4595 {
+	node0 [label="困った"];
+	node1 [label="ものだ。"];
+	node0 -> node1;
+}

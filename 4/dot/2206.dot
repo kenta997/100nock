@@ -1,0 +1,7 @@
+digraph graph2206 {
+	node0 [label="随分"];
+	node1 [label="呑気な"];
+	node2 [label="事である。"];
+	node0 -> node1;
+	node1 -> node2;
+}

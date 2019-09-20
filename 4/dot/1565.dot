@@ -1,0 +1,11 @@
+digraph graph1565 {
+	node0 [label="「ところへ"];
+	node1 [label="閑人が"];
+	node2 [label="物珍しそうに"];
+	node3 [label="ぽつぽつ"];
+	node4 [label="集ってくる。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

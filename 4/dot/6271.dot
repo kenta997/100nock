@@ -1,0 +1,5 @@
+digraph graph6271 {
+	node0 [label="「君こそ"];
+	node1 [label="頑固だ」"];
+	node0 -> node1;
+}

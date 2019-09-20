@@ -1,0 +1,17 @@
+digraph graph1439 {
+	node0 [label="この間"];
+	node1 [label="ある"];
+	node2 [label="文学雑誌を"];
+	node3 [label="見たら"];
+	node4 [label="苦沙弥君の"];
+	node5 [label="評が"];
+	node6 [label="出ていましたよ」"];
+	node7 [label="「ほんとに？"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

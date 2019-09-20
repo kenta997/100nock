@@ -1,0 +1,25 @@
+digraph graph7152 {
+	node0 [label="「誰が"];
+	node1 [label="来たんだ」と"];
+	node2 [label="主人が"];
+	node3 [label="聞くと"];
+	node4 [label="「学校の"];
+	node5 [label="生徒さんでございます」と"];
+	node6 [label="御三は"];
+	node7 [label="雪江さんの"];
+	node8 [label="泣顔を"];
+	node9 [label="横目に"];
+	node10 [label="睨めながら"];
+	node11 [label="答えた。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

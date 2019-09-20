@@ -1,0 +1,5 @@
+digraph graph3918 {
+	node0 [label="すぐ"];
+	node1 [label="分る。"];
+	node0 -> node1;
+}

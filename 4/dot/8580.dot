@@ -1,0 +1,7 @@
+digraph graph8580 {
+	node0 [label="借りた"];
+	node1 [label="ものは"];
+	node2 [label="返さなくちゃなりませんよ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

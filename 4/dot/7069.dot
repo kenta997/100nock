@@ -1,0 +1,5 @@
+digraph graph7069 {
+	node0 [label="「戻らんのは"];
+	node1 [label="山の芋ばかりさ。"];
+	node0 -> node1;
+}

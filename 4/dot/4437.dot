@@ -1,0 +1,11 @@
+digraph graph4437 {
+	node0 [label="その"];
+	node1 [label="女郎に"];
+	node2 [label="出来た"];
+	node3 [label="子が"];
+	node4 [label="和唐内さ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

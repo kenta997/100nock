@@ -1,0 +1,23 @@
+digraph graph4868 {
+	node0 [label="頭寒足熱は"];
+	node1 [label="延命息災の"];
+	node2 [label="徴と"];
+	node3 [label="傷寒論にも"];
+	node4 [label="出ている"];
+	node5 [label="通り、"];
+	node6 [label="濡れ手拭は"];
+	node7 [label="長寿法において"];
+	node8 [label="一日も"];
+	node9 [label="欠くべから"];
+	node10 [label="ざる者である。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

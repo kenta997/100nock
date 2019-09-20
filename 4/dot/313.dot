@@ -1,0 +1,25 @@
+digraph graph313 {
+	node0 [label="この"];
+	node1 [label="美学者は"];
+	node2 [label="金縁の"];
+	node3 [label="眼鏡は"];
+	node4 [label="掛けているが"];
+	node5 [label="その"];
+	node6 [label="性質が"];
+	node7 [label="車屋の"];
+	node8 [label="黒に"];
+	node9 [label="似た"];
+	node10 [label="ところが"];
+	node11 [label="ある。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

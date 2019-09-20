@@ -1,0 +1,11 @@
+digraph graph6205 {
+	node0 [label="平気に"];
+	node1 [label="座布団の"];
+	node2 [label="上へ"];
+	node3 [label="尻を"];
+	node4 [label="落ちつけている。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

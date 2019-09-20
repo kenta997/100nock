@@ -1,0 +1,7 @@
+digraph graph6485 {
+	node0 [label="最前のように"];
+	node1 [label="襖の"];
+	node2 [label="入口から"];
+	node0 -> node2;
+	node1 -> node2;
+}

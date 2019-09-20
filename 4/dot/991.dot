@@ -1,0 +1,9 @@
+digraph graph991 {
+	node0 [label="本を"];
+	node1 [label="落す"];
+	node2 [label="事が"];
+	node3 [label="あろう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

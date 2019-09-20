@@ -1,0 +1,15 @@
+digraph graph2530 {
+	node0 [label="吾輩は"];
+	node1 [label="意志の"];
+	node2 [label="一点においては"];
+	node3 [label="あえて"];
+	node4 [label="何人にも"];
+	node5 [label="一歩も"];
+	node6 [label="譲らん。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

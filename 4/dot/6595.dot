@@ -1,0 +1,15 @@
+digraph graph6595 {
+	node0 [label="とん子の"];
+	node1 [label="顔は"];
+	node2 [label="南蛮鉄の"];
+	node3 [label="刀の"];
+	node4 [label="鍔のような"];
+	node5 [label="輪廓を"];
+	node6 [label="有している。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

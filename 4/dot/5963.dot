@@ -1,0 +1,9 @@
+digraph graph5963 {
+	node0 [label="今の"];
+	node1 [label="若さに"];
+	node2 [label="気の毒な"];
+	node3 [label="事だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

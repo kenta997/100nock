@@ -1,0 +1,11 @@
+digraph graph3295 {
+	node0 [label="　戸棚の"];
+	node1 [label="中で"];
+	node2 [label="ことことと"];
+	node3 [label="音が"];
+	node4 [label="しだす。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

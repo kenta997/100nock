@@ -1,0 +1,25 @@
+digraph graph8836 {
+	node0 [label="それも"];
+	node1 [label="そのはずさ昔は"];
+	node2 [label="一人"];
+	node3 [label="えらい"];
+	node4 [label="人が"];
+	node5 [label="あれば"];
+	node6 [label="天下翕然として"];
+	node7 [label="その"];
+	node8 [label="旗下に"];
+	node9 [label="あつまるのだから、"];
+	node10 [label="愉快な"];
+	node11 [label="ものさ。"];
+	node0 -> node9;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

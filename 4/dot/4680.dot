@@ -1,0 +1,33 @@
+digraph graph4680 {
+	node0 [label="もう"];
+	node1 [label="周囲"];
+	node2 [label="一尺くらいに"];
+	node3 [label="のびているから"];
+	node4 [label="下駄屋さえ"];
+	node5 [label="連れてくれば"];
+	node6 [label="いい"];
+	node7 [label="価に"];
+	node8 [label="なるんだが、"];
+	node9 [label="借家の"];
+	node10 [label="悲しさには、"];
+	node11 [label="いくら"];
+	node12 [label="気が"];
+	node13 [label="付いても"];
+	node14 [label="実行は"];
+	node15 [label="出来ん。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

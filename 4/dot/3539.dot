@@ -1,0 +1,27 @@
+digraph graph3539 {
+	node0 [label="よく"];
+	node1 [label="そんなに"];
+	node2 [label="一どきに"];
+	node3 [label="飲み込めた"];
+	node4 [label="ものだ」と"];
+	node5 [label="主人が"];
+	node6 [label="敬服すると"];
+	node7 [label="「御見事です"];
+	node8 [label="事ねえ」と"];
+	node9 [label="細君も"];
+	node10 [label="迷亭の"];
+	node11 [label="手際を"];
+	node12 [label="激賞した。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

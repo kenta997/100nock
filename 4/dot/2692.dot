@@ -1,0 +1,29 @@
+digraph graph2692 {
+	node0 [label="姉の"];
+	node1 [label="とん子は、"];
+	node2 [label="姉の"];
+	node3 [label="権利は"];
+	node4 [label="こんな"];
+	node5 [label="ものだと"];
+	node6 [label="云わぬばかりに"];
+	node7 [label="うんと右の"];
+	node8 [label="手を"];
+	node9 [label="延ばして"];
+	node10 [label="妹の"];
+	node11 [label="耳の"];
+	node12 [label="上へ"];
+	node13 [label="のせている。"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

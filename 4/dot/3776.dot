@@ -1,0 +1,9 @@
+digraph graph3776 {
+	node0 [label="「だって"];
+	node1 [label="興行さえ"];
+	node2 [label="しなければ"];
+	node3 [label="構わんじゃありませんか。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

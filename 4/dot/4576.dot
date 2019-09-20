@@ -1,0 +1,9 @@
+digraph graph4576 {
+	node0 [label="切れば"];
+	node1 [label="血が"];
+	node2 [label="出るに"];
+	node3 [label="極っている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,19 @@
+digraph graph1575 {
+	node0 [label="眼が"];
+	node1 [label="切り通しの"];
+	node2 [label="坂くらいな"];
+	node3 [label="勾配で、"];
+	node4 [label="直線に"];
+	node5 [label="釣るし"];
+	node6 [label="上げられて"];
+	node7 [label="左右に"];
+	node8 [label="対立する。"];
+	node0 -> node8;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

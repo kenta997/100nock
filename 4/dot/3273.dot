@@ -1,0 +1,9 @@
+digraph graph3273 {
+	node0 [label="よって"];
+	node1 [label="三面攻撃は"];
+	node2 [label="起らぬと"];
+	node3 [label="極める。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

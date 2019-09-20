@@ -1,0 +1,31 @@
+digraph graph3655 {
+	node0 [label="「御夏さんを"];
+	node1 [label="呼んで"];
+	node2 [label="静岡に"];
+	node3 [label="水瓜は"];
+	node4 [label="あるまいかと"];
+	node5 [label="聞くと、"];
+	node6 [label="御夏さんが、"];
+	node7 [label="なんぼ静岡だって"];
+	node8 [label="水瓜くらいは"];
+	node9 [label="ありますよと、"];
+	node10 [label="御盆に"];
+	node11 [label="水瓜を"];
+	node12 [label="山盛りに"];
+	node13 [label="して"];
+	node14 [label="持ってくる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

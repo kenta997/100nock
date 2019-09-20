@@ -1,0 +1,7 @@
+digraph graph5542 {
+	node0 [label="多勢に無勢の"];
+	node1 [label="問題に"];
+	node2 [label="なる。"];
+	node0 -> node1;
+	node1 -> node2;
+}

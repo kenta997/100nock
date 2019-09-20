@@ -1,0 +1,5 @@
+digraph graph5438 {
+	node0 [label="甘木先生も"];
+	node1 [label="帰る。"];
+	node0 -> node1;
+}

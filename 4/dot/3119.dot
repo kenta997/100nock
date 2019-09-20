@@ -1,0 +1,9 @@
+digraph graph3119 {
+	node0 [label="」と"];
+	node1 [label="細君は"];
+	node2 [label="熱心に"];
+	node3 [label="聞く。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

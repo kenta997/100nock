@@ -1,0 +1,9 @@
+digraph graph6613 {
+	node0 [label="ところが"];
+	node1 [label="始末に"];
+	node2 [label="おえないのは"];
+	node3 [label="坊ばである。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

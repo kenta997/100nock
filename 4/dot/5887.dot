@@ -1,0 +1,13 @@
+digraph graph5887 {
+	node0 [label="ことに"];
+	node1 [label="見ず知らずの"];
+	node2 [label="年長者が"];
+	node3 [label="頑と"];
+	node4 [label="構えているのだから"];
+	node5 [label="上座どころではない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

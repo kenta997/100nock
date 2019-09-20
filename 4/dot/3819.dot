@@ -1,0 +1,9 @@
+digraph graph3819 {
+	node0 [label="つい"];
+	node1 [label="この"];
+	node2 [label="御近所に"];
+	node3 [label="住んでおります。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

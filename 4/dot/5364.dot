@@ -1,0 +1,15 @@
+digraph graph5364 {
+	node0 [label="ただ"];
+	node1 [label="神経ばかり"];
+	node2 [label="痛めて、"];
+	node3 [label="からだは"];
+	node4 [label="悪くなる、"];
+	node5 [label="人は"];
+	node6 [label="褒めてくれず。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

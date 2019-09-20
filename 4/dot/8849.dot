@@ -1,0 +1,11 @@
+digraph graph8849 {
+	node0 [label="不平だから"];
+	node1 [label="超人などを"];
+	node2 [label="書物の"];
+	node3 [label="上だけで"];
+	node4 [label="振り廻すのさ。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

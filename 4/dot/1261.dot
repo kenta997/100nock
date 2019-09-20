@@ -1,0 +1,25 @@
+digraph graph1261 {
+	node0 [label="椽側に"];
+	node1 [label="座蒲団が"];
+	node2 [label="一つ"];
+	node3 [label="あって"];
+	node4 [label="人影も"];
+	node5 [label="見えず、"];
+	node6 [label="障子も"];
+	node7 [label="立て切ってあるのは"];
+	node8 [label="御師匠さんは"];
+	node9 [label="湯にでも"];
+	node10 [label="行ったのか"];
+	node11 [label="知らん。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

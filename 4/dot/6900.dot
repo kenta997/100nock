@@ -1,0 +1,5 @@
+digraph graph6900 {
+	node0 [label="「それでも"];
+	node1 [label="取り合わないんですとさ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,5 @@
+digraph graph3505 {
+	node0 [label="腰まで"];
+	node1 [label="ありますよ。"];
+	node0 -> node1;
+}

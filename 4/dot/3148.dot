@@ -1,0 +1,5 @@
+digraph graph3148 {
+	node0 [label="「ホホホホ多々良さんくらいな"];
+	node1 [label="ものでしょう」"];
+	node0 -> node1;
+}

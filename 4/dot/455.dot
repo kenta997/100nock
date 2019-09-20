@@ -1,0 +1,31 @@
+digraph graph455 {
+	node0 [label="　寒月君と"];
+	node1 [label="出掛けた"];
+	node2 [label="主人は"];
+	node3 [label="どこを"];
+	node4 [label="どう"];
+	node5 [label="歩行いた"];
+	node6 [label="ものか、"];
+	node7 [label="その"];
+	node8 [label="晩"];
+	node9 [label="遅く"];
+	node10 [label="帰って来て、"];
+	node11 [label="翌日"];
+	node12 [label="食卓に"];
+	node13 [label="就いたのは"];
+	node14 [label="九時頃であった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node14;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

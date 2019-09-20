@@ -1,0 +1,13 @@
+digraph graph7846 {
+	node0 [label="「だって"];
+	node1 [label="一国中"];
+	node2 [label="ことごとく"];
+	node3 [label="黒いのだから"];
+	node4 [label="仕方が"];
+	node5 [label="ありません」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

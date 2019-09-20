@@ -1,0 +1,15 @@
+digraph graph9141 {
+	node0 [label="眼を"];
+	node1 [label="あいていると"];
+	node2 [label="飲みにくいから、"];
+	node3 [label="しっかり"];
+	node4 [label="眠って、また"];
+	node5 [label="ぴちゃぴちゃ"];
+	node6 [label="始めた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

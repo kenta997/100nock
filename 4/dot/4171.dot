@@ -1,0 +1,5 @@
+digraph graph4171 {
+	node0 [label="それが"];
+	node1 [label="悪るい。"];
+	node0 -> node1;
+}

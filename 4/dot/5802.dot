@@ -1,0 +1,9 @@
+digraph graph5802 {
+	node0 [label="苦"];
+	node1 [label="沙弥先生"];
+	node2 [label="よろしく御茶でも"];
+	node3 [label="上がれ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

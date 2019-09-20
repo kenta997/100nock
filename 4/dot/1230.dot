@@ -1,0 +1,9 @@
+digraph graph1230 {
+	node0 [label="四時には"];
+	node1 [label="まだ"];
+	node2 [label="十五分"];
+	node3 [label="ある。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

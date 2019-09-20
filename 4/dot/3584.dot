@@ -1,0 +1,15 @@
+digraph graph3584 {
+	node0 [label="随分"];
+	node1 [label="軽蔑なさるのね」と"];
+	node2 [label="細君は"];
+	node3 [label="中途から"];
+	node4 [label="不意に"];
+	node5 [label="迷亭に"];
+	node6 [label="切り付ける。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

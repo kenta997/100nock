@@ -1,0 +1,25 @@
+digraph graph7393 {
+	node0 [label="彼は"];
+	node1 [label="大きな"];
+	node2 [label="鉄砲丸を"];
+	node3 [label="飲み下したごとく、"];
+	node4 [label="腹の中に"];
+	node5 [label="いかんとも"];
+	node6 [label="すべからざる"];
+	node7 [label="塊まりを"];
+	node8 [label="抱いて、"];
+	node9 [label="この"];
+	node10 [label="両三日処置に"];
+	node11 [label="窮している。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

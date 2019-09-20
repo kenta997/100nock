@@ -1,0 +1,5 @@
+digraph graph7834 {
+	node0 [label="僕は"];
+	node1 [label="勘定所じゃない。"];
+	node0 -> node1;
+}

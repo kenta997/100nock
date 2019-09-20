@@ -1,0 +1,9 @@
+digraph graph1077 {
+	node0 [label="仕方がない、"];
+	node1 [label="自分で"];
+	node2 [label="下がろうか"];
+	node3 [label="知らん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

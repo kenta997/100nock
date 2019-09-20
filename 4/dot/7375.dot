@@ -1,0 +1,11 @@
+digraph graph7375 {
+	node0 [label="強いて"];
+	node1 [label="解剖すれば"];
+	node2 [label="武右衛門君が"];
+	node3 [label="困るのが"];
+	node4 [label="ありがたいのである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph8428 {
+	node0 [label="「ええ、"];
+	node1 [label="真黒です。"];
+	node0 -> node1;
+}

@@ -1,0 +1,13 @@
+digraph graph345 {
+	node0 [label="早く"];
+	node1 [label="やめてくれないと"];
+	node2 [label="膝が"];
+	node3 [label="揺れて"];
+	node4 [label="険呑で"];
+	node5 [label="たまらない。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

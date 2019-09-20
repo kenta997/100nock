@@ -1,0 +1,15 @@
+digraph graph5226 {
+	node0 [label="もし"];
+	node1 [label="怒られたら"];
+	node2 [label="君は"];
+	node3 [label="公平と"];
+	node4 [label="云う"];
+	node5 [label="意味を"];
+	node6 [label="御承知ないのである。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

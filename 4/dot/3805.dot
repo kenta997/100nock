@@ -1,0 +1,15 @@
+digraph graph3805 {
+	node0 [label="癇違いには"];
+	node1 [label="相違ないですが"];
+	node2 [label="そこが"];
+	node3 [label="文学的で"];
+	node4 [label="かつ"];
+	node5 [label="積極的な"];
+	node6 [label="ところなんです。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

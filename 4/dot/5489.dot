@@ -1,0 +1,11 @@
+digraph graph5489 {
+	node0 [label="相手が"];
+	node1 [label="出て来なくっても"];
+	node2 [label="怒って"];
+	node3 [label="おれば"];
+	node4 [label="喧嘩だろう」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

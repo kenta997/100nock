@@ -1,0 +1,5 @@
+digraph graph9008 {
+	node0 [label="半身が"];
+	node1 [label="ある。"];
+	node0 -> node1;
+}

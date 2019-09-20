@@ -1,0 +1,15 @@
+digraph graph2687 {
+	node0 [label="猫などは"];
+	node1 [label="生涯"];
+	node2 [label="こんな"];
+	node3 [label="恥を"];
+	node4 [label="かいた"];
+	node5 [label="事が"];
+	node6 [label="ない。"];
+	node0 -> node6;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

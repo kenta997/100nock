@@ -1,0 +1,13 @@
+digraph graph7543 {
+	node0 [label="どうして"];
+	node1 [label="そんな"];
+	node2 [label="無茶な"];
+	node3 [label="事が"];
+	node4 [label="出来た"];
+	node5 [label="ものだろう」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

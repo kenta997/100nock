@@ -1,0 +1,17 @@
+digraph graph2029 {
+	node0 [label="初めて"];
+	node1 [label="人の"];
+	node2 [label="うちへ"];
+	node3 [label="来て"];
+	node4 [label="おれを"];
+	node5 [label="やり込めに"];
+	node6 [label="掛った"];
+	node7 [label="奴だ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

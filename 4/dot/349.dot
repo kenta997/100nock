@@ -1,0 +1,21 @@
+digraph graph349 {
+	node0 [label="主人のように"];
+	node1 [label="アンドレア・デル・サルトを"];
+	node2 [label="極め込んだ"];
+	node3 [label="ものでもあるまいが、"];
+	node4 [label="画家だけに"];
+	node5 [label="形体も"];
+	node6 [label="色彩も"];
+	node7 [label="ちゃんと"];
+	node8 [label="整って"];
+	node9 [label="出来ている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

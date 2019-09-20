@@ -1,0 +1,13 @@
+digraph graph6607 {
+	node0 [label="そこで"];
+	node1 [label="自分の"];
+	node2 [label="子ながらも"];
+	node3 [label="少しく"];
+	node4 [label="持て余している"];
+	node5 [label="ところである。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

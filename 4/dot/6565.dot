@@ -1,0 +1,9 @@
+digraph graph6565 {
+	node0 [label="願くば"];
+	node1 [label="もう少し"];
+	node2 [label="遠慮を"];
+	node3 [label="してもらいたい。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

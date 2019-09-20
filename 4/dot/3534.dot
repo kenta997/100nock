@@ -1,0 +1,9 @@
+digraph graph3534 {
+	node0 [label="少しでも"];
+	node1 [label="卸せば"];
+	node2 [label="ツユが"];
+	node3 [label="溢れるばかりである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

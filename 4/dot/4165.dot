@@ -1,0 +1,5 @@
+digraph graph4165 {
+	node0 [label="図太い"];
+	node1 [label="奴だ。"];
+	node0 -> node1;
+}

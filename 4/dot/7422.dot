@@ -1,0 +1,5 @@
+digraph graph7422 {
+	node0 [label="また"];
+	node1 [label="赤坂かい。"];
+	node0 -> node1;
+}

@@ -1,0 +1,15 @@
+digraph graph8675 {
+	node0 [label="で"];
+	node1 [label="店頭に"];
+	node2 [label="大家の"];
+	node3 [label="幅や、"];
+	node4 [label="名人の"];
+	node5 [label="道具類を"];
+	node6 [label="並べておく。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

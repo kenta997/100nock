@@ -1,0 +1,5 @@
+digraph graph8291 {
+	node0 [label="「まだ"];
+	node1 [label="ヴァイオリンかい。"];
+	node0 -> node1;
+}

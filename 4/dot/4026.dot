@@ -1,0 +1,13 @@
+digraph graph4026 {
+	node0 [label="もっとも"];
+	node1 [label="蝉取り運動上は"];
+	node2 [label="どっちに"];
+	node3 [label="しても"];
+	node4 [label="差し支えは"];
+	node5 [label="ない。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

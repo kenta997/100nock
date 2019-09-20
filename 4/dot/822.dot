@@ -1,0 +1,29 @@
+digraph graph822 {
+	node0 [label="それに"];
+	node1 [label="その"];
+	node2 [label="花魁が"];
+	node3 [label="癪を"];
+	node4 [label="起す"];
+	node5 [label="ところが"];
+	node6 [label="あるので……」"];
+	node7 [label="「朗読でも"];
+	node8 [label="癪を"];
+	node9 [label="起さなくっちゃ、"];
+	node10 [label="いけないんですか」と"];
+	node11 [label="主人は"];
+	node12 [label="心配そうに"];
+	node13 [label="尋ねる。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

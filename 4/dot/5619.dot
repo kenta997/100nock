@@ -1,0 +1,21 @@
+digraph graph5619 {
+	node0 [label="鼠色に"];
+	node1 [label="よごれた"];
+	node2 [label="兵児帯を"];
+	node3 [label="こま結びに"];
+	node4 [label="むすんだ"];
+	node5 [label="左右が"];
+	node6 [label="だらりと"];
+	node7 [label="足の"];
+	node8 [label="裏へ"];
+	node9 [label="垂れかかっている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

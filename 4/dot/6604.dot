@@ -1,0 +1,17 @@
+digraph graph6604 {
+	node0 [label="いかに"];
+	node1 [label="空漠なる"];
+	node2 [label="主人でも"];
+	node3 [label="この"];
+	node4 [label="三令嬢が"];
+	node5 [label="女である"];
+	node6 [label="くらいは"];
+	node7 [label="心得ている。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

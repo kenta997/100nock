@@ -1,0 +1,21 @@
+digraph graph2140 {
+	node0 [label="「そこで"];
+	node1 [label="今日"];
+	node2 [label="わざわざ"];
+	node3 [label="君を"];
+	node4 [label="招いたのだがね」と"];
+	node5 [label="しばらく"];
+	node6 [label="途切れて"];
+	node7 [label="金田君の"];
+	node8 [label="声が"];
+	node9 [label="聞える。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

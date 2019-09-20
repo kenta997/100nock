@@ -1,0 +1,19 @@
+digraph graph4559 {
+	node0 [label="しかし"];
+	node1 [label="その"];
+	node2 [label="何の"];
+	node3 [label="ためたるやは"];
+	node4 [label="智慮"];
+	node5 [label="深き"];
+	node6 [label="吾輩には"];
+	node7 [label="頓と"];
+	node8 [label="了解し難い。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

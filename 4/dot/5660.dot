@@ -1,0 +1,15 @@
+digraph graph5660 {
+	node0 [label="これが"];
+	node1 [label="もう一歩"];
+	node2 [label="進むと、"];
+	node3 [label="己れの"];
+	node4 [label="醜悪な"];
+	node5 [label="事が"];
+	node6 [label="怖くなる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

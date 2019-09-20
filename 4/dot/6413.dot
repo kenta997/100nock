@@ -1,0 +1,21 @@
+digraph graph6413 {
+	node0 [label="ならない"];
+	node1 [label="ところを"];
+	node2 [label="毎日"];
+	node3 [label="毎日"];
+	node4 [label="御苦労にも"];
+	node5 [label="やる"];
+	node6 [label="ところが"];
+	node7 [label="細君の"];
+	node8 [label="えらい"];
+	node9 [label="ところである。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

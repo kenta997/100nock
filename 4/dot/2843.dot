@@ -1,0 +1,13 @@
+digraph graph2843 {
+	node0 [label="なにか"];
+	node1 [label="からげる"];
+	node2 [label="ものは"];
+	node3 [label="ないかと"];
+	node4 [label="あたりを"];
+	node5 [label="見廻す。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

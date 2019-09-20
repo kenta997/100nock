@@ -1,0 +1,33 @@
+digraph graph1601 {
+	node0 [label="それだから"];
+	node1 [label="学者社会を"];
+	node2 [label="除いて"];
+	node3 [label="他の"];
+	node4 [label="方面の"];
+	node5 [label="事には"];
+	node6 [label="極めて"];
+	node7 [label="迂濶で、"];
+	node8 [label="ことに"];
+	node9 [label="実業界などでは、"];
+	node10 [label="どこに、"];
+	node11 [label="だれが"];
+	node12 [label="何を"];
+	node13 [label="しているか"];
+	node14 [label="一向"];
+	node15 [label="知らん。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node15;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

@@ -1,0 +1,7 @@
+digraph graph4130 {
+	node0 [label="何か"];
+	node1 [label="食って来たに"];
+	node2 [label="違ない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

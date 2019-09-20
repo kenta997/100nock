@@ -1,0 +1,29 @@
+digraph graph1931 {
+	node0 [label="「寒月君、"];
+	node1 [label="君の"];
+	node2 [label="事を"];
+	node3 [label="譫語にまで"];
+	node4 [label="言った"];
+	node5 [label="婦人の"];
+	node6 [label="名は、"];
+	node7 [label="当時"];
+	node8 [label="秘密であったようだが、"];
+	node9 [label="もう"];
+	node10 [label="話しても"];
+	node11 [label="善かろう」と"];
+	node12 [label="迷亭がから"];
+	node13 [label="かい出す。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

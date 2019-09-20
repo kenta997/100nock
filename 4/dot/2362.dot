@@ -1,0 +1,13 @@
+digraph graph2362 {
+	node0 [label="「鼻の"];
+	node1 [label="事ばかり"];
+	node2 [label="気に"];
+	node3 [label="して、"];
+	node4 [label="どうし"];
+	node5 [label="たんだい。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

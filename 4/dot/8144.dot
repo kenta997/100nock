@@ -1,0 +1,15 @@
+digraph graph8144 {
+	node0 [label="少し"];
+	node1 [label="張合が"];
+	node2 [label="抜けるが"];
+	node3 [label="まあ"];
+	node4 [label="仕方がない、"];
+	node5 [label="ざっと"];
+	node6 [label="話してしまおう」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

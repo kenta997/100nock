@@ -1,0 +1,27 @@
+digraph graph6440 {
+	node0 [label="いわんや"];
+	node1 [label="霜においてを"];
+	node2 [label="やで、"];
+	node3 [label="軒下に"];
+	node4 [label="立ち明かして、"];
+	node5 [label="日の出を"];
+	node6 [label="待つのは、"];
+	node7 [label="どんなに"];
+	node8 [label="辛いか"];
+	node9 [label="とうてい"];
+	node10 [label="想像が"];
+	node11 [label="出来る"];
+	node12 [label="ものではない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

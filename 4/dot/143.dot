@@ -1,0 +1,9 @@
+digraph graph143 {
+	node0 [label="自然は"];
+	node1 [label="これ"];
+	node2 [label="一幅の"];
+	node3 [label="大活画なりと。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

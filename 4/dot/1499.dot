@@ -1,0 +1,15 @@
+digraph graph1499 {
+	node0 [label="「むっとして"];
+	node1 [label="弁じましたる"];
+	node2 [label="柳かな、"];
+	node3 [label="かね」と"];
+	node4 [label="迷亭は"];
+	node5 [label="あいかわらず飄然たる事を"];
+	node6 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

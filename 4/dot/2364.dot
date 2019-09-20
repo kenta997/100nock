@@ -1,0 +1,5 @@
+digraph graph2364 {
+	node0 [label="「決して"];
+	node1 [label="そうでない。"];
+	node0 -> node1;
+}

@@ -1,0 +1,15 @@
+digraph graph4114 {
+	node0 [label="それだから"];
+	node1 [label="吾輩は"];
+	node2 [label="この"];
+	node3 [label="運動を"];
+	node4 [label="称して"];
+	node5 [label="松滑りと"];
+	node6 [label="云うのである。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

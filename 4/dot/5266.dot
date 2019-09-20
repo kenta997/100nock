@@ -1,0 +1,11 @@
+digraph graph5266 {
+	node0 [label="もう"];
+	node1 [label="遠からず"];
+	node2 [label="落城するに"];
+	node3 [label="極って"];
+	node4 [label="いる」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

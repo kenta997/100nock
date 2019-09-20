@@ -1,0 +1,7 @@
+digraph graph5336 {
+	node0 [label="何か"];
+	node1 [label="癪に障る事でも"];
+	node2 [label="有るのかい」"];
+	node0 -> node2;
+	node1 -> node2;
+}

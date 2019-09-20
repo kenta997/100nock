@@ -1,0 +1,9 @@
+digraph graph4670 {
+	node0 [label="家賃は"];
+	node1 [label="安いが"];
+	node2 [label="そこは"];
+	node3 [label="苦沙弥先生である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

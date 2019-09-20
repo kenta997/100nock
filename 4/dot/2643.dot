@@ -1,0 +1,13 @@
+digraph graph2643 {
+	node0 [label="どうも"];
+	node1 [label="我々仲間の"];
+	node2 [label="談話は"];
+	node3 [label="少しも"];
+	node4 [label="油断が"];
+	node5 [label="ならなくてね。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

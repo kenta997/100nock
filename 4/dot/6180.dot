@@ -1,0 +1,9 @@
+digraph graph6180 {
+	node0 [label="君の"];
+	node1 [label="所へも"];
+	node2 [label="何とか"];
+	node3 [label="云って来たろう」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

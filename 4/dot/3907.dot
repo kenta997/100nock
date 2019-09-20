@@ -1,0 +1,23 @@
+digraph graph3907 {
+	node0 [label="第一海水が"];
+	node1 [label="なぜ"];
+	node2 [label="薬に"];
+	node3 [label="なるかと"];
+	node4 [label="云えば"];
+	node5 [label="ちょっと"];
+	node6 [label="海岸へ"];
+	node7 [label="行けば"];
+	node8 [label="すぐ"];
+	node9 [label="分る"];
+	node10 [label="事じゃないか。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,7 @@
+digraph graph8722 {
+	node0 [label="「大臣とか"];
+	node1 [label="華族なら"];
+	node2 [label="どうです」"];
+	node0 -> node1;
+	node1 -> node2;
+}

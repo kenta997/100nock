@@ -1,0 +1,7 @@
+digraph graph4550 {
+	node0 [label="「撲てば、"];
+	node1 [label="どう"];
+	node2 [label="するんですか」"];
+	node0 -> node2;
+	node1 -> node2;
+}

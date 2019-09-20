@@ -1,0 +1,15 @@
+digraph graph870 {
+	node0 [label="寒厨何の"];
+	node1 [label="珍味も"];
+	node2 [label="無之候えども、"];
+	node3 [label="せめては"];
+	node4 [label="トチメンボーでもと"];
+	node5 [label="只今より"];
+	node6 [label="心掛居候。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,13 @@
+digraph graph7506 {
+	node0 [label="「全く頭が"];
+	node1 [label="大き過ぎますから"];
+	node2 [label="そんな"];
+	node3 [label="余計な"];
+	node4 [label="質問を"];
+	node5 [label="するんでしょう。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

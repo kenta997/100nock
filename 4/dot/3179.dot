@@ -1,0 +1,5 @@
+digraph graph3179 {
+	node0 [label="柔らかくて"];
+	node1 [label="安いです。"];
+	node0 -> node1;
+}

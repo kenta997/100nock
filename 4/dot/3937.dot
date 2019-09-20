@@ -1,0 +1,11 @@
+digraph graph3937 {
+	node0 [label="物には"];
+	node1 [label="両面が"];
+	node2 [label="ある、"];
+	node3 [label="両端が"];
+	node4 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

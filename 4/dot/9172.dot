@@ -1,0 +1,33 @@
+digraph graph9172 {
+	node0 [label="この"];
+	node1 [label="甕は"];
+	node2 [label="夏まで"];
+	node3 [label="水葵と"];
+	node4 [label="称する"];
+	node5 [label="水草が"];
+	node6 [label="茂っていたが"];
+	node7 [label="その後"];
+	node8 [label="烏の"];
+	node9 [label="勘公が"];
+	node10 [label="来て"];
+	node11 [label="葵を"];
+	node12 [label="食い尽した"];
+	node13 [label="上に"];
+	node14 [label="行水を"];
+	node15 [label="使う。"];
+	node0 -> node1;
+	node1 -> node15;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

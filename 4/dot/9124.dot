@@ -1,0 +1,33 @@
+digraph graph9124 {
+	node0 [label="まして"];
+	node1 [label="夜寒の"];
+	node2 [label="月影に"];
+	node3 [label="照らされて、"];
+	node4 [label="静かに"];
+	node5 [label="火消壺と"];
+	node6 [label="ならんでいる"];
+	node7 [label="この"];
+	node8 [label="液体の"];
+	node9 [label="事だから、"];
+	node10 [label="唇を"];
+	node11 [label="つけぬ"];
+	node12 [label="先から"];
+	node13 [label="すでに"];
+	node14 [label="寒くて"];
+	node15 [label="飲みたくもない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

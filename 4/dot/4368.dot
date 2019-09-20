@@ -1,0 +1,11 @@
+digraph graph4368 {
+	node0 [label="人間も"];
+	node1 [label="やきが"];
+	node2 [label="廻っちゃ"];
+	node3 [label="若い者には"];
+	node4 [label="叶わないよ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

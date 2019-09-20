@@ -1,0 +1,9 @@
+digraph graph4441 {
+	node0 [label="腫物か"];
+	node1 [label="何かで"];
+	node2 [label="苦しんでいると"];
+	node3 [label="見える。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

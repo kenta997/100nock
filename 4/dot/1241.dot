@@ -1,0 +1,21 @@
+digraph graph1241 {
+	node0 [label="「行きたかったが"];
+	node1 [label="四時を"];
+	node2 [label="過ぎちゃ、"];
+	node3 [label="這入れないと"];
+	node4 [label="云う"];
+	node5 [label="細君の"];
+	node6 [label="意見なんだから"];
+	node7 [label="仕方がない、"];
+	node8 [label="やめに"];
+	node9 [label="したさ。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,5 @@
+digraph graph6938 {
+	node0 [label="「まだ"];
+	node1 [label="あるの？"];
+	node0 -> node1;
+}

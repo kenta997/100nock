@@ -1,0 +1,5 @@
+digraph graph9058 {
+	node0 [label="「真平"];
+	node1 [label="ご免だ」"];
+	node0 -> node1;
+}

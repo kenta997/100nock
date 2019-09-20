@@ -1,0 +1,9 @@
+digraph graph8072 {
+	node0 [label="うちへ"];
+	node1 [label="帰って"];
+	node2 [label="出直すのは"];
+	node3 [label="大変だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

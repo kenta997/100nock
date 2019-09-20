@@ -1,0 +1,35 @@
+digraph graph6664 {
+	node0 [label="中学などの"];
+	node1 [label="少年輩までが"];
+	node2 [label="見様見真似に、"];
+	node3 [label="こう"];
+	node4 [label="しなくては"];
+	node5 [label="幅が"];
+	node6 [label="利かないと"];
+	node7 [label="心得違いを"];
+	node8 [label="して、"];
+	node9 [label="本来なら"];
+	node10 [label="赤面して"];
+	node11 [label="しかるべきのを"];
+	node12 [label="得々と"];
+	node13 [label="履行して"];
+	node14 [label="未来の"];
+	node15 [label="紳士だと"];
+	node16 [label="思っている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

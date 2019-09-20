@@ -1,0 +1,35 @@
+digraph graph92 {
+	node0 [label="その後"];
+	node1 [label="いろいろ"];
+	node2 [label="経験の"];
+	node3 [label="上、"];
+	node4 [label="朝は"];
+	node5 [label="飯櫃の"];
+	node6 [label="上、"];
+	node7 [label="夜は"];
+	node8 [label="炬燵の"];
+	node9 [label="上、"];
+	node10 [label="天気の"];
+	node11 [label="よい"];
+	node12 [label="昼は"];
+	node13 [label="椽側へ"];
+	node14 [label="寝る"];
+	node15 [label="事と"];
+	node16 [label="した。"];
+	node0 -> node16;
+	node1 -> node16;
+	node2 -> node3;
+	node3 -> node16;
+	node4 -> node16;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node16;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

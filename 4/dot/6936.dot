@@ -1,0 +1,5 @@
+digraph graph6936 {
+	node0 [label="「妙な"];
+	node1 [label="地蔵様ね」"];
+	node0 -> node1;
+}

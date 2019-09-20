@@ -1,0 +1,5 @@
+digraph graph4366 {
+	node0 [label="双方共頭だけ"];
+	node1 [label="浮かしているのみだ。"];
+	node0 -> node1;
+}

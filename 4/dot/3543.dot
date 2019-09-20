@@ -1,0 +1,33 @@
+digraph graph3543 {
+	node0 [label="「いや"];
+	node1 [label="好男子の"];
+	node2 [label="御入来だが、"];
+	node3 [label="喰い掛けた"];
+	node4 [label="ものだから"];
+	node5 [label="ちょっと"];
+	node6 [label="失敬しますよ」と"];
+	node7 [label="迷亭君は"];
+	node8 [label="衆人環座の"];
+	node9 [label="裏に"];
+	node10 [label="あって"];
+	node11 [label="臆面も"];
+	node12 [label="なく"];
+	node13 [label="残った"];
+	node14 [label="蒸籠を"];
+	node15 [label="平げる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node15;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

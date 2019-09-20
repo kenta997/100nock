@@ -1,0 +1,13 @@
+digraph graph3563 {
+	node0 [label="それでも"];
+	node1 [label="根気"];
+	node2 [label="よく"];
+	node3 [label="やっていると"];
+	node4 [label="大豆ほどに"];
+	node5 [label="なります。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

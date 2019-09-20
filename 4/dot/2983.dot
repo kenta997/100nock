@@ -1,0 +1,7 @@
+digraph graph2983 {
+	node0 [label="御嬢さん"];
+	node1 [label="喰べ"];
+	node2 [label="なさったか」"];
+	node0 -> node1;
+	node1 -> node2;
+}

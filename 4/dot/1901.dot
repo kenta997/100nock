@@ -1,0 +1,15 @@
+digraph graph1901 {
+	node0 [label="令嬢は"];
+	node1 [label="癇癪を"];
+	node2 [label="起して"];
+	node3 [label="やけに"];
+	node4 [label="ベルを"];
+	node5 [label="ジャラジャラと"];
+	node6 [label="廻す。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

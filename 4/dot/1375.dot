@@ -1,0 +1,13 @@
+digraph graph1375 {
+	node0 [label="せっかくの"];
+	node1 [label="苦心も"];
+	node2 [label="一字"];
+	node3 [label="残らず"];
+	node4 [label="落第と"];
+	node5 [label="なった。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

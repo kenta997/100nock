@@ -1,0 +1,23 @@
+digraph graph3900 {
+	node0 [label="泣く"];
+	node1 [label="事と、"];
+	node2 [label="寝小便を"];
+	node3 [label="する"];
+	node4 [label="事と、"];
+	node5 [label="おっぱいを"];
+	node6 [label="飲む"];
+	node7 [label="事より"];
+	node8 [label="ほかに"];
+	node9 [label="何にも"];
+	node10 [label="知らない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

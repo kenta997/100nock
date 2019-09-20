@@ -1,0 +1,9 @@
+digraph graph7831 {
+	node0 [label="勘定しなくっても"];
+	node1 [label="僕は"];
+	node2 [label="負けてるから"];
+	node3 [label="たしかだ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

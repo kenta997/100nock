@@ -1,0 +1,5 @@
+digraph graph3513 {
+	node0 [label="「打ち立ては"];
+	node1 [label="ありがたいな。"];
+	node0 -> node1;
+}

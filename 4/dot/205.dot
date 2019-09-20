@@ -1,0 +1,11 @@
+digraph graph205 {
+	node0 [label="　"];
+	node1 [label="猫が"];
+	node2 [label="聞いて"];
+	node3 [label="あきれら"];
+	node4 [label="あ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

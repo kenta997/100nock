@@ -1,0 +1,11 @@
+digraph graph218 {
+	node0 [label="「一体"];
+	node1 [label="車屋と"];
+	node2 [label="教師とは"];
+	node3 [label="どっちが"];
+	node4 [label="えらいだろう」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

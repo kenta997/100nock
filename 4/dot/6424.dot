@@ -1,0 +1,15 @@
+digraph graph6424 {
+	node0 [label="もう"];
+	node1 [label="飯も"];
+	node2 [label="汁も"];
+	node3 [label="出来ているのだから"];
+	node4 [label="食わせてもよさそうな"];
+	node5 [label="ものだと"];
+	node6 [label="思った。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

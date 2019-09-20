@@ -1,0 +1,21 @@
+digraph graph1910 {
+	node0 [label="「おや御前いつ"];
+	node1 [label="束髪に"];
+	node2 [label="結ったの」小間使は"];
+	node3 [label="ほっと"];
+	node4 [label="一息ついて"];
+	node5 [label="「今日」と"];
+	node6 [label="なるべく"];
+	node7 [label="単簡な"];
+	node8 [label="挨拶を"];
+	node9 [label="する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

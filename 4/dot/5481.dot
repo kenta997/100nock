@@ -1,0 +1,21 @@
+digraph graph5481 {
+	node0 [label="今の"];
+	node1 [label="世に"];
+	node2 [label="合うように"];
+	node3 [label="上等な"];
+	node4 [label="両親が"];
+	node5 [label="手際"];
+	node6 [label="よく"];
+	node7 [label="生んでくれれば、"];
+	node8 [label="それが"];
+	node9 [label="幸福なのさ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

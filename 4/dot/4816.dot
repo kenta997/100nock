@@ -1,0 +1,11 @@
+digraph graph4816 {
+	node0 [label="かえって"];
+	node1 [label="運動に"];
+	node2 [label="なって"];
+	node3 [label="面白い"];
+	node4 [label="くらいである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

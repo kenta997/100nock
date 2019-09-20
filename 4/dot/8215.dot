@@ -1,0 +1,7 @@
+digraph graph8215 {
+	node0 [label="油断の"];
+	node1 [label="出来ない"];
+	node2 [label="男だ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

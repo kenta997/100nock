@@ -1,0 +1,19 @@
+digraph graph1623 {
+	node0 [label="「じゃあ"];
+	node1 [label="寒月の"];
+	node2 [label="方で"];
+	node3 [label="是非貰いたいとでも"];
+	node4 [label="云ったのですか」と"];
+	node5 [label="主人が"];
+	node6 [label="正面から"];
+	node7 [label="鉄砲を"];
+	node8 [label="喰わせる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

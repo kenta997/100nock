@@ -1,0 +1,29 @@
+digraph graph6521 {
+	node0 [label="あるいは"];
+	node1 [label="町内中"];
+	node2 [label="ことごとく"];
+	node3 [label="苦手かも知れんが、"];
+	node4 [label="ただ"];
+	node5 [label="いまは"];
+	node6 [label="関係が"];
+	node7 [label="ないから、"];
+	node8 [label="だんだん"];
+	node9 [label="成し"];
+	node10 [label="崩しに"];
+	node11 [label="紹介致す"];
+	node12 [label="事に"];
+	node13 [label="する。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

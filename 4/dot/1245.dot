@@ -1,0 +1,13 @@
+digraph graph1245 {
+	node0 [label="これで"];
+	node1 [label="両人に対して"];
+	node2 [label="顔が"];
+	node3 [label="立つと"];
+	node4 [label="云う"];
+	node5 [label="気かも知れん。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

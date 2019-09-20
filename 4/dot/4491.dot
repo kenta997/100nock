@@ -1,0 +1,21 @@
+digraph graph4491 {
+	node0 [label="しからずんば、"];
+	node1 [label="こんな"];
+	node2 [label="書生が"];
+	node3 [label="何百人"];
+	node4 [label="出て来て、"];
+	node5 [label="何十年"];
+	node6 [label="かかったって"];
+	node7 [label="主人の"];
+	node8 [label="頑固は"];
+	node9 [label="癒りっこない。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,31 @@
+digraph graph5280 {
+	node0 [label="この"];
+	node1 [label="金の"];
+	node2 [label="功力を"];
+	node3 [label="心得て、"];
+	node4 [label="この"];
+	node5 [label="金の"];
+	node6 [label="威光を"];
+	node7 [label="自由に"];
+	node8 [label="発揮する"];
+	node9 [label="ものは"];
+	node10 [label="実業家諸君を"];
+	node11 [label="おいて"];
+	node12 [label="ほかに"];
+	node13 [label="一人も"];
+	node14 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

@@ -1,0 +1,27 @@
+digraph graph8755 {
+	node0 [label="たまたま"];
+	node1 [label="親子同居する"];
+	node2 [label="ものが"];
+	node3 [label="あっても、"];
+	node4 [label="息子が"];
+	node5 [label="おやじから"];
+	node6 [label="利息の"];
+	node7 [label="つく"];
+	node8 [label="金を"];
+	node9 [label="借りたり、"];
+	node10 [label="他人のように"];
+	node11 [label="下宿料を"];
+	node12 [label="払ったりする。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

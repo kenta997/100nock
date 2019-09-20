@@ -1,0 +1,27 @@
+digraph graph7708 {
+	node0 [label="「入れる"];
+	node1 [label="所が"];
+	node2 [label="なかったから、"];
+	node3 [label="ヴァイオリンと"];
+	node4 [label="いっしょに"];
+	node5 [label="袋の"];
+	node6 [label="なかへ"];
+	node7 [label="入れて、"];
+	node8 [label="船へ"];
+	node9 [label="乗ったら、"];
+	node10 [label="その"];
+	node11 [label="晩に"];
+	node12 [label="やられました。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

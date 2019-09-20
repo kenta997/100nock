@@ -1,0 +1,15 @@
+digraph graph6799 {
+	node0 [label="今までは"];
+	node1 [label="竹垣の"];
+	node2 [label="外の"];
+	node3 [label="空地へ"];
+	node4 [label="出て"];
+	node5 [label="遊んでいた"];
+	node6 [label="ものであろう。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

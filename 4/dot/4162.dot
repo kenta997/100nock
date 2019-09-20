@@ -1,0 +1,35 @@
+digraph graph4162 {
+	node0 [label="ようやくの"];
+	node1 [label="事先鋒を"];
+	node2 [label="去る"];
+	node3 [label="事"];
+	node4 [label="約五六寸の"];
+	node5 [label="距離まで"];
+	node6 [label="来て"];
+	node7 [label="もう"];
+	node8 [label="一息だと"];
+	node9 [label="思うと、"];
+	node10 [label="勘左衛門は"];
+	node11 [label="申し合せたように、"];
+	node12 [label="いきなり"];
+	node13 [label="羽搏を"];
+	node14 [label="して"];
+	node15 [label="一二尺"];
+	node16 [label="飛び上がった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node11;
+	node11 -> node16;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

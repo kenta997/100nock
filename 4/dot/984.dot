@@ -1,0 +1,5 @@
+digraph graph984 {
+	node0 [label="彼は"];
+	node1 [label="強い。"];
+	node0 -> node1;
+}

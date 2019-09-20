@@ -1,0 +1,13 @@
+digraph graph4851 {
+	node0 [label="第一に"];
+	node1 [label="怒"];
+	node2 [label="液と"];
+	node3 [label="云う"];
+	node4 [label="奴が"];
+	node5 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,23 @@
+digraph graph6805 {
+	node0 [label="「坊ばも"];
+	node1 [label="御はなち」と"];
+	node2 [label="云い出した"];
+	node3 [label="三女は"];
+	node4 [label="姉と"];
+	node5 [label="姉の"];
+	node6 [label="間から"];
+	node7 [label="膝を"];
+	node8 [label="前の"];
+	node9 [label="方に"];
+	node10 [label="出す。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

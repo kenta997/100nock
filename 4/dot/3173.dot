@@ -1,0 +1,13 @@
+digraph graph3173 {
+	node0 [label="行き当りばったりの"];
+	node1 [label="多々良君は"];
+	node2 [label="無論"];
+	node3 [label="逡巡する"];
+	node4 [label="訳が"];
+	node5 [label="ない。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

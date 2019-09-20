@@ -1,0 +1,15 @@
+digraph graph6629 {
+	node0 [label="飛びつき損じて"];
+	node1 [label="畳の"];
+	node2 [label="上へ"];
+	node3 [label="こぼれた"];
+	node4 [label="ものは"];
+	node5 [label="打算の"];
+	node6 [label="限りでない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

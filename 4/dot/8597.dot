@@ -1,0 +1,19 @@
+digraph graph8597 {
+	node0 [label="「死ぬ"];
+	node1 [label="事は"];
+	node2 [label="苦しい、"];
+	node3 [label="しかし"];
+	node4 [label="死ぬ"];
+	node5 [label="事が"];
+	node6 [label="出来なければ"];
+	node7 [label="なお"];
+	node8 [label="苦しい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

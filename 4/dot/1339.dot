@@ -1,0 +1,11 @@
+digraph graph1339 {
+	node0 [label="丸の"];
+	node1 [label="中へ"];
+	node2 [label="点を"];
+	node3 [label="二つうって眼を"];
+	node4 [label="つける。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

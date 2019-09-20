@@ -1,0 +1,9 @@
+digraph graph6724 {
+	node0 [label="「本当に"];
+	node1 [label="むやみに"];
+	node2 [label="怒る"];
+	node3 [label="方ね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

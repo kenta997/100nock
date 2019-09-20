@@ -1,0 +1,5 @@
+digraph graph7637 {
+	node0 [label="「しかし"];
+	node1 [label="死ぬばかりだぜ」"];
+	node0 -> node1;
+}

@@ -1,0 +1,11 @@
+digraph graph6635 {
+	node0 [label="世故に"];
+	node1 [label="たけた"];
+	node2 [label="敏腕家にも"];
+	node3 [label="似合しからぬ"];
+	node4 [label="事だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,9 @@
+digraph graph7549 {
+	node0 [label="「だって"];
+	node1 [label="君が"];
+	node2 [label="貰うかも知れない"];
+	node3 [label="人だぜ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

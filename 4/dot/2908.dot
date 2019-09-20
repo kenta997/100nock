@@ -1,0 +1,9 @@
+digraph graph2908 {
+	node0 [label="それだから"];
+	node1 [label="あなたは"];
+	node2 [label="不人情だと"];
+	node3 [label="云うんです。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,9 @@
+digraph graph8139 {
+	node0 [label="「こん度は"];
+	node1 [label="ヴァイオリンを"];
+	node2 [label="売る"];
+	node3 [label="ところかい。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

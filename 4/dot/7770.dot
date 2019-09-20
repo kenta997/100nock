@@ -1,0 +1,11 @@
+digraph graph7770 {
+	node0 [label="「君は"];
+	node1 [label="ヴァイオリンを"];
+	node2 [label="いつ"];
+	node3 [label="頃から"];
+	node4 [label="始めたのかい。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

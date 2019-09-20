@@ -1,0 +1,37 @@
+digraph graph6389 {
+	node0 [label="但し"];
+	node1 [label="主人は"];
+	node2 [label="「何が"];
+	node3 [label="何だか"];
+	node4 [label="分らなくなった」まで"];
+	node5 [label="考えて"];
+	node6 [label="その"];
+	node7 [label="あとは"];
+	node8 [label="ぐうぐう"];
+	node9 [label="寝てしまったのである、"];
+	node10 [label="あすに"];
+	node11 [label="なれば"];
+	node12 [label="何を"];
+	node13 [label="どこまで"];
+	node14 [label="考えたか"];
+	node15 [label="まるで"];
+	node16 [label="忘れてしまうに"];
+	node17 [label="違ない。"];
+	node0 -> node17;
+	node1 -> node17;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node17;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

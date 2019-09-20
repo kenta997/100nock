@@ -1,0 +1,15 @@
+digraph graph8835 {
+	node0 [label="あの"];
+	node1 [label="声は"];
+	node2 [label="勇猛精進の"];
+	node3 [label="声じゃない、"];
+	node4 [label="どうしても"];
+	node5 [label="怨恨痛憤の"];
+	node6 [label="音だ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

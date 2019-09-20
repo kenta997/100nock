@@ -1,0 +1,25 @@
+digraph graph6235 {
+	node0 [label="　泥棒は"];
+	node1 [label="この"];
+	node2 [label="時"];
+	node3 [label="よほど"];
+	node4 [label="おかしかったと"];
+	node5 [label="見えて、"];
+	node6 [label="下を"];
+	node7 [label="向いて"];
+	node8 [label="着物の"];
+	node9 [label="襟へ"];
+	node10 [label="あごを"];
+	node11 [label="入れた。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

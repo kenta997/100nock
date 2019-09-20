@@ -1,0 +1,31 @@
+digraph graph4829 {
+	node0 [label="主人方の"];
+	node1 [label="不利を"];
+	node2 [label="云うと"];
+	node3 [label="書斎からは"];
+	node4 [label="敵の"];
+	node5 [label="声だけ"];
+	node6 [label="聞えて"];
+	node7 [label="姿が"];
+	node8 [label="見えないのと、"];
+	node9 [label="窓からは"];
+	node10 [label="姿が"];
+	node11 [label="見えるだけで"];
+	node12 [label="手が"];
+	node13 [label="出せない"];
+	node14 [label="事である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node14;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

@@ -1,0 +1,7 @@
+digraph graph6747 {
+	node0 [label="なるほど保険の"];
+	node1 [label="必要も"];
+	node2 [label="認めないではない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

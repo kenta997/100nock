@@ -1,0 +1,13 @@
+digraph graph8647 {
+	node0 [label="「昔し"];
+	node1 [label="スペインに"];
+	node2 [label="コルドヴァと"];
+	node3 [label="云う"];
+	node4 [label="所が"];
+	node5 [label="あった……」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

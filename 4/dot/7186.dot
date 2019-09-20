@@ -1,0 +1,27 @@
+digraph graph7186 {
+	node0 [label="衆を"];
+	node1 [label="頼んで"];
+	node2 [label="騒ぎ出すのは、"];
+	node3 [label="人の"];
+	node4 [label="気に"];
+	node5 [label="酔っ払った"];
+	node6 [label="結果、"];
+	node7 [label="正気を"];
+	node8 [label="取り落したる"];
+	node9 [label="ものと"];
+	node10 [label="認めて"];
+	node11 [label="差支え"];
+	node12 [label="あるまい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node12;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

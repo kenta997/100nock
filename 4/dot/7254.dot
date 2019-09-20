@@ -1,0 +1,11 @@
+digraph graph7254 {
+	node0 [label="やむを得ず、"];
+	node1 [label="少し"];
+	node2 [label="語勢を"];
+	node3 [label="変えて"];
+	node4 [label="「いいさ。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

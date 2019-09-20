@@ -1,0 +1,15 @@
+digraph graph8815 {
+	node0 [label="幸いに"];
+	node1 [label="明治の"];
+	node2 [label="今日に"];
+	node3 [label="生れたから、"];
+	node4 [label="天下が"];
+	node5 [label="挙って"];
+	node6 [label="愛読するのだろうが……」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

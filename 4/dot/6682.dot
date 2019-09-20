@@ -1,0 +1,25 @@
+digraph graph6682 {
+	node0 [label="遅くなりますよ」と"];
+	node1 [label="催促すると、"];
+	node2 [label="小供は"];
+	node3 [label="平気な"];
+	node4 [label="もので"];
+	node5 [label="「あら、でも"];
+	node6 [label="今日は"];
+	node7 [label="御休みよ」と"];
+	node8 [label="支度を"];
+	node9 [label="する"];
+	node10 [label="景色が"];
+	node11 [label="ない。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

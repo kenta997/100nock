@@ -1,0 +1,13 @@
+digraph graph3564 {
+	node0 [label="大豆ほどに"];
+	node1 [label="なっても"];
+	node2 [label="まだ"];
+	node3 [label="完全な"];
+	node4 [label="円は"];
+	node5 [label="出来ませんよ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,11 @@
+digraph graph3085 {
+	node0 [label="こうして"];
+	node1 [label="おいたっちゃ"];
+	node2 [label="何の"];
+	node3 [label="役にも"];
+	node4 [label="立ちませんばい」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

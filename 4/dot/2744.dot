@@ -1,0 +1,19 @@
+digraph graph2744 {
+	node0 [label="肝心の"];
+	node1 [label="主人は"];
+	node2 [label="覚める"];
+	node3 [label="気色も"];
+	node4 [label="ないのに"];
+	node5 [label="突然"];
+	node6 [label="陰士の"];
+	node7 [label="足音が"];
+	node8 [label="し出した。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

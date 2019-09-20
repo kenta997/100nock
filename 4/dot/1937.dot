@@ -1,0 +1,23 @@
+digraph graph1937 {
+	node0 [label="陣笠に"];
+	node1 [label="立葵の"];
+	node2 [label="紋の"];
+	node3 [label="付いた"];
+	node4 [label="ぶっ"];
+	node5 [label="割き"];
+	node6 [label="羽織でも"];
+	node7 [label="着なくっちゃ"];
+	node8 [label="納まりの"];
+	node9 [label="付かない"];
+	node10 [label="紐だ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

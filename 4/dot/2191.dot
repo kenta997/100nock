@@ -1,0 +1,5 @@
+digraph graph2191 {
+	node0 [label="「どうも"];
+	node1 [label="驚きますな。"];
+	node0 -> node1;
+}

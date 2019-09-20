@@ -1,0 +1,13 @@
+digraph graph3354 {
+	node0 [label="吾輩は"];
+	node1 [label="鮑貝の"];
+	node2 [label="傍に"];
+	node3 [label="おとなしくして"];
+	node4 [label="蹲"];
+	node5 [label="踞る。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,9 @@
+digraph graph8283 {
+	node0 [label="ちっと"];
+	node1 [label="起きちゃ"];
+	node2 [label="どう"];
+	node3 [label="だい」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

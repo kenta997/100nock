@@ -1,0 +1,19 @@
+digraph graph6807 {
+	node0 [label="「あら、また"];
+	node1 [label="坊ばちゃんの"];
+	node2 [label="話だ」と"];
+	node3 [label="姉さんが"];
+	node4 [label="笑うと、"];
+	node5 [label="妻君は"];
+	node6 [label="「坊ばは"];
+	node7 [label="あとで"];
+	node8 [label="なさい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

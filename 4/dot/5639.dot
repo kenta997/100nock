@@ -1,0 +1,11 @@
+digraph graph5639 {
+	node0 [label="いくら"];
+	node1 [label="撫でても、"];
+	node2 [label="さすっても"];
+	node3 [label="ぽつぽつが"];
+	node4 [label="とれない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

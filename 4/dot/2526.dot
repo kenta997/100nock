@@ -1,0 +1,9 @@
+digraph graph2526 {
+	node0 [label="「うん、"];
+	node1 [label="実に"];
+	node2 [label="ずうずうしい"];
+	node3 [label="男だ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

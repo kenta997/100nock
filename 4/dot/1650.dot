@@ -1,0 +1,11 @@
+digraph graph1650 {
+	node0 [label="「ええ、"];
+	node1 [label="寒月さんの"];
+	node2 [label="事じゃ、"];
+	node3 [label="よっぽど"];
+	node4 [label="使いましたよ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

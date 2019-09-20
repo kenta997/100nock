@@ -1,0 +1,15 @@
+digraph graph1351 {
+	node0 [label="返事が"];
+	node1 [label="気に入らないと"];
+	node2 [label="見えて"];
+	node3 [label="妻君はまた"];
+	node4 [label="「あなた"];
+	node5 [label="ちょっと」と"];
+	node6 [label="出直す。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

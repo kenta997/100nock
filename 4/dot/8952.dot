@@ -1,0 +1,7 @@
+digraph graph8952 {
+	node0 [label="「そんな"];
+	node1 [label="ものが"];
+	node2 [label="釣れますか。"];
+	node0 -> node1;
+	node1 -> node2;
+}

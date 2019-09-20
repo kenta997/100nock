@@ -1,0 +1,13 @@
+digraph graph1840 {
+	node0 [label="ことに"];
+	node1 [label="吾輩は"];
+	node2 [label="この道に"];
+	node3 [label="掛けては"];
+	node4 [label="日本一の"];
+	node5 [label="堪能である。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

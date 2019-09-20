@@ -1,0 +1,21 @@
+digraph graph5071 {
+	node0 [label="目的が"];
+	node1 [label="遊戯に"];
+	node2 [label="あるのではない、"];
+	node3 [label="戦争に"];
+	node4 [label="存するのだから、"];
+	node5 [label="わざと"];
+	node6 [label="ダムダム弾を"];
+	node7 [label="主人の"];
+	node8 [label="邸内に"];
+	node9 [label="降らせる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

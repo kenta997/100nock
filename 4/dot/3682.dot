@@ -1,0 +1,15 @@
+digraph graph3682 {
+	node0 [label="「そうですとも、"];
+	node1 [label="出鱈目じゃない、"];
+	node2 [label="ちゃんと"];
+	node3 [label="証拠が"];
+	node4 [label="あるから"];
+	node5 [label="仕方が"];
+	node6 [label="ありませんや。"];
+	node0 -> node6;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

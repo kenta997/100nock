@@ -1,0 +1,9 @@
+digraph graph6675 {
+	node0 [label="意気地の"];
+	node1 [label="ない"];
+	node2 [label="ところが"];
+	node3 [label="上等なのである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

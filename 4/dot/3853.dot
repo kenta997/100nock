@@ -1,0 +1,7 @@
+digraph graph3853 {
+	node0 [label="「大和魂！　と"];
+	node1 [label="新聞屋が"];
+	node2 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+}

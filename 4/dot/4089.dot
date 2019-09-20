@@ -1,0 +1,5 @@
+digraph graph4089 {
+	node0 [label="それが"];
+	node1 [label="間違ってる。"];
+	node0 -> node1;
+}

@@ -1,0 +1,33 @@
+digraph graph921 {
+	node0 [label="　"];
+	node1 [label="一方では"];
+	node2 [label="自分の"];
+	node3 [label="境遇と"];
+	node4 [label="比べて"];
+	node5 [label="見て"];
+	node6 [label="羨ましくもあるが、"];
+	node7 [label="一方では"];
+	node8 [label="己が"];
+	node9 [label="愛している"];
+	node10 [label="猫が"];
+	node11 [label="かくまで"];
+	node12 [label="厚遇を"];
+	node13 [label="受けていると"];
+	node14 [label="思えば"];
+	node15 [label="嬉しくもある。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node15;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

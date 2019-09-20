@@ -1,0 +1,13 @@
+digraph graph7929 {
+	node0 [label="三度目に"];
+	node1 [label="どう"];
+	node2 [label="あっても"];
+	node3 [label="これは"];
+	node4 [label="買わなければならないと"];
+	node5 [label="決心しました。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

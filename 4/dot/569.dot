@@ -1,0 +1,9 @@
+digraph graph569 {
+	node0 [label="……"];
+	node1 [label="台所へ"];
+	node2 [label="廻って"];
+	node3 [label="見る。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

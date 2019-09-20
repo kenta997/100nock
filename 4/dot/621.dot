@@ -1,0 +1,9 @@
+digraph graph621 {
+	node0 [label="第三の"];
+	node1 [label="真理が"];
+	node2 [label="驀地に"];
+	node3 [label="現前する。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

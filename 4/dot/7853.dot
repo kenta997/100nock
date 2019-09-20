@@ -1,0 +1,15 @@
+digraph graph7853 {
+	node0 [label="「ともかくも"];
+	node1 [label="女は"];
+	node2 [label="全然"];
+	node3 [label="不必要な"];
+	node4 [label="者だ」と"];
+	node5 [label="主人が"];
+	node6 [label="云うと、"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

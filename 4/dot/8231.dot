@@ -1,0 +1,25 @@
+digraph graph8231 {
+	node0 [label="僕が"];
+	node1 [label="昔"];
+	node2 [label="し"];
+	node3 [label="姥子の"];
+	node4 [label="温泉に"];
+	node5 [label="行って、"];
+	node6 [label="一人の"];
+	node7 [label="じじいと"];
+	node8 [label="相宿に"];
+	node9 [label="なった"];
+	node10 [label="事が"];
+	node11 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

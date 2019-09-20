@@ -1,0 +1,5 @@
+digraph graph9025 {
+	node0 [label="「どれでも"];
+	node1 [label="いいです」"];
+	node0 -> node1;
+}

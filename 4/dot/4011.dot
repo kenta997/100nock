@@ -1,0 +1,25 @@
+digraph graph4011 {
+	node0 [label="人間にも"];
+	node1 [label="油野郎、"];
+	node2 [label="みんみん"];
+	node3 [label="野郎、"];
+	node4 [label="おしいつくつく"];
+	node5 [label="野郎が"];
+	node6 [label="あるごとく、"];
+	node7 [label="蝉にも"];
+	node8 [label="油蝉、"];
+	node9 [label="みんみん、"];
+	node10 [label="おしいつくつくが"];
+	node11 [label="ある。"];
+	node0 -> node6;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

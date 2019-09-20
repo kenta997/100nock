@@ -1,0 +1,9 @@
+digraph graph2333 {
+	node0 [label="「なって"];
+	node1 [label="見ろ、"];
+	node2 [label="三日で"];
+	node3 [label="嫌になるから」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

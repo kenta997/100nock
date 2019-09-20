@@ -1,0 +1,13 @@
+digraph graph8172 {
+	node0 [label="「何でも"];
+	node1 [label="いいから"];
+	node2 [label="ちょっと"];
+	node3 [label="英語に"];
+	node4 [label="訳して"];
+	node5 [label="見ろ」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,19 @@
+digraph graph8238 {
+	node0 [label="意地の"];
+	node1 [label="わるい"];
+	node2 [label="事に、"];
+	node3 [label="その"];
+	node4 [label="じじいが"];
+	node5 [label="風呂敷に"];
+	node6 [label="一杯煙草を"];
+	node7 [label="用意して"];
+	node8 [label="登山しているのさ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+}

@@ -1,0 +1,21 @@
+digraph graph6694 {
+	node0 [label="もっとも"];
+	node1 [label="顔は"];
+	node2 [label="名前ほどでもない、"];
+	node3 [label="ちょっと"];
+	node4 [label="表へ"];
+	node5 [label="出て"];
+	node6 [label="一二町あるけば"];
+	node7 [label="必ず"];
+	node8 [label="逢える"];
+	node9 [label="人相である。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

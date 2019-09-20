@@ -1,0 +1,33 @@
+digraph graph7230 {
+	node0 [label="しかし"];
+	node1 [label="この"];
+	node2 [label="大きな"];
+	node3 [label="頭の、"];
+	node4 [label="古い"];
+	node5 [label="名の、"];
+	node6 [label="しかも"];
+	node7 [label="自分の"];
+	node8 [label="監督する"];
+	node9 [label="生徒が"];
+	node10 [label="何の"];
+	node11 [label="ために"];
+	node12 [label="今頃"];
+	node13 [label="やって来たのか"];
+	node14 [label="頓と"];
+	node15 [label="推諒出来ない。"];
+	node0 -> node15;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node15;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

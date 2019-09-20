@@ -1,0 +1,7 @@
+digraph graph8470 {
+	node0 [label="手並は"];
+	node1 [label="さきにも"];
+	node2 [label="知りつらん。"];
+	node0 -> node2;
+	node1 -> node2;
+}

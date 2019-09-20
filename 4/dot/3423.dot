@@ -1,0 +1,23 @@
+digraph graph3423 {
+	node0 [label="バタを"];
+	node1 [label="溶かして"];
+	node2 [label="玉子を"];
+	node3 [label="落したんで"];
+	node4 [label="さあ」"];
+	node5 [label="「あらまあ」"];
+	node6 [label="「ところが"];
+	node7 [label="やっぱり"];
+	node8 [label="天日は"];
+	node9 [label="思うように"];
+	node10 [label="行きませんや。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

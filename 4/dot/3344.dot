@@ -1,0 +1,13 @@
+digraph graph3344 {
+	node0 [label="棚板を"];
+	node1 [label="爪で"];
+	node2 [label="掻きむしる"];
+	node3 [label="音が"];
+	node4 [label="がりがりと"];
+	node5 [label="聞える。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

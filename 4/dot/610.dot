@@ -1,0 +1,11 @@
+digraph graph610 {
+	node0 [label="撫でた"];
+	node1 [label="くらいで"];
+	node2 [label="割り切れる"];
+	node3 [label="訳の"];
+	node4 [label="ものではない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

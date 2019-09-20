@@ -1,0 +1,23 @@
+digraph graph8821 {
+	node0 [label="現今英国の"];
+	node1 [label="小説家中で"];
+	node2 [label="もっとも"];
+	node3 [label="個性の"];
+	node4 [label="いちじるしい"];
+	node5 [label="作品に"];
+	node6 [label="あらわれた、"];
+	node7 [label="メレジスを"];
+	node8 [label="見給え、"];
+	node9 [label="ジェームスを"];
+	node10 [label="見給え。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

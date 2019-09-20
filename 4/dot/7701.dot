@@ -1,0 +1,5 @@
+digraph graph7701 {
+	node0 [label="「そいつは"];
+	node1 [label="危険だ。"];
+	node0 -> node1;
+}

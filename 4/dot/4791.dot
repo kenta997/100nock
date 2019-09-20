@@ -1,0 +1,11 @@
+digraph graph4791 {
+	node0 [label="落雲館の"];
+	node1 [label="教師ではないが、"];
+	node2 [label="やはり"];
+	node3 [label="教師に"];
+	node4 [label="相違ない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

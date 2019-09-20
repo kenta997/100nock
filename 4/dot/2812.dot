@@ -1,0 +1,31 @@
+digraph graph2812 {
+	node0 [label="ああ"];
+	node1 [label="云う"];
+	node2 [label="才気の"];
+	node3 [label="ある、"];
+	node4 [label="何でも"];
+	node5 [label="早分りの"];
+	node6 [label="する"];
+	node7 [label="性質だから"];
+	node8 [label="この"];
+	node9 [label="くらいの"];
+	node10 [label="事は"];
+	node11 [label="人から"];
+	node12 [label="聞かんでも"];
+	node13 [label="きっと"];
+	node14 [label="分るであろう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

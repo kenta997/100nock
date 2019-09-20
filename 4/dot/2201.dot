@@ -1,0 +1,37 @@
+digraph graph2201 {
+	node0 [label="太陽の"];
+	node1 [label="光線は"];
+	node2 [label="存外"];
+	node3 [label="公平な"];
+	node4 [label="もので"];
+	node5 [label="屋根に"];
+	node6 [label="ペンペン草の"];
+	node7 [label="目標の"];
+	node8 [label="ある"];
+	node9 [label="陋屋でも、"];
+	node10 [label="金田君の"];
+	node11 [label="客間のごとく"];
+	node12 [label="陽気に"];
+	node13 [label="暖かそうであるが、"];
+	node14 [label="気の毒な"];
+	node15 [label="事には"];
+	node16 [label="毛布だけが"];
+	node17 [label="春らしくない。"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

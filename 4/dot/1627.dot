@@ -1,0 +1,19 @@
+digraph graph1627 {
+	node0 [label="「まあ、"];
+	node1 [label="そんな"];
+	node2 [label="見当でしょうね」"];
+	node3 [label="今度は"];
+	node4 [label="主人の"];
+	node5 [label="鉄砲が"];
+	node6 [label="少しも"];
+	node7 [label="功を"];
+	node8 [label="奏しない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

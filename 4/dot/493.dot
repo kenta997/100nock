@@ -1,0 +1,7 @@
+digraph graph493 {
+	node0 [label="つける"];
+	node1 [label="必要が"];
+	node2 [label="ないからである。"];
+	node0 -> node1;
+	node1 -> node2;
+}

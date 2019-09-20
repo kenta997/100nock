@@ -1,0 +1,11 @@
+digraph graph3348 {
+	node0 [label="吾輩の"];
+	node1 [label="爪は"];
+	node2 [label="一縷の"];
+	node3 [label="かかりを"];
+	node4 [label="失う。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

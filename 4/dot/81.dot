@@ -1,0 +1,11 @@
+digraph graph81 {
+	node0 [label="教師という"];
+	node1 [label="ものは"];
+	node2 [label="実に"];
+	node3 [label="楽な"];
+	node4 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

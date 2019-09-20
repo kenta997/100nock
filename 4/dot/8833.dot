@@ -1,0 +1,35 @@
+digraph graph8833 {
+	node0 [label="個性の"];
+	node1 [label="発展した"];
+	node2 [label="十九世紀に"];
+	node3 [label="すくんで、"];
+	node4 [label="隣りの"];
+	node5 [label="人には"];
+	node6 [label="心置"];
+	node7 [label="なく"];
+	node8 [label="滅多に"];
+	node9 [label="寝返りも"];
+	node10 [label="打てないから、"];
+	node11 [label="大将少し"];
+	node12 [label="やけに"];
+	node13 [label="なって"];
+	node14 [label="あんな"];
+	node15 [label="乱暴を"];
+	node16 [label="かき散らしたのだね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

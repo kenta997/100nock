@@ -1,0 +1,35 @@
+digraph graph7626 {
+	node0 [label="それも"];
+	node1 [label="最初の"];
+	node2 [label="三四十目は、"];
+	node3 [label="石の"];
+	node4 [label="並べ方では"];
+	node5 [label="別段"];
+	node6 [label="目障りにも"];
+	node7 [label="ならないが、"];
+	node8 [label="いざ"];
+	node9 [label="天下わけ目と"];
+	node10 [label="云う"];
+	node11 [label="間際に"];
+	node12 [label="覗いて"];
+	node13 [label="見ると、"];
+	node14 [label="いやはや"];
+	node15 [label="御気の毒な"];
+	node16 [label="有様だ。"];
+	node0 -> node16;
+	node1 -> node2;
+	node2 -> node16;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node16;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

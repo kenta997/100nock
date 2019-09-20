@@ -1,0 +1,19 @@
+digraph graph3954 {
+	node0 [label="懸賞的興奮剤が"];
+	node1 [label="ないと"];
+	node2 [label="すれば"];
+	node3 [label="何か"];
+	node4 [label="芸の"];
+	node5 [label="ある"];
+	node6 [label="運動が"];
+	node7 [label="して"];
+	node8 [label="見たい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

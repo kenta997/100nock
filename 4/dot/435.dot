@@ -1,0 +1,27 @@
+digraph graph435 {
+	node0 [label="　"];
+	node1 [label="両人が"];
+	node2 [label="出て"];
+	node3 [label="行った"];
+	node4 [label="あとで、"];
+	node5 [label="吾輩は"];
+	node6 [label="ちょっと"];
+	node7 [label="失敬して"];
+	node8 [label="寒月君の"];
+	node9 [label="食い切った"];
+	node10 [label="蒲鉾の"];
+	node11 [label="残りを"];
+	node12 [label="頂戴した。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

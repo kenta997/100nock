@@ -1,0 +1,7 @@
+digraph graph8791 {
+	node0 [label="人間は"];
+	node1 [label="個性の"];
+	node2 [label="動物である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

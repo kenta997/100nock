@@ -1,0 +1,5 @@
+digraph graph3166 {
+	node0 [label="向うは"];
+	node1 [label="大頭ですから」"];
+	node0 -> node1;
+}

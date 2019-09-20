@@ -1,0 +1,9 @@
+digraph graph6156 {
+	node0 [label="「へえ、"];
+	node1 [label="今でも"];
+	node2 [label="巣鴨に"];
+	node3 [label="いるのかい」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

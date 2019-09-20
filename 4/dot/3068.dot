@@ -1,0 +1,7 @@
+digraph graph3068 {
+	node0 [label="猫は"];
+	node1 [label="旨う"];
+	node2 [label="ござります」"];
+	node0 -> node2;
+	node1 -> node2;
+}

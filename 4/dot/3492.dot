@@ -1,0 +1,13 @@
+digraph graph3492 {
+	node0 [label="まった、"];
+	node1 [label="こちらの"];
+	node2 [label="刃の"];
+	node3 [label="先は"];
+	node4 [label="錐に"];
+	node5 [label="出来ている。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

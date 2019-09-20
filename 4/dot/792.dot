@@ -1,0 +1,9 @@
+digraph graph792 {
+	node0 [label="膝が"];
+	node1 [label="揺れて"];
+	node2 [label="吾輩は"];
+	node3 [label="落ちかかる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

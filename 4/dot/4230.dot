@@ -1,0 +1,11 @@
+digraph graph4230 {
+	node0 [label="紳士養成方の"];
+	node1 [label="第二巻第一章の"];
+	node2 [label="五ページに"];
+	node3 [label="そう"];
+	node4 [label="出ているそうだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

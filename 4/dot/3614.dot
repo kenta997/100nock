@@ -1,0 +1,15 @@
+digraph graph3614 {
+	node0 [label="「どうして"];
+	node1 [label="これが"];
+	node2 [label="失恋の"];
+	node3 [label="大源因に"];
+	node4 [label="なるんだから"];
+	node5 [label="なかなか"];
+	node6 [label="廃せませんや。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

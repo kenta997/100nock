@@ -1,0 +1,11 @@
+digraph graph5172 {
+	node0 [label="「校長でも、"];
+	node1 [label="幹事でも"];
+	node2 [label="教頭でもと"];
+	node3 [label="云っているのに"];
+	node4 [label="わからんか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,15 @@
+digraph graph6836 {
+	node0 [label="「昔"];
+	node1 [label="ある"];
+	node2 [label="辻の"];
+	node3 [label="真中に"];
+	node4 [label="大きな"];
+	node5 [label="石地蔵が"];
+	node6 [label="あったんですってね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

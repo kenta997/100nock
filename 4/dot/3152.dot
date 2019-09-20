@@ -1,0 +1,25 @@
+digraph graph3152 {
+	node0 [label="そんな"];
+	node1 [label="事を"];
+	node2 [label="聞くだけの"];
+	node3 [label="価値の"];
+	node4 [label="ある"];
+	node5 [label="人物でしょうか」"];
+	node6 [label="多々良君は"];
+	node7 [label="聞かぬ"];
+	node8 [label="先から"];
+	node9 [label="すでに"];
+	node10 [label="寒月以上に"];
+	node11 [label="構えている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,13 @@
+digraph graph5707 {
+	node0 [label="多くの"];
+	node1 [label="影は"];
+	node2 [label="大抵"];
+	node3 [label="本体を"];
+	node4 [label="離れぬ"];
+	node5 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

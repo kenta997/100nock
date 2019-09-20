@@ -1,0 +1,29 @@
+digraph graph8625 {
+	node0 [label="もっとも"];
+	node1 [label="昔と"];
+	node2 [label="違って"];
+	node3 [label="今日は"];
+	node4 [label="開明の"];
+	node5 [label="時節であるから"];
+	node6 [label="槍、"];
+	node7 [label="薙刀もしくは"];
+	node8 [label="飛道具の"];
+	node9 [label="類を"];
+	node10 [label="用いるような"];
+	node11 [label="卑怯な"];
+	node12 [label="振舞を"];
+	node13 [label="してはなりません。"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

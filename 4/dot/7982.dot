@@ -1,0 +1,7 @@
+digraph graph7982 {
+	node0 [label="「話す"];
+	node1 [label="私も"];
+	node2 [label="飽き飽きします」"];
+	node0 -> node1;
+	node1 -> node2;
+}

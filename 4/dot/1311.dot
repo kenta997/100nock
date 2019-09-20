@@ -1,0 +1,27 @@
+digraph graph1311 {
+	node0 [label="この"];
+	node1 [label="点については"];
+	node2 [label="深く"];
+	node3 [label="主人の"];
+	node4 [label="恩を"];
+	node5 [label="感謝すると同時に"];
+	node6 [label="その"];
+	node7 [label="活眼に対して"];
+	node8 [label="敬服の"];
+	node9 [label="意を"];
+	node10 [label="表するに"];
+	node11 [label="躊躇しない"];
+	node12 [label="つもりである。"];
+	node0 -> node1;
+	node1 -> node12;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

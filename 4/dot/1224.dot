@@ -1,0 +1,15 @@
+digraph graph1224 {
+	node0 [label="「御気分さえ"];
+	node1 [label="御"];
+	node2 [label="悪くなければ……」"];
+	node3 [label="「気分は"];
+	node4 [label="悪いですよ」と"];
+	node5 [label="僕が"];
+	node6 [label="いう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

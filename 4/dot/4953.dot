@@ -1,0 +1,37 @@
+digraph graph4953 {
+	node0 [label="そうすると"];
+	node1 [label="主人の"];
+	node2 [label="頭の"];
+	node3 [label="禿げて"];
+	node4 [label="おらんのは、"];
+	node5 [label="まだ"];
+	node6 [label="禿げるべき"];
+	node7 [label="資格が"];
+	node8 [label="ないからで、"];
+	node9 [label="その"];
+	node10 [label="内に"];
+	node11 [label="禿げるだろうとは"];
+	node12 [label="近々"];
+	node13 [label="この"];
+	node14 [label="頭の"];
+	node15 [label="上に"];
+	node16 [label="落ちかかるべき"];
+	node17 [label="運命であろう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node17;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node17;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

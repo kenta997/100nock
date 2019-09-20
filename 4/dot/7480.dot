@@ -1,0 +1,5 @@
+digraph graph7480 {
+	node0 [label="よく"];
+	node1 [label="張れているだろう」"];
+	node0 -> node1;
+}

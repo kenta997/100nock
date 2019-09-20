@@ -1,0 +1,25 @@
+digraph graph1164 {
+	node0 [label="堀川は"];
+	node1 [label="三味線もので"];
+	node2 [label="賑やかなばかりで"];
+	node3 [label="実が"];
+	node4 [label="ないから"];
+	node5 [label="よそうと"];
+	node6 [label="云うと、"];
+	node7 [label="細君は"];
+	node8 [label="不平な"];
+	node9 [label="顔を"];
+	node10 [label="して"];
+	node11 [label="引き下がった。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

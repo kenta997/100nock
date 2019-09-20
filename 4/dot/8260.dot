@@ -1,0 +1,5 @@
+digraph graph8260 {
+	node0 [label="たちまち"];
+	node1 [label="露見してしまった」"];
+	node0 -> node1;
+}

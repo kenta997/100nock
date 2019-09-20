@@ -1,0 +1,17 @@
+digraph graph7638 {
+	node0 [label="「臣死をだも"];
+	node1 [label="辞せず、"];
+	node2 [label="いわんや"];
+	node3 [label="※肩を"];
+	node4 [label="やと、"];
+	node5 [label="一つ、"];
+	node6 [label="こう"];
+	node7 [label="行くかな」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

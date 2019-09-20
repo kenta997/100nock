@@ -1,0 +1,15 @@
+digraph graph3848 {
+	node0 [label="「天然居士の"];
+	node1 [label="墓碑銘なら"];
+	node2 [label="もう"];
+	node3 [label="二三遍"];
+	node4 [label="拝聴したよ」"];
+	node5 [label="「まあ、"];
+	node6 [label="だまっていなさい。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

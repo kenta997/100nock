@@ -1,0 +1,13 @@
+digraph graph9185 {
+	node0 [label="　"];
+	node1 [label="その"];
+	node2 [label="時"];
+	node3 [label="苦しいながら、"];
+	node4 [label="こう"];
+	node5 [label="考えた。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,11 @@
+digraph graph8204 {
+	node0 [label="「困るね」と"];
+	node1 [label="東風君が"];
+	node2 [label="気の毒そうに"];
+	node3 [label="調子を"];
+	node4 [label="合わせる。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

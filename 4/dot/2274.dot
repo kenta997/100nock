@@ -1,0 +1,13 @@
+digraph graph2274 {
+	node0 [label="主人は"];
+	node1 [label="鼠色の"];
+	node2 [label="毛布を"];
+	node3 [label="丸めて"];
+	node4 [label="書斎へ"];
+	node5 [label="投げ込む。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

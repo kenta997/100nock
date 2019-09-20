@@ -1,0 +1,15 @@
+digraph graph1381 {
+	node0 [label="天然居士の"];
+	node1 [label="墓銘を"];
+	node2 [label="撰している"];
+	node3 [label="ところなんだ」と"];
+	node4 [label="大袈裟な"];
+	node5 [label="事を"];
+	node6 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

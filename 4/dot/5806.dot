@@ -1,0 +1,13 @@
+digraph graph5806 {
+	node0 [label="権貴栄達の"];
+	node1 [label="士は"];
+	node2 [label="人を"];
+	node3 [label="人と"];
+	node4 [label="思わざるに於て"];
+	node5 [label="得たるが如し。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

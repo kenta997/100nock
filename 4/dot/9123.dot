@@ -1,0 +1,15 @@
+digraph graph9123 {
+	node0 [label="硝子の"];
+	node1 [label="中の"];
+	node2 [label="ものは"];
+	node3 [label="湯でも"];
+	node4 [label="冷たい"];
+	node5 [label="気が"];
+	node6 [label="する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

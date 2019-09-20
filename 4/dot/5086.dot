@@ -1,0 +1,15 @@
+digraph graph5086 {
+	node0 [label="こっそり"];
+	node1 [label="這入って、"];
+	node2 [label="こっそり"];
+	node3 [label="拾っては"];
+	node4 [label="肝心の"];
+	node5 [label="目的が"];
+	node6 [label="達せられん。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

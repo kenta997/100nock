@@ -1,0 +1,37 @@
+digraph graph3913 {
+	node0 [label="洋行を"];
+	node1 [label="して"];
+	node2 [label="印度洋を"];
+	node3 [label="横断した"];
+	node4 [label="人に"];
+	node5 [label="君、"];
+	node6 [label="魚の"];
+	node7 [label="死ぬ"];
+	node8 [label="ところを"];
+	node9 [label="見た"];
+	node10 [label="事が"];
+	node11 [label="ありますかと"];
+	node12 [label="聞いて"];
+	node13 [label="見るがいい、"];
+	node14 [label="誰でも"];
+	node15 [label="いいえと"];
+	node16 [label="答えるに"];
+	node17 [label="極っている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

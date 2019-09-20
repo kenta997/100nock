@@ -1,0 +1,31 @@
+digraph graph8278 {
+	node0 [label="「え」と"];
+	node1 [label="云いながら"];
+	node2 [label="顔を"];
+	node3 [label="上げた"];
+	node4 [label="独仙君の"];
+	node5 [label="山羊髯を"];
+	node6 [label="伝わって"];
+	node7 [label="垂涎が"];
+	node8 [label="一筋長々と"];
+	node9 [label="流れて、"];
+	node10 [label="蝸牛の"];
+	node11 [label="這った"];
+	node12 [label="迹のように"];
+	node13 [label="歴然と"];
+	node14 [label="光っている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

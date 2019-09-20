@@ -1,0 +1,21 @@
+digraph graph1186 {
+	node0 [label="ああ"];
+	node1 [label="気の毒だ"];
+	node2 [label="気の毒だと"];
+	node3 [label="思うと"];
+	node4 [label="なお"];
+	node5 [label="悪寒が"];
+	node6 [label="して"];
+	node7 [label="なお"];
+	node8 [label="眼が"];
+	node9 [label="くらんでくる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

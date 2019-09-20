@@ -1,0 +1,29 @@
+digraph graph8450 {
+	node0 [label="「ふん、"];
+	node1 [label="そんなら"];
+	node2 [label="黙っていろ」と"];
+	node3 [label="申し渡したが、"];
+	node4 [label="それでも"];
+	node5 [label="飽き足らなかったと"];
+	node6 [label="見えて、"];
+	node7 [label="なお"];
+	node8 [label="探偵について"];
+	node9 [label="下のような"];
+	node10 [label="事を"];
+	node11 [label="さも"];
+	node12 [label="大議論のように"];
+	node13 [label="述べられた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node13;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

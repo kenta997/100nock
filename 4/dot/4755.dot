@@ -1,0 +1,15 @@
+digraph graph4755 {
+	node0 [label="聞いて"];
+	node1 [label="見ると"];
+	node2 [label="駱駝と"];
+	node3 [label="小犬の"];
+	node4 [label="喧嘩を"];
+	node5 [label="見たのだ"];
+	node6 [label="そうだ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

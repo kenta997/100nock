@@ -1,0 +1,21 @@
+digraph graph3335 {
+	node0 [label="その"];
+	node1 [label="中に"];
+	node2 [label="月の"];
+	node3 [label="光りが、"];
+	node4 [label="大幅の"];
+	node5 [label="帯を"];
+	node6 [label="空に"];
+	node7 [label="張るごとく"];
+	node8 [label="横に"];
+	node9 [label="差し込む。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

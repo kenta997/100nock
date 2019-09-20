@@ -1,0 +1,19 @@
+digraph graph2762 {
+	node0 [label="しかし"];
+	node1 [label="俗人の"];
+	node2 [label="考うる"];
+	node3 [label="全智全能は、"];
+	node4 [label="時に"];
+	node5 [label="よると"];
+	node6 [label="無智無能とも"];
+	node7 [label="解釈が"];
+	node8 [label="出来る。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

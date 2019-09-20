@@ -1,0 +1,15 @@
+digraph graph5549 {
+	node0 [label="　鈴木の"];
+	node1 [label="藤さんは"];
+	node2 [label="金と"];
+	node3 [label="衆とに"];
+	node4 [label="従えと"];
+	node5 [label="主人に"];
+	node6 [label="教えたのである。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

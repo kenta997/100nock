@@ -1,0 +1,29 @@
+digraph graph8161 {
+	node0 [label="　"];
+	node1 [label="東風君と"];
+	node2 [label="寒月君は"];
+	node3 [label="ヴァイオリンの"];
+	node4 [label="隠れ家について"];
+	node5 [label="かくのごとく"];
+	node6 [label="問答を"];
+	node7 [label="している"];
+	node8 [label="うちに、"];
+	node9 [label="主人と"];
+	node10 [label="迷亭君も"];
+	node11 [label="何か"];
+	node12 [label="しきりに"];
+	node13 [label="話している。"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

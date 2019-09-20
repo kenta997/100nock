@@ -1,0 +1,9 @@
+digraph graph6648 {
+	node0 [label="それから"];
+	node1 [label="頬っ"];
+	node2 [label="ぺたに"];
+	node3 [label="かかる。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,25 @@
+digraph graph6509 {
+	node0 [label="この"];
+	node1 [label="時"];
+	node2 [label="裏の"];
+	node3 [label="車屋の"];
+	node4 [label="子供、"];
+	node5 [label="八っちゃんが"];
+	node6 [label="急に"];
+	node7 [label="大きな"];
+	node8 [label="声を"];
+	node9 [label="して"];
+	node10 [label="ワーと"];
+	node11 [label="泣き出す。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

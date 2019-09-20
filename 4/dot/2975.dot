@@ -1,0 +1,9 @@
+digraph graph2975 {
+	node0 [label="「多々良さん、"];
+	node1 [label="今日は"];
+	node2 [label="御寿司を"];
+	node3 [label="持って来て？"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

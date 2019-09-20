@@ -1,0 +1,5 @@
+digraph graph5419 {
+	node0 [label="それじゃ"];
+	node1 [label="やりましょう」"];
+	node0 -> node1;
+}

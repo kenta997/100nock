@@ -1,0 +1,7 @@
+digraph graph3941 {
+	node0 [label="セクスピヤも"];
+	node1 [label="千古万古セクスピヤでは"];
+	node2 [label="つまらない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

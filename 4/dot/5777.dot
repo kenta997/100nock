@@ -1,0 +1,11 @@
+digraph graph5777 {
+	node0 [label="第三信は"];
+	node1 [label="すこぶる"];
+	node2 [label="風変りの"];
+	node3 [label="光彩を"];
+	node4 [label="放っている。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

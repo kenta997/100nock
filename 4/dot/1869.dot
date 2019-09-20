@@ -1,0 +1,17 @@
+digraph graph1869 {
+	node0 [label="　"];
+	node1 [label="来て"];
+	node2 [label="見ると"];
+	node3 [label="女が"];
+	node4 [label="独りで"];
+	node5 [label="何か"];
+	node6 [label="大声で"];
+	node7 [label="話している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,7 @@
+digraph graph4731 {
+	node0 [label="高声に"];
+	node1 [label="談話を"];
+	node2 [label="する。"];
+	node0 -> node2;
+	node1 -> node2;
+}

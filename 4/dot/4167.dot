@@ -1,0 +1,13 @@
+digraph graph4167 {
+	node0 [label="背を"];
+	node1 [label="丸くして、"];
+	node2 [label="少々"];
+	node3 [label="唸ったが、"];
+	node4 [label="ますます"];
+	node5 [label="駄目だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,5 @@
+digraph graph9061 {
+	node0 [label="「そげん頑固張りなさるなら"];
+	node1 [label="やむを得ません。"];
+	node0 -> node1;
+}

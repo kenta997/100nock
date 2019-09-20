@@ -1,0 +1,5 @@
+digraph graph3132 {
+	node0 [label="「近頃東京へ"];
+	node1 [label="来たそうだな」"];
+	node0 -> node1;
+}

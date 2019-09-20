@@ -1,0 +1,5 @@
+digraph graph3064 {
+	node0 [label="早々"];
+	node1 [label="棄てなさい。"];
+	node0 -> node1;
+}

@@ -1,0 +1,15 @@
+digraph graph4321 {
+	node0 [label="八百屋、"];
+	node1 [label="生薬屋、"];
+	node2 [label="呉服屋は"];
+	node3 [label="皆"];
+	node4 [label="この"];
+	node5 [label="大発明家の"];
+	node6 [label="末流である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

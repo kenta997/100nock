@@ -1,0 +1,5 @@
+digraph graph37 {
+	node0 [label="泣きたくても"];
+	node1 [label="声が出ない。"];
+	node0 -> node1;
+}

@@ -1,0 +1,31 @@
+digraph graph4317 {
+	node0 [label="すべて"];
+	node1 [label="考え出す"];
+	node2 [label="時には"];
+	node3 [label="骨の"];
+	node4 [label="折れる"];
+	node5 [label="ものであるから"];
+	node6 [label="猿股の"];
+	node7 [label="発明に"];
+	node8 [label="十年を"];
+	node9 [label="費やしたって"];
+	node10 [label="車夫の"];
+	node11 [label="智慧には"];
+	node12 [label="出来過ぎると"];
+	node13 [label="云わねば"];
+	node14 [label="なるまい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

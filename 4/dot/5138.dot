@@ -1,0 +1,25 @@
+digraph graph5138 {
+	node0 [label="奥歯で"];
+	node1 [label="囓み潰した"];
+	node2 [label="癇癪玉が"];
+	node3 [label="炎と"];
+	node4 [label="なって"];
+	node5 [label="鼻の"];
+	node6 [label="穴から"];
+	node7 [label="抜けるので、"];
+	node8 [label="小鼻が、"];
+	node9 [label="いちじるしく"];
+	node10 [label="怒って"];
+	node11 [label="見える。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

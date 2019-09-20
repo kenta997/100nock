@@ -1,0 +1,9 @@
+digraph graph3855 {
+	node0 [label="大和魂が"];
+	node1 [label="一躍して"];
+	node2 [label="海を"];
+	node3 [label="渡った。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

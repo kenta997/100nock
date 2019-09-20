@@ -1,0 +1,9 @@
+digraph graph1399 {
+	node0 [label="迷亭は"];
+	node1 [label="まだ"];
+	node2 [label="吾輩を"];
+	node3 [label="卸してくれない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,33 @@
+digraph graph1769 {
+	node0 [label="「それでも"];
+	node1 [label="君は、"];
+	node2 [label="さっきの"];
+	node3 [label="女に"];
+	node4 [label="牧山男爵と"];
+	node5 [label="云ったようだぜ」"];
+	node6 [label="「そう"];
+	node7 [label="おっしゃいましたよ、"];
+	node8 [label="私も"];
+	node9 [label="茶の間で"];
+	node10 [label="聞いておりました」と"];
+	node11 [label="細君も"];
+	node12 [label="これだけは"];
+	node13 [label="主人の"];
+	node14 [label="意見に"];
+	node15 [label="同意する。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

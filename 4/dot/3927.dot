@@ -1,0 +1,31 @@
+digraph graph3927 {
+	node0 [label="せいては"];
+	node1 [label="事を"];
+	node2 [label="仕"];
+	node3 [label="損ん"];
+	node4 [label="ずる、"];
+	node5 [label="今日のように"];
+	node6 [label="築地へ"];
+	node7 [label="打っちゃられに"];
+	node8 [label="行った"];
+	node9 [label="猫が"];
+	node10 [label="無事に"];
+	node11 [label="帰宅せん間は"];
+	node12 [label="無暗に飛び込む"];
+	node13 [label="訳には"];
+	node14 [label="行かん。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

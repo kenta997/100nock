@@ -1,0 +1,23 @@
+digraph graph841 {
+	node0 [label="「はあ賛成員に"];
+	node1 [label="ならん"];
+	node2 [label="事も"];
+	node3 [label="ありませんが、"];
+	node4 [label="どんな"];
+	node5 [label="義務が"];
+	node6 [label="あるのですか」と"];
+	node7 [label="牡蠣先生は"];
+	node8 [label="掛念の"];
+	node9 [label="体に"];
+	node10 [label="見える。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

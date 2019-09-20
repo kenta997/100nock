@@ -1,0 +1,29 @@
+digraph graph2059 {
+	node0 [label="さて"];
+	node1 [label="この"];
+	node2 [label="大空大地を"];
+	node3 [label="製造する"];
+	node4 [label="ために"];
+	node5 [label="彼等人類は"];
+	node6 [label="どの"];
+	node7 [label="くらいの"];
+	node8 [label="労力を"];
+	node9 [label="費やしているかと"];
+	node10 [label="云うと"];
+	node11 [label="尺寸の"];
+	node12 [label="手伝も"];
+	node13 [label="しておらぬではないか。"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

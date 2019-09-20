@@ -1,0 +1,13 @@
+digraph graph2690 {
+	node0 [label="第一天井から"];
+	node1 [label="鼠の"];
+	node2 [label="糞でも"];
+	node3 [label="落ちた"];
+	node4 [label="時"];
+	node5 [label="危険である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

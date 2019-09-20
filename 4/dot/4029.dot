@@ -1,0 +1,25 @@
+digraph graph4029 {
+	node0 [label="吾輩は"];
+	node1 [label="四本の"];
+	node2 [label="足を"];
+	node3 [label="有しているから"];
+	node4 [label="大地を"];
+	node5 [label="行く"];
+	node6 [label="事においては"];
+	node7 [label="あえて"];
+	node8 [label="他の"];
+	node9 [label="動物には"];
+	node10 [label="劣るとは"];
+	node11 [label="思わない。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,5 @@
+digraph graph5141 {
+	node0 [label="「いえ"];
+	node1 [label="泥棒ではありません。"];
+	node0 -> node1;
+}

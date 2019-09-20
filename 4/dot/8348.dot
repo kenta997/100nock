@@ -1,0 +1,33 @@
+digraph graph8348 {
+	node0 [label="「飛んだ"];
+	node1 [label="事に"];
+	node2 [label="なって来たね」と"];
+	node3 [label="迷亭君が"];
+	node4 [label="真面目に"];
+	node5 [label="からかう"];
+	node6 [label="あとに"];
+	node7 [label="付いて、"];
+	node8 [label="独仙君が"];
+	node9 [label="「面白い"];
+	node10 [label="境界だ」と"];
+	node11 [label="少しく"];
+	node12 [label="感心した"];
+	node13 [label="よう"];
+	node14 [label="すに"];
+	node15 [label="見えた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node15;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

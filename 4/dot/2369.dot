@@ -1,0 +1,5 @@
+digraph graph2369 {
+	node0 [label="「どんな"];
+	node1 [label="事を」"];
+	node0 -> node1;
+}

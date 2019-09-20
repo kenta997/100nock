@@ -1,0 +1,9 @@
+digraph graph4749 {
+	node0 [label="　全体人に"];
+	node1 [label="からかうのは"];
+	node2 [label="面白い"];
+	node3 [label="ものである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

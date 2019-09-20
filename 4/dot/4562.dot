@@ -1,0 +1,21 @@
+digraph graph4562 {
+	node0 [label="　細君は"];
+	node1 [label="面倒な"];
+	node2 [label="顔付で"];
+	node3 [label="「鳴かして"];
+	node4 [label="何に"];
+	node5 [label="なさるんですか」と"];
+	node6 [label="問いながら、また"];
+	node7 [label="ぴしゃりと"];
+	node8 [label="おいでに"];
+	node9 [label="なった。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

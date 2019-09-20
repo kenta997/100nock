@@ -1,0 +1,5 @@
+digraph graph6728 {
+	node0 [label="まるで"];
+	node1 [label="蒟蒻閻魔ね」"];
+	node0 -> node1;
+}

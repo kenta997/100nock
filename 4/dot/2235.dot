@@ -1,0 +1,17 @@
+digraph graph2235 {
+	node0 [label="同じく小供の"];
+	node1 [label="時分に"];
+	node2 [label="浅草へ"];
+	node3 [label="行くと"];
+	node4 [label="必ず"];
+	node5 [label="鳩に"];
+	node6 [label="豆を"];
+	node7 [label="買ってやった。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

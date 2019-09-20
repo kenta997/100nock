@@ -1,0 +1,5 @@
+digraph graph8489 {
+	node0 [label="探偵は"];
+	node1 [label="探偵だ。"];
+	node0 -> node1;
+}

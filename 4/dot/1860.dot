@@ -1,0 +1,37 @@
+digraph graph1860 {
+	node0 [label="「はあ、"];
+	node1 [label="車屋の"];
+	node2 [label="神さんの"];
+	node3 [label="話では"];
+	node4 [label="英語の"];
+	node5 [label="リードルか"];
+	node6 [label="何か"];
+	node7 [label="専門に"];
+	node8 [label="教えるんだって"];
+	node9 [label="云います」"];
+	node10 [label="「どうせ"];
+	node11 [label="碌な"];
+	node12 [label="教師じゃある"];
+	node13 [label="めえ」"];
+	node14 [label="ある"];
+	node15 [label="めえにも尠"];
+	node16 [label="なからず"];
+	node17 [label="感心した。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

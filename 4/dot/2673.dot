@@ -1,0 +1,19 @@
+digraph graph2673 {
+	node0 [label="主人の"];
+	node1 [label="癖として"];
+	node2 [label="寝る"];
+	node3 [label="時は"];
+	node4 [label="必ず"];
+	node5 [label="横文字の"];
+	node6 [label="小本を"];
+	node7 [label="書斎から"];
+	node8 [label="携えて来る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

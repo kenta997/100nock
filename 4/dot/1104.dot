@@ -1,0 +1,7 @@
+digraph graph1104 {
+	node0 [label="「いえ"];
+	node1 [label="私のは"];
+	node2 [label="首じゃないんで。"];
+	node0 -> node2;
+	node1 -> node2;
+}

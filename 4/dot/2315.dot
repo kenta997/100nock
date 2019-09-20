@@ -1,0 +1,21 @@
+digraph graph2315 {
+	node0 [label="「十年"];
+	node1 [label="立つ"];
+	node2 [label="うちには"];
+	node3 [label="大分"];
+	node4 [label="違う"];
+	node5 [label="もんだな」と"];
+	node6 [label="主人は"];
+	node7 [label="鈴木君を"];
+	node8 [label="見上げたり"];
+	node9 [label="見下ろしたりしている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

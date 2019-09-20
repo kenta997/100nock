@@ -1,0 +1,13 @@
+digraph graph5091 {
+	node0 [label="だから"];
+	node1 [label="おとなしくして"];
+	node2 [label="拾えば、"];
+	node3 [label="いくらでも"];
+	node4 [label="おとなしく"];
+	node5 [label="拾える。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

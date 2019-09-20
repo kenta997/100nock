@@ -1,0 +1,5 @@
+digraph graph3678 {
+	node0 [label="「実に"];
+	node1 [label="御気の毒さ。"];
+	node0 -> node1;
+}

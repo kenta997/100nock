@@ -1,0 +1,7 @@
+digraph graph6819 {
+	node0 [label="「わたちは"];
+	node1 [label="田圃へ"];
+	node2 [label="稲刈いに」"];
+	node0 -> node2;
+	node1 -> node2;
+}

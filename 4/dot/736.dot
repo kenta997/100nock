@@ -1,0 +1,37 @@
+digraph graph736 {
+	node0 [label="今までは"];
+	node1 [label="黒との"];
+	node2 [label="応対で"];
+	node3 [label="気が"];
+	node4 [label="つかなかったが、"];
+	node5 [label="見ると"];
+	node6 [label="彼の"];
+	node7 [label="足の"];
+	node8 [label="下には"];
+	node9 [label="一切れ"];
+	node10 [label="二銭"];
+	node11 [label="三厘に"];
+	node12 [label="相当する"];
+	node13 [label="鮭の"];
+	node14 [label="骨が"];
+	node15 [label="泥だらけに"];
+	node16 [label="なって"];
+	node17 [label="転がっている。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node17;
+	node5 -> node17;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node17;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+	node16 -> node17;
+}

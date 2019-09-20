@@ -1,0 +1,11 @@
+digraph graph9002 {
+	node0 [label="一瓶"];
+	node1 [label="四円や"];
+	node2 [label="五円の"];
+	node3 [label="じゃよく"];
+	node4 [label="ないです。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,37 @@
+digraph graph4885 {
+	node0 [label="しかし"];
+	node1 [label="蒲鉾の"];
+	node2 [label="種が"];
+	node3 [label="山芋であるごとく、"];
+	node4 [label="観音の"];
+	node5 [label="像が"];
+	node6 [label="一寸"];
+	node7 [label="八分の"];
+	node8 [label="朽木であるごとく、"];
+	node9 [label="鴨南蛮の"];
+	node10 [label="材料が"];
+	node11 [label="烏であるごとく、"];
+	node12 [label="下宿屋の"];
+	node13 [label="牛鍋が"];
+	node14 [label="馬肉であるごとく"];
+	node15 [label="インスピレーションも"];
+	node16 [label="実は"];
+	node17 [label="逆上である。"];
+	node0 -> node17;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node17;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node17;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node17;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

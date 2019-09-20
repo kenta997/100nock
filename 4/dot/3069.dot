@@ -1,0 +1,5 @@
+digraph graph3069 {
+	node0 [label="「随分"];
+	node1 [label="豪傑ね」"];
+	node0 -> node1;
+}

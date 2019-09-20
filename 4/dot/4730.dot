@@ -1,0 +1,9 @@
+digraph graph4730 {
+	node0 [label="這入れば"];
+	node1 [label="活溌なる"];
+	node2 [label="歌を"];
+	node3 [label="うたう。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

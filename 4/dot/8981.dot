@@ -1,0 +1,13 @@
+digraph graph8981 {
+	node0 [label="早速"];
+	node1 [label="とりかかりたまえ」と"];
+	node2 [label="迷亭君が"];
+	node3 [label="例のごとく"];
+	node4 [label="調子づくと"];
+	node5 [label="三平君は"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

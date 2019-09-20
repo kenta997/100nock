@@ -1,0 +1,31 @@
+digraph graph6650 {
+	node0 [label="姉は"];
+	node1 [label="丹念に"];
+	node2 [label="一粒ずつ"];
+	node3 [label="取っては"];
+	node4 [label="食い、"];
+	node5 [label="取っては"];
+	node6 [label="食い、"];
+	node7 [label="とうとう"];
+	node8 [label="妹の"];
+	node9 [label="顔中に"];
+	node10 [label="ある"];
+	node11 [label="奴を"];
+	node12 [label="一つ"];
+	node13 [label="残らず"];
+	node14 [label="食ってしまった。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

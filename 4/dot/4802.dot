@@ -1,0 +1,9 @@
+digraph graph4802 {
+	node0 [label="こしらえたって、"];
+	node1 [label="こしらえなくたって"];
+	node2 [label="同じ"];
+	node3 [label="事だ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

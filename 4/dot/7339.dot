@@ -1,0 +1,19 @@
+digraph graph7339 {
+	node0 [label="己を"];
+	node1 [label="知る"];
+	node2 [label="事が"];
+	node3 [label="出来さえすれば"];
+	node4 [label="人間も"];
+	node5 [label="人間として"];
+	node6 [label="猫より"];
+	node7 [label="尊敬を"];
+	node8 [label="受けてよろしい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

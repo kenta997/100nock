@@ -1,0 +1,29 @@
+digraph graph2253 {
+	node0 [label="伝染するかも"];
+	node1 [label="知れん、"];
+	node2 [label="今の"];
+	node3 [label="うち"];
+	node4 [label="早く"];
+	node5 [label="甘木さんに"];
+	node6 [label="見て"];
+	node7 [label="貰え」と"];
+	node8 [label="主人は"];
+	node9 [label="しきりに"];
+	node10 [label="自分の"];
+	node11 [label="頭を"];
+	node12 [label="撫で廻して"];
+	node13 [label="見る。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node13;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

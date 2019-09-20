@@ -1,0 +1,13 @@
+digraph graph5 {
+	node0 [label="吾輩は"];
+	node1 [label="ここで"];
+	node2 [label="始めて"];
+	node3 [label="人間という"];
+	node4 [label="ものを"];
+	node5 [label="見た。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

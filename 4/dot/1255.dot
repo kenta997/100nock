@@ -1,0 +1,13 @@
+digraph graph1255 {
+	node0 [label="エピクテタスに"];
+	node1 [label="そんな"];
+	node2 [label="事を"];
+	node3 [label="しろと"];
+	node4 [label="書いてあるのか"];
+	node5 [label="知らん。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

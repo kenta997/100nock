@@ -1,0 +1,9 @@
+digraph graph8097 {
+	node0 [label="「それじゃ"];
+	node1 [label="負けて"];
+	node2 [label="罪人と"];
+	node3 [label="しておきましょう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

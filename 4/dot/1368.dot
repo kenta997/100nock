@@ -1,0 +1,5 @@
+digraph graph1368 {
+	node0 [label="経済問題は"];
+	node1 [label="断念したらしい。"];
+	node0 -> node1;
+}

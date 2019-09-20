@@ -1,0 +1,31 @@
+digraph graph1091 {
+	node0 [label="で"];
+	node1 [label="早速"];
+	node2 [label="下駄を"];
+	node3 [label="引き懸けて、"];
+	node4 [label="急ぎ足で"];
+	node5 [label="元の"];
+	node6 [label="所へ"];
+	node7 [label="引き返して"];
+	node8 [label="見る……」と"];
+	node9 [label="云って"];
+	node10 [label="主人と"];
+	node11 [label="寒月の"];
+	node12 [label="顔を"];
+	node13 [label="見て"];
+	node14 [label="すましている。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

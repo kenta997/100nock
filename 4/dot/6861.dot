@@ -1,0 +1,11 @@
+digraph graph6861 {
+	node0 [label="「でも"];
+	node1 [label="叔父さんは"];
+	node2 [label="警察には"];
+	node3 [label="大変"];
+	node4 [label="恐れ入っているのよ」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

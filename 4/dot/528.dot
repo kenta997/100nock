@@ -1,0 +1,13 @@
+digraph graph528 {
+	node0 [label="これからは"];
+	node1 [label="毎晩"];
+	node2 [label="二三杯ずつ"];
+	node3 [label="飲む"];
+	node4 [label="事に"];
+	node5 [label="しよう。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

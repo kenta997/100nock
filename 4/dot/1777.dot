@@ -1,0 +1,15 @@
+digraph graph1777 {
+	node0 [label="あの"];
+	node1 [label="女のは、"];
+	node2 [label="みんな"];
+	node3 [label="魂胆が"];
+	node4 [label="あって、"];
+	node5 [label="曰く付きの"];
+	node6 [label="嘘ですぜ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

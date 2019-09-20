@@ -1,0 +1,7 @@
+digraph graph172 {
+	node0 [label="身内の"];
+	node1 [label="筋肉は"];
+	node2 [label="むずむずする。"];
+	node0 -> node1;
+	node1 -> node2;
+}

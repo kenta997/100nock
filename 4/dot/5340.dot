@@ -1,0 +1,7 @@
+digraph graph5340 {
+	node0 [label="「僕に"];
+	node1 [label="怒ったって"];
+	node2 [label="仕方がない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

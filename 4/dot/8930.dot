@@ -1,0 +1,9 @@
+digraph graph8930 {
+	node0 [label="十六世紀の"];
+	node1 [label="ナッシ君の"];
+	node2 [label="説ですから"];
+	node3 [label="御安心なさい」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

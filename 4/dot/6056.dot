@@ -1,0 +1,11 @@
+digraph graph6056 {
+	node0 [label="「あれで"];
+	node1 [label="驚かなけりゃ、"];
+	node2 [label="胆力の"];
+	node3 [label="据った"];
+	node4 [label="もんだ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

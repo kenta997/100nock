@@ -1,0 +1,7 @@
+digraph graph1689 {
+	node0 [label="鼻子はまた"];
+	node1 [label="問題を"];
+	node2 [label="改める。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,11 @@
+digraph graph7206 {
+	node0 [label="坊主に"];
+	node1 [label="比すれば"];
+	node2 [label="遥かに"];
+	node3 [label="度胸が"];
+	node4 [label="据わっている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,17 @@
+digraph graph8077 {
+	node0 [label="いや"];
+	node1 [label="宿の"];
+	node2 [label="ない"];
+	node3 [label="犬ほど"];
+	node4 [label="気の毒な"];
+	node5 [label="ものは"];
+	node6 [label="実際"];
+	node7 [label="ないよ」"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

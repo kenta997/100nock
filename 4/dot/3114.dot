@@ -1,0 +1,11 @@
+digraph graph3114 {
+	node0 [label="金なんか"];
+	node1 [label="儲けるのは、"];
+	node2 [label="ほんに"];
+	node3 [label="造作もない事で"];
+	node4 [label="ござります」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

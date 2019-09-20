@@ -1,0 +1,13 @@
+digraph graph6717 {
+	node0 [label="今朝なんかも"];
+	node1 [label="七時までに"];
+	node2 [label="是非"];
+	node3 [label="おこせと"];
+	node4 [label="云うから、"];
+	node5 [label="起こしたんでしょう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

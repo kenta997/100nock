@@ -1,0 +1,9 @@
+digraph graph8467 {
+	node0 [label="生涯"];
+	node1 [label="たたるよ、"];
+	node2 [label="寒月君"];
+	node3 [label="用心したまえ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,7 @@
+digraph graph1648 {
+	node0 [label="「あんまり、"];
+	node1 [label="ぬかりが"];
+	node2 [label="無さ過ぎるようですぜ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

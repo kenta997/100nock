@@ -1,0 +1,5 @@
+digraph graph5312 {
+	node0 [label="それが"];
+	node1 [label="どうしたのさ」"];
+	node0 -> node1;
+}

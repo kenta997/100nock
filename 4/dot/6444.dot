@@ -1,0 +1,25 @@
+digraph graph6444 {
+	node0 [label="に"];
+	node1 [label="ゃごおうにゃごおうと"];
+	node2 [label="三度目には、"];
+	node3 [label="注意を"];
+	node4 [label="喚起する"];
+	node5 [label="ために"];
+	node6 [label="こと"];
+	node7 [label="さらに"];
+	node8 [label="複雑なる"];
+	node9 [label="泣き方を"];
+	node10 [label="して"];
+	node11 [label="見た。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

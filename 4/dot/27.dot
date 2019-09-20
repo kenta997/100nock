@@ -1,0 +1,5 @@
+digraph graph27 {
+	node0 [label="眼を"];
+	node1 [label="明いていられぬくらいだ。"];
+	node0 -> node1;
+}

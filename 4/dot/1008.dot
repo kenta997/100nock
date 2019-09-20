@@ -1,0 +1,11 @@
+digraph graph1008 {
+	node0 [label="　ところへ"];
+	node1 [label="寒月君が"];
+	node2 [label="先日は"];
+	node3 [label="失礼しましたと"];
+	node4 [label="這入って来る。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

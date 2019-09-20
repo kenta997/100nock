@@ -1,0 +1,5 @@
+digraph graph2635 {
+	node0 [label="「大変な"];
+	node1 [label="見識だな。"];
+	node0 -> node1;
+}

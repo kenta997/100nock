@@ -1,0 +1,19 @@
+digraph graph5467 {
+	node0 [label="ただ"];
+	node1 [label="ありがたい"];
+	node2 [label="事に"];
+	node3 [label="人を"];
+	node4 [label="羨む"];
+	node5 [label="気も"];
+	node6 [label="起らんから、"];
+	node7 [label="それだけ"];
+	node8 [label="いいね」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

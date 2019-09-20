@@ -1,0 +1,25 @@
+digraph graph839 {
+	node0 [label="「これへ"];
+	node1 [label="どうか"];
+	node2 [label="御署名の"];
+	node3 [label="上"];
+	node4 [label="御捺印を"];
+	node5 [label="願いたいので」と"];
+	node6 [label="帳面を"];
+	node7 [label="主人の"];
+	node8 [label="膝の"];
+	node9 [label="前へ"];
+	node10 [label="開いたまま"];
+	node11 [label="置く。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

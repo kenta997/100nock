@@ -1,0 +1,11 @@
+digraph graph6845 {
+	node0 [label="利口な"];
+	node1 [label="男は"];
+	node2 [label="これでは"];
+	node3 [label="いけないと"];
+	node4 [label="思ってね。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

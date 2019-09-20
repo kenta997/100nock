@@ -1,0 +1,29 @@
+digraph graph1221 {
+	node0 [label="「どうも"];
+	node1 [label="少し"];
+	node2 [label="険呑のような"];
+	node3 [label="気が"];
+	node4 [label="しまして」と"];
+	node5 [label="僕が"];
+	node6 [label="云うと、"];
+	node7 [label="先生は"];
+	node8 [label="落ちついて、"];
+	node9 [label="「いえ"];
+	node10 [label="格別の"];
+	node11 [label="事も"];
+	node12 [label="ございますまい」と"];
+	node13 [label="云う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

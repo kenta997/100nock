@@ -1,0 +1,25 @@
+digraph graph794 {
+	node0 [label="アンドレア・デル・サルトに"];
+	node1 [label="罹ったのは"];
+	node2 [label="自分"];
+	node3 [label="一人でないと"];
+	node4 [label="云う"];
+	node5 [label="事を"];
+	node6 [label="知ったので"];
+	node7 [label="急に"];
+	node8 [label="愉快に"];
+	node9 [label="なった"];
+	node10 [label="ものと"];
+	node11 [label="見える。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

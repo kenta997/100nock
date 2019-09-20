@@ -1,0 +1,7 @@
+digraph graph6062 {
+	node0 [label="時候おくれの"];
+	node1 [label="廻り持ちなんか気が"];
+	node2 [label="利かないよ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

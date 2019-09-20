@@ -1,0 +1,25 @@
+digraph graph6422 {
+	node0 [label="御三は"];
+	node1 [label="すでに"];
+	node2 [label="炊き立の"];
+	node3 [label="飯を、"];
+	node4 [label="御櫃に"];
+	node5 [label="移して、"];
+	node6 [label="今や"];
+	node7 [label="七輪に"];
+	node8 [label="かけた"];
+	node9 [label="鍋の"];
+	node10 [label="中を"];
+	node11 [label="かきまぜつつある。"];
+	node0 -> node11;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

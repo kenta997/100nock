@@ -1,0 +1,37 @@
+digraph graph4757 {
+	node0 [label="いくら"];
+	node1 [label="吠えても"];
+	node2 [label="狂っても"];
+	node3 [label="相手に"];
+	node4 [label="せんので、"];
+	node5 [label="しまいには"];
+	node6 [label="犬も"];
+	node7 [label="愛想を"];
+	node8 [label="つかして"];
+	node9 [label="やめる、"];
+	node10 [label="実に"];
+	node11 [label="駱駝は"];
+	node12 [label="無神経だと"];
+	node13 [label="笑っていたが、"];
+	node14 [label="それが"];
+	node15 [label="この"];
+	node16 [label="場合の"];
+	node17 [label="適例である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

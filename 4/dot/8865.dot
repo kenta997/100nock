@@ -1,0 +1,15 @@
+digraph graph8865 {
+	node0 [label="参考の"];
+	node1 [label="ためだから、"];
+	node2 [label="おれが"];
+	node3 [label="面白い"];
+	node4 [label="物を"];
+	node5 [label="読んで"];
+	node6 [label="聞かせる。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

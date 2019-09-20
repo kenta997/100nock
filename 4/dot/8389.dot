@@ -1,0 +1,29 @@
+digraph graph8389 {
+	node0 [label="「そりゃ、"];
+	node1 [label="そうと"];
+	node2 [label="寒月君、"];
+	node3 [label="近頃でも"];
+	node4 [label="矢張り"];
+	node5 [label="学校へ"];
+	node6 [label="行って"];
+	node7 [label="珠ばかり"];
+	node8 [label="磨いてるのかね」と"];
+	node9 [label="迷亭先生は"];
+	node10 [label="しばらく"];
+	node11 [label="して"];
+	node12 [label="話頭を"];
+	node13 [label="転じた。"];
+	node0 -> node8;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

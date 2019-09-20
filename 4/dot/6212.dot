@@ -1,0 +1,9 @@
+digraph graph6212 {
+	node0 [label="その"];
+	node1 [label="名刺には"];
+	node2 [label="警視庁刑事巡査吉田虎蔵と"];
+	node3 [label="ある。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

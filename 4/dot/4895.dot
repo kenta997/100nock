@@ -1,0 +1,15 @@
+digraph graph4895 {
+	node0 [label="湯の"];
+	node1 [label="中で"];
+	node2 [label="酒を"];
+	node3 [label="飲んだら"];
+	node4 [label="逆上するに"];
+	node5 [label="極っていると"];
+	node6 [label="考えたのである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,5 @@
+digraph graph9179 {
+	node0 [label="呑気にしていれば"];
+	node1 [label="沈むばかりだ。"];
+	node0 -> node1;
+}

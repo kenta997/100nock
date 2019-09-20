@@ -1,0 +1,15 @@
+digraph graph1294 {
+	node0 [label="その"];
+	node1 [label="時の"];
+	node2 [label="苦しさは"];
+	node3 [label="考えても"];
+	node4 [label="恐"];
+	node5 [label="しくなる"];
+	node6 [label="ほどであった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

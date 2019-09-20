@@ -1,0 +1,19 @@
+digraph graph8800 {
+	node0 [label="吾々を"];
+	node1 [label="慰藉し、"];
+	node2 [label="吾々を"];
+	node3 [label="完全にし、"];
+	node4 [label="吾々を"];
+	node5 [label="幸福にするのは"];
+	node6 [label="全く"];
+	node7 [label="両者の"];
+	node8 [label="御蔭であります。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

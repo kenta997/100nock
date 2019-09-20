@@ -1,0 +1,11 @@
+digraph graph4575 {
+	node0 [label="飯を"];
+	node1 [label="食えば"];
+	node2 [label="腹が"];
+	node3 [label="張るに"];
+	node4 [label="極まっている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

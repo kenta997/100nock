@@ -1,0 +1,37 @@
+digraph graph7371 {
+	node0 [label="正直ですら"];
+	node1 [label="払底な"];
+	node2 [label="世に"];
+	node3 [label="それ以上を"];
+	node4 [label="予期するのは、"];
+	node5 [label="馬琴の"];
+	node6 [label="小説から"];
+	node7 [label="志乃や"];
+	node8 [label="小文吾が"];
+	node9 [label="抜けだして、"];
+	node10 [label="向う三軒両隣へ"];
+	node11 [label="八犬伝が"];
+	node12 [label="引き越した"];
+	node13 [label="時でなくては、"];
+	node14 [label="あてに"];
+	node15 [label="ならない"];
+	node16 [label="無理な"];
+	node17 [label="注文である。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node17;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

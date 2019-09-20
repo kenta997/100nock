@@ -1,0 +1,9 @@
+digraph graph7363 {
+	node0 [label="試して"];
+	node1 [label="見れば"];
+	node2 [label="すぐ"];
+	node3 [label="分る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

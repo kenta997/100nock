@@ -1,0 +1,9 @@
+digraph graph5437 {
+	node0 [label="催眠術は"];
+	node1 [label="ついに"];
+	node2 [label="不成功に"];
+	node3 [label="了る。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,15 @@
+digraph graph4265 {
+	node0 [label="米舂にも"];
+	node1 [label="なれん"];
+	node2 [label="志願兵にも"];
+	node3 [label="なれないが、"];
+	node4 [label="開校式には"];
+	node5 [label="欠くべから"];
+	node6 [label="ざる化装道具である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

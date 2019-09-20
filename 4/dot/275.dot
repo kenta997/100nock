@@ -1,0 +1,9 @@
+digraph graph275 {
+	node0 [label="これらは"];
+	node1 [label="余儀なくされないのに"];
+	node2 [label="無理に"];
+	node3 [label="進んでやるのである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

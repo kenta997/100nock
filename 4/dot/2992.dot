@@ -1,0 +1,7 @@
+digraph graph2992 {
+	node0 [label="「ぬ"];
+	node1 [label="す盗が"];
+	node2 [label="？"];
+	node0 -> node1;
+	node1 -> node2;
+}

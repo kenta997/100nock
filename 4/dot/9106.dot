@@ -1,0 +1,19 @@
+digraph graph9106 {
+	node0 [label="猫と"];
+	node1 [label="生れて"];
+	node2 [label="人の"];
+	node3 [label="世に"];
+	node4 [label="住む"];
+	node5 [label="事"];
+	node6 [label="もはや"];
+	node7 [label="二年越しに"];
+	node8 [label="なる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,29 @@
+digraph graph1412 {
+	node0 [label="坊や御父様が"];
+	node1 [label="うまい"];
+	node2 [label="ものを"];
+	node3 [label="やるから"];
+	node4 [label="おいで"];
+	node5 [label="てって、——"];
+	node6 [label="たまに"];
+	node7 [label="小供を"];
+	node8 [label="可愛がってくれるかと"];
+	node9 [label="思うと"];
+	node10 [label="そんな"];
+	node11 [label="馬鹿な"];
+	node12 [label="事ばかり"];
+	node13 [label="するんです。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

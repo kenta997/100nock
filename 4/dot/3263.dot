@@ -1,0 +1,7 @@
+digraph graph3263 {
+	node0 [label="どう"];
+	node1 [label="したら"];
+	node2 [label="好かろう。"];
+	node0 -> node1;
+	node1 -> node2;
+}

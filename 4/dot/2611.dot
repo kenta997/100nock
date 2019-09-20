@@ -1,0 +1,25 @@
+digraph graph2611 {
+	node0 [label="僕が"];
+	node1 [label="不承知だ、"];
+	node2 [label="百獣の"];
+	node3 [label="中で"];
+	node4 [label="もっとも"];
+	node5 [label="聡明なる"];
+	node6 [label="大象と、"];
+	node7 [label="もっとも"];
+	node8 [label="貪婪なる"];
+	node9 [label="小豚と"];
+	node10 [label="結婚するような"];
+	node11 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

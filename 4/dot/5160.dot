@@ -1,0 +1,15 @@
+digraph graph5160 {
+	node0 [label="　"];
+	node1 [label="埼玉生れの"];
+	node2 [label="御三が"];
+	node3 [label="襖を"];
+	node4 [label="あけて、"];
+	node5 [label="へえと顔を"];
+	node6 [label="出す。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

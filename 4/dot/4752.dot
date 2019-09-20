@@ -1,0 +1,11 @@
+digraph graph4752 {
+	node0 [label="第一"];
+	node1 [label="からかわれる"];
+	node2 [label="当人が"];
+	node3 [label="平気ですましていては"];
+	node4 [label="ならん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

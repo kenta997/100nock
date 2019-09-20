@@ -1,0 +1,7 @@
+digraph graph6756 {
+	node0 [label="「保険社員も"];
+	node1 [label="そう"];
+	node2 [label="云うのよ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

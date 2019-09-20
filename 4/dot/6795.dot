@@ -1,0 +1,11 @@
+digraph graph6795 {
+	node0 [label="だけども、"];
+	node1 [label="あの"];
+	node2 [label="先生が、"];
+	node3 [label="あんな"];
+	node4 [label="長い顔なんでしょう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

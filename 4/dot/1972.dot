@@ -1,0 +1,29 @@
+digraph graph1972 {
+	node0 [label="ただ"];
+	node1 [label="二個の"];
+	node2 [label="孔が"];
+	node3 [label="併んで"];
+	node4 [label="いる"];
+	node5 [label="状体と"];
+	node6 [label="混同なすっては、"];
+	node7 [label="誤解を"];
+	node8 [label="生ずるに"];
+	node9 [label="至るかも"];
+	node10 [label="計られませんから、"];
+	node11 [label="予め"];
+	node12 [label="御注意を"];
+	node13 [label="しておきます。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

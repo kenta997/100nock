@@ -1,0 +1,5 @@
+digraph graph5935 {
+	node0 [label="昔しは"];
+	node1 [label="あんなではなかったが」"];
+	node0 -> node1;
+}

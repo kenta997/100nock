@@ -1,0 +1,9 @@
+digraph graph2373 {
+	node0 [label="「まあ"];
+	node1 [label="いいさ、"];
+	node2 [label="これから"];
+	node3 [label="大事にするから。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

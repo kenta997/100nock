@@ -1,0 +1,23 @@
+digraph graph1579 {
+	node0 [label="三坪ほどの"];
+	node1 [label="小庭へ"];
+	node2 [label="招魂社の"];
+	node3 [label="石灯籠を"];
+	node4 [label="移した"];
+	node5 [label="時のごとく、"];
+	node6 [label="独りで"];
+	node7 [label="幅を"];
+	node8 [label="利かしているが、"];
+	node9 [label="何となく"];
+	node10 [label="落ちつかない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,13 @@
+digraph graph8099 {
+	node0 [label="「もう"];
+	node1 [label="一"];
+	node2 [label="返、"];
+	node3 [label="町の"];
+	node4 [label="名を"];
+	node5 [label="勘定するさ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

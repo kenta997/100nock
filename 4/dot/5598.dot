@@ -1,0 +1,15 @@
+digraph graph5598 {
+	node0 [label="友人は"];
+	node1 [label="気の"];
+	node2 [label="ない"];
+	node3 [label="顔で"];
+	node4 [label="「あっても"];
+	node5 [label="乞食か"];
+	node6 [label="立ん坊だよ。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

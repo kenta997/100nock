@@ -1,0 +1,11 @@
+digraph graph2863 {
+	node0 [label="あなた方は"];
+	node1 [label="睡眠中で"];
+	node2 [label="一向"];
+	node3 [label="気が"];
+	node4 [label="つかなかったのですな」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

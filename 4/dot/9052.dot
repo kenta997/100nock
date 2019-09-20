@@ -1,0 +1,7 @@
+digraph graph9052 {
+	node0 [label="少し"];
+	node1 [label="不人情の"];
+	node2 [label="ごたるな」"];
+	node0 -> node2;
+	node1 -> node2;
+}

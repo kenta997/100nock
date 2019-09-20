@@ -1,0 +1,9 @@
+digraph graph457 {
+	node0 [label="代えては"];
+	node1 [label="食い、"];
+	node2 [label="代えては"];
+	node3 [label="食う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

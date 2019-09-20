@@ -1,0 +1,21 @@
+digraph graph7079 {
+	node0 [label="細君も"];
+	node1 [label="仕方がないと"];
+	node2 [label="諦めて、"];
+	node3 [label="戻った"];
+	node4 [label="品を"];
+	node5 [label="そのまま"];
+	node6 [label="戸棚へ"];
+	node7 [label="しまい込んで"];
+	node8 [label="座に"];
+	node9 [label="帰る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

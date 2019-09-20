@@ -1,0 +1,25 @@
+digraph graph4449 {
+	node0 [label="坊主は"];
+	node1 [label="恭しく"];
+	node2 [label="これらの"];
+	node3 [label="裸体の"];
+	node4 [label="化物に"];
+	node5 [label="一礼して"];
+	node6 [label="「へ"];
+	node7 [label="い、"];
+	node8 [label="どなた様も、"];
+	node9 [label="毎日相変らず"];
+	node10 [label="ありがとう"];
+	node11 [label="存じます。"];
+	node0 -> node11;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

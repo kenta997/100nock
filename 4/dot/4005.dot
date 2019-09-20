@@ -1,0 +1,27 @@
+digraph graph4005 {
+	node0 [label="今度は"];
+	node1 [label="地面の"];
+	node2 [label="上へ"];
+	node3 [label="寝たぎり動かないから、"];
+	node4 [label="こっちの"];
+	node5 [label="手で"];
+	node6 [label="突っ付いて、"];
+	node7 [label="その"];
+	node8 [label="勢で"];
+	node9 [label="飛び上がる"];
+	node10 [label="ところを"];
+	node11 [label="また"];
+	node12 [label="抑えつける。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

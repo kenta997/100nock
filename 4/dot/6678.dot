@@ -1,0 +1,33 @@
+digraph graph6678 {
+	node0 [label="　かくのごとく"];
+	node1 [label="働きの"];
+	node2 [label="ない食い方を"];
+	node3 [label="もって、"];
+	node4 [label="無事に"];
+	node5 [label="朝食を"];
+	node6 [label="済ましたる"];
+	node7 [label="主人は、"];
+	node8 [label="やがて"];
+	node9 [label="洋服を"];
+	node10 [label="着て、"];
+	node11 [label="車へ"];
+	node12 [label="乗って、"];
+	node13 [label="日本堤分署へ"];
+	node14 [label="出頭に"];
+	node15 [label="及んだ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node15;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

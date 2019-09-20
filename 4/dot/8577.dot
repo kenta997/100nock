@@ -1,0 +1,29 @@
+digraph graph8577 {
+	node0 [label="　迷亭と"];
+	node1 [label="独仙が"];
+	node2 [label="妙な"];
+	node3 [label="掛合をの"];
+	node4 [label="べつに"];
+	node5 [label="やっていると、"];
+	node6 [label="主人は"];
+	node7 [label="寒月東風二君を"];
+	node8 [label="相手に"];
+	node9 [label="して"];
+	node10 [label="しきりに"];
+	node11 [label="文明の"];
+	node12 [label="不平を"];
+	node13 [label="述べている。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node13;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

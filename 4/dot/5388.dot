@@ -1,0 +1,9 @@
+digraph graph5388 {
+	node0 [label="「一体医者の"];
+	node1 [label="薬は"];
+	node2 [label="利く"];
+	node3 [label="ものでしょうか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

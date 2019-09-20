@@ -1,0 +1,9 @@
+digraph graph8785 {
+	node0 [label="「明治の"];
+	node1 [label="御代に"];
+	node2 [label="生れて"];
+	node3 [label="幸さ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

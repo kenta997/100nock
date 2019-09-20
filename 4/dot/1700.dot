@@ -1,0 +1,13 @@
+digraph graph1700 {
+	node0 [label="見ると"];
+	node1 [label="天女が"];
+	node2 [label="羽衣を"];
+	node3 [label="着て"];
+	node4 [label="琵琶を"];
+	node5 [label="弾いている。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

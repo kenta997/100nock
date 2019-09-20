@@ -1,0 +1,27 @@
+digraph graph3278 {
+	node0 [label="吾輩は"];
+	node1 [label="全体の"];
+	node2 [label="状況において"];
+	node3 [label="東郷閣下に"];
+	node4 [label="似ているのみならず、"];
+	node5 [label="この"];
+	node6 [label="格段なる"];
+	node7 [label="地位においてもまた"];
+	node8 [label="東郷閣下と"];
+	node9 [label="よく"];
+	node10 [label="苦心を"];
+	node11 [label="同じ"];
+	node12 [label="ゅうする者である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

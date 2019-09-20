@@ -1,0 +1,9 @@
+digraph graph4655 {
+	node0 [label="そんな"];
+	node1 [label="人が"];
+	node2 [label="第一流の"];
+	node3 [label="批評家なの。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

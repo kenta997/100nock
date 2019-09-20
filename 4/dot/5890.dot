@@ -1,0 +1,15 @@
+digraph graph5890 {
+	node0 [label="「さあ"];
+	node1 [label="どうぞ"];
+	node2 [label="あれへ」と"];
+	node3 [label="向うの"];
+	node4 [label="云う"];
+	node5 [label="通りを"];
+	node6 [label="繰り返した。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

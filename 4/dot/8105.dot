@@ -1,0 +1,9 @@
+digraph graph8105 {
+	node0 [label="それじゃ"];
+	node1 [label="一足飛びに"];
+	node2 [label="十時に"];
+	node3 [label="してしまいましょう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

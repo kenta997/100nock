@@ -1,0 +1,25 @@
+digraph graph3301 {
+	node0 [label="時々は"];
+	node1 [label="ちょろちょろと"];
+	node2 [label="穴の"];
+	node3 [label="口まで"];
+	node4 [label="足音が"];
+	node5 [label="近寄るが、また"];
+	node6 [label="遠のいて"];
+	node7 [label="一匹も"];
+	node8 [label="顔を"];
+	node9 [label="出す"];
+	node10 [label="ものは"];
+	node11 [label="ない。"];
+	node0 -> node11;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,9 @@
+digraph graph4800 {
+	node0 [label="風通しの"];
+	node1 [label="いい、"];
+	node2 [label="簡便な"];
+	node3 [label="垣である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

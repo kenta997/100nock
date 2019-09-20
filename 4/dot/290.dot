@@ -1,0 +1,21 @@
+digraph graph290 {
+	node0 [label="　主人が"];
+	node1 [label="水彩画を"];
+	node2 [label="夢に"];
+	node3 [label="見た"];
+	node4 [label="翌日例の"];
+	node5 [label="金縁眼鏡の"];
+	node6 [label="美学者が"];
+	node7 [label="久し振りで"];
+	node8 [label="主人を"];
+	node9 [label="訪問した。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

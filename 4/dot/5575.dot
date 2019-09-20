@@ -1,0 +1,23 @@
+digraph graph5575 {
+	node0 [label="こんな"];
+	node1 [label="真似を"];
+	node2 [label="して"];
+	node3 [label="澄していた"];
+	node4 [label="ものは"];
+	node5 [label="旧弊な"];
+	node6 [label="亡者と、"];
+	node7 [label="汽車へ"];
+	node8 [label="積み込まれる"];
+	node9 [label="豚と、"];
+	node10 [label="宗伯老とのみであった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

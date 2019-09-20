@@ -1,0 +1,23 @@
+digraph graph5924 {
+	node0 [label="いくら"];
+	node1 [label="不恰好に"];
+	node2 [label="作ろうと"];
+	node3 [label="云ったって、"];
+	node4 [label="こうまで"];
+	node5 [label="念を"];
+	node6 [label="入れて"];
+	node7 [label="形を"];
+	node8 [label="崩す"];
+	node9 [label="訳には"];
+	node10 [label="ゆかないだろう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

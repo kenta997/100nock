@@ -1,0 +1,11 @@
+digraph graph2864 {
+	node0 [label="「ええ」と"];
+	node1 [label="主人は"];
+	node2 [label="少し"];
+	node3 [label="極りが"];
+	node4 [label="わるそうである。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

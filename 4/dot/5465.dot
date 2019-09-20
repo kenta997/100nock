@@ -1,0 +1,7 @@
+digraph graph5465 {
+	node0 [label="「なに普通の"];
+	node1 [label="人間と"];
+	node2 [label="同じようにしているばかりさ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

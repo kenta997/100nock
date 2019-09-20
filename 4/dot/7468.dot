@@ -1,0 +1,5 @@
+digraph graph7468 {
+	node0 [label="構や"];
+	node1 [label="しないわ」"];
+	node0 -> node1;
+}

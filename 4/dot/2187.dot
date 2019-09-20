@@ -1,0 +1,11 @@
+digraph graph2187 {
+	node0 [label="すると"];
+	node1 [label="御天気の"];
+	node2 [label="日に"];
+	node3 [label="また"];
+	node4 [label="貼り付けるのです。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

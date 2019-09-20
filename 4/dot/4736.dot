@@ -1,0 +1,9 @@
+digraph graph4736 {
+	node0 [label="主人は"];
+	node1 [label="将来を"];
+	node2 [label="戒めて"];
+	node3 [label="放してやった。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

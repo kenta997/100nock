@@ -1,0 +1,7 @@
+digraph graph7758 {
+	node0 [label="「おやおや、"];
+	node1 [label="とうとう"];
+	node2 [label="生かしてしまった。"];
+	node0 -> node2;
+	node1 -> node2;
+}

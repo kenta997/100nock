@@ -1,0 +1,13 @@
+digraph graph4158 {
+	node0 [label="進めるだけ"];
+	node1 [label="進めと"];
+	node2 [label="度胸を"];
+	node3 [label="据えて、"];
+	node4 [label="のそのそ"];
+	node5 [label="歩き出す。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

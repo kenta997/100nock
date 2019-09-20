@@ -1,0 +1,13 @@
+digraph graph4869 {
+	node0 [label="それでなければ"];
+	node1 [label="坊主の"];
+	node2 [label="慣用する"];
+	node3 [label="手段を"];
+	node4 [label="試みるが"];
+	node5 [label="よい。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

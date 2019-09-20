@@ -1,0 +1,21 @@
+digraph graph8411 {
+	node0 [label="「それ"];
+	node1 [label="見たまえ、"];
+	node2 [label="君が"];
+	node3 [label="博士に"];
+	node4 [label="なるか"];
+	node5 [label="ならないかで、"];
+	node6 [label="四方八方へ"];
+	node7 [label="飛んだ"];
+	node8 [label="影響が"];
+	node9 [label="及んでくるよ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

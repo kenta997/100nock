@@ -1,0 +1,11 @@
+digraph graph5285 {
+	node0 [label="主人の"];
+	node1 [label="もっとも"];
+	node2 [label="貴重する"];
+	node3 [label="命が"];
+	node4 [label="あぶない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

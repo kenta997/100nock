@@ -1,0 +1,11 @@
+digraph graph8289 {
+	node0 [label="「これから"];
+	node1 [label="いよいよ"];
+	node2 [label="ヴァイオリンを"];
+	node3 [label="弾く"];
+	node4 [label="ところだよ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

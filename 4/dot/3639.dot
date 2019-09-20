@@ -1,0 +1,15 @@
+digraph graph3639 {
+	node0 [label="「まるで"];
+	node1 [label="噺し家の"];
+	node2 [label="話を"];
+	node3 [label="聞くようでござん"];
+	node4 [label="すね」とは"];
+	node5 [label="細君の"];
+	node6 [label="批評であった。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

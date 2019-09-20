@@ -1,0 +1,9 @@
+digraph graph8299 {
+	node0 [label="「ようやくの"];
+	node1 [label="事で"];
+	node2 [label="一策を"];
+	node3 [label="案出しました。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

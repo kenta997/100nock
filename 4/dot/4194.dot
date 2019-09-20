@@ -1,0 +1,23 @@
+digraph graph4194 {
+	node0 [label="しからば"];
+	node1 [label="ちょっと"];
+	node2 [label="こすって参ろうかとまた"];
+	node3 [label="椽側から"];
+	node4 [label="降りかけたが、"];
+	node5 [label="いや"];
+	node6 [label="これも"];
+	node7 [label="利害相"];
+	node8 [label="償わぬ"];
+	node9 [label="愚策だと"];
+	node10 [label="心付いた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

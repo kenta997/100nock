@@ -1,0 +1,7 @@
+digraph graph396 {
+	node0 [label="「しばらく"];
+	node1 [label="御無沙汰を"];
+	node2 [label="しました。"];
+	node0 -> node2;
+	node1 -> node2;
+}

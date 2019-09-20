@@ -1,0 +1,9 @@
+digraph graph8303 {
+	node0 [label="「下手な"];
+	node1 [label="刀屋じゃあるまいし」と"];
+	node2 [label="迷亭君が"];
+	node3 [label="冷評した。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

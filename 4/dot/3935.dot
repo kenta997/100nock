@@ -1,0 +1,21 @@
+digraph graph3935 {
+	node0 [label="吾輩の"];
+	node1 [label="眼玉は"];
+	node2 [label="ただ"];
+	node3 [label="小さくなったり"];
+	node4 [label="大きくなったりするばかりだが、"];
+	node5 [label="人間の"];
+	node6 [label="品隲と"];
+	node7 [label="くると"];
+	node8 [label="真逆かさまに"];
+	node9 [label="ひっくり返る。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

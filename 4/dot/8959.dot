@@ -1,0 +1,19 @@
+digraph graph8959 {
+	node0 [label="どうしても"];
+	node1 [label="あんな"];
+	node2 [label="所に"];
+	node3 [label="いると、"];
+	node4 [label="傍が"];
+	node5 [label="傍だから、"];
+	node6 [label="おのずから、"];
+	node7 [label="そう"];
+	node8 [label="なってしまうです」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

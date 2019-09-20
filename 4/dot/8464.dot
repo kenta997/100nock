@@ -1,0 +1,5 @@
+digraph graph8464 {
+	node0 [label="「熊坂は"];
+	node1 [label="よかったね。"];
+	node0 -> node1;
+}

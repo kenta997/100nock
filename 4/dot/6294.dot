@@ -1,0 +1,11 @@
+digraph graph6294 {
+	node0 [label="学校なんか」と"];
+	node1 [label="擲きつけるように"];
+	node2 [label="云ったのは"];
+	node3 [label="壮な"];
+	node4 [label="ものだった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

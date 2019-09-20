@@ -1,0 +1,23 @@
+digraph graph3251 {
+	node0 [label="あるいは"];
+	node1 [label="溝へ"];
+	node2 [label="湯を"];
+	node3 [label="抜く"];
+	node4 [label="漆喰の"];
+	node5 [label="穴より"];
+	node6 [label="風呂場を"];
+	node7 [label="迂回して"];
+	node8 [label="勝手へ"];
+	node9 [label="不意に"];
+	node10 [label="飛び出すかも知れない。"];
+	node0 -> node10;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

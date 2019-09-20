@@ -1,0 +1,17 @@
+digraph graph2016 {
+	node0 [label="「寒月君は"];
+	node1 [label="どう"];
+	node2 [label="だい」"];
+	node3 [label="「私に"];
+	node4 [label="もちと"];
+	node5 [label="分りかねますな」"];
+	node6 [label="「そりゃ"];
+	node7 [label="困ったな。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,5 @@
+digraph graph7221 {
+	node0 [label="「いいえ、"];
+	node1 [label="二年生です」"];
+	node0 -> node1;
+}

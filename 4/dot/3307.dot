@@ -1,0 +1,15 @@
+digraph graph3307 {
+	node0 [label="しばらく"];
+	node1 [label="すると"];
+	node2 [label="風呂場で"];
+	node3 [label="うがい茶碗が"];
+	node4 [label="金盥に"];
+	node5 [label="かちりと"];
+	node6 [label="当る。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

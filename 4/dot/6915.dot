@@ -1,0 +1,7 @@
+digraph graph6915 {
+	node0 [label="「馬鹿の"];
+	node1 [label="癖に"];
+	node2 [label="えらいのね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

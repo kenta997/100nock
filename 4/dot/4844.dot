@@ -1,0 +1,15 @@
+digraph graph4844 {
+	node0 [label="教師が"];
+	node1 [label="職業であるか、"];
+	node2 [label="戦争が"];
+	node3 [label="本務であるか"];
+	node4 [label="ちょっと"];
+	node5 [label="分らないくらい"];
+	node6 [label="逆上して来た。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

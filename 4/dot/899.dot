@@ -1,0 +1,27 @@
+digraph graph899 {
+	node0 [label="入浴後"];
+	node1 [label="一種の"];
+	node2 [label="方法に"];
+	node3 [label="よりて"];
+	node4 [label="浴前に"];
+	node5 [label="嚥"];
+	node6 [label="下せる"];
+	node7 [label="ものを"];
+	node8 [label="悉く"];
+	node9 [label="嘔吐し、"];
+	node10 [label="胃内を"];
+	node11 [label="掃除致し"];
+	node12 [label="候。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

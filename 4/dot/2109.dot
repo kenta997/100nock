@@ -1,0 +1,21 @@
+digraph graph2109 {
+	node0 [label="「いや御話しにも"];
+	node1 [label="ならん"];
+	node2 [label="くらいで、"];
+	node3 [label="妻が"];
+	node4 [label="何か"];
+	node5 [label="聞くと"];
+	node6 [label="まるで"];
+	node7 [label="剣も"];
+	node8 [label="ほろろの"];
+	node9 [label="挨拶だそうで……」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

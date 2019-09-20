@@ -1,0 +1,7 @@
+digraph graph6483 {
+	node0 [label="亀の"];
+	node1 [label="子のような"];
+	node2 [label="男である。"];
+	node0 -> node1;
+	node1 -> node2;
+}

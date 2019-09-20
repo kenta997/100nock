@@ -1,0 +1,11 @@
+digraph graph8492 {
+	node0 [label="下愚は"];
+	node1 [label="移らずと"];
+	node2 [label="云うのは"];
+	node3 [label="君の"];
+	node4 [label="事だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,13 @@
+digraph graph70 {
+	node0 [label="しかし"];
+	node1 [label="実際は"];
+	node2 [label="うちの"];
+	node3 [label="ものが"];
+	node4 [label="いうような"];
+	node5 [label="勤勉家ではない。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

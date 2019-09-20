@@ -1,0 +1,31 @@
+digraph graph3308 {
+	node0 [label="今度は"];
+	node1 [label="後方だと"];
+	node2 [label="振りむく"];
+	node3 [label="途端に、"];
+	node4 [label="五寸近く"];
+	node5 [label="ある"];
+	node6 [label="大な"];
+	node7 [label="奴が"];
+	node8 [label="ひらりと"];
+	node9 [label="歯磨の"];
+	node10 [label="袋を"];
+	node11 [label="落して"];
+	node12 [label="椽の"];
+	node13 [label="下へ"];
+	node14 [label="馳け込む。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node14;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

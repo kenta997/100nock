@@ -1,0 +1,11 @@
+digraph graph7972 {
+	node0 [label="「君より"];
+	node1 [label="聞いてる"];
+	node2 [label="方が"];
+	node3 [label="よっぽど"];
+	node4 [label="じれったいぜ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

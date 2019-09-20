@@ -1,0 +1,5 @@
+digraph graph3294 {
+	node0 [label="どこから"];
+	node1 [label="出るだろう。"];
+	node0 -> node1;
+}

@@ -1,0 +1,11 @@
+digraph graph1995 {
+	node0 [label="ジュリアス・シーザーの"];
+	node1 [label="鼻は"];
+	node2 [label="大した"];
+	node3 [label="ものに"];
+	node4 [label="相違ございません。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

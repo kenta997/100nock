@@ -1,0 +1,11 @@
+digraph graph3212 {
+	node0 [label="吾輩は"];
+	node1 [label="日本の"];
+	node2 [label="猫だから"];
+	node3 [label="無論"];
+	node4 [label="日本贔負である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,9 @@
+digraph graph5955 {
+	node0 [label="「建武時代かも"];
+	node1 [label="知れないが、"];
+	node2 [label="寒月君は"];
+	node3 [label="弱っていましたぜ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

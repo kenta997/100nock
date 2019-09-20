@@ -1,0 +1,21 @@
+digraph graph276 {
+	node0 [label="あたかも"];
+	node1 [label="吾輩の"];
+	node2 [label="水彩画に"];
+	node3 [label="於ける"];
+	node4 [label="がごと"];
+	node5 [label="きもので"];
+	node6 [label="到底"];
+	node7 [label="卒業する"];
+	node8 [label="気づかいは"];
+	node9 [label="ない。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

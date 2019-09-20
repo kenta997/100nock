@@ -1,0 +1,15 @@
+digraph graph1679 {
+	node0 [label="悲しい"];
+	node1 [label="事に"];
+	node2 [label="力学と"];
+	node3 [label="云う"];
+	node4 [label="意味が"];
+	node5 [label="わからんので"];
+	node6 [label="落ちつきかねている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

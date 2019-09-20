@@ -1,0 +1,31 @@
+digraph graph7884 {
+	node0 [label="僕の"];
+	node1 [label="考では"];
+	node2 [label="人間が"];
+	node3 [label="絶対の"];
+	node4 [label="域に"];
+	node5 [label="入るには、"];
+	node6 [label="ただ"];
+	node7 [label="二つの"];
+	node8 [label="道が"];
+	node9 [label="あるばかりで、"];
+	node10 [label="その"];
+	node11 [label="二つの"];
+	node12 [label="道とは"];
+	node13 [label="芸術と"];
+	node14 [label="恋だ。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

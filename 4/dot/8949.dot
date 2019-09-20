@@ -1,0 +1,17 @@
+digraph graph8949 {
+	node0 [label="大きな"];
+	node1 [label="海の"];
+	node2 [label="上を"];
+	node3 [label="小舟で"];
+	node4 [label="乗り廻わして"];
+	node5 [label="あるくのですからね」と"];
+	node6 [label="誰彼の"];
+	node7 [label="容赦なく話しかける。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

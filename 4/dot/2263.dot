@@ -1,0 +1,25 @@
+digraph graph2263 {
+	node0 [label="「馬鹿な"];
+	node1 [label="事を！　"];
+	node2 [label="どこの"];
+	node3 [label="国に"];
+	node4 [label="頭の"];
+	node5 [label="試験を"];
+	node6 [label="して"];
+	node7 [label="及第したら"];
+	node8 [label="嫁に"];
+	node9 [label="くるなんて、"];
+	node10 [label="ものが"];
+	node11 [label="在るもんですか」"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

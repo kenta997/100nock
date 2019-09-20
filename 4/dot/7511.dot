@@ -1,0 +1,9 @@
+digraph graph7511 {
+	node0 [label="「小供は"];
+	node1 [label="何でも"];
+	node2 [label="訳してやらないと"];
+	node3 [label="信用せんからね」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

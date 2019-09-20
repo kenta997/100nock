@@ -1,0 +1,27 @@
+digraph graph6335 {
+	node0 [label="まだ"];
+	node1 [label="幸に"];
+	node2 [label="人を"];
+	node3 [label="傷けたり、"];
+	node4 [label="世間の"];
+	node5 [label="邪魔になる"];
+	node6 [label="事を"];
+	node7 [label="し出かさんから"];
+	node8 [label="やはり"];
+	node9 [label="町内を"];
+	node10 [label="追払われずに、"];
+	node11 [label="東京市民として"];
+	node12 [label="存在しているのではなかろうか。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

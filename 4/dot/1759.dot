@@ -1,0 +1,13 @@
+digraph graph1759 {
+	node0 [label="」"];
+	node1 [label="「仕方がないから"];
+	node2 [label="見計らって"];
+	node3 [label="送ってやった」"];
+	node4 [label="「君も"];
+	node5 [label="乱暴だな。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

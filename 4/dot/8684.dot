@@ -1,0 +1,17 @@
+digraph graph8684 {
+	node0 [label="そこで"];
+	node1 [label="僕が"];
+	node2 [label="なに代は"];
+	node3 [label="構いませんから、"];
+	node4 [label="お気に"];
+	node5 [label="入ったら"];
+	node6 [label="持っていらっしゃいと"];
+	node7 [label="云う。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

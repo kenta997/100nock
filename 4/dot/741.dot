@@ -1,0 +1,11 @@
+digraph graph741 {
+	node0 [label="人を"];
+	node1 [label="見縊"];
+	node2 [label="びっ"];
+	node3 [label="た事を"];
+	node4 [label="いうねえ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

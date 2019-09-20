@@ -1,0 +1,11 @@
+digraph graph4848 {
+	node0 [label="ただ"];
+	node1 [label="どこへ"];
+	node2 [label="逆かさに"];
+	node3 [label="上るかが"];
+	node4 [label="問題である。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

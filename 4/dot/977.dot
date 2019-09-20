@@ -1,0 +1,7 @@
+digraph graph977 {
+	node0 [label="しばらく"];
+	node1 [label="すると"];
+	node2 [label="落ちて来る。"];
+	node0 -> node1;
+	node1 -> node2;
+}

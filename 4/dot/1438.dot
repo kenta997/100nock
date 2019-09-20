@@ -1,0 +1,23 @@
+digraph graph1438 {
+	node0 [label="「あんなに"];
+	node1 [label="本を"];
+	node2 [label="買って"];
+	node3 [label="矢鱈に"];
+	node4 [label="詰め込む"];
+	node5 [label="ものだから"];
+	node6 [label="人から"];
+	node7 [label="少しは"];
+	node8 [label="学者だとか"];
+	node9 [label="何とか"];
+	node10 [label="云われるんですよ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,27 @@
+digraph graph7843 {
+	node0 [label="男だから"];
+	node1 [label="あれで"];
+	node2 [label="済むが"];
+	node3 [label="女が"];
+	node4 [label="あれじゃ"];
+	node5 [label="さぞかし"];
+	node6 [label="困るだろう」と"];
+	node7 [label="迷亭君が"];
+	node8 [label="一人這入ると"];
+	node9 [label="肝心の"];
+	node10 [label="話は"];
+	node11 [label="どっかへ"];
+	node12 [label="飛んで行ってしまう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

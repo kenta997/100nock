@@ -1,0 +1,15 @@
+digraph graph5846 {
+	node0 [label="わからんものを"];
+	node1 [label="わかった"];
+	node2 [label="つもりで"];
+	node3 [label="尊敬するのは"];
+	node4 [label="昔から"];
+	node5 [label="愉快な"];
+	node6 [label="ものである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

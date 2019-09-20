@@ -1,0 +1,9 @@
+digraph graph2755 {
+	node0 [label="疑いも"];
+	node1 [label="なく"];
+	node2 [label="陰士の"];
+	node3 [label="眼である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

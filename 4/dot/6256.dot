@@ -1,0 +1,7 @@
+digraph graph6256 {
+	node0 [label="あたり前の"];
+	node1 [label="商売より"];
+	node2 [label="下等だね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

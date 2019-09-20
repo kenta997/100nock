@@ -1,0 +1,11 @@
+digraph graph3149 {
+	node0 [label="「そうですか、"];
+	node1 [label="私くらいな"];
+	node2 [label="ものですか」と"];
+	node3 [label="多々良君"];
+	node4 [label="真面目である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

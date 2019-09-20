@@ -1,0 +1,23 @@
+digraph graph1097 {
+	node0 [label="ゼームスなどに"];
+	node1 [label="云わせると"];
+	node2 [label="副意識下の"];
+	node3 [label="幽冥界と"];
+	node4 [label="僕が"];
+	node5 [label="存在している"];
+	node6 [label="現実界が"];
+	node7 [label="一種の"];
+	node8 [label="因果法によって"];
+	node9 [label="互に"];
+	node10 [label="感応したんだろう。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

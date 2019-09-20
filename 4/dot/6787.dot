@@ -1,0 +1,5 @@
+digraph graph6787 {
+	node0 [label="「八木さんが"];
+	node1 [label="？"];
+	node0 -> node1;
+}

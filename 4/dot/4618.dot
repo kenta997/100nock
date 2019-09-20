@@ -1,0 +1,13 @@
+digraph graph4618 {
+	node0 [label="「飲むとも——"];
+	node1 [label="御前世界で"];
+	node2 [label="一番"];
+	node3 [label="長い"];
+	node4 [label="字を"];
+	node5 [label="知ってるか」"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

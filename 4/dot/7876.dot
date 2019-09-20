@@ -1,0 +1,7 @@
+digraph graph7876 {
+	node0 [label="「君も"];
+	node1 [label="妻君難だろうと"];
+	node2 [label="云うのさ」"];
+	node0 -> node2;
+	node1 -> node2;
+}

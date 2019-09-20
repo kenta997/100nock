@@ -1,0 +1,9 @@
+digraph graph8162 {
+	node0 [label="「こりゃ何と"];
+	node1 [label="読むのだい」と"];
+	node2 [label="主人が"];
+	node3 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

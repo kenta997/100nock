@@ -1,0 +1,19 @@
+digraph graph2079 {
+	node0 [label="至極"];
+	node1 [label="穏かで"];
+	node2 [label="危険の"];
+	node3 [label="ない"];
+	node4 [label="顔には"];
+	node5 [label="相違ないが、"];
+	node6 [label="何となく"];
+	node7 [label="変化に"];
+	node8 [label="乏しい。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

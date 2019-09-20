@@ -1,0 +1,9 @@
+digraph graph8989 {
+	node0 [label="披露の"];
+	node1 [label="とき"];
+	node2 [label="呼んで"];
+	node3 [label="御馳走するです。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

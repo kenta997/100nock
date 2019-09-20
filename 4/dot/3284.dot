@@ -1,0 +1,15 @@
+digraph graph3284 {
+	node0 [label="何の"];
+	node1 [label="ために"];
+	node2 [label="枕頭に"];
+	node3 [label="ステッキを"];
+	node4 [label="飾るのか"];
+	node5 [label="吾輩には"];
+	node6 [label="分らなかった。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,13 @@
+digraph graph1411 {
+	node0 [label="「この間などは"];
+	node1 [label="赤ん坊にまで"];
+	node2 [label="甞めさせまして……」"];
+	node3 [label="「ジャムをですか」"];
+	node4 [label="「いいえ大根卸を……"];
+	node5 [label="あなた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

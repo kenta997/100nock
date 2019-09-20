@@ -1,0 +1,19 @@
+digraph graph4369 {
+	node0 [label="しかし"];
+	node1 [label="湯だけは"];
+	node2 [label="今でも"];
+	node3 [label="熱いのでないと"];
+	node4 [label="心持が"];
+	node5 [label="悪くてね」"];
+	node6 [label="「旦那なんか"];
+	node7 [label="丈夫な"];
+	node8 [label="ものですぜ。"];
+	node0 -> node8;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,31 @@
+digraph graph4380 {
+	node0 [label="岩見重太郎が"];
+	node1 [label="大刀を"];
+	node2 [label="振り翳して"];
+	node3 [label="蟒を"];
+	node4 [label="退治る"];
+	node5 [label="ところのようだが、"];
+	node6 [label="惜しい"];
+	node7 [label="事に"];
+	node8 [label="未だ"];
+	node9 [label="竣功の"];
+	node10 [label="期に"];
+	node11 [label="達せんので、"];
+	node12 [label="蟒は"];
+	node13 [label="どこにも"];
+	node14 [label="見えない。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

@@ -1,0 +1,17 @@
+digraph graph882 {
+	node0 [label="　独りで"];
+	node1 [label="勝手に"];
+	node2 [label="苦心しているのじゃないかと"];
+	node3 [label="主人は"];
+	node4 [label="毫も"];
+	node5 [label="感謝の"];
+	node6 [label="意を"];
+	node7 [label="表しない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+}

@@ -1,0 +1,15 @@
+digraph graph4275 {
+	node0 [label="みんなが"];
+	node1 [label="着物を"];
+	node2 [label="きれば"];
+	node3 [label="人間は"];
+	node4 [label="服装の"];
+	node5 [label="動物に"];
+	node6 [label="なる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

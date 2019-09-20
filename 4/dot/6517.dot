@@ -1,0 +1,33 @@
+digraph graph6517 {
+	node0 [label="主人に"];
+	node1 [label="あてつけるに"];
+	node2 [label="手数は"];
+	node3 [label="掛らない、"];
+	node4 [label="ちょっと"];
+	node5 [label="八っちゃんに"];
+	node6 [label="剣突を"];
+	node7 [label="食わせれば"];
+	node8 [label="何の"];
+	node9 [label="苦も"];
+	node10 [label="なく、"];
+	node11 [label="主人の"];
+	node12 [label="横っ面を"];
+	node13 [label="張った"];
+	node14 [label="訳に"];
+	node15 [label="なる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

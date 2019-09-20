@@ -1,0 +1,7 @@
+digraph graph6278 {
+	node0 [label="いくら"];
+	node1 [label="云っても"];
+	node2 [label="聞かないね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

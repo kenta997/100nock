@@ -1,0 +1,11 @@
+digraph graph1925 {
+	node0 [label="教師よりも"];
+	node1 [label="やはり"];
+	node2 [label="実業家が"];
+	node3 [label="えらいように"];
+	node4 [label="思われる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

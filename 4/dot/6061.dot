@@ -1,0 +1,5 @@
+digraph graph6061 {
+	node0 [label="しっかりしてくれ"];
+	node1 [label="たまえ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,15 @@
+digraph graph1541 {
+	node0 [label="「知らん、"];
+	node1 [label="近頃は"];
+	node2 [label="合わんから」と"];
+	node3 [label="主人は"];
+	node4 [label="平生の"];
+	node5 [label="通り"];
+	node6 [label="陰気である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

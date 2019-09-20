@@ -1,0 +1,5 @@
+digraph graph6277 {
+	node0 [label="「どうも"];
+	node1 [label="自信家だな。"];
+	node0 -> node1;
+}

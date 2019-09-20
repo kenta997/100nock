@@ -1,0 +1,11 @@
+digraph graph7911 {
+	node0 [label="ただ"];
+	node1 [label="独仙君ばかりは"];
+	node2 [label="超然として"];
+	node3 [label="髯を"];
+	node4 [label="撚している。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

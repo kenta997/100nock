@@ -1,0 +1,5 @@
+digraph graph5943 {
+	node0 [label="なかなか"];
+	node1 [label="重いよ。"];
+	node0 -> node1;
+}

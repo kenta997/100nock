@@ -1,0 +1,23 @@
+digraph graph7912 {
+	node0 [label="「そんな"];
+	node1 [label="所に"];
+	node2 [label="どうして"];
+	node3 [label="ヴァイオリンが"];
+	node4 [label="あるかが"];
+	node5 [label="第一ご不審かも知れないですが、"];
+	node6 [label="これは"];
+	node7 [label="考えて"];
+	node8 [label="見ると"];
+	node9 [label="当り前の"];
+	node10 [label="事です。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

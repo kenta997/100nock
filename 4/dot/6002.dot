@@ -1,0 +1,11 @@
+digraph graph6002 {
+	node0 [label="「伯父さん苦沙弥君は"];
+	node1 [label="そんな"];
+	node2 [label="事は、"];
+	node3 [label="よく"];
+	node4 [label="心得ているんですよ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

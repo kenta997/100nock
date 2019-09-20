@@ -1,0 +1,31 @@
+digraph graph84 {
+	node0 [label="それでも"];
+	node1 [label="主人に"];
+	node2 [label="云わせると"];
+	node3 [label="教師ほど"];
+	node4 [label="つらい"];
+	node5 [label="ものは"];
+	node6 [label="ないそうで"];
+	node7 [label="彼は"];
+	node8 [label="友達が"];
+	node9 [label="来る"];
+	node10 [label="度に"];
+	node11 [label="何とか"];
+	node12 [label="かんとか"];
+	node13 [label="不平を"];
+	node14 [label="鳴らしている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node14;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

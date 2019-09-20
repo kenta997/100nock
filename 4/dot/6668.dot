@@ -1,0 +1,11 @@
+digraph graph6668 {
+	node0 [label="こんな"];
+	node1 [label="働き手を"];
+	node2 [label="見る"];
+	node3 [label="たびに"];
+	node4 [label="撲ってやりたくなる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

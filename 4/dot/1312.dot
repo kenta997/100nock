@@ -1,0 +1,17 @@
+digraph graph1312 {
+	node0 [label="御三が"];
+	node1 [label="吾輩を"];
+	node2 [label="知らずして"];
+	node3 [label="虐待を"];
+	node4 [label="するのは"];
+	node5 [label="別に"];
+	node6 [label="腹も"];
+	node7 [label="立たない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

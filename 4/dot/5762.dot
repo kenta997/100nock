@@ -1,0 +1,9 @@
+digraph graph5762 {
+	node0 [label="義捐などは"];
+	node1 [label="恐らく"];
+	node2 [label="しそうに"];
+	node3 [label="ない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,7 @@
+digraph graph712 {
+	node0 [label="いい"];
+	node1 [label="心持に"];
+	node2 [label="なった。"];
+	node0 -> node1;
+	node1 -> node2;
+}

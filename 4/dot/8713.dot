@@ -1,0 +1,11 @@
+digraph graph8713 {
+	node0 [label="月賦は"];
+	node1 [label="必ず"];
+	node2 [label="六十回限りの"];
+	node3 [label="事に"];
+	node4 [label="致します」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

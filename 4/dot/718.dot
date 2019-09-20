@@ -1,0 +1,15 @@
+digraph graph718 {
+	node0 [label="人つけ"];
+	node1 [label="面白くもねえ」黒は"];
+	node2 [label="吾輩の"];
+	node3 [label="有名になったのを、"];
+	node4 [label="まだ"];
+	node5 [label="知らんと"];
+	node6 [label="見える。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

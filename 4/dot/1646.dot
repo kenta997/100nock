@@ -1,0 +1,35 @@
+digraph graph1646 {
+	node0 [label="——"];
+	node1 [label="しかし"];
+	node2 [label="不思議と"];
+	node3 [label="云えば"];
+	node4 [label="不思議ですねえ、"];
+	node5 [label="金田の"];
+	node6 [label="奥さん、"];
+	node7 [label="どうして"];
+	node8 [label="この"];
+	node9 [label="秘密を"];
+	node10 [label="御探知に"];
+	node11 [label="なったんです、"];
+	node12 [label="実に"];
+	node13 [label="驚ろきますな」と"];
+	node14 [label="迷亭は"];
+	node15 [label="一人で"];
+	node16 [label="喋舌る。"];
+	node0 -> node16;
+	node1 -> node16;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+}

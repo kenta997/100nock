@@ -1,0 +1,35 @@
+digraph graph916 {
+	node0 [label="白磁の"];
+	node1 [label="水仙が"];
+	node2 [label="だんだん"];
+	node3 [label="凋んで、"];
+	node4 [label="青軸の"];
+	node5 [label="梅が"];
+	node6 [label="瓶ながら"];
+	node7 [label="だんだん"];
+	node8 [label="開きかかるのを"];
+	node9 [label="眺め"];
+	node10 [label="暮らしてばかりいても"];
+	node11 [label="つまらんと"];
+	node12 [label="思って、"];
+	node13 [label="一両度三毛子を"];
+	node14 [label="訪問して"];
+	node15 [label="見たが"];
+	node16 [label="逢われない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

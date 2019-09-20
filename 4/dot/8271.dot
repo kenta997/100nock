@@ -1,0 +1,11 @@
+digraph graph8271 {
+	node0 [label="どうです"];
+	node1 [label="あんなに"];
+	node2 [label="寝ちゃ、"];
+	node3 [label="からだに"];
+	node4 [label="毒ですぜ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

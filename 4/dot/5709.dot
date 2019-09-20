@@ -1,0 +1,15 @@
+digraph graph5709 {
+	node0 [label="エピクテタスなどを"];
+	node1 [label="鵜呑に"];
+	node2 [label="して"];
+	node3 [label="学者ぶるよりも"];
+	node4 [label="遥かに"];
+	node5 [label="ましだと"];
+	node6 [label="思う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

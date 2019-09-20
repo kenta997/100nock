@@ -1,0 +1,9 @@
+digraph graph6029 {
+	node0 [label="蚯蚓を"];
+	node1 [label="和名で"];
+	node2 [label="みみずと"];
+	node3 [label="云う。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

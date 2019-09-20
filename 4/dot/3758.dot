@@ -1,0 +1,15 @@
+digraph graph3758 {
+	node0 [label="「七八両月は"];
+	node1 [label="休んで"];
+	node2 [label="九月には"];
+	node3 [label="何か"];
+	node4 [label="賑やかに"];
+	node5 [label="やりたいと"];
+	node6 [label="思っております。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

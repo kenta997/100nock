@@ -1,0 +1,11 @@
+digraph graph5961 {
+	node0 [label="現に"];
+	node1 [label="寒月が"];
+	node2 [label="そう"];
+	node3 [label="云ったから"];
+	node4 [label="仕方がないです」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

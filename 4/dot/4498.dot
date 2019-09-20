@@ -1,0 +1,9 @@
+digraph graph4498 {
+	node0 [label="今主人が"];
+	node1 [label="踏んでいる"];
+	node2 [label="ところは"];
+	node3 [label="敷居である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

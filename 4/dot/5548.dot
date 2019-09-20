@@ -1,0 +1,19 @@
+digraph graph5548 {
+	node0 [label="珍客が"];
+	node1 [label="帰った"];
+	node2 [label="あとで"];
+	node3 [label="書斎へ"];
+	node4 [label="這入って"];
+	node5 [label="書物も"];
+	node6 [label="読まずに"];
+	node7 [label="何か"];
+	node8 [label="考えていた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

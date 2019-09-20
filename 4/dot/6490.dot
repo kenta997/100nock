@@ -1,0 +1,23 @@
+digraph graph6490 {
+	node0 [label="覚めているから、"];
+	node1 [label="細君の"];
+	node2 [label="襲撃に"];
+	node3 [label="そな"];
+	node4 [label="うる"];
+	node5 [label="ため、"];
+	node6 [label="あらかじめ"];
+	node7 [label="夜具の"];
+	node8 [label="中に"];
+	node9 [label="首もろとも"];
+	node10 [label="立て籠ったのである。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

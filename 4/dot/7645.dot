@@ -1,0 +1,9 @@
+digraph graph7645 {
+	node0 [label="「どうするも、"];
+	node1 [label="こう"];
+	node2 [label="するも"];
+	node3 [label="ないさ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

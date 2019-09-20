@@ -1,0 +1,9 @@
+digraph graph3000 {
+	node0 [label="」と"];
+	node1 [label="今度は"];
+	node2 [label="妹が"];
+	node3 [label="聞く。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

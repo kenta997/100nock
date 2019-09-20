@@ -1,0 +1,21 @@
+digraph graph379 {
+	node0 [label="恭賀新年と"];
+	node1 [label="かいて、"];
+	node2 [label="傍らに"];
+	node3 [label="乍恐縮かの"];
+	node4 [label="猫へも"];
+	node5 [label="宜しく"];
+	node6 [label="御伝声"];
+	node7 [label="奉"];
+	node8 [label="願上候と"];
+	node9 [label="ある。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

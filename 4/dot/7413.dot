@@ -1,0 +1,5 @@
+digraph graph7413 {
+	node0 [label="文明中学の"];
+	node1 [label="退校どころではない。"];
+	node0 -> node1;
+}

@@ -1,0 +1,25 @@
+digraph graph176 {
+	node0 [label="すると"];
+	node1 [label="主人は"];
+	node2 [label="失望と"];
+	node3 [label="怒りを"];
+	node4 [label="掻き交ぜたような"];
+	node5 [label="声を"];
+	node6 [label="して、"];
+	node7 [label="座敷の"];
+	node8 [label="中から"];
+	node9 [label="「この"];
+	node10 [label="馬鹿野郎」と"];
+	node11 [label="怒鳴った。"];
+	node0 -> node11;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

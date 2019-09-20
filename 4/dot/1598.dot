@@ -1,0 +1,13 @@
+digraph graph1598 {
+	node0 [label="実業家よりも"];
+	node1 [label="中学校の"];
+	node2 [label="先生の"];
+	node3 [label="方が"];
+	node4 [label="えらいと"];
+	node5 [label="信じている。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,5 @@
+digraph graph4620 {
+	node0 [label="「それは"];
+	node1 [label="名前だ。"];
+	node0 -> node1;
+}

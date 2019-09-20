@@ -1,0 +1,9 @@
+digraph graph8963 {
+	node0 [label="「金は"];
+	node1 [label="なかばってんが、"];
+	node2 [label="今に"];
+	node3 [label="どうかなるたい。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,31 @@
+digraph graph7179 {
+	node0 [label="途中で"];
+	node1 [label="先生に"];
+	node2 [label="逢ってさえ"];
+	node3 [label="礼を"];
+	node4 [label="しないのを"];
+	node5 [label="自慢に"];
+	node6 [label="する"];
+	node7 [label="くらいの"];
+	node8 [label="連中が、"];
+	node9 [label="たとい"];
+	node10 [label="三十分でも"];
+	node11 [label="人並に"];
+	node12 [label="坐るのは"];
+	node13 [label="苦しいに"];
+	node14 [label="違ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

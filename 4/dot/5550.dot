@@ -1,0 +1,11 @@
+digraph graph5550 {
+	node0 [label="甘木先生は"];
+	node1 [label="催眠術で"];
+	node2 [label="神経を"];
+	node3 [label="沈めろと"];
+	node4 [label="助言したのである。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

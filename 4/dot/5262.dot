@@ -1,0 +1,11 @@
+digraph graph5262 {
+	node0 [label="とうとう"];
+	node1 [label="しまいに"];
+	node2 [label="学校の"];
+	node3 [label="生徒に"];
+	node4 [label="やらした」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

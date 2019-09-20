@@ -1,0 +1,15 @@
+digraph graph8178 {
+	node0 [label="いよいよ"];
+	node1 [label="露見するか、"];
+	node2 [label="しないか"];
+	node3 [label="危機一髪と"];
+	node4 [label="云う"];
+	node5 [label="安宅の関へ"];
+	node6 [label="かかってるんだ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,13 @@
+digraph graph3620 {
+	node0 [label="また"];
+	node1 [label="出たよと"];
+	node2 [label="云う"];
+	node3 [label="うち、"];
+	node4 [label="あちらからも"];
+	node5 [label="出る。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

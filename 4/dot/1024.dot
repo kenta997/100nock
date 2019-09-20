@@ -1,0 +1,9 @@
+digraph graph1024 {
+	node0 [label="せんだって"];
+	node1 [label="トチメンボーを"];
+	node2 [label="御馳走した"];
+	node3 [label="時にね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,7 @@
+digraph graph8220 {
+	node0 [label="苦沙弥先生"];
+	node1 [label="元来酒は"];
+	node2 [label="飲めないのだよ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

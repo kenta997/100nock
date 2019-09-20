@@ -1,0 +1,15 @@
+digraph graph34 {
+	node0 [label="ニャー、"];
+	node1 [label="ニャーと"];
+	node2 [label="試みに"];
+	node3 [label="やって"];
+	node4 [label="見たが"];
+	node5 [label="誰も"];
+	node6 [label="来ない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

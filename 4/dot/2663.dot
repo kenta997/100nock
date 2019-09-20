@@ -1,0 +1,9 @@
+digraph graph2663 {
+	node0 [label="そもそも"];
+	node1 [label="恋は"];
+	node2 [label="宇宙的の"];
+	node3 [label="活力である。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

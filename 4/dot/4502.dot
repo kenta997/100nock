@@ -1,0 +1,19 @@
+digraph graph4502 {
+	node0 [label="この"];
+	node1 [label="病気を"];
+	node2 [label="癒す"];
+	node3 [label="方法は"];
+	node4 [label="愚考に"];
+	node5 [label="よると"];
+	node6 [label="ただ"];
+	node7 [label="一つ"];
+	node8 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

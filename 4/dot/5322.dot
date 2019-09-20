@@ -1,0 +1,9 @@
+digraph graph5322 {
+	node0 [label="「ちょっと"];
+	node1 [label="ボールが"];
+	node2 [label="這入りましたから、"];
+	node3 [label="取らして下さい」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

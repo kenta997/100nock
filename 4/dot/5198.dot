@@ -1,0 +1,11 @@
+digraph graph5198 {
+	node0 [label="球は"];
+	node1 [label="いくら"];
+	node2 [label="御投げになっても"];
+	node3 [label="差支えは"];
+	node4 [label="ないです。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

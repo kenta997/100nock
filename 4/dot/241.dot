@@ -1,0 +1,11 @@
+digraph graph241 {
+	node0 [label="果然"];
+	node1 [label="彼は"];
+	node2 [label="墻壁の"];
+	node3 [label="欠所に"];
+	node4 [label="吶喊して来た。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

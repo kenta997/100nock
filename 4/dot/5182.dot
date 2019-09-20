@@ -1,0 +1,9 @@
+digraph graph5182 {
+	node0 [label="「さよう"];
+	node1 [label="みんな"];
+	node2 [label="学校の"];
+	node3 [label="生徒であります。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,5 @@
+digraph graph7706 {
+	node0 [label="「船の"];
+	node1 [label="中？"];
+	node0 -> node1;
+}

@@ -1,0 +1,37 @@
+digraph graph2141 {
+	node0 [label="「そんな"];
+	node1 [label="馬鹿者は"];
+	node2 [label="陰から、"];
+	node3 [label="からかってさえいれば"];
+	node4 [label="すむような"];
+	node5 [label="ものの、"];
+	node6 [label="少々"];
+	node7 [label="それでも"];
+	node8 [label="困る"];
+	node9 [label="事が"];
+	node10 [label="あるじゃて……」と"];
+	node11 [label="鮪の"];
+	node12 [label="刺身を"];
+	node13 [label="食う"];
+	node14 [label="時のごとく"];
+	node15 [label="禿頭を"];
+	node16 [label="ぴちゃぴちゃ"];
+	node17 [label="叩く。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

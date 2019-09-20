@@ -1,0 +1,9 @@
+digraph graph5865 {
+	node0 [label="「考えていたって"];
+	node1 [label="通れくらいは"];
+	node2 [label="云"];
+	node3 [label="えるだろう」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

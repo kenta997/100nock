@@ -1,0 +1,37 @@
+digraph graph910 {
+	node0 [label="然し"];
+	node1 [label="御存じの如く"];
+	node2 [label="小生は"];
+	node3 [label="一度"];
+	node4 [label="思い立ち"];
+	node5 [label="候事は"];
+	node6 [label="成功するまでは"];
+	node7 [label="決して"];
+	node8 [label="中絶仕らざる"];
+	node9 [label="性質に"];
+	node10 [label="候えば"];
+	node11 [label="嘔吐方を"];
+	node12 [label="再興致し"];
+	node13 [label="候も"];
+	node14 [label="遠からぬ"];
+	node15 [label="うちと"];
+	node16 [label="信じ居り"];
+	node17 [label="候次第。"];
+	node0 -> node17;
+	node1 -> node17;
+	node2 -> node17;
+	node3 -> node4;
+	node4 -> node17;
+	node5 -> node17;
+	node6 -> node17;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node17;
+	node11 -> node16;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

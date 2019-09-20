@@ -1,0 +1,15 @@
+digraph graph57 {
+	node0 [label="その"];
+	node1 [label="時に"];
+	node2 [label="おさんと"];
+	node3 [label="云う"];
+	node4 [label="者は"];
+	node5 [label="つくづく"];
+	node6 [label="いやになった。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

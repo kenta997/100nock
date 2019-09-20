@@ -1,0 +1,9 @@
+digraph graph3245 {
+	node0 [label="どうしても"];
+	node1 [label="猫中の"];
+	node2 [label="東郷大将としか"];
+	node3 [label="思われない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

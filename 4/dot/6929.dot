@@ -1,0 +1,7 @@
+digraph graph6929 {
+	node0 [label="「そら"];
+	node1 [label="多々良三平さんを"];
+	node2 [label="知ってるでしょう」"];
+	node0 -> node2;
+	node1 -> node2;
+}

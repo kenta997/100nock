@@ -1,0 +1,7 @@
+digraph graph8274 {
+	node0 [label="面白い"];
+	node1 [label="話が"];
+	node2 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+}

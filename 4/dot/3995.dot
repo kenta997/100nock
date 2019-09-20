@@ -1,0 +1,11 @@
+digraph graph3995 {
+	node0 [label="御免"];
+	node1 [label="蒙って"];
+	node2 [label="たちまち"];
+	node3 [label="前面へ"];
+	node4 [label="馳け抜ける。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

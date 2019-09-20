@@ -1,0 +1,15 @@
+digraph graph733 {
+	node0 [label="今に"];
+	node1 [label="帰って来たら、"];
+	node2 [label="どう"];
+	node3 [label="するか"];
+	node4 [label="見て"];
+	node5 [label="いやがれ」と"];
+	node6 [label="怒鳴る。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

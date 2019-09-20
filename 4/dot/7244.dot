@@ -1,0 +1,15 @@
+digraph graph7244 {
+	node0 [label="さあ"];
+	node1 [label="話したまえ」と"];
+	node2 [label="云うと"];
+	node3 [label="武右衛門君下を"];
+	node4 [label="向いたぎり"];
+	node5 [label="何にも"];
+	node6 [label="言わない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

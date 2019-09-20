@@ -1,0 +1,25 @@
+digraph graph7752 {
+	node0 [label="人間の"];
+	node1 [label="古物でも"];
+	node2 [label="金田某のごとき"];
+	node3 [label="ものは"];
+	node4 [label="今だに"];
+	node5 [label="流行している"];
+	node6 [label="くらいだから、"];
+	node7 [label="ヴァイオリンに"];
+	node8 [label="至っては"];
+	node9 [label="古い"];
+	node10 [label="ほどが"];
+	node11 [label="いいのさ。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

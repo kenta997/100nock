@@ -1,0 +1,11 @@
+digraph graph7878 {
+	node0 [label="僕の"];
+	node1 [label="妻は"];
+	node2 [label="元来"];
+	node3 [label="僕を"];
+	node4 [label="愛しているのだから」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

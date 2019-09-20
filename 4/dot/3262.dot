@@ -1,0 +1,19 @@
+digraph graph3262 {
+	node0 [label="さればと"];
+	node1 [label="云って"];
+	node2 [label="車屋の"];
+	node3 [label="黒ごとき"];
+	node4 [label="ものを"];
+	node5 [label="助勢に"];
+	node6 [label="頼んでくるのも"];
+	node7 [label="吾輩の"];
+	node8 [label="威厳に関する。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

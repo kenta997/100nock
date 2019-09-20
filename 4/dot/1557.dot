@@ -1,0 +1,9 @@
+digraph graph1557 {
+	node0 [label="そら"];
+	node1 [label="二口三口べらべら"];
+	node2 [label="やって"];
+	node3 [label="見たとさ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

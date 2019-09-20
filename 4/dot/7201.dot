@@ -1,0 +1,5 @@
+digraph graph7201 {
+	node0 [label="たちの"];
+	node1 [label="悪るい毬栗坊主だ。"];
+	node0 -> node1;
+}

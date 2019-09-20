@@ -1,0 +1,11 @@
+digraph graph7264 {
+	node0 [label="「実は"];
+	node1 [label="その……"];
+	node2 [label="困った"];
+	node3 [label="事に"];
+	node4 [label="なっちまって……」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,13 @@
+digraph graph3288 {
+	node0 [label="吾輩は"];
+	node1 [label="大戦の"];
+	node2 [label="前に"];
+	node3 [label="一と"];
+	node4 [label="休養を"];
+	node5 [label="要する。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

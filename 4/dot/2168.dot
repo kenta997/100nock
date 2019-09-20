@@ -1,0 +1,35 @@
+digraph graph2168 {
+	node0 [label="なにそりゃ"];
+	node1 [label="何も"];
+	node2 [label="水島に"];
+	node3 [label="限る"];
+	node4 [label="訳では"];
+	node5 [label="無論"];
+	node6 [label="ないのだから"];
+	node7 [label="苦沙弥が"];
+	node8 [label="何と"];
+	node9 [label="云って"];
+	node10 [label="邪魔を"];
+	node11 [label="しようと、"];
+	node12 [label="わしの"];
+	node13 [label="方は"];
+	node14 [label="別に"];
+	node15 [label="差支えも"];
+	node16 [label="せんが……」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node11;
+	node11 -> node16;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+}

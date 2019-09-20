@@ -1,0 +1,17 @@
+digraph graph747 {
+	node0 [label="「ちょいと"];
+	node1 [label="西川さん、"];
+	node2 [label="おい"];
+	node3 [label="西川さんてば、"];
+	node4 [label="用が"];
+	node5 [label="あるんだよ"];
+	node6 [label="この"];
+	node7 [label="人あ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

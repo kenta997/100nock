@@ -1,0 +1,11 @@
+digraph graph5289 {
+	node0 [label="早々"];
+	node1 [label="鈴木君を"];
+	node2 [label="すり抜けて"];
+	node3 [label="御先へ"];
+	node4 [label="帰宅する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,9 @@
+digraph graph3151 {
+	node0 [label="「せんだって"];
+	node1 [label="或る"];
+	node2 [label="人から"];
+	node3 [label="頼まれました。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

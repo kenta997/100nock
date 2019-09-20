@@ -1,0 +1,7 @@
+digraph graph6013 {
+	node0 [label="「ハハハハそう"];
+	node1 [label="なっちゃあ"];
+	node2 [label="敵わない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

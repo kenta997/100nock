@@ -1,0 +1,19 @@
+digraph graph5923 {
+	node0 [label="袖が"];
+	node1 [label="長過ぎて、"];
+	node2 [label="襟が"];
+	node3 [label="おっ開いて、"];
+	node4 [label="背中へ"];
+	node5 [label="池が"];
+	node6 [label="出来て、"];
+	node7 [label="腋の下が"];
+	node8 [label="釣るし上がっている。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

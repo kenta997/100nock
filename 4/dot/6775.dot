@@ -1,0 +1,11 @@
+digraph graph6775 {
+	node0 [label="「ちっと"];
+	node1 [label="鈴木さんにでも"];
+	node2 [label="頼んで"];
+	node3 [label="意見でもして"];
+	node4 [label="貰うといいんですよ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

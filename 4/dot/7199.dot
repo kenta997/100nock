@@ -1,0 +1,29 @@
+digraph graph7199 {
+	node0 [label="この"];
+	node1 [label="くらい"];
+	node2 [label="遠慮するなら"];
+	node3 [label="多人数"];
+	node4 [label="集まった"];
+	node5 [label="時"];
+	node6 [label="もう少し"];
+	node7 [label="遠慮すればいいのに、"];
+	node8 [label="学校で"];
+	node9 [label="もう少し"];
+	node10 [label="遠慮すればいいのに、"];
+	node11 [label="下宿屋で"];
+	node12 [label="もう少し"];
+	node13 [label="遠慮すればいいのに。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

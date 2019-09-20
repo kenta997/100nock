@@ -1,0 +1,7 @@
+digraph graph7101 {
+	node0 [label="保険へ"];
+	node1 [label="這入ってもいない"];
+	node2 [label="癖に」"];
+	node0 -> node1;
+	node1 -> node2;
+}

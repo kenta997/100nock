@@ -1,0 +1,33 @@
+digraph graph8546 {
+	node0 [label="「ベーコンの"];
+	node1 [label="言葉に"];
+	node2 [label="自然の"];
+	node3 [label="力に"];
+	node4 [label="従って始めて"];
+	node5 [label="自然に"];
+	node6 [label="勝つと"];
+	node7 [label="あるが、"];
+	node8 [label="今の"];
+	node9 [label="喧嘩は"];
+	node10 [label="正に"];
+	node11 [label="ベーコンの"];
+	node12 [label="格言通りに"];
+	node13 [label="出来"];
+	node14 [label="上ってるから"];
+	node15 [label="不思議だ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node15;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

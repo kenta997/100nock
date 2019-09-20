@@ -1,0 +1,9 @@
+digraph graph8241 {
+	node0 [label="つまり"];
+	node1 [label="呑み"];
+	node2 [label="びら"];
+	node3 [label="かすんだね……」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

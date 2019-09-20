@@ -1,0 +1,13 @@
+digraph graph265 {
+	node0 [label="御馳走を"];
+	node1 [label="食うよりも"];
+	node2 [label="寝ていた"];
+	node3 [label="方が"];
+	node4 [label="気楽で"];
+	node5 [label="いい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

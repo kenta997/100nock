@@ -1,0 +1,9 @@
+digraph graph6504 {
+	node0 [label="「起きると"];
+	node1 [label="おっしゃって"];
+	node2 [label="もお"];
+	node3 [label="起きなさらんじゃありませんか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

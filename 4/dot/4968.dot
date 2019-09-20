@@ -1,0 +1,37 @@
+digraph graph4968 {
+	node0 [label="同時に"];
+	node1 [label="主人がぬ"];
+	node2 [label="すっ"];
+	node3 [label="とうと"];
+	node4 [label="怒鳴る"];
+	node5 [label="声が"];
+	node6 [label="聞える、"];
+	node7 [label="見ると"];
+	node8 [label="制帽を"];
+	node9 [label="つけた"];
+	node10 [label="十八九に"];
+	node11 [label="なる"];
+	node12 [label="倔強な"];
+	node13 [label="奴が"];
+	node14 [label="一人、"];
+	node15 [label="四ツ目垣を"];
+	node16 [label="向うへ"];
+	node17 [label="乗り越えつつある。"];
+	node0 -> node17;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node17;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

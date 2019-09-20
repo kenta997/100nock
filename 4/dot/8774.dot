@@ -1,0 +1,21 @@
+digraph graph8774 {
+	node0 [label="まことに"];
+	node1 [label="結構な"];
+	node2 [label="事だが、"];
+	node3 [label="賢妻を"];
+	node4 [label="迎えれば"];
+	node5 [label="迎える"];
+	node6 [label="ほど"];
+	node7 [label="双方共苦しみの"];
+	node8 [label="程度が"];
+	node9 [label="増してくる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

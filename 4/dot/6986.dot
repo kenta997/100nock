@@ -1,0 +1,31 @@
+digraph graph6986 {
+	node0 [label="「名前は"];
+	node1 [label="ちゃんと"];
+	node2 [label="書いてあるんだけれども"];
+	node3 [label="聞いた"];
+	node4 [label="事も"];
+	node5 [label="ない"];
+	node6 [label="人だって、"];
+	node7 [label="そう"];
+	node8 [label="して"];
+	node9 [label="それが"];
+	node10 [label="長い"];
+	node11 [label="長い"];
+	node12 [label="一間ばかりも"];
+	node13 [label="ある"];
+	node14 [label="手紙でね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node14;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

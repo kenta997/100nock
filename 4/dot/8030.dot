@@ -1,0 +1,35 @@
+digraph graph8030 {
+	node0 [label="……"];
+	node1 [label="灯影に"];
+	node2 [label="すかして"];
+	node3 [label="見ると"];
+	node4 [label="例の"];
+	node5 [label="ヴァイオリンが、"];
+	node6 [label="ほのかに"];
+	node7 [label="秋の"];
+	node8 [label="灯を"];
+	node9 [label="反射して、"];
+	node10 [label="くり"];
+	node11 [label="込んだ"];
+	node12 [label="胴の"];
+	node13 [label="丸みに"];
+	node14 [label="冷たい"];
+	node15 [label="光を"];
+	node16 [label="帯びています。"];
+	node0 -> node16;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node16;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

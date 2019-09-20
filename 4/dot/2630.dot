@@ -1,0 +1,17 @@
+digraph graph2630 {
+	node0 [label="ブルヌチェルが"];
+	node1 [label="やはり"];
+	node2 [label="巴里の"];
+	node3 [label="大学で"];
+	node4 [label="ゾラの"];
+	node5 [label="小説を"];
+	node6 [label="攻撃した"];
+	node7 [label="時は……」"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

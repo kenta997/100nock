@@ -1,0 +1,7 @@
+digraph graph2870 {
+	node0 [label="考えれば"];
+	node1 [label="分ると"];
+	node2 [label="思っているらしい。"];
+	node0 -> node1;
+	node1 -> node2;
+}

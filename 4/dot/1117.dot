@@ -1,0 +1,13 @@
+digraph graph1117 {
+	node0 [label="「いや"];
+	node1 [label="それだけは"];
+	node2 [label="当人の"];
+	node3 [label="迷惑になるかも"];
+	node4 [label="知れませんから"];
+	node5 [label="廃しましょう」"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

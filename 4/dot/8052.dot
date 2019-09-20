@@ -1,0 +1,9 @@
+digraph graph8052 {
+	node0 [label="どんな"];
+	node1 [label="目に"];
+	node2 [label="逢うか"];
+	node3 [label="わかりません。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

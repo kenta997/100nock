@@ -1,0 +1,13 @@
+digraph graph277 {
+	node0 [label="しかる"];
+	node1 [label="にも関せず、"];
+	node2 [label="自分だけは"];
+	node3 [label="通人だと"];
+	node4 [label="思って"];
+	node5 [label="済している。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,23 @@
+digraph graph237 {
+	node0 [label="黒は"];
+	node1 [label="彼の"];
+	node2 [label="鼻の"];
+	node3 [label="先から"];
+	node4 [label="ぴんと突"];
+	node5 [label="張っている"];
+	node6 [label="長い髭を"];
+	node7 [label="びりびりと"];
+	node8 [label="震わせて"];
+	node9 [label="非常に"];
+	node10 [label="笑った。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

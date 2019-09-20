@@ -1,0 +1,27 @@
+digraph graph918 {
+	node0 [label="障子の"];
+	node1 [label="中で"];
+	node2 [label="例の"];
+	node3 [label="御師匠さんと"];
+	node4 [label="下女が"];
+	node5 [label="話しを"];
+	node6 [label="しているのを"];
+	node7 [label="手水鉢の"];
+	node8 [label="葉蘭の"];
+	node9 [label="影に"];
+	node10 [label="隠れて"];
+	node11 [label="聞いていると"];
+	node12 [label="こうであった。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

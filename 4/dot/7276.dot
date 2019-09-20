@@ -1,0 +1,15 @@
+digraph graph7276 {
+	node0 [label="「浜田が"];
+	node1 [label="君の"];
+	node2 [label="名前を"];
+	node3 [label="借りて"];
+	node4 [label="何を"];
+	node5 [label="し"];
+	node6 [label="たんだい」"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

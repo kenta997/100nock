@@ -1,0 +1,23 @@
+digraph graph1297 {
+	node0 [label="「しかし"];
+	node1 [label="猫でも"];
+	node2 [label="坊さんの"];
+	node3 [label="御経を"];
+	node4 [label="読んでもらったり、"];
+	node5 [label="戒名を"];
+	node6 [label="こしらえてもらったのだから"];
+	node7 [label="心残りは"];
+	node8 [label="あるまい」"];
+	node9 [label="「そうでございますとも、"];
+	node10 [label="全く果報者でございますよ。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

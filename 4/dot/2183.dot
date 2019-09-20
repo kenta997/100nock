@@ -1,0 +1,11 @@
+digraph graph2183 {
+	node0 [label="なあに、"];
+	node1 [label="大体"];
+	node2 [label="分りましょう"];
+	node3 [label="標札を"];
+	node4 [label="見れば」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

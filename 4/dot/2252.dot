@@ -1,0 +1,7 @@
+digraph graph2252 {
+	node0 [label="そりゃ"];
+	node1 [label="病気に"];
+	node2 [label="違いない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

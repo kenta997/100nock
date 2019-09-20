@@ -1,0 +1,13 @@
+digraph graph5274 {
+	node0 [label="容子は"];
+	node1 [label="帰りがけに"];
+	node2 [label="御報知を"];
+	node3 [label="致す"];
+	node4 [label="事に"];
+	node5 [label="して。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

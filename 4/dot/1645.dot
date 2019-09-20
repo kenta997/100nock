@@ -1,0 +1,9 @@
+digraph graph1645 {
+	node0 [label="いくら"];
+	node1 [label="隠しても、"];
+	node2 [label="どこからか"];
+	node3 [label="露見するからな。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

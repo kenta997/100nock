@@ -1,0 +1,9 @@
+digraph graph2594 {
+	node0 [label="しかし"];
+	node1 [label="智識その物に"];
+	node2 [label="至っては"];
+	node3 [label="どうである。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

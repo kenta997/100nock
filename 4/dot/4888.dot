@@ -1,0 +1,15 @@
+digraph graph4888 {
+	node0 [label="ところが"];
+	node1 [label="この"];
+	node2 [label="臨時の"];
+	node3 [label="気違を"];
+	node4 [label="製造する"];
+	node5 [label="事が"];
+	node6 [label="困難なのである。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

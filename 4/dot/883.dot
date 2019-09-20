@@ -1,0 +1,33 @@
+digraph graph883 {
+	node0 [label="「此孔雀の"];
+	node1 [label="舌の"];
+	node2 [label="料理は"];
+	node3 [label="往昔羅馬全盛の"];
+	node4 [label="砌り、"];
+	node5 [label="一時"];
+	node6 [label="非常に"];
+	node7 [label="流行致し"];
+	node8 [label="候ものにて、"];
+	node9 [label="豪奢風流の"];
+	node10 [label="極度と"];
+	node11 [label="平生より"];
+	node12 [label="ひそかに"];
+	node13 [label="食指を"];
+	node14 [label="動かし"];
+	node15 [label="居候次第御諒察可被下候。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node15;
+	node3 -> node4;
+	node4 -> node15;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+}

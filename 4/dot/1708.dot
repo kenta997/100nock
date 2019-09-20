@@ -1,0 +1,23 @@
+digraph graph1708 {
+	node0 [label="今度は"];
+	node1 [label="活版で"];
+	node2 [label="帆懸"];
+	node3 [label="舟が"];
+	node4 [label="印刷してあって、"];
+	node5 [label="例の"];
+	node6 [label="ごとく"];
+	node7 [label="その"];
+	node8 [label="下に"];
+	node9 [label="何か"];
+	node10 [label="書き散らしてある。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

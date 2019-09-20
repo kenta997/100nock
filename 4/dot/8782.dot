@@ -1,0 +1,7 @@
+digraph graph8782 {
+	node0 [label="天下の"];
+	node1 [label="夫婦は"];
+	node2 [label="みんな分れる。"];
+	node0 -> node1;
+	node1 -> node2;
+}

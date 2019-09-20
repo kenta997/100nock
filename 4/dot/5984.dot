@@ -1,0 +1,15 @@
+digraph graph5984 {
+	node0 [label="「御前は"];
+	node1 [label="沢菴禅師の"];
+	node2 [label="不動智神妙録という"];
+	node3 [label="ものを"];
+	node4 [label="読んだ"];
+	node5 [label="事が"];
+	node6 [label="あるかい」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,11 @@
+digraph graph8985 {
+	node0 [label="「ええ"];
+	node1 [label="何か"];
+	node2 [label="作りましょう、"];
+	node3 [label="いつ頃"];
+	node4 [label="御入用ですか」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

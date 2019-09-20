@@ -1,0 +1,15 @@
+digraph graph8666 {
+	node0 [label="「橋の"];
+	node1 [label="上を"];
+	node2 [label="見ると"];
+	node3 [label="男が"];
+	node4 [label="大勢"];
+	node5 [label="立って"];
+	node6 [label="眺めている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

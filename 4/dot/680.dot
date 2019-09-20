@@ -1,0 +1,9 @@
+digraph graph680 {
+	node0 [label="　　君を"];
+	node1 [label="待つ"];
+	node2 [label="間の"];
+	node3 [label="姫小松……………"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

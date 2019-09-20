@@ -1,0 +1,7 @@
+digraph graph8908 {
+	node0 [label="彼また"];
+	node1 [label="曰く女子とは"];
+	node2 [label="何ぞ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

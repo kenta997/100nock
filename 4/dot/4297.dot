@@ -1,0 +1,27 @@
+digraph graph4297 {
+	node0 [label="長い"];
+	node1 [label="ものには"];
+	node2 [label="捲かれろ、"];
+	node3 [label="強い"];
+	node4 [label="ものには"];
+	node5 [label="折れろ、"];
+	node6 [label="重い"];
+	node7 [label="ものには"];
+	node8 [label="圧されろと、"];
+	node9 [label="そうれろ"];
+	node10 [label="尽しでは"];
+	node11 [label="気が"];
+	node12 [label="利かんではないか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

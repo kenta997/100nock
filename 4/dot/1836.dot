@@ -1,0 +1,23 @@
+digraph graph1836 {
+	node0 [label="　猫の"];
+	node1 [label="足は"];
+	node2 [label="あれども無き"];
+	node3 [label="がごと"];
+	node4 [label="し、"];
+	node5 [label="どこを"];
+	node6 [label="歩いても"];
+	node7 [label="不器用な"];
+	node8 [label="音の"];
+	node9 [label="した試しが"];
+	node10 [label="ない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

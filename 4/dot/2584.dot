@@ -1,0 +1,29 @@
+digraph graph2584 {
+	node0 [label="「しかるに"];
+	node1 [label="つい"];
+	node2 [label="両三日前に"];
+	node3 [label="至って、"];
+	node4 [label="美学研究の"];
+	node5 [label="際"];
+	node6 [label="ふと"];
+	node7 [label="その"];
+	node8 [label="理由を"];
+	node9 [label="発見したので"];
+	node10 [label="多年の"];
+	node11 [label="疑団は"];
+	node12 [label="一度に"];
+	node13 [label="氷解。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

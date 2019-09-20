@@ -1,0 +1,15 @@
+digraph graph3328 {
+	node0 [label="満身の"];
+	node1 [label="力を"];
+	node2 [label="毛穴に"];
+	node3 [label="込めて"];
+	node4 [label="この"];
+	node5 [label="怪物を"];
+	node6 [label="振り落とそうとする。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

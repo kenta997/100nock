@@ -1,0 +1,7 @@
+digraph graph8058 {
+	node0 [label="買うなら"];
+	node1 [label="早く"];
+	node2 [label="買うさ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

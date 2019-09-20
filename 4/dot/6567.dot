@@ -1,0 +1,23 @@
+digraph graph6567 {
+	node0 [label="聞く"];
+	node1 [label="ところに"];
+	node2 [label="よると"];
+	node3 [label="彼等は"];
+	node4 [label="羅織虚構を"];
+	node5 [label="もって"];
+	node6 [label="良民を"];
+	node7 [label="罪に"];
+	node8 [label="陥れる"];
+	node9 [label="事さえ"];
+	node10 [label="あるそうだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,13 @@
+digraph graph6705 {
+	node0 [label="「ええ"];
+	node1 [label="今日"];
+	node2 [label="はね、"];
+	node3 [label="妙な"];
+	node4 [label="所へ"];
+	node5 [label="行ったのよ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

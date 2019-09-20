@@ -1,0 +1,17 @@
+digraph graph2743 {
+	node0 [label="やっとの"];
+	node1 [label="思いで"];
+	node2 [label="渋りながら"];
+	node3 [label="低い"];
+	node4 [label="奴を"];
+	node5 [label="少々"];
+	node6 [label="出すと"];
+	node7 [label="驚いた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+}

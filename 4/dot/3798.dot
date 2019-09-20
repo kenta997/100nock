@@ -1,0 +1,27 @@
+digraph graph3798 {
+	node0 [label="虚子先生が"];
+	node1 [label="女に"];
+	node2 [label="惚れる"];
+	node3 [label="烏かなと"];
+	node4 [label="烏を"];
+	node5 [label="捕えて"];
+	node6 [label="女に"];
+	node7 [label="惚れさした"];
+	node8 [label="ところが"];
+	node9 [label="大に"];
+	node10 [label="積極的だろうと"];
+	node11 [label="思います」"];
+	node12 [label="「こりゃ新説だね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

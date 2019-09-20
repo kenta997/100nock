@@ -1,0 +1,21 @@
+digraph graph7513 {
+	node0 [label="しかし"];
+	node1 [label="今の"];
+	node2 [label="様子では、"];
+	node3 [label="何だか"];
+	node4 [label="非常に"];
+	node5 [label="元気が"];
+	node6 [label="なくって、"];
+	node7 [label="先生を"];
+	node8 [label="困らせるようには"];
+	node9 [label="見えないじゃありませんか」"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

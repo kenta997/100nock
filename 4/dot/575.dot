@@ -1,0 +1,21 @@
+digraph graph575 {
+	node0 [label="嗅いで"];
+	node1 [label="見ると"];
+	node2 [label="釜の"];
+	node3 [label="底の"];
+	node4 [label="飯を"];
+	node5 [label="御櫃へ"];
+	node6 [label="移す"];
+	node7 [label="時のような"];
+	node8 [label="香が"];
+	node9 [label="する。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,29 @@
+digraph graph4440 {
+	node0 [label="その"];
+	node1 [label="後ろに"];
+	node2 [label="二十五六の"];
+	node3 [label="陰気な"];
+	node4 [label="顔を"];
+	node5 [label="した"];
+	node6 [label="男が、"];
+	node7 [label="ぼんやりして"];
+	node8 [label="股の"];
+	node9 [label="所を"];
+	node10 [label="白い"];
+	node11 [label="湯で"];
+	node12 [label="しきりに"];
+	node13 [label="たでている。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

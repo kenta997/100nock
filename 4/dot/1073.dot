@@ -1,0 +1,17 @@
+digraph graph1073 {
+	node0 [label="見ると、"];
+	node1 [label="うまい"];
+	node2 [label="具合に"];
+	node3 [label="枝が"];
+	node4 [label="往来の"];
+	node5 [label="方へ"];
+	node6 [label="横に"];
+	node7 [label="出ている。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

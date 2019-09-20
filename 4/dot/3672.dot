@@ -1,0 +1,15 @@
+digraph graph3672 {
+	node0 [label="やっぱり"];
+	node1 [label="奥さんのように"];
+	node2 [label="あなたは"];
+	node3 [label="重いじゃありませんかとか"];
+	node4 [label="何とか"];
+	node5 [label="云われて"];
+	node6 [label="見たいね。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

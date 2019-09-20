@@ -1,0 +1,15 @@
+digraph graph6999 {
+	node0 [label="「寒月さんは"];
+	node1 [label="本当に"];
+	node2 [label="あの"];
+	node3 [label="方を"];
+	node4 [label="御貰に"];
+	node5 [label="なる"];
+	node6 [label="気なんでしょうかね。"];
+	node0 -> node6;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

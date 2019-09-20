@@ -1,0 +1,7 @@
+digraph graph8945 {
+	node0 [label="「浩然の気を"];
+	node1 [label="養うたい、"];
+	node2 [label="あなた。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,7 @@
+digraph graph6344 {
+	node0 [label="これは"];
+	node1 [label="方法が"];
+	node2 [label="わるかった。"];
+	node0 -> node2;
+	node1 -> node2;
+}

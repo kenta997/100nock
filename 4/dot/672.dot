@@ -1,0 +1,7 @@
+digraph graph672 {
+	node0 [label="猫だって"];
+	node1 [label="笑わないとは"];
+	node2 [label="限らない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

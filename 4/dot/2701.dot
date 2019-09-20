@@ -1,0 +1,15 @@
+digraph graph2701 {
+	node0 [label="なるほど"];
+	node1 [label="寝ていて"];
+	node2 [label="する"];
+	node3 [label="芸だから"];
+	node4 [label="覚は"];
+	node5 [label="ないに"];
+	node6 [label="違ない。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

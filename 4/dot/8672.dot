@@ -1,0 +1,13 @@
+digraph graph8672 {
+	node0 [label="眼前の"];
+	node1 [label="習慣に"];
+	node2 [label="迷わされの"];
+	node3 [label="御話しを"];
+	node4 [label="僕も"];
+	node5 [label="一つやろうか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,7 @@
+digraph graph3444 {
+	node0 [label="「時に"];
+	node1 [label="御主人は"];
+	node2 [label="どうしました。"];
+	node0 -> node2;
+	node1 -> node2;
+}

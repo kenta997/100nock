@@ -1,0 +1,23 @@
+digraph graph888 {
+	node0 [label="有名なる"];
+	node1 [label="レンブラントが"];
+	node2 [label="画き"];
+	node3 [label="候饗宴の"];
+	node4 [label="図にも"];
+	node5 [label="孔雀が"];
+	node6 [label="尾を"];
+	node7 [label="広げたる"];
+	node8 [label="儘卓上に"];
+	node9 [label="横わり"];
+	node10 [label="居り候……」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

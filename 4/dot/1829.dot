@@ -1,0 +1,9 @@
+digraph graph1829 {
+	node0 [label="「金田さんでも"];
+	node1 [label="恐れねえかな、"];
+	node2 [label="厄介な"];
+	node3 [label="唐変木だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

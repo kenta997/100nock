@@ -1,0 +1,13 @@
+digraph graph2734 {
+	node0 [label="——"];
+	node1 [label="足音は"];
+	node2 [label="襖の"];
+	node3 [label="音と共に"];
+	node4 [label="椽側へ"];
+	node5 [label="出た。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

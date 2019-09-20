@@ -1,0 +1,35 @@
+digraph graph1468 {
+	node0 [label="そこで"];
+	node1 [label="君の"];
+	node2 [label="家へ"];
+	node3 [label="呼ぶ"];
+	node4 [label="事に"];
+	node5 [label="しておいたのさ——なあに君は"];
+	node6 [label="ひま人だから"];
+	node7 [label="ちょうど"];
+	node8 [label="いいやね——"];
+	node9 [label="差支えなんぞ"];
+	node10 [label="ある"];
+	node11 [label="男じゃない、"];
+	node12 [label="聞くが"];
+	node13 [label="いいさ」と"];
+	node14 [label="迷亭は"];
+	node15 [label="独りで"];
+	node16 [label="呑み込んでいる。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+}

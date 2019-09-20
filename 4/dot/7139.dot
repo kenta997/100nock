@@ -1,0 +1,9 @@
+digraph graph7139 {
+	node0 [label="御前の"];
+	node1 [label="学校じゃ"];
+	node2 [label="論理学を"];
+	node3 [label="教えないのか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

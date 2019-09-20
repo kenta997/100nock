@@ -1,0 +1,35 @@
+digraph graph5780 {
+	node0 [label="若し"];
+	node1 [label="我を以て"];
+	node2 [label="天地を"];
+	node3 [label="律すれば"];
+	node4 [label="一口に"];
+	node5 [label="して"];
+	node6 [label="西江の"];
+	node7 [label="水を"];
+	node8 [label="吸いつくすべく、"];
+	node9 [label="若し"];
+	node10 [label="天地を以て"];
+	node11 [label="我を"];
+	node12 [label="律すれば"];
+	node13 [label="我は"];
+	node14 [label="則ち"];
+	node15 [label="陌上の"];
+	node16 [label="塵のみ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

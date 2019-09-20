@@ -1,0 +1,23 @@
+digraph graph2339 {
+	node0 [label="金さえ"];
+	node1 [label="取れれば"];
+	node2 [label="何でもする、"];
+	node3 [label="昔で"];
+	node4 [label="云えば"];
+	node5 [label="素町人だからな」と"];
+	node6 [label="実業家を"];
+	node7 [label="前に"];
+	node8 [label="控えて"];
+	node9 [label="太平楽を"];
+	node10 [label="並べる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

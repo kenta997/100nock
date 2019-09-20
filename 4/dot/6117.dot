@@ -1,0 +1,15 @@
+digraph graph6117 {
+	node0 [label="向で"];
+	node1 [label="落ちつき払って"];
+	node2 [label="述べたてている"];
+	node3 [label="ところを、"];
+	node4 [label="こっちで"];
+	node5 [label="いろいろ"];
+	node6 [label="反対するんだね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

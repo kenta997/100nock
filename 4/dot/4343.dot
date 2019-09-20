@@ -1,0 +1,15 @@
+digraph graph4343 {
+	node0 [label="湯槽だか"];
+	node1 [label="何だか"];
+	node2 [label="分らないが、"];
+	node3 [label="大方"];
+	node4 [label="湯槽という"];
+	node5 [label="ものだろうと"];
+	node6 [label="思うばかりである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

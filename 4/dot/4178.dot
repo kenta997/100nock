@@ -1,0 +1,27 @@
+digraph graph4178 {
+	node0 [label="のみならず"];
+	node1 [label="まだ"];
+	node2 [label="秋の"];
+	node3 [label="取り付きで"];
+	node4 [label="運動中に"];
+	node5 [label="照り付けられ"];
+	node6 [label="た毛ごろもは、"];
+	node7 [label="西日を"];
+	node8 [label="思う存分"];
+	node9 [label="吸収したと"];
+	node10 [label="見えて、"];
+	node11 [label="ほてって"];
+	node12 [label="たまらない。"];
+	node0 -> node12;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node12;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

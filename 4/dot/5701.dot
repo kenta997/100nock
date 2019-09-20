@@ -1,0 +1,25 @@
+digraph graph5701 {
+	node0 [label="人の"];
+	node1 [label="お蔭で"];
+	node2 [label="自己が"];
+	node3 [label="分るくらいなら、"];
+	node4 [label="自分の"];
+	node5 [label="代理に"];
+	node6 [label="牛肉を"];
+	node7 [label="喰わして、"];
+	node8 [label="堅いか"];
+	node9 [label="柔かいか"];
+	node10 [label="判断の"];
+	node11 [label="出来る訳だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

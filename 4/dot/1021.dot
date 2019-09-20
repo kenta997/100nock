@@ -1,0 +1,11 @@
+digraph graph1021 {
+	node0 [label="「うむそれそれ」と"];
+	node1 [label="迷亭先生が"];
+	node2 [label="煙管で"];
+	node3 [label="膝頭を"];
+	node4 [label="叩く。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

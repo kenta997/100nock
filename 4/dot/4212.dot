@@ -1,0 +1,23 @@
+digraph graph4212 {
+	node0 [label="何か"];
+	node1 [label="分別は"];
+	node2 [label="あるまいかなと、"];
+	node3 [label="後と"];
+	node4 [label="足を"];
+	node5 [label="折って"];
+	node6 [label="思案したが、"];
+	node7 [label="ふと"];
+	node8 [label="思い出した"];
+	node9 [label="事が"];
+	node10 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

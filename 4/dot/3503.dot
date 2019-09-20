@@ -1,0 +1,11 @@
+digraph graph3503 {
+	node0 [label="「おい"];
+	node1 [label="ちょっと御見せと"];
+	node2 [label="云うのに」"];
+	node3 [label="「まあ"];
+	node4 [label="待っていらっしゃいよ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

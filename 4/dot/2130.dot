@@ -1,0 +1,35 @@
+digraph graph2130 {
+	node0 [label="そりゃ嘘を"];
+	node1 [label="つくのも"];
+	node2 [label="宜"];
+	node3 [label="うござんしょうさ、ね、"];
+	node4 [label="義理が"];
+	node5 [label="悪るいとか、"];
+	node6 [label="ばつを"];
+	node7 [label="合せなくっちゃあならないとか——"];
+	node8 [label="そんな"];
+	node9 [label="時には"];
+	node10 [label="誰しも"];
+	node11 [label="心に"];
+	node12 [label="ない"];
+	node13 [label="事を"];
+	node14 [label="云う"];
+	node15 [label="もんで"];
+	node16 [label="さあ。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node16;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

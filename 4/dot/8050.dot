@@ -1,0 +1,9 @@
+digraph graph8050 {
+	node0 [label="そんなのに"];
+	node1 [label="限って"];
+	node2 [label="柔道は"];
+	node3 [label="強いのですよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

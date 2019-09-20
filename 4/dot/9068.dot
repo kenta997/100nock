@@ -1,0 +1,7 @@
+digraph graph9068 {
+	node0 [label="これは"];
+	node1 [label="残念だが"];
+	node2 [label="仕方がない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

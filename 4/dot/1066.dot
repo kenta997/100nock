@@ -1,0 +1,11 @@
+digraph graph1066 {
+	node0 [label="「首懸の"];
+	node1 [label="松さ」と"];
+	node2 [label="迷亭は"];
+	node3 [label="領を"];
+	node4 [label="縮める。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

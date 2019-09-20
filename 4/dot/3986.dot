@@ -1,0 +1,23 @@
+digraph graph3986 {
+	node0 [label="しかし"];
+	node1 [label="敵が"];
+	node2 [label="おとなしく"];
+	node3 [label="背面に"];
+	node4 [label="前進すると、"];
+	node5 [label="こっちは"];
+	node6 [label="気の毒だから"];
+	node7 [label="庭の"];
+	node8 [label="立木を"];
+	node9 [label="二三度飛鳥のごとく"];
+	node10 [label="廻ってくる。"];
+	node0 -> node10;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

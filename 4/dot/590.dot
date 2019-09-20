@@ -1,0 +1,9 @@
+digraph graph590 {
+	node0 [label="吾輩は"];
+	node1 [label="とうとう"];
+	node2 [label="雑煮を"];
+	node3 [label="食わなければならぬ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

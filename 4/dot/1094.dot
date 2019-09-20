@@ -1,0 +1,13 @@
+digraph graph1094 {
+	node0 [label="「見ると、"];
+	node1 [label="もう"];
+	node2 [label="誰か"];
+	node3 [label="来て"];
+	node4 [label="先へ"];
+	node5 [label="ぶら下がっている。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

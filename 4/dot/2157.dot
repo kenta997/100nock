@@ -1,0 +1,23 @@
+digraph graph2157 {
+	node0 [label="「困りますね、"];
+	node1 [label="ほかの"];
+	node2 [label="事と"];
+	node3 [label="違って、"];
+	node4 [label="こう"];
+	node5 [label="云う"];
+	node6 [label="事には"];
+	node7 [label="他人が"];
+	node8 [label="妄りに"];
+	node9 [label="容喙するべきはずの"];
+	node10 [label="者ではありませんからな。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

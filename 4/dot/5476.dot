@@ -1,0 +1,15 @@
+digraph graph5476 {
+	node0 [label="不平が"];
+	node1 [label="起ったら"];
+	node2 [label="起してしまえば"];
+	node3 [label="当分は"];
+	node4 [label="いい"];
+	node5 [label="心持ちに"];
+	node6 [label="なれる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

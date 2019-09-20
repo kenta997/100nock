@@ -1,0 +1,9 @@
+digraph graph9042 {
+	node0 [label="前祝に"];
+	node1 [label="角の"];
+	node2 [label="酒屋で"];
+	node3 [label="買うて来ました。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

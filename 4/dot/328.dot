@@ -1,0 +1,7 @@
+digraph graph328 {
+	node0 [label="帰ると"];
+	node1 [label="書斎へ"];
+	node2 [label="立て籠る。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,15 @@
+digraph graph1911 {
+	node0 [label="「生意気だねえ、"];
+	node1 [label="小間使の"];
+	node2 [label="癖に」と"];
+	node3 [label="第四の"];
+	node4 [label="剣突を"];
+	node5 [label="別方面から"];
+	node6 [label="食わす。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,5 @@
+digraph graph9209 {
+	node0 [label="ありがたい"];
+	node1 [label="ありがたい。"];
+	node0 -> node1;
+}

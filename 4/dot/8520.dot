@@ -1,0 +1,9 @@
+digraph graph8520 {
+	node0 [label="それだから"];
+	node1 [label="二六時中太平の"];
+	node2 [label="時は"];
+	node3 [label="ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

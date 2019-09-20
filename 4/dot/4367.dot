@@ -1,0 +1,9 @@
+digraph graph4367 {
+	node0 [label="「いやこう"];
+	node1 [label="年を"];
+	node2 [label="とっては"];
+	node3 [label="駄目さね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

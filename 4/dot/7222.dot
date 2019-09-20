@@ -1,0 +1,5 @@
+digraph graph7222 {
+	node0 [label="「甲の"];
+	node1 [label="組かね」"];
+	node0 -> node1;
+}

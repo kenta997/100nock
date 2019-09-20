@@ -1,0 +1,37 @@
+digraph graph1437 {
+	node0 [label="さすがの"];
+	node1 [label="迷亭も"];
+	node2 [label="少々"];
+	node3 [label="窮したと"];
+	node4 [label="見えて、"];
+	node5 [label="袂から"];
+	node6 [label="ハンケチを"];
+	node7 [label="出して"];
+	node8 [label="吾輩を"];
+	node9 [label="じゃらしていたが"];
+	node10 [label="「しかし"];
+	node11 [label="奥さん」と"];
+	node12 [label="急に"];
+	node13 [label="何か"];
+	node14 [label="考えついたように"];
+	node15 [label="大きな"];
+	node16 [label="声を"];
+	node17 [label="出す。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node17;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

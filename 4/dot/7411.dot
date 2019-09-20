@@ -1,0 +1,29 @@
+digraph graph7411 {
+	node0 [label="しからずんば"];
+	node1 [label="いかに"];
+	node2 [label="心配するとも、"];
+	node3 [label="いかに"];
+	node4 [label="後悔するとも、"];
+	node5 [label="いかに"];
+	node6 [label="善に"];
+	node7 [label="移るの"];
+	node8 [label="心が"];
+	node9 [label="切実なりとも、"];
+	node10 [label="とうてい"];
+	node11 [label="金田君のごとき"];
+	node12 [label="成功は"];
+	node13 [label="得られんのである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

@@ -1,0 +1,11 @@
+digraph graph5589 {
+	node0 [label="ただ"];
+	node1 [label="誰も"];
+	node2 [label="保証人の"];
+	node3 [label="いないのが"];
+	node4 [label="残念である。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

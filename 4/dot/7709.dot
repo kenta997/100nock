@@ -1,0 +1,21 @@
+digraph graph7709 {
+	node0 [label="鰹節だけなら、"];
+	node1 [label="いいのですけれども、"];
+	node2 [label="大切な"];
+	node3 [label="ヴァイオリンの"];
+	node4 [label="胴を"];
+	node5 [label="鰹節と"];
+	node6 [label="間違えて"];
+	node7 [label="やはり"];
+	node8 [label="少々"];
+	node9 [label="噛りました」"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,9 @@
+digraph graph5897 {
+	node0 [label="精神修養も"];
+	node1 [label="あまり"];
+	node2 [label="効果が"];
+	node3 [label="ないようである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

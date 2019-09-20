@@ -1,0 +1,15 @@
+digraph graph609 {
+	node0 [label="まず"];
+	node1 [label="右の"];
+	node2 [label="方を"];
+	node3 [label="あげて"];
+	node4 [label="口の"];
+	node5 [label="周囲を"];
+	node6 [label="撫で廻す。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

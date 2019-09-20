@@ -1,0 +1,11 @@
+digraph graph8473 {
+	node0 [label="「物価が"];
+	node1 [label="高い"];
+	node2 [label="せいでしょう」と"];
+	node3 [label="寒月君が"];
+	node4 [label="答える。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph2341 {
+	node0 [label="「誰だそんな"];
+	node1 [label="馬鹿は」"];
+	node0 -> node1;
+}

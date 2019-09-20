@@ -1,0 +1,11 @@
+digraph graph7424 {
+	node0 [label="せんだっては"];
+	node1 [label="無闇に"];
+	node2 [label="あるかせられて、"];
+	node3 [label="足が"];
+	node4 [label="棒のようになった」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

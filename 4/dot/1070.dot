@@ -1,0 +1,27 @@
+digraph graph1070 {
+	node0 [label="土手の"];
+	node1 [label="上に"];
+	node2 [label="松は"];
+	node3 [label="何十本と"];
+	node4 [label="なく"];
+	node5 [label="あるが、"];
+	node6 [label="そら首縊りだと"];
+	node7 [label="来て"];
+	node8 [label="見ると"];
+	node9 [label="必ず"];
+	node10 [label="この"];
+	node11 [label="松へ"];
+	node12 [label="ぶら下がっている。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

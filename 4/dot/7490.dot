@@ -1,0 +1,9 @@
+digraph graph7490 {
+	node0 [label="「そうさね」と"];
+	node1 [label="好い加減な"];
+	node2 [label="挨拶を"];
+	node3 [label="した。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

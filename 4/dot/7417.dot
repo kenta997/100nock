@@ -1,0 +1,7 @@
+digraph graph7417 {
+	node0 [label="「おい、"];
+	node1 [label="御這入り」と"];
+	node2 [label="云ったぎり坐っている。"];
+	node0 -> node1;
+	node1 -> node2;
+}

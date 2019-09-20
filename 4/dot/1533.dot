@@ -1,0 +1,19 @@
+digraph graph1533 {
+	node0 [label="「まだ"];
+	node1 [label="面白い"];
+	node2 [label="事が"];
+	node3 [label="あります"];
+	node4 [label="首を"];
+	node5 [label="縊ると"];
+	node6 [label="背が"];
+	node7 [label="一寸ばかり"];
+	node8 [label="延びるそうです。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,37 @@
+digraph graph3396 {
+	node0 [label="昼寝は"];
+	node1 [label="吾輩に"];
+	node2 [label="劣らぬくらい"];
+	node3 [label="やるし、"];
+	node4 [label="ことに"];
+	node5 [label="暑中休暇後に"];
+	node6 [label="なってからは"];
+	node7 [label="何一つ"];
+	node8 [label="人間らしい"];
+	node9 [label="仕事を"];
+	node10 [label="せんので、"];
+	node11 [label="いくら"];
+	node12 [label="観察を"];
+	node13 [label="しても"];
+	node14 [label="一向"];
+	node15 [label="観察する"];
+	node16 [label="張合が"];
+	node17 [label="ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node17;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

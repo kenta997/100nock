@@ -1,0 +1,19 @@
+digraph graph6556 {
+	node0 [label="少し"];
+	node1 [label="左の"];
+	node2 [label="方を"];
+	node3 [label="見ると"];
+	node4 [label="今度は"];
+	node5 [label="大蔵卿横に"];
+	node6 [label="なって"];
+	node7 [label="昼寝を"];
+	node8 [label="している。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,15 @@
+digraph graph3143 {
+	node0 [label="「奥さん、"];
+	node1 [label="先生の"];
+	node2 [label="ところへ"];
+	node3 [label="水島寒月と"];
+	node4 [label="云う"];
+	node5 [label="人が"];
+	node6 [label="来ますか」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

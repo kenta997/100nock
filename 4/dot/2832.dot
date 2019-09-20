@@ -1,0 +1,21 @@
+digraph graph2832 {
+	node0 [label="陰士は"];
+	node1 [label="細君の"];
+	node2 [label="寝顔を"];
+	node3 [label="上から"];
+	node4 [label="覗き込んで"];
+	node5 [label="見たが"];
+	node6 [label="何の"];
+	node7 [label="ためか"];
+	node8 [label="にやにやと"];
+	node9 [label="笑った。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

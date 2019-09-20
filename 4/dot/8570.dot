@@ -1,0 +1,33 @@
+digraph graph8570 {
+	node0 [label="「借りた"];
+	node1 [label="金を"];
+	node2 [label="返す"];
+	node3 [label="事を"];
+	node4 [label="考えない"];
+	node5 [label="ものは"];
+	node6 [label="幸福であるごとく、"];
+	node7 [label="死ぬ"];
+	node8 [label="事を"];
+	node9 [label="苦に"];
+	node10 [label="せん"];
+	node11 [label="ものは"];
+	node12 [label="幸福さ」と"];
+	node13 [label="独仙君は"];
+	node14 [label="超然として"];
+	node15 [label="出世間的である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

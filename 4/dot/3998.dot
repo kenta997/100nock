@@ -1,0 +1,15 @@
+digraph graph3998 {
+	node0 [label="この"];
+	node1 [label="時"];
+	node2 [label="蟷螂君は"];
+	node3 [label="必ず"];
+	node4 [label="羽根を"];
+	node5 [label="広げたまま"];
+	node6 [label="仆れる。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

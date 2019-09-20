@@ -1,0 +1,15 @@
+digraph graph1993 {
+	node0 [label="——ええ——"];
+	node1 [label="これから"];
+	node2 [label="鼻と"];
+	node3 [label="顔の"];
+	node4 [label="権衡に"];
+	node5 [label="一言論及したいと"];
+	node6 [label="思います。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

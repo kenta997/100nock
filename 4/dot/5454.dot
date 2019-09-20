@@ -1,0 +1,21 @@
+digraph graph5454 {
+	node0 [label="鈴木か、——"];
+	node1 [label="あれが"];
+	node2 [label="くるのかい、"];
+	node3 [label="へえー、"];
+	node4 [label="あれは"];
+	node5 [label="理窟は"];
+	node6 [label="わからんが"];
+	node7 [label="世間的には"];
+	node8 [label="利口な"];
+	node9 [label="男だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

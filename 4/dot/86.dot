@@ -1,0 +1,15 @@
+digraph graph86 {
+	node0 [label="どこへ"];
+	node1 [label="行っても"];
+	node2 [label="跳ね付けられて"];
+	node3 [label="相手に"];
+	node4 [label="してくれ"];
+	node5 [label="手が"];
+	node6 [label="なかった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

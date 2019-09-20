@@ -1,0 +1,5 @@
+digraph graph147 {
+	node0 [label="なるほどこりゃ"];
+	node1 [label="もっともだ。"];
+	node0 -> node1;
+}

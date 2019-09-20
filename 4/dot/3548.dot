@@ -1,0 +1,23 @@
+digraph graph3548 {
+	node0 [label="もっとも"];
+	node1 [label="あの鼻なら"];
+	node2 [label="充分"];
+	node3 [label="鼻息を"];
+	node4 [label="うかがうだけの"];
+	node5 [label="価値は"];
+	node6 [label="あるがね」と"];
+	node7 [label="迷亭も"];
+	node8 [label="寒月流な"];
+	node9 [label="挨拶を"];
+	node10 [label="する。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

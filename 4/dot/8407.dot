@@ -1,0 +1,37 @@
+digraph graph8407 {
+	node0 [label="現に"];
+	node1 [label="万朝なぞでは"];
+	node2 [label="花聟花嫁と"];
+	node3 [label="云う"];
+	node4 [label="表題で"];
+	node5 [label="両君の"];
+	node6 [label="写真を"];
+	node7 [label="紙上に"];
+	node8 [label="掲ぐるの"];
+	node9 [label="栄は"];
+	node10 [label="いつだろう、"];
+	node11 [label="いつだろうって、"];
+	node12 [label="うるさく"];
+	node13 [label="僕の"];
+	node14 [label="ところへ"];
+	node15 [label="聞きに"];
+	node16 [label="くる"];
+	node17 [label="くらいだ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node17;
+	node5 -> node6;
+	node6 -> node17;
+	node7 -> node17;
+	node8 -> node9;
+	node9 -> node17;
+	node10 -> node11;
+	node11 -> node16;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

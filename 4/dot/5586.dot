@@ -1,0 +1,21 @@
+digraph graph5586 {
+	node0 [label="主人は"];
+	node1 [label="折々"];
+	node2 [label="細君に"];
+	node3 [label="向って"];
+	node4 [label="疱瘡を"];
+	node5 [label="せぬ"];
+	node6 [label="うちは"];
+	node7 [label="玉のような"];
+	node8 [label="男子であったと"];
+	node9 [label="云っている。"];
+	node0 -> node9;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

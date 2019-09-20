@@ -1,0 +1,19 @@
+digraph graph2980 {
+	node0 [label="「いやーだ」と"];
+	node1 [label="姉が"];
+	node2 [label="云うと"];
+	node3 [label="妹も"];
+	node4 [label="すぐ"];
+	node5 [label="真似を"];
+	node6 [label="して"];
+	node7 [label="「いやーだ」と"];
+	node8 [label="つける。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

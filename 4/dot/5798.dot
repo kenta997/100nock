@@ -1,0 +1,9 @@
+digraph graph5798 {
+	node0 [label="恃むまじきを"];
+	node1 [label="恃んで"];
+	node2 [label="安しと"];
+	node3 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,9 @@
+digraph graph8051 {
+	node0 [label="滅多に"];
+	node1 [label="ヴァイオリンなどに"];
+	node2 [label="手出しは"];
+	node3 [label="出来ません。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

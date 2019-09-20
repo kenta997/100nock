@@ -1,0 +1,15 @@
+digraph graph7495 {
+	node0 [label="打ちゃって"];
+	node1 [label="置くと"];
+	node2 [label="巌頭の"];
+	node3 [label="吟でも"];
+	node4 [label="書いて"];
+	node5 [label="華厳滝から"];
+	node6 [label="飛び込むかも知れない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

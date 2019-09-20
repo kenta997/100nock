@@ -1,0 +1,13 @@
+digraph graph7753 {
+	node0 [label="——"];
+	node1 [label="さあ、"];
+	node2 [label="独仙君"];
+	node3 [label="どうか御"];
+	node4 [label="早く"];
+	node5 [label="願おう。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,13 @@
+digraph graph4062 {
+	node0 [label="しかし"];
+	node1 [label="大概は"];
+	node2 [label="登る"];
+	node3 [label="度に"];
+	node4 [label="一つは"];
+	node5 [label="取って来る。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

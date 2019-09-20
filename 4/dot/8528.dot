@@ -1,0 +1,15 @@
+digraph graph8528 {
+	node0 [label="「僕は"];
+	node1 [label="こんな"];
+	node2 [label="話を"];
+	node3 [label="聞いた」と"];
+	node4 [label="主人が"];
+	node5 [label="後を"];
+	node6 [label="つける。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

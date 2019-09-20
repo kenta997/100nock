@@ -1,0 +1,25 @@
+digraph graph2657 {
+	node0 [label="一間半の"];
+	node1 [label="襖を"];
+	node2 [label="隔てて"];
+	node3 [label="南向の"];
+	node4 [label="室には"];
+	node5 [label="細君が"];
+	node6 [label="数え年三つに"];
+	node7 [label="なる、"];
+	node8 [label="めん子さんと"];
+	node9 [label="添乳して"];
+	node10 [label="横に"];
+	node11 [label="なる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

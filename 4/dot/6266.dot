@@ -1,0 +1,5 @@
+digraph graph6266 {
+	node0 [label="「たった今"];
+	node1 [label="平身低頭したじゃないか」"];
+	node0 -> node1;
+}

@@ -1,0 +1,33 @@
+digraph graph7742 {
+	node0 [label="この"];
+	node1 [label="白を"];
+	node2 [label="はすに"];
+	node3 [label="延ばして"];
+	node4 [label="負けにけりか、"];
+	node5 [label="そんなら"];
+	node6 [label="こっちはと——"];
+	node7 [label="こっちは——"];
+	node8 [label="こっちは"];
+	node9 [label="こっちはとて"];
+	node10 [label="暮れに"];
+	node11 [label="けりと、"];
+	node12 [label="どうも"];
+	node13 [label="いい"];
+	node14 [label="手が"];
+	node15 [label="ないね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node15;
+	node8 -> node15;
+	node9 -> node15;
+	node10 -> node15;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

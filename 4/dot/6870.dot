@@ -1,0 +1,9 @@
+digraph graph6870 {
+	node0 [label="「ただ"];
+	node1 [label="大きな"];
+	node2 [label="顔を"];
+	node3 [label="するんでしょう。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

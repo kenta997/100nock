@@ -1,0 +1,5 @@
+digraph graph9205 {
+	node0 [label="吾輩は"];
+	node1 [label="死ぬ。"];
+	node0 -> node1;
+}

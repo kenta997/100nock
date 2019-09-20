@@ -1,0 +1,7 @@
+digraph graph2042 {
+	node0 [label="　例によって"];
+	node1 [label="金田邸へ"];
+	node2 [label="忍び込む。"];
+	node0 -> node2;
+	node1 -> node2;
+}

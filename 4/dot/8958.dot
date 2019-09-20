@@ -1,0 +1,11 @@
+digraph graph8958 {
+	node0 [label="先生私は"];
+	node1 [label="近来"];
+	node2 [label="よっぽど"];
+	node3 [label="常識に"];
+	node4 [label="富んで来ました。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

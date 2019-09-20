@@ -1,0 +1,13 @@
+digraph graph7906 {
+	node0 [label="見つかれば、"];
+	node1 [label="すぐ"];
+	node2 [label="生意気だと"];
+	node3 [label="云うので"];
+	node4 [label="制裁を"];
+	node5 [label="加えられます」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

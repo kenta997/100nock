@@ -1,0 +1,7 @@
+digraph graph7830 {
+	node0 [label="　やに"];
+	node1 [label="物堅い"];
+	node2 [label="性質だね。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,11 @@
+digraph graph2614 {
+	node0 [label="「そんな"];
+	node1 [label="事も"];
+	node2 [label="無かろう」と"];
+	node3 [label="術なげに"];
+	node4 [label="答える。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

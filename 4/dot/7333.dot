@@ -1,0 +1,15 @@
+digraph graph7333 {
+	node0 [label="襖の"];
+	node1 [label="蔭では"];
+	node2 [label="最前から"];
+	node3 [label="細君と"];
+	node4 [label="雪江さんが"];
+	node5 [label="くすくす"];
+	node6 [label="笑っている。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

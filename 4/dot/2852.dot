@@ -1,0 +1,13 @@
+digraph graph2852 {
+	node0 [label="その"];
+	node1 [label="熟練と"];
+	node2 [label="器用な"];
+	node3 [label="やり口にも"];
+	node4 [label="ちょっと"];
+	node5 [label="感心した。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

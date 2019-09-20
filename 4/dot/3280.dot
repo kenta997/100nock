@@ -1,0 +1,15 @@
+digraph graph3280 {
+	node0 [label="顔だけ"];
+	node1 [label="出ると"];
+	node2 [label="云うのは、"];
+	node3 [label="手足が"];
+	node4 [label="ないと"];
+	node5 [label="云う"];
+	node6 [label="訳ではない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

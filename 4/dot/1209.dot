@@ -1,0 +1,13 @@
+digraph graph1209 {
+	node0 [label="もう"];
+	node1 [label="いつでも"];
+	node2 [label="出掛けられますと"];
+	node3 [label="云う"];
+	node4 [label="風情で"];
+	node5 [label="待ち構えている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

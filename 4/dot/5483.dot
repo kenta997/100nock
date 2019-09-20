@@ -1,0 +1,13 @@
+digraph graph5483 {
+	node0 [label="「しかし"];
+	node1 [label="僕なんか、"];
+	node2 [label="いつまで"];
+	node3 [label="立っても"];
+	node4 [label="合いそうにないぜ、"];
+	node5 [label="心細いね」"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

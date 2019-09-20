@@ -1,0 +1,11 @@
+digraph graph6808 {
+	node0 [label="雪江さんの"];
+	node1 [label="御話が"];
+	node2 [label="すんでから」と"];
+	node3 [label="賺かして"];
+	node4 [label="見る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,15 @@
+digraph graph8541 {
+	node0 [label="こんなに"];
+	node1 [label="自覚心が"];
+	node2 [label="強くって、"];
+	node3 [label="どうして"];
+	node4 [label="おだやかに"];
+	node5 [label="なれる"];
+	node6 [label="ものか。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,15 @@
+digraph graph5676 {
+	node0 [label="やっぱり"];
+	node1 [label="まともに"];
+	node2 [label="日の"];
+	node3 [label="向いてる"];
+	node4 [label="方が"];
+	node5 [label="平に"];
+	node6 [label="見える。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

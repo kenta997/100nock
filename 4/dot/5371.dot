@@ -1,0 +1,9 @@
+digraph graph5371 {
+	node0 [label="「そらまた"];
+	node1 [label="来たぜ」と"];
+	node2 [label="鈴木君は"];
+	node3 [label="笑っている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

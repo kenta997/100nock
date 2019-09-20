@@ -1,0 +1,11 @@
+digraph graph1677 {
+	node0 [label="「おや"];
+	node1 [label="いやだ、"];
+	node2 [label="首縊りだなんて、"];
+	node3 [label="よっぽど"];
+	node4 [label="変人ですねえ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

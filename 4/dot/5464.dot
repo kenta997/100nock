@@ -1,0 +1,11 @@
+digraph graph5464 {
+	node0 [label="「君は"];
+	node1 [label="始終"];
+	node2 [label="泰然として"];
+	node3 [label="気楽なようだが、"];
+	node4 [label="羨ましいな」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

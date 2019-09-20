@@ -1,0 +1,9 @@
+digraph graph1322 {
+	node0 [label="あえて"];
+	node1 [label="同族を"];
+	node2 [label="軽蔑する"];
+	node3 [label="次第ではない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

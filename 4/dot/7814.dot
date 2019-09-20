@@ -1,0 +1,7 @@
+digraph graph7814 {
+	node0 [label="「質朴剛健で"];
+	node1 [label="たのもしい"];
+	node2 [label="気風だ」"];
+	node0 -> node2;
+	node1 -> node2;
+}

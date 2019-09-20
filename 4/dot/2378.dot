@@ -1,0 +1,15 @@
+digraph graph2378 {
+	node0 [label="あの"];
+	node1 [label="人の"];
+	node2 [label="事について"];
+	node3 [label="ちょっと"];
+	node4 [label="聞きた"];
+	node5 [label="い事が"];
+	node6 [label="あって来たんだがね」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

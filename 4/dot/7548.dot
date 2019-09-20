@@ -1,0 +1,11 @@
+digraph graph7548 {
+	node0 [label="「なになったって"];
+	node1 [label="構やしません、"];
+	node2 [label="相手が"];
+	node3 [label="金田です"];
+	node4 [label="もの」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

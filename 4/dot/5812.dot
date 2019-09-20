@@ -1,0 +1,9 @@
+digraph graph5812 {
+	node0 [label="此発作的活動を"];
+	node1 [label="名づけて"];
+	node2 [label="革命と"];
+	node3 [label="いう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

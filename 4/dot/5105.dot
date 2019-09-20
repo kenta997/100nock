@@ -1,0 +1,11 @@
+digraph graph5105 {
+	node0 [label="大出来には"];
+	node1 [label="相違ないが、"];
+	node2 [label="見ると"];
+	node3 [label="十四五の"];
+	node4 [label="小供である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

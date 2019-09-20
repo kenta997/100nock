@@ -1,0 +1,21 @@
+digraph graph1062 {
+	node0 [label="暮、"];
+	node1 [label="戦死、"];
+	node2 [label="老衰、"];
+	node3 [label="無常迅速などと"];
+	node4 [label="云う"];
+	node5 [label="奴が"];
+	node6 [label="頭の"];
+	node7 [label="中を"];
+	node8 [label="ぐるぐる"];
+	node9 [label="馳け廻る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

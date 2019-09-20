@@ -1,0 +1,15 @@
+digraph graph2973 {
+	node0 [label="「わたしに"];
+	node1 [label="言っても"];
+	node2 [label="駄目だから、"];
+	node3 [label="あなたが"];
+	node4 [label="先生に"];
+	node5 [label="そう"];
+	node6 [label="おっしゃい」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

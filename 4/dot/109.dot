@@ -1,0 +1,9 @@
+digraph graph109 {
+	node0 [label="一々"];
+	node1 [label="もっともの"];
+	node2 [label="議論と"];
+	node3 [label="思う。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

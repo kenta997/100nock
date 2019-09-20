@@ -1,0 +1,15 @@
+digraph graph6089 {
+	node0 [label="「君は"];
+	node1 [label="その"];
+	node2 [label="時分から"];
+	node3 [label="ごまかす"];
+	node4 [label="事に"];
+	node5 [label="妙を"];
+	node6 [label="得ていたんだね」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

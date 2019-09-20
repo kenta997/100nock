@@ -1,0 +1,17 @@
+digraph graph4971 {
+	node0 [label="しかしかの"];
+	node1 [label="敵に"];
+	node2 [label="追いつく"];
+	node3 [label="ためには"];
+	node4 [label="主人の"];
+	node5 [label="方で"];
+	node6 [label="垣を"];
+	node7 [label="越さなければならん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

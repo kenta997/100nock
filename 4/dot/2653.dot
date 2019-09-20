@@ -1,0 +1,7 @@
+digraph graph2653 {
+	node0 [label="休養は"];
+	node1 [label="猫といえども"];
+	node2 [label="必要である。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,29 @@
+digraph graph4727 {
+	node0 [label="主人も"];
+	node1 [label="残念であったろうが、"];
+	node2 [label="やむを得ず"];
+	node3 [label="書斎から"];
+	node4 [label="飛び出して"];
+	node5 [label="行って、"];
+	node6 [label="ここは"];
+	node7 [label="君等の"];
+	node8 [label="這入る"];
+	node9 [label="所ではない、"];
+	node10 [label="出給えと"];
+	node11 [label="云って、"];
+	node12 [label="二三度"];
+	node13 [label="追い出したようだ。"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

@@ -1,0 +1,13 @@
+digraph graph4878 {
+	node0 [label="その"];
+	node1 [label="中で"];
+	node2 [label="もっとも"];
+	node3 [label="逆上を"];
+	node4 [label="重んずるのは"];
+	node5 [label="詩人である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

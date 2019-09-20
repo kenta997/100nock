@@ -1,0 +1,21 @@
+digraph graph3825 {
+	node0 [label="だから"];
+	node1 [label="僕なら"];
+	node2 [label="こうは"];
+	node3 [label="書かないね」"];
+	node4 [label="「どう"];
+	node5 [label="書いたら"];
+	node6 [label="もっと"];
+	node7 [label="詩的になりましょう」"];
+	node8 [label="「僕なら"];
+	node9 [label="こうさ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,11 @@
+digraph graph8359 {
+	node0 [label="はてな"];
+	node1 [label="今の"];
+	node2 [label="音は"];
+	node3 [label="何だろうと"];
+	node4 [label="考えた。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

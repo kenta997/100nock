@@ -1,0 +1,19 @@
+digraph graph7387 {
+	node0 [label="それでなくて"];
+	node1 [label="はかように"];
+	node2 [label="利口な"];
+	node3 [label="女と"];
+	node4 [label="名の"];
+	node5 [label="つく"];
+	node6 [label="ものと"];
+	node7 [label="交際は"];
+	node8 [label="出来ない。"];
+	node0 -> node6;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

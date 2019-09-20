@@ -1,0 +1,13 @@
+digraph graph3822 {
+	node0 [label="そんな"];
+	node1 [label="顔を"];
+	node2 [label="しないで、"];
+	node3 [label="早く"];
+	node4 [label="傑作でも"];
+	node5 [label="朗読するさ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

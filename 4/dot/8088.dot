@@ -1,0 +1,9 @@
+digraph graph8088 {
+	node0 [label="そうして"];
+	node1 [label="犬が"];
+	node2 [label="しきりに"];
+	node3 [label="吠えましたよ先生……」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

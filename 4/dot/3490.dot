@@ -1,0 +1,19 @@
+digraph graph3490 {
+	node0 [label="この"];
+	node1 [label="先きを"];
+	node2 [label="螺旋鋲の"];
+	node3 [label="頭へ"];
+	node4 [label="刺し込んで"];
+	node5 [label="ぎりぎり"];
+	node6 [label="廻すと"];
+	node7 [label="金槌にも"];
+	node8 [label="使える。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

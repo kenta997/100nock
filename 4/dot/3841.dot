@@ -1,0 +1,33 @@
+digraph graph3841 {
+	node0 [label="全く"];
+	node1 [label="その辺が"];
+	node2 [label="詩人の"];
+	node3 [label="特色かと"];
+	node4 [label="思います」"];
+	node5 [label="「詩人かも知れないが"];
+	node6 [label="随分"];
+	node7 [label="妙な"];
+	node8 [label="男ですね」と"];
+	node9 [label="主人が"];
+	node10 [label="云うと、"];
+	node11 [label="迷亭が"];
+	node12 [label="「馬鹿だよ」と"];
+	node13 [label="単簡に"];
+	node14 [label="送籍君を"];
+	node15 [label="打ち留めた。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

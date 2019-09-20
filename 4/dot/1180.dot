@@ -1,0 +1,13 @@
+digraph graph1180 {
+	node0 [label="細君が"];
+	node1 [label="年に"];
+	node2 [label="一度の"];
+	node3 [label="願だから"];
+	node4 [label="是非"];
+	node5 [label="叶えてやりたい。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,5 @@
+digraph graph7236 {
+	node0 [label="「君遊びに"];
+	node1 [label="来たのか」"];
+	node0 -> node1;
+}

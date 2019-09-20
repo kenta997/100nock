@@ -1,0 +1,25 @@
+digraph graph3803 {
+	node0 [label="虚子自身が"];
+	node1 [label="美しい"];
+	node2 [label="女の"];
+	node3 [label="行水している"];
+	node4 [label="ところを"];
+	node5 [label="見て"];
+	node6 [label="はっと"];
+	node7 [label="思う"];
+	node8 [label="途端に"];
+	node9 [label="ずっと"];
+	node10 [label="惚れ込んだに"];
+	node11 [label="相違ないです。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

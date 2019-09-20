@@ -1,0 +1,7 @@
+digraph graph1500 {
+	node0 [label="寒月は"];
+	node1 [label="思わず"];
+	node2 [label="吹き出す。"];
+	node0 -> node2;
+	node1 -> node2;
+}

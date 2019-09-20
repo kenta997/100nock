@@ -1,0 +1,11 @@
+digraph graph514 {
+	node0 [label="安井息軒も"];
+	node1 [label="大変"];
+	node2 [label="この"];
+	node3 [label="按摩術を"];
+	node4 [label="愛していた。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

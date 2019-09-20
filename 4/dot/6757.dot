@@ -1,0 +1,9 @@
+digraph graph6757 {
+	node0 [label="寿命は"];
+	node1 [label="自分の"];
+	node2 [label="自由には"];
+	node3 [label="なりません。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

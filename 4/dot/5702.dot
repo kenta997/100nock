@@ -1,0 +1,35 @@
+digraph graph5702 {
+	node0 [label="朝に"];
+	node1 [label="法を"];
+	node2 [label="聴き、"];
+	node3 [label="夕に"];
+	node4 [label="道を"];
+	node5 [label="聴き、"];
+	node6 [label="梧前灯下に"];
+	node7 [label="書巻を"];
+	node8 [label="手に"];
+	node9 [label="するのは"];
+	node10 [label="皆"];
+	node11 [label="この"];
+	node12 [label="自証を"];
+	node13 [label="挑撥するの"];
+	node14 [label="方便の"];
+	node15 [label="具に"];
+	node16 [label="過ぎぬ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

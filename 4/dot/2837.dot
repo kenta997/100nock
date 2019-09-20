@@ -1,0 +1,15 @@
+digraph graph2837 {
+	node0 [label="しかし"];
+	node1 [label="神ならぬ"];
+	node2 [label="陰士は"];
+	node3 [label="そんな"];
+	node4 [label="女と"];
+	node5 [label="知ろうはずが"];
+	node6 [label="ない。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

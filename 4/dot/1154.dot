@@ -1,0 +1,15 @@
+digraph graph1154 {
+	node0 [label="「あるって、"];
+	node1 [label="何が"];
+	node2 [label="あるんだい」迷亭の"];
+	node3 [label="眼中に"];
+	node4 [label="主人などは"];
+	node5 [label="無論"];
+	node6 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

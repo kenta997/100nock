@@ -1,0 +1,15 @@
+digraph graph7412 {
+	node0 [label="いな"];
+	node1 [label="社会は"];
+	node2 [label="遠からずして"];
+	node3 [label="君を"];
+	node4 [label="人間の"];
+	node5 [label="居住地以外に"];
+	node6 [label="放逐するであろう。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

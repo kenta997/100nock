@@ -1,0 +1,9 @@
+digraph graph8090 {
+	node0 [label="君は"];
+	node1 [label="落人と"];
+	node2 [label="云う"];
+	node3 [label="格だ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,11 @@
+digraph graph3654 {
+	node0 [label="迷亭は"];
+	node1 [label="構わず"];
+	node2 [label="どんどん"];
+	node3 [label="話を"];
+	node4 [label="進行させる。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,31 @@
+digraph graph8795 {
+	node0 [label="開化の"];
+	node1 [label="高潮度に"];
+	node2 [label="達せる"];
+	node3 [label="今代において"];
+	node4 [label="二個の"];
+	node5 [label="個性が"];
+	node6 [label="普通以上に"];
+	node7 [label="親密の"];
+	node8 [label="程度を"];
+	node9 [label="もって"];
+	node10 [label="連結され得べき"];
+	node11 [label="理由の"];
+	node12 [label="あるべき"];
+	node13 [label="はずが"];
+	node14 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

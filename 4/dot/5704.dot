@@ -1,0 +1,7 @@
+digraph graph5704 {
+	node0 [label="あれば"];
+	node1 [label="自己の"];
+	node2 [label="幽霊である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

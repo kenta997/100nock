@@ -1,0 +1,5 @@
+digraph graph7856 {
+	node0 [label="「いないの"];
+	node1 [label="かい」"];
+	node0 -> node1;
+}

@@ -1,0 +1,33 @@
+digraph graph4448 {
+	node0 [label="これは"];
+	node1 [label="厄介な"];
+	node2 [label="事を"];
+	node3 [label="やり始めた"];
+	node4 [label="者だと"];
+	node5 [label="少々"];
+	node6 [label="辟易していると"];
+	node7 [label="入口の"];
+	node8 [label="方に"];
+	node9 [label="浅黄木綿の"];
+	node10 [label="着物を"];
+	node11 [label="きた"];
+	node12 [label="七十ばかりの"];
+	node13 [label="坊主が"];
+	node14 [label="ぬっと"];
+	node15 [label="見われた。"];
+	node0 -> node15;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

@@ -1,0 +1,7 @@
+digraph graph6759 {
+	node0 [label="「保険会社の"];
+	node1 [label="方が"];
+	node2 [label="至当ですわ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

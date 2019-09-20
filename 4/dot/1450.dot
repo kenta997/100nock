@@ -1,0 +1,37 @@
+digraph graph1450 {
+	node0 [label="「曖昧じゃありませんよ、"];
+	node1 [label="ちゃんと"];
+	node2 [label="分っています、"];
+	node3 [label="ただ"];
+	node4 [label="説明しにくいだけの"];
+	node5 [label="事で"];
+	node6 [label="さあ」"];
+	node7 [label="「何でも"];
+	node8 [label="自分の"];
+	node9 [label="嫌いな"];
+	node10 [label="事を"];
+	node11 [label="月並と"];
+	node12 [label="云うんでしょう」と"];
+	node13 [label="細君は"];
+	node14 [label="我知らず"];
+	node15 [label="穿った"];
+	node16 [label="事を"];
+	node17 [label="云う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node12;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node17;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

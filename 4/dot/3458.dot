@@ -1,0 +1,9 @@
+digraph graph3458 {
+	node0 [label="鳳眠を"];
+	node1 [label="驚かし奉って"];
+	node2 [label="はなはだ"];
+	node3 [label="相済まん。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

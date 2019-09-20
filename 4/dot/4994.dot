@@ -1,0 +1,29 @@
+digraph graph4994 {
+	node0 [label="朗々たる"];
+	node1 [label="音声で"];
+	node2 [label="なかなか"];
+	node3 [label="うまく"];
+	node4 [label="述べ立てているのを"];
+	node5 [label="聴くと、"];
+	node6 [label="全く"];
+	node7 [label="昨日"];
+	node8 [label="敵中から"];
+	node9 [label="出馬して"];
+	node10 [label="談判の"];
+	node11 [label="衝に"];
+	node12 [label="当った"];
+	node13 [label="将軍である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

@@ -1,0 +1,15 @@
+digraph graph6553 {
+	node0 [label="韓国統監も"];
+	node1 [label="この"];
+	node2 [label="時代から"];
+	node3 [label="御布令の"];
+	node4 [label="尻尾を"];
+	node5 [label="追っ懸けてあるいていたと"];
+	node6 [label="見える。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,15 @@
+digraph graph5133 {
+	node0 [label="彼等は"];
+	node1 [label="主人の"];
+	node2 [label="前に"];
+	node3 [label="ならんだ"];
+	node4 [label="ぎり黙然として"];
+	node5 [label="一言も"];
+	node6 [label="発しない。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

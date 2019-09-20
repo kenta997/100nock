@@ -1,0 +1,25 @@
+digraph graph1524 {
+	node0 [label="「それでは"];
+	node1 [label="仰せに従って、"];
+	node2 [label="無理ですが"];
+	node3 [label="略しましょう」"];
+	node4 [label="「それが"];
+	node5 [label="よかろう」と"];
+	node6 [label="迷亭が"];
+	node7 [label="妙な"];
+	node8 [label="ところで"];
+	node9 [label="手を"];
+	node10 [label="ぱちぱちと"];
+	node11 [label="叩く。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,27 @@
+digraph graph2256 {
+	node0 [label="「鼻の"];
+	node1 [label="中の"];
+	node2 [label="白髪は"];
+	node3 [label="見えんから"];
+	node4 [label="害は"];
+	node5 [label="ないが、"];
+	node6 [label="脳天が——"];
+	node7 [label="ことに"];
+	node8 [label="若い女の"];
+	node9 [label="脳天が"];
+	node10 [label="そんなに"];
+	node11 [label="禿げちゃ"];
+	node12 [label="見苦しい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node12;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

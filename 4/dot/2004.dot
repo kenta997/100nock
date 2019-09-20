@@ -1,0 +1,11 @@
+digraph graph2004 {
+	node0 [label="「車屋の"];
+	node1 [label="神さんだ」と"];
+	node2 [label="主人が"];
+	node3 [label="迷亭に"];
+	node4 [label="教えてやる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

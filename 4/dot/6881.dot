@@ -1,0 +1,11 @@
+digraph graph6881 {
+	node0 [label="「へえ、"];
+	node1 [label="その"];
+	node2 [label="時分にも"];
+	node3 [label="殿下さまが"];
+	node4 [label="あるの？"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

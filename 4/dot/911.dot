@@ -1,0 +1,15 @@
+digraph graph911 {
+	node0 [label="右は"];
+	node1 [label="発見次第御報道可"];
+	node2 [label="仕"];
+	node3 [label="候に"];
+	node4 [label="つき、"];
+	node5 [label="左様"];
+	node6 [label="御承知可被下候。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

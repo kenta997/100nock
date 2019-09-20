@@ -1,0 +1,29 @@
+digraph graph4915 {
+	node0 [label="事件その物が"];
+	node1 [label="不名誉であるならば、"];
+	node2 [label="責めて"];
+	node3 [label="逆上なりとも、"];
+	node4 [label="正銘の"];
+	node5 [label="逆上であって、"];
+	node6 [label="決して"];
+	node7 [label="人に"];
+	node8 [label="劣る"];
+	node9 [label="ものでないと"];
+	node10 [label="云う"];
+	node11 [label="事を"];
+	node12 [label="明かに"];
+	node13 [label="しておきたい。"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

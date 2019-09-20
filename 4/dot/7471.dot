@@ -1,0 +1,25 @@
+digraph graph7471 {
+	node0 [label="「ちっとも"];
+	node1 [label="恥かし"];
+	node2 [label="い事は"];
+	node3 [label="ないじゃありませんか」と"];
+	node4 [label="今度は"];
+	node5 [label="細君"];
+	node6 [label="笑いながら、"];
+	node7 [label="わざと"];
+	node8 [label="茶碗を"];
+	node9 [label="読売新聞の"];
+	node10 [label="上へ"];
+	node11 [label="押しやる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

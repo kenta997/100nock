@@ -1,0 +1,27 @@
+digraph graph199 {
+	node0 [label="双眸の"];
+	node1 [label="奥から"];
+	node2 [label="射るごとき"];
+	node3 [label="光を"];
+	node4 [label="吾輩の"];
+	node5 [label="矮小なる"];
+	node6 [label="額の"];
+	node7 [label="上に"];
+	node8 [label="あつめて、"];
+	node9 [label="御めえは"];
+	node10 [label="一体"];
+	node11 [label="何だと"];
+	node12 [label="云った。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

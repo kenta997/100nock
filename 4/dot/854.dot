@@ -1,0 +1,9 @@
+digraph graph854 {
+	node0 [label="「新年の"];
+	node1 [label="御慶"];
+	node2 [label="目出度"];
+	node3 [label="申納候。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,23 @@
+digraph graph7395 {
+	node0 [label="彼は"];
+	node1 [label="平生学校で"];
+	node2 [label="主人に"];
+	node3 [label="からかったり、"];
+	node4 [label="同級生を"];
+	node5 [label="煽動して、"];
+	node6 [label="主人を"];
+	node7 [label="困らしたりした"];
+	node8 [label="事は"];
+	node9 [label="まるで"];
+	node10 [label="忘れている。"];
+	node0 -> node10;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

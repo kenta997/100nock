@@ -1,0 +1,7 @@
+digraph graph503 {
+	node0 [label="独りで"];
+	node1 [label="喧嘩を"];
+	node2 [label="しているようだ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

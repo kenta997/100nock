@@ -1,0 +1,5 @@
+digraph graph2514 {
+	node0 [label="こっちが"];
+	node1 [label="恨めしいくらいだ」"];
+	node0 -> node1;
+}

@@ -1,0 +1,19 @@
+digraph graph3013 {
+	node0 [label="「御母"];
+	node1 [label="あさま"];
+	node2 [label="夕べの"];
+	node3 [label="泥棒の"];
+	node4 [label="頭も"];
+	node5 [label="光かってて」と"];
+	node6 [label="これは"];
+	node7 [label="妹の"];
+	node8 [label="質問である。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

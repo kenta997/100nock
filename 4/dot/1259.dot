@@ -1,0 +1,27 @@
+digraph graph1259 {
+	node0 [label="　こう"];
+	node1 [label="考えると"];
+	node2 [label="急に"];
+	node3 [label="三人の"];
+	node4 [label="談話が"];
+	node5 [label="面白くなくなったので、"];
+	node6 [label="三毛子の"];
+	node7 [label="様子でも"];
+	node8 [label="見て来ようかと"];
+	node9 [label="二絃琴の"];
+	node10 [label="御師匠さんの"];
+	node11 [label="庭口へ"];
+	node12 [label="廻る。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

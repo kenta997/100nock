@@ -1,0 +1,31 @@
+digraph graph8122 {
+	node0 [label="ようやくの"];
+	node1 [label="事風呂敷包を"];
+	node2 [label="外套の"];
+	node3 [label="下へ"];
+	node4 [label="入れて、"];
+	node5 [label="店を"];
+	node6 [label="出たら、"];
+	node7 [label="番頭が"];
+	node8 [label="声を"];
+	node9 [label="揃えて"];
+	node10 [label="ありがとうと"];
+	node11 [label="大きな"];
+	node12 [label="声を"];
+	node13 [label="出したのには"];
+	node14 [label="ひやっとしました。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

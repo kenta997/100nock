@@ -1,0 +1,19 @@
+digraph graph1594 {
+	node0 [label="鼻子の"];
+	node1 [label="先刻からの"];
+	node2 [label="言葉遣いが"];
+	node3 [label="初対面の"];
+	node4 [label="女としては"];
+	node5 [label="あまり"];
+	node6 [label="存在過ぎるので"];
+	node7 [label="すでに"];
+	node8 [label="不平なのである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,29 @@
+digraph graph5218 {
+	node0 [label="すると"];
+	node1 [label="向う"];
+	node2 [label="横町へ"];
+	node3 [label="曲がろうと"];
+	node4 [label="云う"];
+	node5 [label="角で"];
+	node6 [label="金田の"];
+	node7 [label="旦那と"];
+	node8 [label="鈴木の"];
+	node9 [label="藤さんが"];
+	node10 [label="しきりに"];
+	node11 [label="立ちながら"];
+	node12 [label="話を"];
+	node13 [label="している。"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

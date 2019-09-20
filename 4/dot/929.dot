@@ -1,0 +1,33 @@
+digraph graph929 {
+	node0 [label="腹が"];
+	node1 [label="立ったから、"];
+	node2 [label="それじゃ"];
+	node3 [label="見ていただかなくって"];
+	node4 [label="もよう"];
+	node5 [label="ございます"];
+	node6 [label="これでも"];
+	node7 [label="大事の"];
+	node8 [label="猫なんですって、"];
+	node9 [label="三毛を"];
+	node10 [label="懐へ"];
+	node11 [label="入れて"];
+	node12 [label="さっさと"];
+	node13 [label="帰って参りました」"];
+	node14 [label="「ほんに"];
+	node15 [label="ねえ」"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

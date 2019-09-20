@@ -1,0 +1,19 @@
+digraph graph6569 {
+	node0 [label="次に"];
+	node1 [label="眼を"];
+	node2 [label="転じて"];
+	node3 [label="真中を"];
+	node4 [label="見ると"];
+	node5 [label="真中には"];
+	node6 [label="大分県が"];
+	node7 [label="宙返りを"];
+	node8 [label="している。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

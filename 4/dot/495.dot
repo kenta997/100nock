@@ -1,0 +1,15 @@
+digraph graph495 {
+	node0 [label="日記を"];
+	node1 [label="つける"];
+	node2 [label="ひまが"];
+	node3 [label="あるなら"];
+	node4 [label="椽側に"];
+	node5 [label="寝ているまでの"];
+	node6 [label="事さ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

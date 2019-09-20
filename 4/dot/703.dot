@@ -1,0 +1,13 @@
+digraph graph703 {
+	node0 [label="三毛子は"];
+	node1 [label="嬉しそうに"];
+	node2 [label="「あら御師匠さんが"];
+	node3 [label="呼んでいらっしゃるから、"];
+	node4 [label="私し帰るわ、"];
+	node5 [label="よくって？"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

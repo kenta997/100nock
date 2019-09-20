@@ -1,0 +1,5 @@
+digraph graph6690 {
+	node0 [label="十七八の"];
+	node1 [label="女学生である。"];
+	node0 -> node1;
+}

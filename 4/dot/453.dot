@@ -1,0 +1,29 @@
+digraph graph453 {
+	node0 [label="こんな"];
+	node1 [label="ところを"];
+	node2 [label="見ると、"];
+	node3 [label="人間は"];
+	node4 [label="利己主義から"];
+	node5 [label="割り出した"];
+	node6 [label="公平という"];
+	node7 [label="念は"];
+	node8 [label="猫より"];
+	node9 [label="優っているかも知れぬが、"];
+	node10 [label="智慧は"];
+	node11 [label="かえって"];
+	node12 [label="猫より"];
+	node13 [label="劣っているようだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

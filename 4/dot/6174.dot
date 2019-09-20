@@ -1,0 +1,7 @@
+digraph graph6174 {
+	node0 [label="一風"];
+	node1 [label="変った"];
+	node2 [label="状袋だ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

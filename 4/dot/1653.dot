@@ -1,0 +1,33 @@
+digraph graph1653 {
+	node0 [label="寒月さんの"];
+	node1 [label="事だけですよ」"];
+	node2 [label="「寒月の"];
+	node3 [label="事だって、"];
+	node4 [label="誰の"];
+	node5 [label="事だって——"];
+	node6 [label="全体"];
+	node7 [label="あの"];
+	node8 [label="車屋の"];
+	node9 [label="神さんは"];
+	node10 [label="気に"];
+	node11 [label="食わん"];
+	node12 [label="奴だ」と"];
+	node13 [label="主人は"];
+	node14 [label="一人"];
+	node15 [label="怒り出す。"];
+	node0 -> node1;
+	node1 -> node12;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

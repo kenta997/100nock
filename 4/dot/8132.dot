@@ -1,0 +1,13 @@
+digraph graph8132 {
+	node0 [label="たいていの"];
+	node1 [label="ものは"];
+	node2 [label="君に"];
+	node3 [label="逢っちゃ"];
+	node4 [label="根気負けを"];
+	node5 [label="するね」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

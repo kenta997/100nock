@@ -1,0 +1,19 @@
+digraph graph2100 {
+	node0 [label="例のごとく"];
+	node1 [label="椽の"];
+	node2 [label="下まで"];
+	node3 [label="行って"];
+	node4 [label="その"];
+	node5 [label="談話を"];
+	node6 [label="承"];
+	node7 [label="わらなくては"];
+	node8 [label="分らぬ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

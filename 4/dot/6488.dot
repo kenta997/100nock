@@ -1,0 +1,25 @@
+digraph graph6488 {
+	node0 [label="細君は"];
+	node1 [label="入口から"];
+	node2 [label="二歩ばかり"];
+	node3 [label="進んで、"];
+	node4 [label="箒を"];
+	node5 [label="とんと"];
+	node6 [label="突きながら"];
+	node7 [label="「まだなんですか、"];
+	node8 [label="あなた」と"];
+	node9 [label="重ねて"];
+	node10 [label="返事を"];
+	node11 [label="承わる。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

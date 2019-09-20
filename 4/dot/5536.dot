@@ -1,0 +1,31 @@
+digraph graph5536 {
+	node0 [label="何でも"];
+	node1 [label="昔しの"];
+	node2 [label="坊主は"];
+	node3 [label="人に"];
+	node4 [label="斬り付けられた"];
+	node5 [label="時"];
+	node6 [label="電光影裏に"];
+	node7 [label="春風を"];
+	node8 [label="斬るとか、"];
+	node9 [label="何とか"];
+	node10 [label="洒落れた"];
+	node11 [label="事を"];
+	node12 [label="云ったと"];
+	node13 [label="云う"];
+	node14 [label="話だぜ。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node14;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

@@ -1,0 +1,11 @@
+digraph graph5473 {
+	node0 [label="「僕は"];
+	node1 [label="不愉快で、"];
+	node2 [label="肝癪が"];
+	node3 [label="起って"];
+	node4 [label="たまらん。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

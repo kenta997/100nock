@@ -1,0 +1,21 @@
+digraph graph2027 {
+	node0 [label="吾輩も"];
+	node1 [label="いささか"];
+	node2 [label="賛成の"];
+	node3 [label="意を"];
+	node4 [label="表する"];
+	node5 [label="ために"];
+	node6 [label="にゃーにゃーと"];
+	node7 [label="二声ばかり"];
+	node8 [label="鳴いて"];
+	node9 [label="見せる。"];
+	node0 -> node9;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

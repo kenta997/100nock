@@ -1,0 +1,13 @@
+digraph graph1545 {
+	node0 [label="「この前の"];
+	node1 [label="日曜に"];
+	node2 [label="東風子が"];
+	node3 [label="高輪泉岳寺に"];
+	node4 [label="行ったんだ"];
+	node5 [label="そうだ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

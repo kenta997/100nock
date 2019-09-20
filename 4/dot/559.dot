@@ -1,0 +1,15 @@
+digraph graph559 {
+	node0 [label="バルザックは"];
+	node1 [label="手を"];
+	node2 [label="拍って"];
+	node3 [label="「これだ"];
+	node4 [label="これだ"];
+	node5 [label="これに"];
+	node6 [label="限る。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

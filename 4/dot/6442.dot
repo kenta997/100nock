@@ -1,0 +1,11 @@
+digraph graph6442 {
+	node0 [label="これ等は"];
+	node1 [label="皆御三の"];
+	node2 [label="不人情から"];
+	node3 [label="胚胎した"];
+	node4 [label="不都合である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

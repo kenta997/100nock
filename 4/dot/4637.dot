@@ -1,0 +1,11 @@
+digraph graph4637 {
+	node0 [label="もっとも"];
+	node1 [label="今夜に"];
+	node2 [label="限って"];
+	node3 [label="酒を"];
+	node4 [label="無暗にのむ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

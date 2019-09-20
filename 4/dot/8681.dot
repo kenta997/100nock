@@ -1,0 +1,7 @@
+digraph graph8681 {
+	node0 [label="迷亭君は"];
+	node1 [label="ぬからぬ"];
+	node2 [label="顔で、"];
+	node0 -> node2;
+	node1 -> node2;
+}

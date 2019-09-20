@@ -1,0 +1,25 @@
+digraph graph5616 {
+	node0 [label="　机の"];
+	node1 [label="前には"];
+	node2 [label="薄っぺらな"];
+	node3 [label="メリンスの"];
+	node4 [label="座布団が"];
+	node5 [label="あって、"];
+	node6 [label="煙草の"];
+	node7 [label="火で"];
+	node8 [label="焼けた"];
+	node9 [label="穴が"];
+	node10 [label="三つほど"];
+	node11 [label="かたまってる。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

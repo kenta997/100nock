@@ -1,0 +1,11 @@
+digraph graph7952 {
+	node0 [label="「渋柿の"];
+	node1 [label="皮を"];
+	node2 [label="剥いて、"];
+	node3 [label="軒へ"];
+	node4 [label="吊るしておいたのです」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

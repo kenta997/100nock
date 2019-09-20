@@ -1,0 +1,15 @@
+digraph graph389 {
+	node0 [label="そんなら"];
+	node1 [label="早くから"];
+	node2 [label="外出でも"];
+	node3 [label="すればよいのに"];
+	node4 [label="それほどの"];
+	node5 [label="勇気も"];
+	node6 [label="無い。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

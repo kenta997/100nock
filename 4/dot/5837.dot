@@ -1,0 +1,11 @@
+digraph graph5837 {
+	node0 [label="これは"];
+	node1 [label="あながち"];
+	node2 [label="主人に"];
+	node3 [label="限った"];
+	node4 [label="事でもなかろう。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

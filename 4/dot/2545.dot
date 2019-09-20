@@ -1,0 +1,11 @@
+digraph graph2545 {
+	node0 [label="君寒月が"];
+	node1 [label="博士論文の"];
+	node2 [label="稿を"];
+	node3 [label="起したのを"];
+	node4 [label="知っているか。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

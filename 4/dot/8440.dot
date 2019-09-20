@@ -1,0 +1,13 @@
+digraph graph8440 {
+	node0 [label="「なに鴛鴦歌は"];
+	node1 [label="都合によって、"];
+	node2 [label="こちらへ"];
+	node3 [label="向け"];
+	node4 [label="易えても"];
+	node5 [label="よろしゅうございます。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

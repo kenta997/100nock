@@ -1,0 +1,13 @@
+digraph graph1610 {
+	node0 [label="迷亭は"];
+	node1 [label="大島紬に"];
+	node2 [label="古渡更紗か"];
+	node3 [label="何か"];
+	node4 [label="重ねて"];
+	node5 [label="すましている。"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

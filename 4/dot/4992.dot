@@ -1,0 +1,13 @@
+digraph graph4992 {
+	node0 [label="落雲館は"];
+	node1 [label="授業中と"];
+	node2 [label="見えて、"];
+	node3 [label="運動場は"];
+	node4 [label="存外"];
+	node5 [label="静かである。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

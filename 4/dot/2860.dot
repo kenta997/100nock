@@ -1,0 +1,9 @@
+digraph graph2860 {
+	node0 [label="のべつに"];
+	node1 [label="喋舌っていては"];
+	node2 [label="身体が"];
+	node3 [label="続かない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

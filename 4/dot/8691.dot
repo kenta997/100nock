@@ -1,0 +1,11 @@
+digraph graph8691 {
+	node0 [label="「タイムスは"];
+	node1 [label="たしかだが、"];
+	node2 [label="僕のは"];
+	node3 [label="すこぶる"];
+	node4 [label="不慥だよ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

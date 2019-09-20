@@ -1,0 +1,21 @@
+digraph graph6122 {
+	node0 [label="僕の"];
+	node1 [label="近所に"];
+	node2 [label="南蔵院と"];
+	node3 [label="云う"];
+	node4 [label="寺が"];
+	node5 [label="あるが、"];
+	node6 [label="あすこに"];
+	node7 [label="八十ばかりの"];
+	node8 [label="隠居が"];
+	node9 [label="いる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

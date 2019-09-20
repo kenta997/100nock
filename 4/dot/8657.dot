@@ -1,0 +1,5 @@
+digraph graph8657 {
+	node0 [label="新体詩に"];
+	node1 [label="なりますね。"];
+	node0 -> node1;
+}

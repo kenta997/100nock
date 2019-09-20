@@ -1,0 +1,29 @@
+digraph graph4254 {
+	node0 [label="十八世紀の"];
+	node1 [label="頃"];
+	node2 [label="大英国バスの"];
+	node3 [label="温泉場において"];
+	node4 [label="ボー・ナッシが"];
+	node5 [label="厳重な"];
+	node6 [label="規則を"];
+	node7 [label="制定した"];
+	node8 [label="時などは"];
+	node9 [label="浴場内で"];
+	node10 [label="男女共肩から"];
+	node11 [label="足まで"];
+	node12 [label="着物で"];
+	node13 [label="かくしたくらいである。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

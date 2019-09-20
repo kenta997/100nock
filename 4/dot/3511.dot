@@ -1,0 +1,23 @@
+digraph graph3511 {
+	node0 [label="主人は"];
+	node1 [label="ようやく"];
+	node2 [label="写真から"];
+	node3 [label="眼を"];
+	node4 [label="放して"];
+	node5 [label="「君"];
+	node6 [label="この"];
+	node7 [label="暑いのに"];
+	node8 [label="蕎麦は"];
+	node9 [label="毒だぜ」と"];
+	node10 [label="云った。"];
+	node0 -> node10;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

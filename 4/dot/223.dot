@@ -1,0 +1,19 @@
+digraph graph223 {
+	node0 [label="「何に"];
+	node1 [label="おれ"];
+	node2 [label="なんざ、"];
+	node3 [label="どこの"];
+	node4 [label="国へ"];
+	node5 [label="行ったって"];
+	node6 [label="食い物に"];
+	node7 [label="不自由は"];
+	node8 [label="しねえつもりだ。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

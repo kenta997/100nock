@@ -1,0 +1,7 @@
+digraph graph6158 {
+	node0 [label="自大狂で"];
+	node1 [label="大気焔を"];
+	node2 [label="吐いている。"];
+	node0 -> node2;
+	node1 -> node2;
+}

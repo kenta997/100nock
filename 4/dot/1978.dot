@@ -1,0 +1,21 @@
+digraph graph1978 {
+	node0 [label="「いや"];
+	node1 [label="御不審は"];
+	node2 [label="ごもっともですが"];
+	node3 [label="論より証拠"];
+	node4 [label="この"];
+	node5 [label="通り"];
+	node6 [label="骨が"];
+	node7 [label="あるから"];
+	node8 [label="仕方が"];
+	node9 [label="ありません。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

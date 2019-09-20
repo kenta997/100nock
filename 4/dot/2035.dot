@@ -1,0 +1,11 @@
+digraph graph2035 {
+	node0 [label="「ワハハハハハサヴェジ・チーだ、"];
+	node1 [label="サヴェジ・チーだ」と"];
+	node2 [label="口々に"];
+	node3 [label="罵"];
+	node4 [label="しる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

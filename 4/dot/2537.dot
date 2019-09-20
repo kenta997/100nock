@@ -1,0 +1,9 @@
+digraph graph2537 {
+	node0 [label="これが"];
+	node1 [label="利口な"];
+	node2 [label="人の"];
+	node3 [label="特色かも知れない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

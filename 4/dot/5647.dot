@@ -1,0 +1,25 @@
+digraph graph5647 {
+	node0 [label="昔し"];
+	node1 [label="或る"];
+	node2 [label="学者が"];
+	node3 [label="何とか"];
+	node4 [label="いう"];
+	node5 [label="智識を"];
+	node6 [label="訪うたら、"];
+	node7 [label="和尚両肌を"];
+	node8 [label="抜いで"];
+	node9 [label="甎を"];
+	node10 [label="磨して"];
+	node11 [label="おられた。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

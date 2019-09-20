@@ -1,0 +1,21 @@
+digraph graph17 {
+	node0 [label="これが"];
+	node1 [label="人間の"];
+	node2 [label="飲む"];
+	node3 [label="煙草という"];
+	node4 [label="ものである"];
+	node5 [label="事は"];
+	node6 [label="ようやく"];
+	node7 [label="この"];
+	node8 [label="頃"];
+	node9 [label="知った。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

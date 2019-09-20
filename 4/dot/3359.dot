@@ -1,0 +1,9 @@
+digraph graph3359 {
+	node0 [label="　こう"];
+	node1 [label="暑くては"];
+	node2 [label="猫といえども"];
+	node3 [label="やり切れない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

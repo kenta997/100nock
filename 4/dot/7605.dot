@@ -1,0 +1,5 @@
+digraph graph7605 {
+	node0 [label="「とにかく、"];
+	node1 [label="やろう」"];
+	node0 -> node1;
+}

@@ -1,0 +1,13 @@
+digraph graph2818 {
+	node0 [label="見ると"];
+	node1 [label="先刻"];
+	node2 [label="主人が"];
+	node3 [label="書斎へ"];
+	node4 [label="放り込んだ"];
+	node5 [label="古毛布である。"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

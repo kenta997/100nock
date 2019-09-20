@@ -1,0 +1,9 @@
+digraph graph4958 {
+	node0 [label="銅壺なら"];
+	node1 [label="ひびが"];
+	node2 [label="入るに"];
+	node3 [label="きまっている。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

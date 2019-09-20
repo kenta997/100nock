@@ -1,0 +1,7 @@
+digraph graph3580 {
+	node0 [label="いわゆる"];
+	node1 [label="霊の"];
+	node2 [label="交換だね。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,7 @@
+digraph graph7567 {
+	node0 [label="鼻なんか"];
+	node1 [label="ぴくぴくさせて"];
+	node2 [label="可愛いです」"];
+	node0 -> node1;
+	node1 -> node2;
+}

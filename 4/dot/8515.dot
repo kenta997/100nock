@@ -1,0 +1,15 @@
+digraph graph8515 {
+	node0 [label="こんな"];
+	node1 [label="問題に"];
+	node2 [label="なると"];
+	node3 [label="独仙君は"];
+	node4 [label="なかなか"];
+	node5 [label="引込んでいない"];
+	node6 [label="男である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

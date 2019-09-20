@@ -1,0 +1,11 @@
+digraph graph2950 {
+	node0 [label="「どうせ"];
+	node1 [label="今から"];
+	node2 [label="告訴を"];
+	node3 [label="したって"];
+	node4 [label="間に合いやしません。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

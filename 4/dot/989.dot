@@ -1,0 +1,7 @@
+digraph graph989 {
+	node0 [label="葉が"];
+	node1 [label="落ちるのを"];
+	node2 [label="見たろう。"];
+	node0 -> node1;
+	node1 -> node2;
+}

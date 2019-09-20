@@ -1,0 +1,15 @@
+digraph graph5668 {
+	node0 [label="よく"];
+	node1 [label="よく"];
+	node2 [label="考えて"];
+	node3 [label="見ると"];
+	node4 [label="それは"];
+	node5 [label="御三の"];
+	node6 [label="顔である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

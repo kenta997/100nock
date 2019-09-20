@@ -1,0 +1,9 @@
+digraph graph2123 {
+	node0 [label="役にも"];
+	node1 [label="立たない"];
+	node2 [label="嘘八百を"];
+	node3 [label="並べ立てて。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

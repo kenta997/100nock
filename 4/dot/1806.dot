@@ -1,0 +1,29 @@
+digraph graph1806 {
+	node0 [label="　しかし"];
+	node1 [label="一度"];
+	node2 [label="思い立った"];
+	node3 [label="事を"];
+	node4 [label="中途で"];
+	node5 [label="やめるのは、"];
+	node6 [label="白雨が"];
+	node7 [label="来るかと"];
+	node8 [label="待っている"];
+	node9 [label="時"];
+	node10 [label="黒雲共隣国へ"];
+	node11 [label="通り過ぎたように、"];
+	node12 [label="何となく"];
+	node13 [label="残り惜しい。"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

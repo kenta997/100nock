@@ -1,0 +1,15 @@
+digraph graph8127 {
+	node0 [label="やれやれ"];
+	node1 [label="長い"];
+	node2 [label="道中双六だ」と"];
+	node3 [label="迷亭君は"];
+	node4 [label="ほっと"];
+	node5 [label="一と"];
+	node6 [label="息ついた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

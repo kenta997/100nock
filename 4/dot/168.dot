@@ -1,0 +1,29 @@
+digraph graph168 {
+	node0 [label="もっとも"];
+	node1 [label="これは"];
+	node2 [label="寝ている"];
+	node3 [label="ところを"];
+	node4 [label="写生したのだから"];
+	node5 [label="無理も"];
+	node6 [label="ないが"];
+	node7 [label="眼らしい"];
+	node8 [label="所さえ"];
+	node9 [label="見えないから"];
+	node10 [label="盲猫だか"];
+	node11 [label="寝ている"];
+	node12 [label="猫だか"];
+	node13 [label="判然しないのである。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

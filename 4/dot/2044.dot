@@ -1,0 +1,13 @@
+digraph graph2044 {
+	node0 [label="しばしばを"];
+	node1 [label="自乗した"];
+	node2 [label="ほどの"];
+	node3 [label="度合を"];
+	node4 [label="示す"];
+	node5 [label="語である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,15 @@
+digraph graph1326 {
+	node0 [label="やはり"];
+	node1 [label="人間同等の"];
+	node2 [label="気位で"];
+	node3 [label="彼等の"];
+	node4 [label="思想、"];
+	node5 [label="言行を"];
+	node6 [label="評隲したくなる。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

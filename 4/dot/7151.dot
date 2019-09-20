@@ -1,0 +1,21 @@
+digraph graph7151 {
+	node0 [label="ところへ"];
+	node1 [label="御三が"];
+	node2 [label="台所から"];
+	node3 [label="赤い"];
+	node4 [label="手を"];
+	node5 [label="敷居越に"];
+	node6 [label="揃えて"];
+	node7 [label="「お客さまが"];
+	node8 [label="いらっしゃいました」と"];
+	node9 [label="云う。"];
+	node0 -> node9;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

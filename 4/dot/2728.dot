@@ -1,0 +1,15 @@
+digraph graph2728 {
+	node0 [label="主人は"];
+	node1 [label="赤い"];
+	node2 [label="本に"];
+	node3 [label="拇指を"];
+	node4 [label="挟まれた"];
+	node5 [label="夢でも"];
+	node6 [label="見ているのだろう。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

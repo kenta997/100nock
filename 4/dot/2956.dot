@@ -1,0 +1,11 @@
+digraph graph2956 {
+	node0 [label="俺は"];
+	node1 [label="もう"];
+	node2 [label="盗難告訴を"];
+	node3 [label="書いて"];
+	node4 [label="やらんから」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

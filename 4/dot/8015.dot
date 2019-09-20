@@ -1,0 +1,15 @@
+digraph graph8015 {
+	node0 [label="一歩"];
+	node1 [label="運ぶ"];
+	node2 [label="ごとに"];
+	node3 [label="がさが"];
+	node4 [label="さするのが"];
+	node5 [label="気に"];
+	node6 [label="かかります。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

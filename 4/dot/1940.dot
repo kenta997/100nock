@@ -1,0 +1,11 @@
+digraph graph1940 {
+	node0 [label="「もう"];
+	node1 [label="いい加減に"];
+	node2 [label="博物館へでも"];
+	node3 [label="献納しては"];
+	node4 [label="どうだ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

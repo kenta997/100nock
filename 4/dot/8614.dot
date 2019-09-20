@@ -1,0 +1,5 @@
+digraph graph8614 {
+	node0 [label="「なるよ"];
+	node1 [label="きっとなる。"];
+	node0 -> node1;
+}

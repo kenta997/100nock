@@ -1,0 +1,25 @@
+digraph graph6477 {
+	node0 [label="次に"];
+	node1 [label="塗りつけた"];
+	node2 [label="指を"];
+	node3 [label="転じて"];
+	node4 [label="頬の"];
+	node5 [label="上を"];
+	node6 [label="摩擦したから、"];
+	node7 [label="そこへ"];
+	node8 [label="もってきて、"];
+	node9 [label="これまた"];
+	node10 [label="白いかたまりが"];
+	node11 [label="出来上った。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

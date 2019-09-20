@@ -1,0 +1,5 @@
+digraph graph8967 {
+	node0 [label="「あなたが"];
+	node1 [label="寒月さんですか。"];
+	node0 -> node1;
+}

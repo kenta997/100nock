@@ -1,0 +1,35 @@
+digraph graph1849 {
+	node0 [label="なるほど天地玄黄を"];
+	node1 [label="三寸裏に"];
+	node2 [label="収める"];
+	node3 [label="ほどの"];
+	node4 [label="霊物だけ"];
+	node5 [label="あって、"];
+	node6 [label="到底"];
+	node7 [label="吾輩の"];
+	node8 [label="手に"];
+	node9 [label="合わない、"];
+	node10 [label="尻尾を"];
+	node11 [label="環る"];
+	node12 [label="事七度"];
+	node13 [label="び半に"];
+	node14 [label="して"];
+	node15 [label="草臥れたから"];
+	node16 [label="やめにした。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

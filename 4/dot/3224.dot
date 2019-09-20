@@ -1,0 +1,31 @@
+digraph graph3224 {
+	node0 [label="畳数に"];
+	node1 [label="したら"];
+	node2 [label="四畳"];
+	node3 [label="敷も"];
+	node4 [label="あろうか、"];
+	node5 [label="その"];
+	node6 [label="一畳を"];
+	node7 [label="仕切って"];
+	node8 [label="半分は"];
+	node9 [label="流し、"];
+	node10 [label="半分は"];
+	node11 [label="酒屋八百屋の"];
+	node12 [label="御用を"];
+	node13 [label="聞く"];
+	node14 [label="土間である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

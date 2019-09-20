@@ -1,0 +1,19 @@
+digraph graph6220 {
+	node0 [label="泥棒の"];
+	node1 [label="方が"];
+	node2 [label="虎蔵君より"];
+	node3 [label="男振りが"];
+	node4 [label="いいので、"];
+	node5 [label="こっちが"];
+	node6 [label="刑事だと"];
+	node7 [label="早合点を"];
+	node8 [label="したのだろう。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

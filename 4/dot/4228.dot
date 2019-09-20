@@ -1,0 +1,29 @@
+digraph graph4228 {
+	node0 [label="裏口から"];
+	node1 [label="忍び込むのを"];
+	node2 [label="卑怯とか"];
+	node3 [label="未練とか"];
+	node4 [label="云うが、"];
+	node5 [label="あれは"];
+	node6 [label="表からでなくては"];
+	node7 [label="訪問する"];
+	node8 [label="事が"];
+	node9 [label="出来ぬ"];
+	node10 [label="ものが"];
+	node11 [label="嫉妬半分に"];
+	node12 [label="囃し立てる"];
+	node13 [label="繰り言である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node13;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

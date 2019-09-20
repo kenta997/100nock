@@ -1,0 +1,11 @@
+digraph graph8975 {
+	node0 [label="「どうか御"];
+	node1 [label="遠慮なく」と"];
+	node2 [label="寒月君が"];
+	node3 [label="云うと、"];
+	node4 [label="主人は"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,37 @@
+digraph graph5405 {
+	node0 [label="「先生、"];
+	node1 [label="せんだって"];
+	node2 [label="催眠術の"];
+	node3 [label="かいてある"];
+	node4 [label="本を"];
+	node5 [label="読んだら、"];
+	node6 [label="催眠術を"];
+	node7 [label="応用して"];
+	node8 [label="手癖の"];
+	node9 [label="わるいんだの、"];
+	node10 [label="いろいろな"];
+	node11 [label="病気だのを"];
+	node12 [label="直す"];
+	node13 [label="事が"];
+	node14 [label="出来ると"];
+	node15 [label="書いてあったですが、"];
+	node16 [label="本当でしょうか」と"];
+	node17 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

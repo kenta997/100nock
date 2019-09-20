@@ -1,0 +1,17 @@
+digraph graph8443 {
+	node0 [label="「金田の"];
+	node1 [label="方へ"];
+	node2 [label="断わったかい」と"];
+	node3 [label="主人は"];
+	node4 [label="まだ"];
+	node5 [label="金田を"];
+	node6 [label="気に"];
+	node7 [label="している。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,9 @@
+digraph graph3931 {
+	node0 [label="運動を"];
+	node1 [label="せんと、"];
+	node2 [label="運動せんの"];
+	node3 [label="ではない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

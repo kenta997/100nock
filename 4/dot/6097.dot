@@ -1,0 +1,5 @@
+digraph graph6097 {
+	node0 [label="「奮発は"];
+	node1 [label="結構だがね。"];
+	node0 -> node1;
+}

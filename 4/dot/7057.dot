@@ -1,0 +1,7 @@
+digraph graph7057 {
+	node0 [label="吉原へも"];
+	node1 [label="這入って"];
+	node2 [label="見た。"];
+	node0 -> node2;
+	node1 -> node2;
+}

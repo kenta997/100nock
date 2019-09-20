@@ -1,0 +1,15 @@
+digraph graph4138 {
+	node0 [label="と"];
+	node1 [label="いってまた"];
+	node2 [label="立留まって"];
+	node3 [label="三羽が"];
+	node4 [label="立ち退くのを"];
+	node5 [label="待つのも"];
+	node6 [label="いやだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

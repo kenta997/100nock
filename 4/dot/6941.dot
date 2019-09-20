@@ -1,0 +1,11 @@
+digraph graph6941 {
+	node0 [label="もっとも"];
+	node1 [label="これは"];
+	node2 [label="御婦人に"];
+	node3 [label="限った"];
+	node4 [label="事でない。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

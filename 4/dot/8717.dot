@@ -1,0 +1,5 @@
+digraph graph8717 {
+	node0 [label="謝罪する"];
+	node1 [label="了見ですか」"];
+	node0 -> node1;
+}

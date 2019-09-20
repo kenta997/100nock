@@ -1,0 +1,7 @@
+digraph graph8939 {
+	node0 [label="先生顔色が"];
+	node1 [label="黄です"];
+	node2 [label="ばい。"];
+	node0 -> node1;
+	node1 -> node2;
+}

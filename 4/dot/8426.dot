@@ -1,0 +1,9 @@
+digraph graph8426 {
+	node0 [label="「なに沢山の"];
+	node1 [label="うちを"];
+	node2 [label="三本だけ"];
+	node3 [label="持って来たのです」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

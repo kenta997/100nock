@@ -1,0 +1,15 @@
+digraph graph4465 {
+	node0 [label="あの"];
+	node1 [label="戸の"];
+	node2 [label="潜りの"];
+	node3 [label="所を"];
+	node4 [label="四角に"];
+	node5 [label="切り"];
+	node6 [label="破っての。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

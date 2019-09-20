@@ -1,0 +1,23 @@
+digraph graph9169 {
+	node0 [label="苦しいから"];
+	node1 [label="爪で"];
+	node2 [label="もって"];
+	node3 [label="矢鱈に"];
+	node4 [label="掻いたが、"];
+	node5 [label="掻ける"];
+	node6 [label="ものは"];
+	node7 [label="水ばかりで、"];
+	node8 [label="掻くと"];
+	node9 [label="すぐ"];
+	node10 [label="もぐってしまう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

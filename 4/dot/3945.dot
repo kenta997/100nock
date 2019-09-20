@@ -1,0 +1,29 @@
+digraph graph3945 {
+	node0 [label="さて"];
+	node1 [label="吾輩の"];
+	node2 [label="運動は"];
+	node3 [label="いかなる"];
+	node4 [label="種類の"];
+	node5 [label="運動かと"];
+	node6 [label="不審を"];
+	node7 [label="抱く"];
+	node8 [label="者が"];
+	node9 [label="あるかも"];
+	node10 [label="知れんから"];
+	node11 [label="一応"];
+	node12 [label="説明しようと"];
+	node13 [label="思う。"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

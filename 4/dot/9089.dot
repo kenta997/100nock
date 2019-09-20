@@ -1,0 +1,11 @@
+digraph graph9089 {
+	node0 [label="寄席が"];
+	node1 [label="はねた"];
+	node2 [label="あとのように"];
+	node3 [label="座敷は"];
+	node4 [label="淋しくなった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

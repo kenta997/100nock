@@ -1,0 +1,23 @@
+digraph graph1669 {
+	node0 [label="不幸にして"];
+	node1 [label="その"];
+	node2 [label="意味が"];
+	node3 [label="鼻子には"];
+	node4 [label="分らん"];
+	node5 [label="ものだから"];
+	node6 [label="「へえー」とは"];
+	node7 [label="云ったが"];
+	node8 [label="怪訝な"];
+	node9 [label="顔を"];
+	node10 [label="している。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

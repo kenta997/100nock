@@ -1,0 +1,5 @@
+digraph graph2361 {
+	node0 [label="君"];
+	node1 [label="知ってるか」"];
+	node0 -> node1;
+}

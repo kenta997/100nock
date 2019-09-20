@@ -1,0 +1,13 @@
+digraph graph4989 {
+	node0 [label="小事件を"];
+	node1 [label="記述した"];
+	node2 [label="あとには、"];
+	node3 [label="順序として"];
+	node4 [label="是非大事件を"];
+	node5 [label="話さなければならん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

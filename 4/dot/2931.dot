@@ -1,0 +1,7 @@
+digraph graph2931 {
+	node0 [label="「そんなら"];
+	node1 [label="十二円五十銭くらいに"];
+	node2 [label="しておこう」"];
+	node0 -> node2;
+	node1 -> node2;
+}

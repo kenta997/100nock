@@ -1,0 +1,11 @@
+digraph graph985 {
+	node0 [label="彼は"];
+	node1 [label="万物を"];
+	node2 [label="己れの"];
+	node3 [label="方へと"];
+	node4 [label="引く。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,19 @@
+digraph graph3560 {
+	node0 [label="そいつを"];
+	node1 [label="骨を"];
+	node2 [label="折って"];
+	node3 [label="ようやく"];
+	node4 [label="磨り潰したかと"];
+	node5 [label="思うと"];
+	node6 [label="全体の"];
+	node7 [label="形が"];
+	node8 [label="いびつになるんです。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

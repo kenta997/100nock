@@ -1,0 +1,11 @@
+digraph graph2011 {
+	node0 [label="まず"];
+	node1 [label="Ｈを"];
+	node2 [label="鼻の"];
+	node3 [label="高さと"];
+	node4 [label="します。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,31 @@
+digraph graph809 {
+	node0 [label="その"];
+	node1 [label="主意は"];
+	node2 [label="なるべく"];
+	node3 [label="作中の"];
+	node4 [label="人物に"];
+	node5 [label="同情を"];
+	node6 [label="持って"];
+	node7 [label="その"];
+	node8 [label="性格を"];
+	node9 [label="発揮するのを"];
+	node10 [label="第一として、"];
+	node11 [label="それに"];
+	node12 [label="手真似や"];
+	node13 [label="身振りを"];
+	node14 [label="添えます。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

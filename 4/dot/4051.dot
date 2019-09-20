@@ -1,0 +1,11 @@
+digraph graph4051 {
+	node0 [label="これが"];
+	node1 [label="はなはだ"];
+	node2 [label="蝉取り運動の"];
+	node3 [label="妨害に"];
+	node4 [label="なる。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

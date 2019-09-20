@@ -1,0 +1,19 @@
+digraph graph8899 {
+	node0 [label="火に"];
+	node1 [label="入って"];
+	node2 [label="焼けず、"];
+	node3 [label="水に"];
+	node4 [label="入って"];
+	node5 [label="溺れず……」だけで"];
+	node6 [label="独仙君"];
+	node7 [label="ちょっと"];
+	node8 [label="行き詰る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

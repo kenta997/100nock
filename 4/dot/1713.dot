@@ -1,0 +1,21 @@
+digraph graph1713 {
+	node0 [label="どうか"];
+	node1 [label="私の"];
+	node2 [label="参った"];
+	node3 [label="事は"];
+	node4 [label="寒月さんへは"];
+	node5 [label="内々に"];
+	node6 [label="願います」と"];
+	node7 [label="得手勝手な"];
+	node8 [label="要求を"];
+	node9 [label="する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

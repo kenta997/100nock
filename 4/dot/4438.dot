@@ -1,0 +1,15 @@
+digraph graph4438 {
+	node0 [label="それから"];
+	node1 [label="国へ"];
+	node2 [label="帰って"];
+	node3 [label="見ると"];
+	node4 [label="大明は"];
+	node5 [label="国賊に"];
+	node6 [label="亡ぼされていた。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

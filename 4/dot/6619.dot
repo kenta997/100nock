@@ -1,0 +1,13 @@
+digraph graph6619 {
+	node0 [label="使いこなせない"];
+	node1 [label="者を"];
+	node2 [label="むやみに"];
+	node3 [label="使おうとするのだから、"];
+	node4 [label="勢暴威を"];
+	node5 [label="逞しくせざるを得ない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

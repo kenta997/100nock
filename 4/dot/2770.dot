@@ -1,0 +1,31 @@
+digraph graph2770 {
+	node0 [label="換言すれば"];
+	node1 [label="彼等は"];
+	node2 [label="皆"];
+	node3 [label="同じ"];
+	node4 [label="材料から"];
+	node5 [label="作り上げられている、"];
+	node6 [label="同じ"];
+	node7 [label="材料で"];
+	node8 [label="出来ている"];
+	node9 [label="にも関らず"];
+	node10 [label="一人も"];
+	node11 [label="同じ"];
+	node12 [label="結果に"];
+	node13 [label="出来上って"];
+	node14 [label="おらん。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

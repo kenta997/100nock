@@ -1,0 +1,9 @@
+digraph graph6638 {
+	node0 [label="もう"];
+	node1 [label="四膳かえて、"];
+	node2 [label="今度は"];
+	node3 [label="五杯目である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,29 @@
+digraph graph6688 {
+	node0 [label="この"];
+	node1 [label="発明に"];
+	node2 [label="おやと"];
+	node3 [label="驚ろいた"];
+	node4 [label="妻君は"];
+	node5 [label="それじゃ、"];
+	node6 [label="みんなで"];
+	node7 [label="おとなしく"];
+	node8 [label="御遊びなさいと"];
+	node9 [label="平生の"];
+	node10 [label="通り"];
+	node11 [label="針箱を"];
+	node12 [label="出して仕事に"];
+	node13 [label="取りかかる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node13;
+	node6 -> node13;
+	node7 -> node13;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

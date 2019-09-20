@@ -1,0 +1,11 @@
+digraph graph1768 {
+	node0 [label="仕方が"];
+	node1 [label="ありません」と"];
+	node2 [label="やたらに"];
+	node3 [label="顋を"];
+	node4 [label="撫で廻す。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

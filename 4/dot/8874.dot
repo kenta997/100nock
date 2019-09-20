@@ -1,0 +1,7 @@
+digraph graph8874 {
+	node0 [label="ありがたい"];
+	node1 [label="事に"];
+	node2 [label="なりましたね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

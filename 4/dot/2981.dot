@@ -1,0 +1,15 @@
+digraph graph2981 {
+	node0 [label="細君は"];
+	node1 [label="ようやく"];
+	node2 [label="御機嫌が"];
+	node3 [label="直って"];
+	node4 [label="少々"];
+	node5 [label="笑顔に"];
+	node6 [label="なる。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

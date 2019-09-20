@@ -1,0 +1,21 @@
+digraph graph3003 {
+	node0 [label="「恐い"];
+	node1 [label="顔って"];
+	node2 [label="多々良さん"];
+	node3 [label="見たような"];
+	node4 [label="顔なの」と"];
+	node5 [label="姉が"];
+	node6 [label="気の毒そうにも"];
+	node7 [label="なく、"];
+	node8 [label="押し返して"];
+	node9 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

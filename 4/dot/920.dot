@@ -1,0 +1,9 @@
+digraph graph920 {
+	node0 [label="まるで"];
+	node1 [label="人間の"];
+	node2 [label="取扱を"];
+	node3 [label="受けている。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

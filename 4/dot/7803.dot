@@ -1,0 +1,13 @@
+digraph graph7803 {
+	node0 [label="——"];
+	node1 [label="あの"];
+	node2 [label="高等学校だろう、"];
+	node3 [label="生徒が"];
+	node4 [label="裸足で"];
+	node5 [label="登校するのは……」"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

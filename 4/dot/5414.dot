@@ -1,0 +1,9 @@
+digraph graph5414 {
+	node0 [label="あなたさえ"];
+	node1 [label="善ければ"];
+	node2 [label="懸けて"];
+	node3 [label="見ましょう」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

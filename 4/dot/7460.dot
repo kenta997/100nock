@@ -1,0 +1,27 @@
+digraph graph7460 {
+	node0 [label="　茶の間では"];
+	node1 [label="細君が"];
+	node2 [label="くすくす"];
+	node3 [label="笑いながら、"];
+	node4 [label="京焼の"];
+	node5 [label="安茶碗に"];
+	node6 [label="番茶を"];
+	node7 [label="浪々と"];
+	node8 [label="注いで、"];
+	node9 [label="アンチモニーの"];
+	node10 [label="茶托の"];
+	node11 [label="上へ"];
+	node12 [label="載せて、"];
+	node0 -> node12;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

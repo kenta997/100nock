@@ -1,0 +1,7 @@
+digraph graph682 {
+	node0 [label="「宜い声でしょう」と"];
+	node1 [label="三毛子は"];
+	node2 [label="自慢する。"];
+	node0 -> node2;
+	node1 -> node2;
+}

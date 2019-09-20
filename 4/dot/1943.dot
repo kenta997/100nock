@@ -1,0 +1,11 @@
+digraph graph1943 {
+	node0 [label="「へへへへへ"];
+	node1 [label="もう"];
+	node2 [label="水底から"];
+	node3 [label="呼んでは"];
+	node4 [label="おりません。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

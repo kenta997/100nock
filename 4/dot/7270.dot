@@ -1,0 +1,7 @@
+digraph graph7270 {
+	node0 [label="「浜田と"];
+	node1 [label="云うのは"];
+	node2 [label="浜田平助かい」"];
+	node0 -> node1;
+	node1 -> node2;
+}

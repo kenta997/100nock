@@ -1,0 +1,5 @@
+digraph graph4650 {
+	node0 [label="「馬鹿を"];
+	node1 [label="おっしゃい。"];
+	node0 -> node1;
+}

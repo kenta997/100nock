@@ -1,0 +1,37 @@
+digraph graph3312 {
+	node0 [label="　"];
+	node1 [label="吾輩が"];
+	node2 [label="風呂場へ"];
+	node3 [label="廻ると、"];
+	node4 [label="敵は"];
+	node5 [label="戸棚から"];
+	node6 [label="馳け出し、"];
+	node7 [label="戸棚を"];
+	node8 [label="警戒すると"];
+	node9 [label="流しから"];
+	node10 [label="飛び"];
+	node11 [label="上り、"];
+	node12 [label="台所の"];
+	node13 [label="真中に"];
+	node14 [label="頑張っていると"];
+	node15 [label="三方面共"];
+	node16 [label="少々ずつ"];
+	node17 [label="騒ぎ立てる。"];
+	node0 -> node17;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node17;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node17;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

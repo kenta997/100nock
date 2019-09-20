@@ -1,0 +1,5 @@
+digraph graph2573 {
+	node0 [label="「しかし"];
+	node1 [label="どうかしたんだろう。"];
+	node0 -> node1;
+}

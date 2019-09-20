@@ -1,0 +1,11 @@
+digraph graph626 {
+	node0 [label="ああ"];
+	node1 [label="残念だが"];
+	node2 [label="天祐が"];
+	node3 [label="少し"];
+	node4 [label="足りない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

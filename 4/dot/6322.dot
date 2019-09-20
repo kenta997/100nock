@@ -1,0 +1,5 @@
+digraph graph6322 {
+	node0 [label="はなはだ"];
+	node1 [label="危険である。"];
+	node0 -> node1;
+}

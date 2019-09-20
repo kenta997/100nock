@@ -1,0 +1,9 @@
+digraph graph2125 {
+	node0 [label="「ああ迷亭ですか、"];
+	node1 [label="あいかわらず法螺を"];
+	node2 [label="吹くと"];
+	node3 [label="見えますね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

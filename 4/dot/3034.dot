@@ -1,0 +1,5 @@
+digraph graph3034 {
+	node0 [label="「そうかも"];
+	node1 [label="知れませんたい。"];
+	node0 -> node1;
+}

@@ -1,0 +1,13 @@
+digraph graph3321 {
+	node0 [label="吾輩は"];
+	node1 [label="以上の"];
+	node2 [label="径路を"];
+	node3 [label="たどって、"];
+	node4 [label="ついに"];
+	node5 [label="眠くなった。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

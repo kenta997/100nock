@@ -1,0 +1,13 @@
+digraph graph5485 {
+	node0 [label="喧嘩を"];
+	node1 [label="したり、"];
+	node2 [label="自殺を"];
+	node3 [label="したり"];
+	node4 [label="騒動が"];
+	node5 [label="起るんだね。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

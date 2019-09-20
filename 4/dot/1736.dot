@@ -1,0 +1,33 @@
+digraph graph1736 {
+	node0 [label="「失敬な、——"];
+	node1 [label="甘木さんへ"];
+	node2 [label="行って"];
+	node3 [label="聞いて"];
+	node4 [label="見ろ——"];
+	node5 [label="元来御前が"];
+	node6 [label="こんな"];
+	node7 [label="皺苦茶な"];
+	node8 [label="黒木綿の"];
+	node9 [label="羽織や、"];
+	node10 [label="つぎだらけの"];
+	node11 [label="着物を"];
+	node12 [label="着せておくから、"];
+	node13 [label="あんな"];
+	node14 [label="女に"];
+	node15 [label="馬鹿にされるんだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node12;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

@@ -1,0 +1,21 @@
+digraph graph8505 {
+	node0 [label="悠々とか"];
+	node1 [label="従容とか"];
+	node2 [label="云う"];
+	node3 [label="字は"];
+	node4 [label="劃が"];
+	node5 [label="あって"];
+	node6 [label="意味の"];
+	node7 [label="ない"];
+	node8 [label="言葉に"];
+	node9 [label="なってしまう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

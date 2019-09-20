@@ -1,0 +1,7 @@
+digraph graph7117 {
+	node0 [label="「ええ、"];
+	node1 [label="蝙蝠傘なんか"];
+	node2 [label="欲しかないわ」"];
+	node0 -> node2;
+	node1 -> node2;
+}

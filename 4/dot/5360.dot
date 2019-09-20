@@ -1,0 +1,35 @@
+digraph graph5360 {
+	node0 [label="丸い"];
+	node1 [label="ものは"];
+	node2 [label="ごろごろ"];
+	node3 [label="どこへでも"];
+	node4 [label="苦なしに"];
+	node5 [label="行けるが"];
+	node6 [label="四角な"];
+	node7 [label="ものは"];
+	node8 [label="ころがるに"];
+	node9 [label="骨が"];
+	node10 [label="折れるばかりじゃない、"];
+	node11 [label="転がる"];
+	node12 [label="たびに"];
+	node13 [label="角が"];
+	node14 [label="すれて"];
+	node15 [label="痛い"];
+	node16 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node7;
+	node7 -> node16;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

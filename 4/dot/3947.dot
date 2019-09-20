@@ -1,0 +1,11 @@
+digraph graph3947 {
+	node0 [label="だから"];
+	node1 [label="ボールも"];
+	node2 [label="バットも"];
+	node3 [label="取り扱い方に"];
+	node4 [label="困窮する。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

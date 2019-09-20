@@ -1,0 +1,11 @@
+digraph graph4695 {
+	node0 [label="源因が"];
+	node1 [label="分からないと、"];
+	node2 [label="医者でも"];
+	node3 [label="処方に"];
+	node4 [label="迷惑する。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

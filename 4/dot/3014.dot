@@ -1,0 +1,29 @@
+digraph graph3014 {
+	node0 [label="細君と"];
+	node1 [label="多々良君とは"];
+	node2 [label="思わず"];
+	node3 [label="吹き出したが、"];
+	node4 [label="あまり"];
+	node5 [label="煩わしくて"];
+	node6 [label="話も"];
+	node7 [label="何も"];
+	node8 [label="出来ぬので"];
+	node9 [label="「さあさあ御前さん達は"];
+	node10 [label="少し"];
+	node11 [label="御庭へ"];
+	node12 [label="出て御遊び"];
+	node13 [label="なさい。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

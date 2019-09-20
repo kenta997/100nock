@@ -1,0 +1,5 @@
+digraph graph146 {
+	node0 [label="ちっとも"];
+	node1 [label="知らなかった。"];
+	node0 -> node1;
+}

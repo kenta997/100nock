@@ -1,0 +1,11 @@
+digraph graph9191 {
+	node0 [label="出られないと"];
+	node1 [label="分り切っている"];
+	node2 [label="ものを"];
+	node3 [label="出ようとするのは"];
+	node4 [label="無理だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

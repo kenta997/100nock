@@ -1,0 +1,21 @@
+digraph graph1236 {
+	node0 [label="思い切って"];
+	node1 [label="飲んでしまおうとまた"];
+	node2 [label="茶碗を"];
+	node3 [label="唇へ"];
+	node4 [label="つけると"];
+	node5 [label="また"];
+	node6 [label="ゲーが"];
+	node7 [label="執念深く"];
+	node8 [label="妨害を"];
+	node9 [label="する。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

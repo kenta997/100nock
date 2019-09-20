@@ -1,0 +1,9 @@
+digraph graph6381 {
+	node0 [label="吾輩は"];
+	node1 [label="これで"];
+	node2 [label="読心術を"];
+	node3 [label="心得ている。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

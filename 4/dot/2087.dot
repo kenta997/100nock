@@ -1,0 +1,27 @@
+digraph graph2087 {
+	node0 [label="して"];
+	node1 [label="見れば"];
+	node2 [label="猫たる"];
+	node3 [label="ものは"];
+	node4 [label="いかなる"];
+	node5 [label="盛徳の"];
+	node6 [label="猫でも"];
+	node7 [label="彼の"];
+	node8 [label="邸内で"];
+	node9 [label="決して"];
+	node10 [label="油断は"];
+	node11 [label="出来ぬ"];
+	node12 [label="訳である。"];
+	node0 -> node1;
+	node1 -> node12;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

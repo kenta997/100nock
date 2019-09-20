@@ -1,0 +1,13 @@
+digraph graph1805 {
+	node0 [label="これは"];
+	node1 [label="愚だ、"];
+	node2 [label="やめようかしらんと"];
+	node3 [label="上り口で"];
+	node4 [label="佇んで"];
+	node5 [label="見た。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

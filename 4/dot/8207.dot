@@ -1,0 +1,29 @@
+digraph graph8207 {
+	node0 [label="これが"];
+	node1 [label="ぬすみ食を"];
+	node2 [label="するとか、"];
+	node3 [label="贋札を"];
+	node4 [label="造るとか"];
+	node5 [label="云うなら、"];
+	node6 [label="まだ"];
+	node7 [label="始末が"];
+	node8 [label="いいが、"];
+	node9 [label="音曲は"];
+	node10 [label="人に"];
+	node11 [label="隠しちゃ"];
+	node12 [label="出来ない"];
+	node13 [label="ものだからね」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

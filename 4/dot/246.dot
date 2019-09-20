@@ -1,0 +1,7 @@
+digraph graph246 {
+	node0 [label="「去年の"];
+	node1 [label="大掃除の"];
+	node2 [label="時だ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

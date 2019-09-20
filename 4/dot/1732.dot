@@ -1,0 +1,19 @@
+digraph graph1732 {
+	node0 [label="貴様なぞは"];
+	node1 [label="知るまいが"];
+	node2 [label="昔し"];
+	node3 [label="アイソクラチスと"];
+	node4 [label="云う"];
+	node5 [label="人は"];
+	node6 [label="九十四歳で"];
+	node7 [label="大著述を"];
+	node8 [label="した。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

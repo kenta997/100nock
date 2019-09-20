@@ -1,0 +1,33 @@
+digraph graph1413 {
+	node0 [label="二三日前には"];
+	node1 [label="中の"];
+	node2 [label="娘を"];
+	node3 [label="抱いて"];
+	node4 [label="箪笥の"];
+	node5 [label="上へ"];
+	node6 [label="あげましてね……」"];
+	node7 [label="「どう"];
+	node8 [label="云う"];
+	node9 [label="趣向が"];
+	node10 [label="ありました」と"];
+	node11 [label="迷亭は"];
+	node12 [label="何を"];
+	node13 [label="聞いても"];
+	node14 [label="趣向ずくめに"];
+	node15 [label="解釈する。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

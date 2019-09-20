@@ -1,0 +1,25 @@
+digraph graph7920 {
+	node0 [label="水癲癇、"];
+	node1 [label="人癲癇と"];
+	node2 [label="癲癇にも"];
+	node3 [label="いろいろ"];
+	node4 [label="種類が"];
+	node5 [label="あるが"];
+	node6 [label="君のは"];
+	node7 [label="ウェルテルだけ"];
+	node8 [label="あって、"];
+	node9 [label="ヴァイオリン癲癇だ」と"];
+	node10 [label="迷亭君が"];
+	node11 [label="冷やかすと、"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

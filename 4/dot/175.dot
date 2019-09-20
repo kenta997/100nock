@@ -1,0 +1,25 @@
+digraph graph175 {
+	node0 [label="どうせ"];
+	node1 [label="主人の"];
+	node2 [label="予定は"];
+	node3 [label="打ち壊わしたのだから、"];
+	node4 [label="ついでに"];
+	node5 [label="裏へ"];
+	node6 [label="行って"];
+	node7 [label="用を"];
+	node8 [label="足そうと"];
+	node9 [label="思って"];
+	node10 [label="のそのそ"];
+	node11 [label="這い出した。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

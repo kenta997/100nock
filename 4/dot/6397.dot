@@ -1,0 +1,15 @@
+digraph graph6397 {
+	node0 [label="ぜひ"];
+	node1 [label="何とか"];
+	node2 [label="口を"];
+	node3 [label="切らなければならない"];
+	node4 [label="時は"];
+	node5 [label="うんと"];
+	node6 [label="云う。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

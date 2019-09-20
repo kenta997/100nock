@@ -1,0 +1,15 @@
+digraph graph8311 {
+	node0 [label="この間"];
+	node1 [label="約五分間、"];
+	node2 [label="つづらの"];
+	node3 [label="底では"];
+	node4 [label="始終※が"];
+	node5 [label="鳴いていると"];
+	node6 [label="思って下さい。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

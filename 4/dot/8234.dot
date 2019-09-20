@@ -1,0 +1,17 @@
+digraph graph8234 {
+	node0 [label="と"];
+	node1 [label="云うのは"];
+	node2 [label="僕は"];
+	node3 [label="姥子へ"];
+	node4 [label="着いてから"];
+	node5 [label="三日目に"];
+	node6 [label="煙草を"];
+	node7 [label="切らしてしまったのさ。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

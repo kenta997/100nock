@@ -1,0 +1,27 @@
+digraph graph5685 {
+	node0 [label="「なぜ"];
+	node1 [label="こんなに"];
+	node2 [label="毒々しい"];
+	node3 [label="顔だろう」と"];
+	node4 [label="少々"];
+	node5 [label="不審の"];
+	node6 [label="体で"];
+	node7 [label="鏡を"];
+	node8 [label="眼を"];
+	node9 [label="去る"];
+	node10 [label="三寸ばかりの"];
+	node11 [label="所へ"];
+	node12 [label="引き寄せる。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

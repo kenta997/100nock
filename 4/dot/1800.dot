@@ -1,0 +1,25 @@
+digraph graph1800 {
+	node0 [label="翌日とも"];
+	node1 [label="云わず"];
+	node2 [label="これから"];
+	node3 [label="出掛けようと"];
+	node4 [label="勇猛精進の"];
+	node5 [label="大決心を"];
+	node6 [label="起して"];
+	node7 [label="台所まで"];
+	node8 [label="飛んで"];
+	node9 [label="出たが"];
+	node10 [label="「待てよ」と"];
+	node11 [label="考えた。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

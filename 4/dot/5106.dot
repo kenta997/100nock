@@ -1,0 +1,13 @@
+digraph graph5106 {
+	node0 [label="髯の"];
+	node1 [label="生えている"];
+	node2 [label="主人の"];
+	node3 [label="敵として"];
+	node4 [label="少し"];
+	node5 [label="不似合だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

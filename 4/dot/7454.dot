@@ -1,0 +1,7 @@
+digraph graph7454 {
+	node0 [label="きっと"];
+	node1 [label="愉快だろうと"];
+	node2 [label="思うんです。"];
+	node0 -> node1;
+	node1 -> node2;
+}

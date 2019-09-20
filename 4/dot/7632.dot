@@ -1,0 +1,37 @@
+digraph graph7632 {
+	node0 [label="　"];
+	node1 [label="呑気なる"];
+	node2 [label="迷亭君と、"];
+	node3 [label="禅機"];
+	node4 [label="ある"];
+	node5 [label="独仙君とは、"];
+	node6 [label="どう"];
+	node7 [label="云う"];
+	node8 [label="了見か、"];
+	node9 [label="今日に"];
+	node10 [label="限って"];
+	node11 [label="戸棚から"];
+	node12 [label="古碁盤を"];
+	node13 [label="引きずり出して、"];
+	node14 [label="この"];
+	node15 [label="暑苦しい"];
+	node16 [label="いたずらを"];
+	node17 [label="始めたのである。"];
+	node0 -> node17;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node17;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node16;
+	node15 -> node16;
+	node16 -> node17;
+}

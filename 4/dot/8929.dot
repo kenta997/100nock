@@ -1,0 +1,9 @@
+digraph graph8929 {
+	node0 [label="「今の"];
+	node1 [label="はね、"];
+	node2 [label="御主人の"];
+	node3 [label="御考ではないですよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

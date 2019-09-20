@@ -1,0 +1,9 @@
+digraph graph7767 {
+	node0 [label="碁は"];
+	node1 [label="まずいが、"];
+	node2 [label="度胸は"];
+	node3 [label="据ってる」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

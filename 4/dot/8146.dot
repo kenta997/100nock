@@ -1,0 +1,5 @@
+digraph graph8146 {
+	node0 [label="大変"];
+	node1 [label="面白い」"];
+	node0 -> node1;
+}

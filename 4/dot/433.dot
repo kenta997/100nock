@@ -1,0 +1,19 @@
+digraph graph433 {
+	node0 [label="ほかに"];
+	node1 [label="着る"];
+	node2 [label="物が"];
+	node3 [label="ないからか、"];
+	node4 [label="有っても"];
+	node5 [label="面倒だから"];
+	node6 [label="着換えないのか、"];
+	node7 [label="吾輩には"];
+	node8 [label="分らぬ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

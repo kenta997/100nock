@@ -1,0 +1,33 @@
+digraph graph894 {
+	node0 [label="日に"];
+	node1 [label="二度も"];
+	node2 [label="三度も"];
+	node3 [label="方丈の"];
+	node4 [label="食饌に"];
+	node5 [label="就き候えば"];
+	node6 [label="如何なる"];
+	node7 [label="健胃の"];
+	node8 [label="人にても"];
+	node9 [label="消化機能に"];
+	node10 [label="不調を"];
+	node11 [label="醸すべく、"];
+	node12 [label="従って"];
+	node13 [label="自然は"];
+	node14 [label="大兄の"];
+	node15 [label="如く……」"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

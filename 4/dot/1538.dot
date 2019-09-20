@@ -1,0 +1,31 @@
+digraph graph1538 {
+	node0 [label="その"];
+	node1 [label="晩は"];
+	node2 [label="寒月君が"];
+	node3 [label="いかなる"];
+	node4 [label="態度で、"];
+	node5 [label="いかなる"];
+	node6 [label="雄弁を"];
+	node7 [label="振ったか"];
+	node8 [label="遠方で"];
+	node9 [label="起った"];
+	node10 [label="出来事の"];
+	node11 [label="事だから"];
+	node12 [label="吾輩には"];
+	node13 [label="知れよう訳が"];
+	node14 [label="ない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

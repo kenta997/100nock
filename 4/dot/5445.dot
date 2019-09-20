@@ -1,0 +1,19 @@
+digraph graph5445 {
+	node0 [label="しかして"];
+	node1 [label="この"];
+	node2 [label="珍客は"];
+	node3 [label="この"];
+	node4 [label="余瀾を"];
+	node5 [label="描くに"];
+	node6 [label="方って"];
+	node7 [label="逸すべからざる"];
+	node8 [label="材料である。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

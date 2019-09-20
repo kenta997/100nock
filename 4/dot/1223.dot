@@ -1,0 +1,9 @@
+digraph graph1223 {
+	node0 [label="「さよう」と"];
+	node1 [label="先生は"];
+	node2 [label="また"];
+	node3 [label="考え込む。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

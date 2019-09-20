@@ -1,0 +1,35 @@
+digraph graph7791 {
+	node0 [label="「今では"];
+	node1 [label="若い人が"];
+	node2 [label="ヴァイオリンの"];
+	node3 [label="箱を"];
+	node4 [label="さげて、"];
+	node5 [label="よく"];
+	node6 [label="往来などを"];
+	node7 [label="あるいておりますが、"];
+	node8 [label="その"];
+	node9 [label="時分は"];
+	node10 [label="高等学校生で"];
+	node11 [label="西洋の"];
+	node12 [label="音楽などを"];
+	node13 [label="やった"];
+	node14 [label="ものは"];
+	node15 [label="ほとんど"];
+	node16 [label="なかったのです。"];
+	node0 -> node7;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node16;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

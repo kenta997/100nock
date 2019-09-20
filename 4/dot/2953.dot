@@ -1,0 +1,11 @@
+digraph graph2953 {
+	node0 [label="「そんなら、"];
+	node1 [label="品物の"];
+	node2 [label="方も"];
+	node3 [label="あとは"];
+	node4 [label="ありません」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

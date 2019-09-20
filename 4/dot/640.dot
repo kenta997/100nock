@@ -1,0 +1,13 @@
+digraph graph640 {
+	node0 [label="御三は"];
+	node1 [label="もっと"];
+	node2 [label="踊らせようじゃありませんかという"];
+	node3 [label="眼付で"];
+	node4 [label="細君を"];
+	node5 [label="見る。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

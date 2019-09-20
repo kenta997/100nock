@@ -1,0 +1,19 @@
+digraph graph4931 {
+	node0 [label="学者作家は"];
+	node1 [label="もっとも"];
+	node2 [label="多く"];
+	node3 [label="頭を"];
+	node4 [label="使う"];
+	node5 [label="ものであって"];
+	node6 [label="大概は"];
+	node7 [label="貧乏に"];
+	node8 [label="極っている。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

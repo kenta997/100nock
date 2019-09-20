@@ -1,0 +1,13 @@
+digraph graph5863 {
+	node0 [label="そこに"];
+	node1 [label="いるなら"];
+	node2 [label="何とか"];
+	node3 [label="云えばいいのに、"];
+	node4 [label="まるで"];
+	node5 [label="空家のようじゃないか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

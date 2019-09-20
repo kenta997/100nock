@@ -1,0 +1,5 @@
+digraph graph8888 {
+	node0 [label="「賢者って"];
+	node1 [label="だれですか」"];
+	node0 -> node1;
+}

@@ -1,0 +1,17 @@
+digraph graph7455 {
+	node0 [label="どうしても"];
+	node1 [label="虎の"];
+	node2 [label="鳴き声は"];
+	node3 [label="夜なかに"];
+	node4 [label="聞かなくっちゃ、"];
+	node5 [label="聞いたとは"];
+	node6 [label="いわれないだろうと"];
+	node7 [label="思うんです」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+}

@@ -1,0 +1,19 @@
+digraph graph8536 {
+	node0 [label="「カーライルの"];
+	node1 [label="事なら、"];
+	node2 [label="みんなが"];
+	node3 [label="立ってても"];
+	node4 [label="平気だったかも"];
+	node5 [label="知れませんよ」と"];
+	node6 [label="寒月君が"];
+	node7 [label="短評を"];
+	node8 [label="試みた。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,5 @@
+digraph graph2208 {
+	node0 [label="ただ"];
+	node1 [label="それだけである。"];
+	node0 -> node1;
+}

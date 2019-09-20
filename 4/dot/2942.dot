@@ -1,0 +1,13 @@
+digraph graph2942 {
+	node0 [label="それから"];
+	node1 [label="あとは——"];
+	node2 [label="俺の"];
+	node3 [label="着物は"];
+	node4 [label="一向"];
+	node5 [label="出て来んじゃないか」"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

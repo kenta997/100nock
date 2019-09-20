@@ -1,0 +1,9 @@
+digraph graph1275 {
+	node0 [label="吾輩は"];
+	node1 [label="急に"];
+	node2 [label="動悸が"];
+	node3 [label="して来た。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

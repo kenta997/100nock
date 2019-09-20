@@ -1,0 +1,23 @@
+digraph graph8066 {
+	node0 [label="とうてい"];
+	node1 [label="こりゃ"];
+	node2 [label="宵の口は"];
+	node3 [label="駄目だ、と"];
+	node4 [label="云って"];
+	node5 [label="真夜中に"];
+	node6 [label="来れば"];
+	node7 [label="金善は"];
+	node8 [label="寝てしまうから"];
+	node9 [label="なお"];
+	node10 [label="駄目だ。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,33 @@
+digraph graph516 {
+	node0 [label="ところが"];
+	node1 [label="骨を"];
+	node2 [label="揉まなければ"];
+	node3 [label="癒らぬとか、"];
+	node4 [label="臓腑の"];
+	node5 [label="位置を"];
+	node6 [label="一度"];
+	node7 [label="顛倒しなければ"];
+	node8 [label="根治が"];
+	node9 [label="しにくいとか"];
+	node10 [label="いって、"];
+	node11 [label="それは"];
+	node12 [label="それは"];
+	node13 [label="残酷な"];
+	node14 [label="揉み方を"];
+	node15 [label="やる。"];
+	node0 -> node15;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node15;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

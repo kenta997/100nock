@@ -1,0 +1,31 @@
+digraph graph4288 {
+	node0 [label="これで"];
+	node1 [label="考えても"];
+	node2 [label="彼等の"];
+	node3 [label="礼服なる"];
+	node4 [label="ものは"];
+	node5 [label="一種の"];
+	node6 [label="頓珍漢的作用によって、"];
+	node7 [label="馬鹿と"];
+	node8 [label="馬鹿の"];
+	node9 [label="相談から"];
+	node10 [label="成立した"];
+	node11 [label="ものだと"];
+	node12 [label="云う"];
+	node13 [label="事が"];
+	node14 [label="分る。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

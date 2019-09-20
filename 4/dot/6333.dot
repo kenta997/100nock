@@ -1,0 +1,5 @@
+digraph graph6333 {
+	node0 [label="いよいよ"];
+	node1 [label="大変だ。"];
+	node0 -> node1;
+}

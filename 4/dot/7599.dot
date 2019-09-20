@@ -1,0 +1,29 @@
+digraph graph7599 {
+	node0 [label="成敗を"];
+	node1 [label="度外において、"];
+	node2 [label="白雲の"];
+	node3 [label="自然に"];
+	node4 [label="岫を"];
+	node5 [label="出でて"];
+	node6 [label="冉々たるごとき"];
+	node7 [label="心持ちで"];
+	node8 [label="一局を"];
+	node9 [label="了してこそ、"];
+	node10 [label="個中の"];
+	node11 [label="味は"];
+	node12 [label="わかる"];
+	node13 [label="ものだよ」"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

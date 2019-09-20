@@ -1,0 +1,9 @@
+digraph graph9092 {
+	node0 [label="小供は"];
+	node1 [label="枕を"];
+	node2 [label="並べて"];
+	node3 [label="寝る。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

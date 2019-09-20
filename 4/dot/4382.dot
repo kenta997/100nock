@@ -1,0 +1,9 @@
+digraph graph4382 {
+	node0 [label="飛び込みながら"];
+	node1 [label="「箆棒に"];
+	node2 [label="温るいや」と"];
+	node3 [label="云った。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

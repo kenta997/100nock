@@ -1,0 +1,9 @@
+digraph graph1576 {
+	node0 [label="直線とは"];
+	node1 [label="鯨より"];
+	node2 [label="細いという"];
+	node3 [label="形容である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

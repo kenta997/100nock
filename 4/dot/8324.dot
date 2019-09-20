@@ -1,0 +1,11 @@
+digraph graph8324 {
+	node0 [label="「うん、"];
+	node1 [label="そうか、"];
+	node2 [label="これは"];
+	node3 [label="失敬、"];
+	node4 [label="謹聴謹聴」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

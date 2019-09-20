@@ -1,0 +1,11 @@
+digraph graph7051 {
+	node0 [label="「誰が"];
+	node1 [label="警察から"];
+	node2 [label="油壺を"];
+	node3 [label="貰ってくる"];
+	node4 [label="ものか。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

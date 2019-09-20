@@ -1,0 +1,33 @@
+digraph graph3749 {
+	node0 [label="頭だけで"];
+	node1 [label="評すると"];
+	node2 [label="何か"];
+	node3 [label="緞帳役者のようにも"];
+	node4 [label="見えるが、"];
+	node5 [label="白い"];
+	node6 [label="小倉の"];
+	node7 [label="袴の"];
+	node8 [label="ゴワゴワするのを"];
+	node9 [label="御苦労にも"];
+	node10 [label="鹿爪らしく"];
+	node11 [label="穿いている"];
+	node12 [label="ところは"];
+	node13 [label="榊原健吉の"];
+	node14 [label="内弟子としか"];
+	node15 [label="思えない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node15;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

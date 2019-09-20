@@ -1,0 +1,25 @@
+digraph graph7489 {
+	node0 [label="あの"];
+	node1 [label="表面は"];
+	node2 [label="超絶的曲線で"];
+	node3 [label="とうてい"];
+	node4 [label="普通の"];
+	node5 [label="ファンクションでは"];
+	node6 [label="あらわせないです」と、"];
+	node7 [label="理学者だけに"];
+	node8 [label="むずかしい"];
+	node9 [label="事を"];
+	node10 [label="云うと、"];
+	node11 [label="主人は"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

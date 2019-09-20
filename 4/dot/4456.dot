@@ -1,0 +1,23 @@
+digraph graph4456 {
+	node0 [label="爺さんは"];
+	node1 [label="やがて"];
+	node2 [label="今上り立ての"];
+	node3 [label="四つばかりの"];
+	node4 [label="男の子を"];
+	node5 [label="見て"];
+	node6 [label="「坊ちゃん、"];
+	node7 [label="こちらへ"];
+	node8 [label="おいで」と"];
+	node9 [label="手を"];
+	node10 [label="出す。"];
+	node0 -> node10;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

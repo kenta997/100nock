@@ -1,0 +1,5 @@
+digraph graph8157 {
+	node0 [label="戸袋の"];
+	node1 [label="なかか」"];
+	node0 -> node1;
+}

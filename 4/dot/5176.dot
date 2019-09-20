@@ -1,0 +1,23 @@
+digraph graph5176 {
+	node0 [label="　"];
+	node1 [label="ここに"];
+	node2 [label="至って"];
+	node3 [label="下女も"];
+	node4 [label="やむを得んと"];
+	node5 [label="心得た"];
+	node6 [label="ものか、"];
+	node7 [label="「へえ」と"];
+	node8 [label="云って"];
+	node9 [label="出て"];
+	node10 [label="行った。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

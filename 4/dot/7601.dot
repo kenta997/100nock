@@ -1,0 +1,15 @@
+digraph graph7601 {
+	node0 [label="そんな"];
+	node1 [label="仙骨を"];
+	node2 [label="相手に"];
+	node3 [label="しちゃ"];
+	node4 [label="少々"];
+	node5 [label="骨が"];
+	node6 [label="折れ過ぎる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

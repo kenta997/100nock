@@ -1,0 +1,25 @@
+digraph graph2479 {
+	node0 [label="君も"];
+	node1 [label="僕も"];
+	node2 [label="その辺に"];
+	node3 [label="ぬかりは"];
+	node4 [label="ない"];
+	node5 [label="当世の"];
+	node6 [label="才子だが、"];
+	node7 [label="そこへ"];
+	node8 [label="行くと"];
+	node9 [label="苦沙弥などは"];
+	node10 [label="憐れな"];
+	node11 [label="ものだ。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

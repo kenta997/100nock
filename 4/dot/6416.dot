@@ -1,0 +1,25 @@
+digraph graph6416 {
+	node0 [label="　"];
+	node1 [label="吾輩は"];
+	node2 [label="主人と"];
+	node3 [label="違って、"];
+	node4 [label="元来が"];
+	node5 [label="早起の"];
+	node6 [label="方だから、"];
+	node7 [label="この"];
+	node8 [label="時"];
+	node9 [label="すでに"];
+	node10 [label="空腹に"];
+	node11 [label="なって参った。"];
+	node0 -> node11;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

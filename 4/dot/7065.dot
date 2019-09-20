@@ -1,0 +1,5 @@
+digraph graph7065 {
+	node0 [label="ねえ叔母さん、"];
+	node1 [label="叔母さん」"];
+	node0 -> node1;
+}

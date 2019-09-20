@@ -1,0 +1,11 @@
+digraph graph8804 {
+	node0 [label="美は"];
+	node1 [label="詩歌、"];
+	node2 [label="音楽の"];
+	node3 [label="形式に"];
+	node4 [label="分れます。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph8314 {
+	node0 [label="「まだ"];
+	node1 [label="弾きゃしません。"];
+	node0 -> node1;
+}

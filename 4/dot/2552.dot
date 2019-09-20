@@ -1,0 +1,25 @@
+digraph graph2552 {
+	node0 [label="しかし"];
+	node1 [label="寒月が"];
+	node2 [label="博士論文を"];
+	node3 [label="草"];
+	node4 [label="しかけたのは"];
+	node5 [label="何よりの"];
+	node6 [label="御見やげで、"];
+	node7 [label="こればかりは"];
+	node8 [label="迷亭先生自賛のごとく"];
+	node9 [label="まずまず"];
+	node10 [label="近来の"];
+	node11 [label="珍報である。"];
+	node0 -> node11;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

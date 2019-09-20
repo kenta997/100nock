@@ -1,0 +1,23 @@
+digraph graph339 {
+	node0 [label="　"];
+	node1 [label="吾輩は"];
+	node2 [label="新年来"];
+	node3 [label="多少"];
+	node4 [label="有名になったので、"];
+	node5 [label="猫ながら"];
+	node6 [label="ちょっと"];
+	node7 [label="鼻が"];
+	node8 [label="高く"];
+	node9 [label="感ぜらるるのは"];
+	node10 [label="ありがたい。"];
+	node0 -> node10;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

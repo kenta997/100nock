@@ -1,0 +1,31 @@
+digraph graph6447 {
+	node0 [label="それから"];
+	node1 [label="その"];
+	node2 [label="長い"];
+	node3 [label="奴を"];
+	node4 [label="七輪の"];
+	node5 [label="角で"];
+	node6 [label="ぽんぽんと"];
+	node7 [label="敲いたら、"];
+	node8 [label="長いのが"];
+	node9 [label="三つほどに"];
+	node10 [label="砕けて"];
+	node11 [label="近所は"];
+	node12 [label="炭の"];
+	node13 [label="粉で"];
+	node14 [label="真黒くなった。"];
+	node0 -> node7;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

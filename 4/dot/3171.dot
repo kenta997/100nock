@@ -1,0 +1,13 @@
+digraph graph3171 {
+	node0 [label="「多々良、"];
+	node1 [label="散歩を"];
+	node2 [label="しようか」と"];
+	node3 [label="突然"];
+	node4 [label="主人が"];
+	node5 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

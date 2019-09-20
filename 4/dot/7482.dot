@@ -1,0 +1,15 @@
+digraph graph7482 {
+	node0 [label="あの"];
+	node1 [label="時々"];
+	node2 [label="おいでに"];
+	node3 [label="なる"];
+	node4 [label="御嬢さんが"];
+	node5 [label="御張りに"];
+	node6 [label="なったんですか」"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

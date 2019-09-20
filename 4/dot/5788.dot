@@ -1,0 +1,9 @@
+digraph graph5788 {
+	node0 [label="父母も"];
+	node1 [label="汝に"];
+	node2 [label="私"];
+	node3 [label="あるべし。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

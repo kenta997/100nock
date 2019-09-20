@@ -1,0 +1,5 @@
+digraph graph9054 {
+	node0 [label="「着物が"];
+	node1 [label="ないですか。"];
+	node0 -> node1;
+}

@@ -1,0 +1,5 @@
+digraph graph158 {
+	node0 [label="吾輩は"];
+	node1 [label="自白する。"];
+	node0 -> node1;
+}

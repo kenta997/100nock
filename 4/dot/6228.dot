@@ -1,0 +1,7 @@
+digraph graph6228 {
+	node0 [label="まことに"];
+	node1 [label="気の毒な"];
+	node2 [label="至りである。"];
+	node0 -> node1;
+	node1 -> node2;
+}

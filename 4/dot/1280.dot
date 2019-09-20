@@ -1,0 +1,13 @@
+digraph graph1280 {
+	node0 [label="　三毛子も"];
+	node1 [label="甘木先生に"];
+	node2 [label="診察して"];
+	node3 [label="貰った"];
+	node4 [label="ものと"];
+	node5 [label="見える。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

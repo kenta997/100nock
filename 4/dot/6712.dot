@@ -1,0 +1,5 @@
+digraph graph6712 {
+	node0 [label="「なあに品物が"];
+	node1 [label="戻るのよ。"];
+	node0 -> node1;
+}

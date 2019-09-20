@@ -1,0 +1,35 @@
+digraph graph6744 {
+	node0 [label="うちだって"];
+	node1 [label="貯蓄は"];
+	node2 [label="なし、"];
+	node3 [label="こうして"];
+	node4 [label="小供は"];
+	node5 [label="三人も"];
+	node6 [label="あるし、"];
+	node7 [label="せめて"];
+	node8 [label="保険へでも"];
+	node9 [label="這入ってくれると"];
+	node10 [label="よっぽど"];
+	node11 [label="心丈夫なんですけれども、"];
+	node12 [label="そんな"];
+	node13 [label="事は"];
+	node14 [label="少しも"];
+	node15 [label="構わないんです"];
+	node16 [label="もの」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node16;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

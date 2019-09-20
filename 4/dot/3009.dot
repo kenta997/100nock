@@ -1,0 +1,19 @@
+digraph graph3009 {
+	node0 [label="一カ月前から"];
+	node1 [label="出来だして"];
+	node2 [label="医者に"];
+	node3 [label="見て"];
+	node4 [label="貰ったが、"];
+	node5 [label="まだ"];
+	node6 [label="容易に"];
+	node7 [label="癒りそうも"];
+	node8 [label="ない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

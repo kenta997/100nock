@@ -1,0 +1,13 @@
+digraph graph8524 {
+	node0 [label="今の"];
+	node1 [label="人は"];
+	node2 [label="親切を"];
+	node3 [label="しても"];
+	node4 [label="自然を"];
+	node5 [label="かいている。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

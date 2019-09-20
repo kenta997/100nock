@@ -1,0 +1,15 @@
+digraph graph6552 {
+	node0 [label="上を"];
+	node1 [label="見ると"];
+	node2 [label="明治"];
+	node3 [label="十一年"];
+	node4 [label="九月"];
+	node5 [label="廿八日と"];
+	node6 [label="ある。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

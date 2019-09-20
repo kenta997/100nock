@@ -1,0 +1,9 @@
+digraph graph5765 {
+	node0 [label="泥棒に"];
+	node1 [label="あったのではあるまいし、"];
+	node2 [label="とられたとは"];
+	node3 [label="不穏当である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

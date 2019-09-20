@@ -1,0 +1,13 @@
+digraph graph710 {
+	node0 [label="さようなら」"];
+	node1 [label="少しは"];
+	node2 [label="名残り"];
+	node3 [label="惜し"];
+	node4 [label="気に"];
+	node5 [label="見えた。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

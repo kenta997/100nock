@@ -1,0 +1,27 @@
+digraph graph4177 {
+	node0 [label="運動も"];
+	node1 [label="いいが"];
+	node2 [label="度を"];
+	node3 [label="過ごすと"];
+	node4 [label="行かぬ"];
+	node5 [label="者で、"];
+	node6 [label="からだ全体が"];
+	node7 [label="何となく"];
+	node8 [label="緊りが"];
+	node9 [label="ない、"];
+	node10 [label="ぐたぐたの"];
+	node11 [label="感が"];
+	node12 [label="ある。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

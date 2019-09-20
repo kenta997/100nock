@@ -1,0 +1,23 @@
+digraph graph4276 {
+	node0 [label="一たび服装の"];
+	node1 [label="動物と"];
+	node2 [label="なった"];
+	node3 [label="後に、"];
+	node4 [label="突然"];
+	node5 [label="裸体動物に"];
+	node6 [label="出逢えば"];
+	node7 [label="人間とは"];
+	node8 [label="認めない、"];
+	node9 [label="獣と"];
+	node10 [label="思う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

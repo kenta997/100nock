@@ -1,0 +1,11 @@
+digraph graph4818 {
+	node0 [label="但し"];
+	node1 [label="座敷の"];
+	node2 [label="正面までは"];
+	node3 [label="深入りを"];
+	node4 [label="しない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

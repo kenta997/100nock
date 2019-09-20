@@ -1,0 +1,5 @@
+digraph graph7787 {
+	node0 [label="参考に"];
+	node1 [label="したいから」"];
+	node0 -> node1;
+}

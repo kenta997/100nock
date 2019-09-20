@@ -1,0 +1,11 @@
+digraph graph2038 {
+	node0 [label="寒月は"];
+	node1 [label="羽織の"];
+	node2 [label="紐を"];
+	node3 [label="撚って"];
+	node4 [label="にやにやする。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

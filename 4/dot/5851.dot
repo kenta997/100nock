@@ -1,0 +1,27 @@
+digraph graph5851 {
+	node0 [label="取次に"];
+	node1 [label="出るのは"];
+	node2 [label="主人の"];
+	node3 [label="役目でないという"];
+	node4 [label="主義か、"];
+	node5 [label="この"];
+	node6 [label="主人は"];
+	node7 [label="決して"];
+	node8 [label="書斎から"];
+	node9 [label="挨拶を"];
+	node10 [label="した"];
+	node11 [label="事が"];
+	node12 [label="ない。"];
+	node0 -> node1;
+	node1 -> node12;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node12;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

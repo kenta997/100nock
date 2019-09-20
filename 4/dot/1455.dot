@@ -1,0 +1,13 @@
+digraph graph1455 {
+	node0 [label="「何そんな"];
+	node1 [label="手数の"];
+	node2 [label="かかる"];
+	node3 [label="事を"];
+	node4 [label="しないでも"];
+	node5 [label="出来ます。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,9 @@
+digraph graph6725 {
+	node0 [label="あれで"];
+	node1 [label="よく"];
+	node2 [label="学校が"];
+	node3 [label="勤まるのね」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

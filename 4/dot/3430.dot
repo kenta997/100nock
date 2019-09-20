@@ -1,0 +1,15 @@
+digraph graph3430 {
+	node0 [label="これを"];
+	node1 [label="問い返されないと"];
+	node2 [label="迷亭は"];
+	node3 [label="せっかく"];
+	node4 [label="持ち出した"];
+	node5 [label="甲斐が"];
+	node6 [label="ない。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

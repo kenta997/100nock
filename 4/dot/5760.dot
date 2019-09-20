@@ -1,0 +1,9 @@
+digraph graph5760 {
+	node0 [label="と"];
+	node1 [label="あって"];
+	node2 [label="差し出し人は"];
+	node3 [label="華族様である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

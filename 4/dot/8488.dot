@@ -1,0 +1,5 @@
+digraph graph8488 {
+	node0 [label="「刑事は"];
+	node1 [label="刑事だ。"];
+	node0 -> node1;
+}

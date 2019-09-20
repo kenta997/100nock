@@ -1,0 +1,5 @@
+digraph graph6720 {
+	node0 [label="本当に"];
+	node1 [label="あきれ返ってしまうの」"];
+	node0 -> node1;
+}

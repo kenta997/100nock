@@ -1,0 +1,15 @@
+digraph graph4932 {
+	node0 [label="だから"];
+	node1 [label="学者作家の"];
+	node2 [label="頭は"];
+	node3 [label="みんな"];
+	node4 [label="営養不足で"];
+	node5 [label="みんな"];
+	node6 [label="禿げている。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

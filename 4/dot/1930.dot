@@ -1,0 +1,7 @@
+digraph graph1930 {
+	node0 [label="あいかわらず太平の"];
+	node1 [label="逸民の"];
+	node2 [label="会合である。"];
+	node0 -> node1;
+	node1 -> node2;
+}

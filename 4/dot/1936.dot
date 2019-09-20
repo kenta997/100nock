@@ -1,0 +1,9 @@
+digraph graph1936 {
+	node0 [label="「そうさ、"];
+	node1 [label="到底"];
+	node2 [label="日露戦争時代の"];
+	node3 [label="ものではないな。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

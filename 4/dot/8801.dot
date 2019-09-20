@@ -1,0 +1,21 @@
+digraph graph8801 {
+	node0 [label="吾人の"];
+	node1 [label="情操を"];
+	node2 [label="優美にし、"];
+	node3 [label="品性を"];
+	node4 [label="高潔にし、"];
+	node5 [label="同情を"];
+	node6 [label="洗錬するのは"];
+	node7 [label="全く"];
+	node8 [label="両者の"];
+	node9 [label="御蔭であります。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

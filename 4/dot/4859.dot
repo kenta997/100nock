@@ -1,0 +1,15 @@
+digraph graph4859 {
+	node0 [label="しかるに"];
+	node1 [label="この"];
+	node2 [label="血液の"];
+	node3 [label="分量は"];
+	node4 [label="個人によって"];
+	node5 [label="ちゃんと"];
+	node6 [label="極まっている。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

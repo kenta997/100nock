@@ -1,0 +1,11 @@
+digraph graph6779 {
+	node0 [label="それじゃ、"];
+	node1 [label="あの"];
+	node2 [label="方が"];
+	node3 [label="いいでしょう——ほらあの"];
+	node4 [label="落ちついてる——」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,27 @@
+digraph graph101 {
+	node0 [label="自分の"];
+	node1 [label="勝手な"];
+	node2 [label="時は"];
+	node3 [label="人を"];
+	node4 [label="逆さに"];
+	node5 [label="したり、"];
+	node6 [label="頭へ"];
+	node7 [label="袋を"];
+	node8 [label="かぶせたり、"];
+	node9 [label="抛り出したり、"];
+	node10 [label="へっついの"];
+	node11 [label="中へ"];
+	node12 [label="押し込んだりする。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node12;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

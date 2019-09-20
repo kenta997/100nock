@@ -1,0 +1,5 @@
+digraph graph2181 {
+	node0 [label="訳は"];
+	node1 [label="ありません。"];
+	node0 -> node1;
+}

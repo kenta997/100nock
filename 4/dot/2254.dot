@@ -1,0 +1,19 @@
+digraph graph2254 {
+	node0 [label="「そんなに"];
+	node1 [label="人の"];
+	node2 [label="事を"];
+	node3 [label="おっしゃるが、"];
+	node4 [label="あなただって"];
+	node5 [label="鼻の"];
+	node6 [label="孔へ"];
+	node7 [label="白髪が"];
+	node8 [label="生えてるじゃありませんか。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

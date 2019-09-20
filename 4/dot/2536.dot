@@ -1,0 +1,13 @@
+digraph graph2536 {
+	node0 [label="迷亭の"];
+	node1 [label="おらぬ"];
+	node2 [label="時の"];
+	node3 [label="語気とは"];
+	node4 [label="よほど"];
+	node5 [label="違っている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

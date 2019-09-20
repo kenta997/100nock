@@ -1,0 +1,27 @@
+digraph graph765 {
+	node0 [label="主客の"];
+	node1 [label="対話は"];
+	node2 [label="途中からであるから"];
+	node3 [label="前後が"];
+	node4 [label="よく"];
+	node5 [label="分らんが、"];
+	node6 [label="何でも"];
+	node7 [label="吾輩が"];
+	node8 [label="前回に"];
+	node9 [label="紹介した"];
+	node10 [label="美学者迷亭君の"];
+	node11 [label="事に"];
+	node12 [label="関しているらしい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

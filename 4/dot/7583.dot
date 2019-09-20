@@ -1,0 +1,31 @@
+digraph graph7583 {
+	node0 [label="実は"];
+	node1 [label="二三日中に"];
+	node2 [label="ちょっと"];
+	node3 [label="帰国しなければならない"];
+	node4 [label="事が"];
+	node5 [label="出来ましたから、"];
+	node6 [label="当分"];
+	node7 [label="どこへも"];
+	node8 [label="御伴は"];
+	node9 [label="出来ませんから、"];
+	node10 [label="今日は"];
+	node11 [label="是非いっしょに"];
+	node12 [label="散歩を"];
+	node13 [label="しようと"];
+	node14 [label="思って来たんです」"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node14;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

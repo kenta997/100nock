@@ -1,0 +1,11 @@
+digraph graph3029 {
+	node0 [label="「先生は"];
+	node1 [label="どうしても"];
+	node2 [label="教えて下さらないから、"];
+	node3 [label="あなたに"];
+	node4 [label="聞くんです」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

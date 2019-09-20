@@ -1,0 +1,9 @@
+digraph graph8273 {
+	node0 [label="「おい、"];
+	node1 [label="独仙君、"];
+	node2 [label="起きた"];
+	node3 [label="起きた。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,5 @@
+digraph graph8984 {
+	node0 [label="太陽へも"];
+	node1 [label="出してもらいます」"];
+	node0 -> node1;
+}

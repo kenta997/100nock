@@ -1,0 +1,27 @@
+digraph graph2988 {
+	node0 [label="唐津の"];
+	node1 [label="山の芋は"];
+	node2 [label="東京のとは"];
+	node3 [label="違って"];
+	node4 [label="うまか"];
+	node5 [label="あ」と"];
+	node6 [label="三平君が"];
+	node7 [label="国自慢を"];
+	node8 [label="すると、"];
+	node9 [label="細君は"];
+	node10 [label="ようやく"];
+	node11 [label="気が"];
+	node12 [label="付いて"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

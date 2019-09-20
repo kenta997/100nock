@@ -1,0 +1,19 @@
+digraph graph2064 {
+	node0 [label="空気の"];
+	node1 [label="切売が"];
+	node2 [label="出来ず、"];
+	node3 [label="空の"];
+	node4 [label="縄張が"];
+	node5 [label="不当なら"];
+	node6 [label="地面の"];
+	node7 [label="私有も"];
+	node8 [label="不合理ではないか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

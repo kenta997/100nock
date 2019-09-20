@@ -1,0 +1,15 @@
+digraph graph2769 {
+	node0 [label="顔の"];
+	node1 [label="道具は"];
+	node2 [label="無論"];
+	node3 [label="極っている、"];
+	node4 [label="大さも"];
+	node5 [label="大概は"];
+	node6 [label="似たり寄ったりである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

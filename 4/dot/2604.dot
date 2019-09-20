@@ -1,0 +1,11 @@
+digraph graph2604 {
+	node0 [label="翻って"];
+	node1 [label="寒月君は"];
+	node2 [label="如何と"];
+	node3 [label="見れば"];
+	node4 [label="どうだ。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

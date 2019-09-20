@@ -1,0 +1,11 @@
+digraph graph8846 {
+	node0 [label="ことに"];
+	node1 [label="よると"];
+	node2 [label="天下が"];
+	node3 [label="ことごとく"];
+	node4 [label="孔子かも知れない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

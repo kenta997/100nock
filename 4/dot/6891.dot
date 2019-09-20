@@ -1,0 +1,5 @@
+digraph graph6891 {
+	node0 [label="「いい"];
+	node1 [label="気味ね」"];
+	node0 -> node1;
+}

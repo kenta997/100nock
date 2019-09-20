@@ -1,0 +1,11 @@
+digraph graph4418 {
+	node0 [label="これは"];
+	node1 [label="よほど"];
+	node2 [label="閑な"];
+	node3 [label="アダムと"];
+	node4 [label="見える。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

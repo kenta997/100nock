@@ -1,0 +1,11 @@
+digraph graph2232 {
+	node0 [label="灯明皿は"];
+	node1 [label="一分"];
+	node2 [label="立たぬ"];
+	node3 [label="間に"];
+	node4 [label="消えた。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

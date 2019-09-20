@@ -1,0 +1,23 @@
+digraph graph1985 {
+	node0 [label="「しかし"];
+	node1 [label="物も"];
+	node2 [label="極度に"];
+	node3 [label="達しますと"];
+	node4 [label="偉観には"];
+	node5 [label="相違ございませんが"];
+	node6 [label="何となく"];
+	node7 [label="怖し"];
+	node8 [label="くて"];
+	node9 [label="近づき難い"];
+	node10 [label="ものであります。"];
+	node0 -> node10;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

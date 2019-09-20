@@ -1,0 +1,13 @@
+digraph graph2947 {
+	node0 [label="きっと人が"];
+	node1 [label="英語を"];
+	node2 [label="知らないと"];
+	node3 [label="思って"];
+	node4 [label="悪口を"];
+	node5 [label="おっしゃったんだよ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

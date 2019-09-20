@@ -1,0 +1,15 @@
+digraph graph4370 {
+	node0 [label="その"];
+	node1 [label="くらい"];
+	node2 [label="元気が"];
+	node3 [label="ありゃ"];
+	node4 [label="結構だ」"];
+	node5 [label="「元気も"];
+	node6 [label="ないのさ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

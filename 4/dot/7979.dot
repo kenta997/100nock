@@ -1,0 +1,37 @@
+digraph graph7979 {
+	node0 [label="「ところが"];
+	node1 [label="そう"];
+	node2 [label="行かないので、"];
+	node3 [label="私が"];
+	node4 [label="最後の"];
+	node5 [label="甘干しを"];
+	node6 [label="食って、"];
+	node7 [label="もう"];
+	node8 [label="よかろうと"];
+	node9 [label="首を"];
+	node10 [label="出して"];
+	node11 [label="見ると、"];
+	node12 [label="相変らず"];
+	node13 [label="烈しい"];
+	node14 [label="秋の日が"];
+	node15 [label="六尺の"];
+	node16 [label="障子へ"];
+	node17 [label="一面にあたって……」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node17;
+	node12 -> node17;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

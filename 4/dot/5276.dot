@@ -1,0 +1,11 @@
+digraph graph5276 {
+	node0 [label="「ああ、"];
+	node1 [label="それじゃ"];
+	node2 [label="帰りに"];
+	node3 [label="御寄り、"];
+	node4 [label="待っているから」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

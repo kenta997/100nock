@@ -1,0 +1,15 @@
+digraph graph2330 {
+	node0 [label="「うん、"];
+	node1 [label="いくつか"];
+	node2 [label="能く"];
+	node3 [label="知らんが"];
+	node4 [label="大方"];
+	node5 [label="六つか、"];
+	node6 [label="七つかだろう」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,7 @@
+digraph graph5205 {
+	node0 [label="そんな"];
+	node1 [label="人には"];
+	node2 [label="大事件でないまでだ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

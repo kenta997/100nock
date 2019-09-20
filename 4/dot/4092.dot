@@ -1,0 +1,13 @@
+digraph graph4092 {
+	node0 [label="猫の"];
+	node1 [label="爪は"];
+	node2 [label="どっちへ"];
+	node3 [label="向いて"];
+	node4 [label="生えていると"];
+	node5 [label="思う。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

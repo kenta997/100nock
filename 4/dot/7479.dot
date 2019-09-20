@@ -1,0 +1,5 @@
+digraph graph7479 {
+	node0 [label="「女が"];
+	node1 [label="張ったんだ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,15 @@
+digraph graph7915 {
+	node0 [label="ただ"];
+	node1 [label="ヴァイオリンと"];
+	node2 [label="云う"];
+	node3 [label="名が"];
+	node4 [label="辛うじて"];
+	node5 [label="つくくらいの"];
+	node6 [label="ものであります。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

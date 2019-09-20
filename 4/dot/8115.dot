@@ -1,0 +1,9 @@
+digraph graph8115 {
+	node0 [label="いくらかと"];
+	node1 [label="聞くと"];
+	node2 [label="五円二十銭だと"];
+	node3 [label="云います……」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

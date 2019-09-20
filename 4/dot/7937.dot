@@ -1,0 +1,25 @@
+digraph graph7937 {
+	node0 [label="今でこそ"];
+	node1 [label="平気で"];
+	node2 [label="話すような"];
+	node3 [label="ものの"];
+	node4 [label="その"];
+	node5 [label="時の"];
+	node6 [label="苦しみは"];
+	node7 [label="とうてい"];
+	node8 [label="想像が"];
+	node9 [label="出来るような"];
+	node10 [label="種類の"];
+	node11 [label="ものではなかった。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

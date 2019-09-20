@@ -1,0 +1,21 @@
+digraph graph4445 {
+	node0 [label="そうして"];
+	node1 [label="その"];
+	node2 [label="左右に"];
+	node3 [label="十六むさしに"];
+	node4 [label="似たる"];
+	node5 [label="形が"];
+	node6 [label="四個ずつ"];
+	node7 [label="行儀"];
+	node8 [label="よく"];
+	node9 [label="並んでいる。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

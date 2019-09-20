@@ -1,0 +1,15 @@
+digraph graph7052 {
+	node0 [label="待ってるのが"];
+	node1 [label="退屈だから、"];
+	node2 [label="あすこいらを"];
+	node3 [label="散歩している"];
+	node4 [label="うちに"];
+	node5 [label="堀り"];
+	node6 [label="出して来たんだ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

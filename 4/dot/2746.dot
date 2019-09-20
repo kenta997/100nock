@@ -1,0 +1,29 @@
+digraph graph2746 {
+	node0 [label="いよいよ"];
+	node1 [label="来たな、"];
+	node2 [label="こうなっては"];
+	node3 [label="もう"];
+	node4 [label="駄目だと"];
+	node5 [label="諦らめて、"];
+	node6 [label="襖と"];
+	node7 [label="柳行李の"];
+	node8 [label="間に"];
+	node9 [label="しばしの"];
+	node10 [label="間身を"];
+	node11 [label="忍ばせて"];
+	node12 [label="動静を"];
+	node13 [label="窺がう。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

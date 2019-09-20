@@ -1,0 +1,21 @@
+digraph graph2266 {
+	node0 [label="「背いは"];
+	node1 [label="見れば"];
+	node2 [label="すぐ"];
+	node3 [label="分るじゃありませんか、"];
+	node4 [label="背の"];
+	node5 [label="低いのは"];
+	node6 [label="最初から"];
+	node7 [label="承知で"];
+	node8 [label="御貰いに"];
+	node9 [label="なったんじゃありませんか」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

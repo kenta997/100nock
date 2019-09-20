@@ -1,0 +1,27 @@
+digraph graph4033 {
+	node0 [label="元来が"];
+	node1 [label="引力に"];
+	node2 [label="逆らっての"];
+	node3 [label="無理な"];
+	node4 [label="事業だから"];
+	node5 [label="出来なくても"];
+	node6 [label="別段の"];
+	node7 [label="恥辱とは"];
+	node8 [label="思わんけれども、"];
+	node9 [label="蝉取り運動上には"];
+	node10 [label="少なからざる"];
+	node11 [label="不便を"];
+	node12 [label="与える。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

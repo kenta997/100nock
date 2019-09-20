@@ -1,0 +1,13 @@
+digraph graph2401 {
+	node0 [label="「君"];
+	node1 [label="その"];
+	node2 [label="娘は"];
+	node3 [label="寒月の"];
+	node4 [label="所へ"];
+	node5 [label="来たがってるのか。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

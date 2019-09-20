@@ -1,0 +1,19 @@
+digraph graph5761 {
+	node0 [label="主人は"];
+	node1 [label="黙読一過の"];
+	node2 [label="後"];
+	node3 [label="直ちに"];
+	node4 [label="封の"];
+	node5 [label="中へ"];
+	node6 [label="巻き納めて"];
+	node7 [label="知らん顔を"];
+	node8 [label="している。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

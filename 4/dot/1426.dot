@@ -1,0 +1,15 @@
+digraph graph1426 {
+	node0 [label="細君に"];
+	node1 [label="同情を"];
+	node2 [label="表していると"];
+	node3 [label="いうより"];
+	node4 [label="むしろ"];
+	node5 [label="好奇心に"];
+	node6 [label="駆られている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,19 @@
+digraph graph2403 {
+	node0 [label="「そりゃ、"];
+	node1 [label="その——"];
+	node2 [label="何だね——"];
+	node3 [label="何でも——え、"];
+	node4 [label="来たがってるんだろうじゃないか」"];
+	node5 [label="鈴木君の"];
+	node6 [label="挨拶は"];
+	node7 [label="少々"];
+	node8 [label="曖昧である。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

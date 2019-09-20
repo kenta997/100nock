@@ -1,0 +1,9 @@
+digraph graph8772 {
+	node0 [label="合わなければ"];
+	node1 [label="自然の"];
+	node2 [label="勢夫と"];
+	node3 [label="衝突する。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

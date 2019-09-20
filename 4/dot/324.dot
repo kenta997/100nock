@@ -1,0 +1,33 @@
+digraph graph324 {
+	node0 [label="吾輩が"];
+	node1 [label="例の"];
+	node2 [label="茶園で"];
+	node3 [label="彼に"];
+	node4 [label="逢った"];
+	node5 [label="最後の"];
+	node6 [label="日、"];
+	node7 [label="どうだと"];
+	node8 [label="云って"];
+	node9 [label="尋ねたら"];
+	node10 [label="「いたちの"];
+	node11 [label="最後屁と"];
+	node12 [label="肴屋の"];
+	node13 [label="天秤棒には"];
+	node14 [label="懲々だ」と"];
+	node15 [label="いった。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

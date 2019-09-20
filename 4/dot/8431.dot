@@ -1,0 +1,9 @@
+digraph graph8431 {
+	node0 [label="「どう"];
+	node1 [label="する"];
+	node2 [label="気でも"];
+	node3 [label="ありません」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

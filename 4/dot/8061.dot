@@ -1,0 +1,35 @@
+digraph graph8061 {
+	node0 [label="　主人は"];
+	node1 [label="面倒になったと"];
+	node2 [label="見えて、"];
+	node3 [label="ついと"];
+	node4 [label="立って"];
+	node5 [label="書斎へ"];
+	node6 [label="這入ったと"];
+	node7 [label="思ったら、"];
+	node8 [label="何だか"];
+	node9 [label="古ぼけた"];
+	node10 [label="洋書を"];
+	node11 [label="一冊"];
+	node12 [label="持ち出して来て、"];
+	node13 [label="ごろりと"];
+	node14 [label="腹這に"];
+	node15 [label="なって"];
+	node16 [label="読み始めた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node16;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+}

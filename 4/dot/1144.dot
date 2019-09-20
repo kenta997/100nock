@@ -1,0 +1,13 @@
+digraph graph1144 {
+	node0 [label="こりゃ"];
+	node1 [label="変だと"];
+	node2 [label="気が付いて"];
+	node3 [label="そこいらを"];
+	node4 [label="見渡すと"];
+	node5 [label="驚きましたね。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

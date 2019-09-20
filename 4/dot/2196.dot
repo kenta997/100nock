@@ -1,0 +1,9 @@
+digraph graph2196 {
+	node0 [label="「よほど"];
+	node1 [label="特色の"];
+	node2 [label="ある"];
+	node3 [label="家ですなアハハハハ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

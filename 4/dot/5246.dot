@@ -1,0 +1,5 @@
+digraph graph5246 {
+	node0 [label="「あの"];
+	node1 [label="変人ね。"];
+	node0 -> node1;
+}

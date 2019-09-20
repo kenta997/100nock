@@ -1,0 +1,25 @@
+digraph graph4520 {
+	node0 [label="ただ"];
+	node1 [label="混雑と"];
+	node2 [label="迷乱とを"];
+	node3 [label="形容するに"];
+	node4 [label="適した"];
+	node5 [label="声と"];
+	node6 [label="云うのみで、"];
+	node7 [label="ほかには"];
+	node8 [label="何の"];
+	node9 [label="役にも"];
+	node10 [label="立たない"];
+	node11 [label="声である。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

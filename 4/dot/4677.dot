@@ -1,0 +1,9 @@
+digraph graph4677 {
+	node0 [label="この"];
+	node1 [label="北面が"];
+	node2 [label="騒動の"];
+	node3 [label="種である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

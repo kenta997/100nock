@@ -1,0 +1,15 @@
+digraph graph7997 {
+	node0 [label="「それじゃ"];
+	node1 [label="聞くから、"];
+	node2 [label="早く"];
+	node3 [label="日が"];
+	node4 [label="暮れ"];
+	node5 [label="た事にしたら"];
+	node6 [label="よかろう」"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

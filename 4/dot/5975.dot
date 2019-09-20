@@ -1,0 +1,21 @@
+digraph graph5975 {
+	node0 [label="「伯父さん心の"];
+	node1 [label="修業と"];
+	node2 [label="云う"];
+	node3 [label="ものは"];
+	node4 [label="玉を"];
+	node5 [label="磨る"];
+	node6 [label="代りに"];
+	node7 [label="懐手を"];
+	node8 [label="して"];
+	node9 [label="坐り込んでるんでしょう」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

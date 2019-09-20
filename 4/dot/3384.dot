@@ -1,0 +1,25 @@
+digraph graph3384 {
+	node0 [label="四本であるけば"];
+	node1 [label="それだけはかも"];
+	node2 [label="行く訳だのに、"];
+	node3 [label="いつでも"];
+	node4 [label="二本ですまして、"];
+	node5 [label="残る"];
+	node6 [label="二本は"];
+	node7 [label="到来の"];
+	node8 [label="棒鱈のように"];
+	node9 [label="手持無沙汰に"];
+	node10 [label="ぶら下げているのは"];
+	node11 [label="馬鹿馬鹿しい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

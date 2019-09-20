@@ -1,0 +1,9 @@
+digraph graph1567 {
+	node0 [label="東風は"];
+	node1 [label="顔を"];
+	node2 [label="赤くして"];
+	node3 [label="へどもどする。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,33 @@
+digraph graph5496 {
+	node0 [label="　主人は"];
+	node1 [label="ここにおいて"];
+	node2 [label="落雲館事件を"];
+	node3 [label="始めとして、"];
+	node4 [label="今戸焼の"];
+	node5 [label="狸から、"];
+	node6 [label="ぴん"];
+	node7 [label="助、"];
+	node8 [label="きしゃごそのほか"];
+	node9 [label="あらゆる"];
+	node10 [label="不平を"];
+	node11 [label="挙げて"];
+	node12 [label="滔々と"];
+	node13 [label="哲学者の"];
+	node14 [label="前に"];
+	node15 [label="述べ立てた。"];
+	node0 -> node15;
+	node1 -> node15;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node5;
+	node5 -> node15;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

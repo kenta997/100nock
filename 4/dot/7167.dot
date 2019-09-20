@@ -1,0 +1,7 @@
+digraph graph7167 {
+	node0 [label="今度の"];
+	node1 [label="お客は"];
+	node2 [label="何者であろう。"];
+	node0 -> node1;
+	node1 -> node2;
+}

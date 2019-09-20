@@ -1,0 +1,7 @@
+digraph graph6116 {
+	node0 [label="今度"];
+	node1 [label="ためして"];
+	node2 [label="見たまえ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

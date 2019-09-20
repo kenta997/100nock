@@ -1,0 +1,11 @@
+digraph graph8844 {
+	node0 [label="出たって"];
+	node1 [label="誰も"];
+	node2 [label="英雄と"];
+	node3 [label="立てや"];
+	node4 [label="しない。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

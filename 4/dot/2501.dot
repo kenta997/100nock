@@ -1,0 +1,25 @@
+digraph graph2501 {
+	node0 [label="僕は"];
+	node1 [label="あまり"];
+	node2 [label="腹を"];
+	node3 [label="立てた"];
+	node4 [label="事の"];
+	node5 [label="ない"];
+	node6 [label="男だが、"];
+	node7 [label="あの"];
+	node8 [label="時ばかりは"];
+	node9 [label="失敬だと"];
+	node10 [label="心から"];
+	node11 [label="思ったよ。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

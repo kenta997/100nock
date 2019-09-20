@@ -1,0 +1,21 @@
+digraph graph1203 {
+	node0 [label="全く妻を"];
+	node1 [label="愛する"];
+	node2 [label="至情から"];
+	node3 [label="出たので、"];
+	node4 [label="それを"];
+	node5 [label="妻のように"];
+	node6 [label="解釈されては"];
+	node7 [label="僕も"];
+	node8 [label="立つ瀬が"];
+	node9 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

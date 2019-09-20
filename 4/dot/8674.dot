@@ -1,0 +1,13 @@
+digraph graph8674 {
+	node0 [label="僕が"];
+	node1 [label="まあ"];
+	node2 [label="ここで"];
+	node3 [label="書画骨董店を"];
+	node4 [label="開くと"];
+	node5 [label="する。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,7 @@
+digraph graph1349 {
+	node0 [label="「あなた"];
+	node1 [label="ちょっと」と"];
+	node2 [label="呼ぶ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,31 @@
+digraph graph4253 {
+	node0 [label="そもそも"];
+	node1 [label="衣装の"];
+	node2 [label="歴史を"];
+	node3 [label="繙けば——"];
+	node4 [label="長い"];
+	node5 [label="事だから"];
+	node6 [label="これは"];
+	node7 [label="トイフェルスドレック君に"];
+	node8 [label="譲って、"];
+	node9 [label="繙くだけは"];
+	node10 [label="やめてやるが、——"];
+	node11 [label="人間は"];
+	node12 [label="全く"];
+	node13 [label="服装で"];
+	node14 [label="持ってるのだ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node14;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

@@ -1,0 +1,5 @@
+digraph graph7705 {
+	node0 [label="「船の"];
+	node1 [label="中でです」"];
+	node0 -> node1;
+}

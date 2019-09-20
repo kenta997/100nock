@@ -1,0 +1,5 @@
+digraph graph6673 {
+	node0 [label="情ない"];
+	node1 [label="事だ。"];
+	node0 -> node1;
+}

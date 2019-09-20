@@ -1,0 +1,27 @@
+digraph graph3889 {
+	node0 [label="梧桐の"];
+	node1 [label="緑を"];
+	node2 [label="綴る"];
+	node3 [label="間から"];
+	node4 [label="西に"];
+	node5 [label="傾く"];
+	node6 [label="日が"];
+	node7 [label="斑らに"];
+	node8 [label="洩れて、"];
+	node9 [label="幹には"];
+	node10 [label="つくつく法師が"];
+	node11 [label="懸命に"];
+	node12 [label="ないている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

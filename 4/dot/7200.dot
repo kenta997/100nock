@@ -1,0 +1,21 @@
+digraph graph7200 {
+	node0 [label="すまじき"];
+	node1 [label="ところへ"];
+	node2 [label="気兼を"];
+	node3 [label="して、"];
+	node4 [label="すべき"];
+	node5 [label="時には"];
+	node6 [label="謙遜しない、"];
+	node7 [label="否大に"];
+	node8 [label="狼藉を"];
+	node9 [label="働らく。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

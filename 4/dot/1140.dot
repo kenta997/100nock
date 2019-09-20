@@ -1,0 +1,19 @@
+digraph graph1140 {
+	node0 [label="「そこまで"];
+	node1 [label="行こうとは"];
+	node2 [label="思わなかった」と"];
+	node3 [label="迷亭が"];
+	node4 [label="自分の"];
+	node5 [label="鼻の"];
+	node6 [label="頭を"];
+	node7 [label="ちょいと"];
+	node8 [label="つまむ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

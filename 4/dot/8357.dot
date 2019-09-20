@@ -1,0 +1,7 @@
+digraph graph8357 {
+	node0 [label="寒月君には"];
+	node1 [label="ちっとも"];
+	node2 [label="通じない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

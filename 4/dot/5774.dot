@@ -1,0 +1,21 @@
+digraph graph5774 {
+	node0 [label="主人は"];
+	node1 [label="この"];
+	node2 [label="鄭重なる"];
+	node3 [label="書面を、"];
+	node4 [label="冷淡に"];
+	node5 [label="丸めて"];
+	node6 [label="ぽんと"];
+	node7 [label="屑籠の"];
+	node8 [label="中へ"];
+	node9 [label="抛り込んだ。"];
+	node0 -> node9;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

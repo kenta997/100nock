@@ -1,0 +1,7 @@
+digraph graph4049 {
+	node0 [label="漢名を"];
+	node1 [label="梧桐と"];
+	node2 [label="号するそうだ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,11 @@
+digraph graph1933 {
+	node0 [label="その"];
+	node1 [label="紐は"];
+	node2 [label="売品に"];
+	node3 [label="あるまじき"];
+	node4 [label="紫色である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph6016 {
+	node0 [label="竹葉でも"];
+	node1 [label="奢りましょう。"];
+	node0 -> node1;
+}

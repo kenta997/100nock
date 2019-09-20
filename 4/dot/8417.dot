@@ -1,0 +1,7 @@
+digraph graph8417 {
+	node0 [label="いつの間に"];
+	node1 [label="秘密結婚を"];
+	node2 [label="やったのかね。"];
+	node0 -> node2;
+	node1 -> node2;
+}

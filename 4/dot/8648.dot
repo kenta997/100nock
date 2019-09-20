@@ -1,0 +1,5 @@
+digraph graph8648 {
+	node0 [label="「今でも"];
+	node1 [label="ありゃしないか」"];
+	node0 -> node1;
+}

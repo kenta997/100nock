@@ -1,0 +1,23 @@
+digraph graph780 {
+	node0 [label="「いえ"];
+	node1 [label="それは"];
+	node2 [label="ほんの"];
+	node3 [label="冒頭なので、"];
+	node4 [label="本論は"];
+	node5 [label="これからなのです」"];
+	node6 [label="「ふーん」と"];
+	node7 [label="主人は"];
+	node8 [label="好奇的な"];
+	node9 [label="感投詞を"];
+	node10 [label="挟む。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

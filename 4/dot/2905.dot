@@ -1,0 +1,7 @@
+digraph graph2905 {
+	node0 [label="「生意気に"];
+	node1 [label="高い帯を"];
+	node2 [label="しめてるな。"];
+	node0 -> node2;
+	node1 -> node2;
+}

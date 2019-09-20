@@ -1,0 +1,13 @@
+digraph graph8379 {
+	node0 [label="そこまで"];
+	node1 [label="持って行くには"];
+	node2 [label="だいぶ"];
+	node3 [label="苦心惨憺たる"];
+	node4 [label="ものが"];
+	node5 [label="あったのだろう。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

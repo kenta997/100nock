@@ -1,0 +1,31 @@
+digraph graph3951 {
+	node0 [label="いくら"];
+	node1 [label="運動と"];
+	node2 [label="名が"];
+	node3 [label="ついても、"];
+	node4 [label="主人の"];
+	node5 [label="時々実行するような、"];
+	node6 [label="読んで"];
+	node7 [label="字のごとき"];
+	node8 [label="運動は"];
+	node9 [label="どうも"];
+	node10 [label="運動の"];
+	node11 [label="神聖を"];
+	node12 [label="汚が"];
+	node13 [label="す者だろうと"];
+	node14 [label="思う。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node14;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

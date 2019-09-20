@@ -1,0 +1,9 @@
+digraph graph1883 {
+	node0 [label="　長吉なんぞ"];
+	node1 [label="じゃ"];
+	node2 [label="訳が"];
+	node3 [label="分らない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

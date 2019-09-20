@@ -1,0 +1,11 @@
+digraph graph6505 {
+	node0 [label="「誰が"];
+	node1 [label="いつ、"];
+	node2 [label="そんな"];
+	node3 [label="嘘を"];
+	node4 [label="ついた」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

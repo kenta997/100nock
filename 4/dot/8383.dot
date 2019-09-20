@@ -1,0 +1,13 @@
+digraph graph8383 {
+	node0 [label="「そんなに"];
+	node1 [label="遺憾では"];
+	node2 [label="ありません」と"];
+	node3 [label="寒月君は"];
+	node4 [label="存外"];
+	node5 [label="平気である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

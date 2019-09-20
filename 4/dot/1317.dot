@@ -1,0 +1,21 @@
+digraph graph1317 {
+	node0 [label="せんだっては"];
+	node1 [label="主人の"];
+	node2 [label="許へ"];
+	node3 [label="吾輩の"];
+	node4 [label="写真を"];
+	node5 [label="送ってくれと"];
+	node6 [label="手紙で"];
+	node7 [label="依頼した"];
+	node8 [label="男が"];
+	node9 [label="ある。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

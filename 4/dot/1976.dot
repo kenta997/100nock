@@ -1,0 +1,37 @@
+digraph graph1976 {
+	node0 [label="ついに"];
+	node1 [label="凝って"];
+	node2 [label="骨と"];
+	node3 [label="なります」"];
+	node4 [label="「それは"];
+	node5 [label="少し——"];
+	node6 [label="そう"];
+	node7 [label="自由に"];
+	node8 [label="肉が"];
+	node9 [label="骨に"];
+	node10 [label="一足飛に"];
+	node11 [label="変化は"];
+	node12 [label="出来ますまい」と"];
+	node13 [label="理学士だけ"];
+	node14 [label="あって"];
+	node15 [label="寒月君が"];
+	node16 [label="抗議を"];
+	node17 [label="申し込む。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node12;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

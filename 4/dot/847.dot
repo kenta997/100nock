@@ -1,0 +1,15 @@
+digraph graph847 {
+	node0 [label="東風子は"];
+	node1 [label="菓子皿の"];
+	node2 [label="中の"];
+	node3 [label="カステラを"];
+	node4 [label="つまんで"];
+	node5 [label="一口に"];
+	node6 [label="頬張る。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

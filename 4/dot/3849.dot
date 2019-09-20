@@ -1,0 +1,33 @@
+digraph graph3849 {
+	node0 [label="東風さん、"];
+	node1 [label="これは"];
+	node2 [label="決して"];
+	node3 [label="得意の"];
+	node4 [label="ものでは"];
+	node5 [label="ありませんが、"];
+	node6 [label="ほんの"];
+	node7 [label="座興ですから"];
+	node8 [label="聴いて下さい」"];
+	node9 [label="「是非伺が"];
+	node10 [label="いましょう」"];
+	node11 [label="「寒月君も"];
+	node12 [label="ついでに"];
+	node13 [label="聞き給え」"];
+	node14 [label="「ついででなくても"];
+	node15 [label="聴きますよ。"];
+	node0 -> node8;
+	node1 -> node8;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

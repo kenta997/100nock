@@ -1,0 +1,11 @@
+digraph graph7718 {
+	node0 [label="「それじゃ"];
+	node1 [label="灰汁でも"];
+	node2 [label="つけて、"];
+	node3 [label="ごしごし"];
+	node4 [label="磨いたらいいでしょう」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

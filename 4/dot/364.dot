@@ -1,0 +1,33 @@
+digraph graph364 {
+	node0 [label="同類相求むとは"];
+	node1 [label="昔"];
+	node2 [label="しから"];
+	node3 [label="ある"];
+	node4 [label="語だ"];
+	node5 [label="そうだが"];
+	node6 [label="その通り、"];
+	node7 [label="餅屋は"];
+	node8 [label="餅屋、"];
+	node9 [label="猫は"];
+	node10 [label="猫で、"];
+	node11 [label="猫の"];
+	node12 [label="事なら"];
+	node13 [label="やはり"];
+	node14 [label="猫でなくては"];
+	node15 [label="分らぬ。"];
+	node0 -> node15;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node15;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

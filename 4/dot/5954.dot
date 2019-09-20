@@ -1,0 +1,5 @@
+digraph graph5954 {
+	node0 [label="建武時代の"];
+	node1 [label="作かも知れない」"];
+	node0 -> node1;
+}

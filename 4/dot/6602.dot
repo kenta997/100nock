@@ -1,0 +1,23 @@
+digraph graph6602 {
+	node0 [label="生長するどころではない、"];
+	node1 [label="その"];
+	node2 [label="生長の"];
+	node3 [label="速"];
+	node4 [label="かなる事は"];
+	node5 [label="禅寺の"];
+	node6 [label="筍が"];
+	node7 [label="若竹に"];
+	node8 [label="変化する"];
+	node9 [label="勢で"];
+	node10 [label="大きくなる。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

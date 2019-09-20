@@ -1,0 +1,33 @@
+digraph graph3267 {
+	node0 [label="きのう"];
+	node1 [label="貰った"];
+	node2 [label="花嫁も"];
+	node3 [label="今日死"];
+	node4 [label="なんとも"];
+	node5 [label="限らんではないか、"];
+	node6 [label="しかし"];
+	node7 [label="聟殿は"];
+	node8 [label="玉椿千代も"];
+	node9 [label="八千代もなど、"];
+	node10 [label="おめでたい"];
+	node11 [label="事を"];
+	node12 [label="並べて"];
+	node13 [label="心配らしい"];
+	node14 [label="顔も"];
+	node15 [label="せんではないか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node15;
+	node6 -> node15;
+	node7 -> node15;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

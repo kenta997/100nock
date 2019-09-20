@@ -1,0 +1,13 @@
+digraph graph3920 {
+	node0 [label="海水浴の"];
+	node1 [label="功能は"];
+	node2 [label="しかく"];
+	node3 [label="魚に"];
+	node4 [label="取って"];
+	node5 [label="顕著である。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

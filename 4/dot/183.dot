@@ -1,0 +1,13 @@
+digraph graph183 {
+	node0 [label="　吾輩の"];
+	node1 [label="家の"];
+	node2 [label="裏に"];
+	node3 [label="十坪ばかりの"];
+	node4 [label="茶園が"];
+	node5 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

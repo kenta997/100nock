@@ -1,0 +1,17 @@
+digraph graph8339 {
+	node0 [label="ただ"];
+	node1 [label="ヴァイオリンが"];
+	node2 [label="弾きたいばかりで"];
+	node3 [label="胸が"];
+	node4 [label="一杯に"];
+	node5 [label="なってるんだから"];
+	node6 [label="妙な"];
+	node7 [label="ものさ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

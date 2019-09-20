@@ -1,0 +1,9 @@
+digraph graph3006 {
+	node0 [label="「ハハハハ私の"];
+	node1 [label="顔は"];
+	node2 [label="そんなに"];
+	node3 [label="恐いですか。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

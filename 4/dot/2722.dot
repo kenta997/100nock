@@ -1,0 +1,15 @@
+digraph graph2722 {
+	node0 [label="いよいよ"];
+	node1 [label="陰士と"];
+	node2 [label="すれば"];
+	node3 [label="早く"];
+	node4 [label="尊顔を"];
+	node5 [label="拝したい"];
+	node6 [label="ものだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,19 @@
+digraph graph4267 {
+	node0 [label="失礼が"];
+	node1 [label="あっては"];
+	node2 [label="ならんと"];
+	node3 [label="念に"];
+	node4 [label="念を"];
+	node5 [label="入れて"];
+	node6 [label="顔まで"];
+	node7 [label="着物を"];
+	node8 [label="きせた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

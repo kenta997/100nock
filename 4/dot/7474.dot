@@ -1,0 +1,7 @@
+digraph graph7474 {
+	node0 [label="雑巾でも"];
+	node1 [label="持ってくる"];
+	node2 [label="了見だろう。"];
+	node0 -> node1;
+	node1 -> node2;
+}

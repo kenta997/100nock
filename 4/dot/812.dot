@@ -1,0 +1,11 @@
+digraph graph812 {
+	node0 [label="「なあに、"];
+	node1 [label="そんなに"];
+	node2 [label="大変な"];
+	node3 [label="事も"];
+	node4 [label="ないんです。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,31 @@
+digraph graph1668 {
+	node0 [label="「寒月さんも"];
+	node1 [label="理学士だそうですが、"];
+	node2 [label="全体"];
+	node3 [label="どんな"];
+	node4 [label="事を"];
+	node5 [label="専門に"];
+	node6 [label="しているのでございます」"];
+	node7 [label="「大学院では"];
+	node8 [label="地球の"];
+	node9 [label="磁気の"];
+	node10 [label="研究を"];
+	node11 [label="やっています」と"];
+	node12 [label="主人が"];
+	node13 [label="真面目に"];
+	node14 [label="答える。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

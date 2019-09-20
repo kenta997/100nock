@@ -1,0 +1,9 @@
+digraph graph2461 {
+	node0 [label="迷亭は"];
+	node1 [label="口を"];
+	node2 [label="もがもが"];
+	node3 [label="さしている。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

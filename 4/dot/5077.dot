@@ -1,0 +1,29 @@
+digraph graph5077 {
+	node0 [label="　"];
+	node1 [label="今しも"];
+	node2 [label="敵軍から"];
+	node3 [label="打ち出した"];
+	node4 [label="一弾は、"];
+	node5 [label="照準誤たず、"];
+	node6 [label="四つ目垣を"];
+	node7 [label="通り越して"];
+	node8 [label="桐の"];
+	node9 [label="下葉を"];
+	node10 [label="振い落して、"];
+	node11 [label="第二の"];
+	node12 [label="城壁即ち竹垣に"];
+	node13 [label="命中した。"];
+	node0 -> node13;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

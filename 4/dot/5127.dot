@@ -1,0 +1,13 @@
+digraph graph5127 {
+	node0 [label="綿ネルの"];
+	node1 [label="洗いざらしを"];
+	node2 [label="申し訳に"];
+	node3 [label="背中だけへ"];
+	node4 [label="乗せているのが"];
+	node5 [label="ある。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

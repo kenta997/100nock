@@ -1,0 +1,9 @@
+digraph graph32 {
+	node0 [label="別に"];
+	node1 [label="これという"];
+	node2 [label="分別も"];
+	node3 [label="出ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

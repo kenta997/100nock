@@ -1,0 +1,11 @@
+digraph graph9050 {
+	node0 [label="私の"];
+	node1 [label="一生に"];
+	node2 [label="一度の"];
+	node3 [label="大礼です"];
+	node4 [label="ばい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

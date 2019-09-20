@@ -1,0 +1,13 @@
+digraph graph1362 {
+	node0 [label="「あるかも知れないさ」と"];
+	node1 [label="主人はまた"];
+	node2 [label="指を"];
+	node3 [label="突っ込んで"];
+	node4 [label="ぐいと"];
+	node5 [label="鼻毛を抜く。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

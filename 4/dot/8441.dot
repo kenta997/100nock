@@ -1,0 +1,9 @@
+digraph graph8441 {
+	node0 [label="金田家の"];
+	node1 [label="結婚式にはまた"];
+	node2 [label="別に"];
+	node3 [label="作りますから」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

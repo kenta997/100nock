@@ -1,0 +1,11 @@
+digraph graph1757 {
+	node0 [label="ところが"];
+	node1 [label="おかしいのは"];
+	node2 [label="命令中に"];
+	node3 [label="こう"];
+	node4 [label="あるんです。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

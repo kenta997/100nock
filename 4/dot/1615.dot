@@ -1,0 +1,31 @@
+digraph graph1615 {
+	node0 [label="「実は"];
+	node1 [label="方々から"];
+	node2 [label="くれくれと"];
+	node3 [label="申し込は"];
+	node4 [label="ございますが、"];
+	node5 [label="こちらの"];
+	node6 [label="身分も"];
+	node7 [label="ある"];
+	node8 [label="ものでございますから、"];
+	node9 [label="滅多な"];
+	node10 [label="所へも"];
+	node11 [label="片付けられませんので……」"];
+	node12 [label="「ごもっともで」と"];
+	node13 [label="迷亭は"];
+	node14 [label="ようやく安心する。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

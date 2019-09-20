@@ -1,0 +1,5 @@
+digraph graph1160 {
+	node0 [label="何でも"];
+	node1 [label="二十日頃だよ。"];
+	node0 -> node1;
+}

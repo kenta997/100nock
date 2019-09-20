@@ -1,0 +1,5 @@
+digraph graph9117 {
+	node0 [label="恐るべき"];
+	node1 [label="事だ。"];
+	node0 -> node1;
+}

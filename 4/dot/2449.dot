@@ -1,0 +1,7 @@
+digraph graph2449 {
+	node0 [label="「分らなけりゃ、"];
+	node1 [label="まあ"];
+	node2 [label="好いさ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

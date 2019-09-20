@@ -1,0 +1,13 @@
+digraph graph594 {
+	node0 [label="餅は"];
+	node1 [label="魔物だなと"];
+	node2 [label="疳づいた"];
+	node3 [label="時は"];
+	node4 [label="すでに"];
+	node5 [label="遅かった。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,17 @@
+digraph graph166 {
+	node0 [label="ただ"];
+	node1 [label="一種の"];
+	node2 [label="色であると"];
+	node3 [label="いうより"];
+	node4 [label="ほかに"];
+	node5 [label="評し方の"];
+	node6 [label="ない"];
+	node7 [label="色である。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+}

@@ -1,0 +1,33 @@
+digraph graph8550 {
+	node0 [label="水の"];
+	node1 [label="力に"];
+	node2 [label="逆らわないで"];
+	node3 [label="かえって"];
+	node4 [label="これを"];
+	node5 [label="電力に"];
+	node6 [label="変化して"];
+	node7 [label="立派に"];
+	node8 [label="役に立たせる……」と"];
+	node9 [label="寒月君が"];
+	node10 [label="言いかけると、"];
+	node11 [label="独仙君が"];
+	node12 [label="すぐ"];
+	node13 [label="その"];
+	node14 [label="あとを"];
+	node15 [label="引き取った。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

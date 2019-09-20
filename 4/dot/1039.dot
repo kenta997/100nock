@@ -1,0 +1,11 @@
+digraph graph1039 {
+	node0 [label="迷亭先生の"];
+	node1 [label="不思議な"];
+	node2 [label="経験というのを"];
+	node3 [label="聞くと"];
+	node4 [label="左のごとくである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

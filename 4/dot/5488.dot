@@ -1,0 +1,7 @@
+digraph graph5488 {
+	node0 [label="「ところが"];
+	node1 [label="毎日喧嘩ばかり"];
+	node2 [label="しているさ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

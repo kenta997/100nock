@@ -1,0 +1,13 @@
+digraph graph9099 {
+	node0 [label="しかし"];
+	node1 [label="順当が"];
+	node2 [label="永く"];
+	node3 [label="続くと"];
+	node4 [label="定めし"];
+	node5 [label="退屈だろう。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

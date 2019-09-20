@@ -1,0 +1,7 @@
+digraph graph2874 {
+	node0 [label="「眼が"];
+	node1 [label="覚めたのは"];
+	node2 [label="何時だったかな」"];
+	node0 -> node1;
+	node1 -> node2;
+}

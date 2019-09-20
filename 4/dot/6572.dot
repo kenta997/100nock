@@ -1,0 +1,5 @@
+digraph graph6572 {
+	node0 [label="あくびの"];
+	node1 [label="用意である。"];
+	node0 -> node1;
+}

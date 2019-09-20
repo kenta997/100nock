@@ -1,0 +1,5 @@
+digraph graph1914 {
+	node0 [label="善く"];
+	node1 [label="似合うのね。"];
+	node0 -> node1;
+}

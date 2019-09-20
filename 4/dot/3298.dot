@@ -1,0 +1,9 @@
+digraph graph3298 {
+	node0 [label="なかなか"];
+	node1 [label="出て来る"];
+	node2 [label="景色は"];
+	node3 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

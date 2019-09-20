@@ -1,0 +1,31 @@
+digraph graph2861 {
+	node0 [label="ぐっと"];
+	node1 [label="寝込んで"];
+	node2 [label="眼が"];
+	node3 [label="覚めた"];
+	node4 [label="時は"];
+	node5 [label="弥生の"];
+	node6 [label="空が"];
+	node7 [label="朗らかに"];
+	node8 [label="晴れ渡って"];
+	node9 [label="勝手口に"];
+	node10 [label="主人夫婦が"];
+	node11 [label="巡査と"];
+	node12 [label="対談を"];
+	node13 [label="している"];
+	node14 [label="時であった。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

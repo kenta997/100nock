@@ -1,0 +1,5 @@
+digraph graph8056 {
+	node0 [label="「いえ、"];
+	node1 [label="買ったのです」"];
+	node0 -> node1;
+}

@@ -1,0 +1,13 @@
+digraph graph5391 {
+	node0 [label="「私の"];
+	node1 [label="胃病なんか、"];
+	node2 [label="いくら薬を"];
+	node3 [label="飲んでも"];
+	node4 [label="同じ"];
+	node5 [label="事ですぜ」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,5 @@
+digraph graph8272 {
+	node0 [label="もう"];
+	node1 [label="起してもいいでしょう」"];
+	node0 -> node1;
+}

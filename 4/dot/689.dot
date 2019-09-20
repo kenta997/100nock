@@ -1,0 +1,9 @@
+digraph graph689 {
+	node0 [label="吾輩は"];
+	node1 [label="「はあ」と"];
+	node2 [label="返事を"];
+	node3 [label="した。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

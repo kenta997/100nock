@@ -1,0 +1,11 @@
+digraph graph2102 {
+	node0 [label="横風ではあるが"];
+	node1 [label="毫も"];
+	node2 [label="峻嶮な"];
+	node3 [label="ところが"];
+	node4 [label="ない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

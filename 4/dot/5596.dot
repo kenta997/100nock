@@ -1,0 +1,23 @@
+digraph graph5596 {
+	node0 [label="せんだって"];
+	node1 [label="ある"];
+	node2 [label="洋行帰りの"];
+	node3 [label="友人が"];
+	node4 [label="来た"];
+	node5 [label="折なぞは、"];
+	node6 [label="「君西洋人には"];
+	node7 [label="あばたが"];
+	node8 [label="あるかな」と"];
+	node9 [label="聞いた"];
+	node10 [label="くらいだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

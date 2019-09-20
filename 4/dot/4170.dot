@@ -1,0 +1,11 @@
+digraph graph4170 {
+	node0 [label="吾輩は"];
+	node1 [label="今まで"];
+	node2 [label="彼等を"];
+	node3 [label="猫として"];
+	node4 [label="取り扱っていた。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

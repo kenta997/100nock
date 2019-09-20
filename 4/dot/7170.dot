@@ -1,0 +1,17 @@
+digraph graph7170 {
+	node0 [label="別に"];
+	node1 [label="これと"];
+	node2 [label="云う"];
+	node3 [label="特徴も"];
+	node4 [label="ないが"];
+	node5 [label="頭蓋骨だけは"];
+	node6 [label="すこぶる"];
+	node7 [label="大きい。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,31 @@
+digraph graph7181 {
+	node0 [label="教場もしくは"];
+	node1 [label="運動場で"];
+	node2 [label="あんなに"];
+	node3 [label="騒々しい"];
+	node4 [label="ものが、"];
+	node5 [label="どうして"];
+	node6 [label="かように"];
+	node7 [label="自己を"];
+	node8 [label="箝束する"];
+	node9 [label="力を"];
+	node10 [label="具えているかと"];
+	node11 [label="思うと、"];
+	node12 [label="憐れにも"];
+	node13 [label="あるが"];
+	node14 [label="滑稽でもある。"];
+	node0 -> node10;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

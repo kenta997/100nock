@@ -1,0 +1,23 @@
+digraph graph2565 {
+	node0 [label="鼻名を"];
+	node1 [label="千載に"];
+	node2 [label="垂れる"];
+	node3 [label="資格は"];
+	node4 [label="充分"];
+	node5 [label="ありながら、"];
+	node6 [label="あのままで"];
+	node7 [label="朽ち"];
+	node8 [label="果つるとは"];
+	node9 [label="不憫"];
+	node10 [label="千万だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

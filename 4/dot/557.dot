@@ -1,0 +1,19 @@
+digraph graph557 {
+	node0 [label="その"];
+	node1 [label="帰りがけに"];
+	node2 [label="バルザックは"];
+	node3 [label="ふと"];
+	node4 [label="ある"];
+	node5 [label="裁縫屋の"];
+	node6 [label="看板が"];
+	node7 [label="目に"];
+	node8 [label="ついた。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

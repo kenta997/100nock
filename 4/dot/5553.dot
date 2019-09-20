@@ -1,0 +1,9 @@
+digraph graph5553 {
+	node0 [label="ただ"];
+	node1 [label="このままでは"];
+	node2 [label="通されないに"];
+	node3 [label="極まっている。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

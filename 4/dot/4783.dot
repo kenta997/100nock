@@ -1,0 +1,15 @@
+digraph graph4783 {
+	node0 [label="学校の"];
+	node1 [label="教師を"];
+	node2 [label="もって、"];
+	node3 [label="奥山の"];
+	node4 [label="猿に"];
+	node5 [label="比較しては"];
+	node6 [label="勿体ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

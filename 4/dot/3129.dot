@@ -1,0 +1,13 @@
+digraph graph3129 {
+	node0 [label="——"];
+	node1 [label="先生あの"];
+	node2 [label="鈴木藤十郎と"];
+	node3 [label="云う"];
+	node4 [label="工学士を"];
+	node5 [label="知ってなさるか」"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

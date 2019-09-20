@@ -1,0 +1,11 @@
+digraph graph231 {
+	node0 [label="　その後"];
+	node1 [label="吾輩は"];
+	node2 [label="度々"];
+	node3 [label="黒と"];
+	node4 [label="邂逅する。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

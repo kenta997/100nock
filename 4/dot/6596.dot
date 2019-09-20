@@ -1,0 +1,23 @@
+digraph graph6596 {
+	node0 [label="すん"];
+	node1 [label="子も"];
+	node2 [label="妹だけに"];
+	node3 [label="多少"];
+	node4 [label="姉の"];
+	node5 [label="面影を"];
+	node6 [label="存して"];
+	node7 [label="琉球塗の"];
+	node8 [label="朱盆くらいな"];
+	node9 [label="資格は"];
+	node10 [label="ある。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,9 @@
+digraph graph2927 {
+	node0 [label="「どう"];
+	node1 [label="する"];
+	node2 [label="つもりか"];
+	node3 [label="知りません。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

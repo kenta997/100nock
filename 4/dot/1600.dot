@@ -1,0 +1,29 @@
+digraph graph1600 {
+	node0 [label="いくら"];
+	node1 [label="先方が"];
+	node2 [label="勢力家でも、"];
+	node3 [label="財産家でも、"];
+	node4 [label="自分が"];
+	node5 [label="世話に"];
+	node6 [label="なる"];
+	node7 [label="見込の"];
+	node8 [label="ないと"];
+	node9 [label="思い切った"];
+	node10 [label="人の"];
+	node11 [label="利害には"];
+	node12 [label="極めて"];
+	node13 [label="無頓着である。"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node13;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

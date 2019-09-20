@@ -1,0 +1,21 @@
+digraph graph7431 {
+	node0 [label="　寒月君は"];
+	node1 [label="とうてい"];
+	node2 [label="遠方では"];
+	node3 [label="談判不調と"];
+	node4 [label="思った"];
+	node5 [label="ものか、"];
+	node6 [label="靴を"];
+	node7 [label="脱いで"];
+	node8 [label="のそのそ"];
+	node9 [label="上がって来た。"];
+	node0 -> node9;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,7 @@
+digraph graph50 {
+	node0 [label="第一に"];
+	node1 [label="逢ったのが"];
+	node2 [label="おさんである。"];
+	node0 -> node1;
+	node1 -> node2;
+}

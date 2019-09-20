@@ -1,0 +1,9 @@
+digraph graph6448 {
+	node0 [label="少々は"];
+	node1 [label="汁の"];
+	node2 [label="中へも"];
+	node3 [label="這入ったらしい。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

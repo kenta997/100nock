@@ -1,0 +1,7 @@
+digraph graph8418 {
+	node0 [label="油断の"];
+	node1 [label="ならない"];
+	node2 [label="世の中だ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

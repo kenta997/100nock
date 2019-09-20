@@ -1,0 +1,21 @@
+digraph graph3679 {
+	node0 [label="しかも"];
+	node1 [label="その"];
+	node2 [label="時分の"];
+	node3 [label="女が"];
+	node4 [label="必ずしも"];
+	node5 [label="今の"];
+	node6 [label="女より"];
+	node7 [label="品行が"];
+	node8 [label="いいと"];
+	node9 [label="限らんからね。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

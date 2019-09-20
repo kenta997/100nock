@@ -1,0 +1,19 @@
+digraph graph7672 {
+	node0 [label="「しかし"];
+	node1 [label="この"];
+	node2 [label="石でも"];
+	node3 [label="殺さなければ、"];
+	node4 [label="僕の"];
+	node5 [label="方は"];
+	node6 [label="少し"];
+	node7 [label="負けに"];
+	node8 [label="なりそうだから……」"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

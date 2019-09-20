@@ -1,0 +1,23 @@
+digraph graph6154 {
+	node0 [label="元来"];
+	node1 [label="豚なんぞが"];
+	node2 [label="気狂に"];
+	node3 [label="なる"];
+	node4 [label="資格は"];
+	node5 [label="ないんだが、"];
+	node6 [label="全く"];
+	node7 [label="独仙の"];
+	node8 [label="御蔭で"];
+	node9 [label="あすこまで"];
+	node10 [label="漕ぎ付けたんだね。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

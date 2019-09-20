@@ -1,0 +1,21 @@
+digraph graph535 {
+	node0 [label="気の毒ながら"];
+	node1 [label="うちの"];
+	node2 [label="主人などは"];
+	node3 [label="到底"];
+	node4 [label="これを"];
+	node5 [label="反駁する"];
+	node6 [label="ほどの"];
+	node7 [label="頭脳も"];
+	node8 [label="学問も"];
+	node9 [label="ないのである。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

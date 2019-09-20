@@ -1,0 +1,15 @@
+digraph graph6830 {
+	node0 [label="「ホホホホ、"];
+	node1 [label="いやだ"];
+	node2 [label="事、"];
+	node3 [label="誰に"];
+	node4 [label="そんな"];
+	node5 [label="事を、"];
+	node6 [label="教わったの？"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

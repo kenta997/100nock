@@ -1,0 +1,9 @@
+digraph graph8616 {
+	node0 [label="「妙ですな、"];
+	node1 [label="傍聴に"];
+	node2 [label="出たいくらいの"];
+	node3 [label="ものですね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

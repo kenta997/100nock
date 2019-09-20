@@ -1,0 +1,7 @@
+digraph graph1440 {
+	node0 [label="」と"];
+	node1 [label="細君は"];
+	node2 [label="向き直る。"];
+	node0 -> node2;
+	node1 -> node2;
+}

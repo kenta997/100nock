@@ -1,0 +1,15 @@
+digraph graph8914 {
+	node0 [label="その"];
+	node1 [label="くらい"];
+	node2 [label="愚妻の"];
+	node3 [label="わる口を"];
+	node4 [label="拝聴すれば"];
+	node5 [label="申し分は"];
+	node6 [label="ありません」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

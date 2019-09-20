@@ -1,0 +1,5 @@
+digraph graph2652 {
+	node0 [label="遺憾ではあるが"];
+	node1 [label="やむを得ない。"];
+	node0 -> node1;
+}

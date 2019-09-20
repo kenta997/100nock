@@ -1,0 +1,5 @@
+digraph graph4327 {
+	node0 [label="それは"];
+	node1 [label="ほかでもない。"];
+	node0 -> node1;
+}

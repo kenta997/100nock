@@ -1,0 +1,11 @@
+digraph graph7045 {
+	node0 [label="油壺を"];
+	node1 [label="警察から"];
+	node2 [label="貰ってくるような"];
+	node3 [label="真似は"];
+	node4 [label="出来ないわ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

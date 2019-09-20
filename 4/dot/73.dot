@@ -1,0 +1,25 @@
+digraph graph73 {
+	node0 [label="彼は"];
+	node1 [label="胃弱で"];
+	node2 [label="皮膚の"];
+	node3 [label="色が"];
+	node4 [label="淡"];
+	node5 [label="黄色を"];
+	node6 [label="帯びて"];
+	node7 [label="弾力の"];
+	node8 [label="ない"];
+	node9 [label="不活溌な"];
+	node10 [label="徴候を"];
+	node11 [label="あらわしている。"];
+	node0 -> node11;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

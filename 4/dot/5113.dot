@@ -1,0 +1,7 @@
+digraph graph5113 {
+	node0 [label="敵の"];
+	node1 [label="考は"];
+	node2 [label="こうであった。"];
+	node0 -> node1;
+	node1 -> node2;
+}

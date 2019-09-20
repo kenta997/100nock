@@ -1,0 +1,21 @@
+digraph graph4264 {
+	node0 [label="そこで"];
+	node1 [label="職員共は"];
+	node2 [label="話せない"];
+	node3 [label="連中だとは"];
+	node4 [label="思ったが、"];
+	node5 [label="何しろ"];
+	node6 [label="女は"];
+	node7 [label="東西両国を通じて"];
+	node8 [label="一種の"];
+	node9 [label="装飾品である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

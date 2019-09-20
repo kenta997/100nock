@@ -1,0 +1,15 @@
+digraph graph7867 {
+	node0 [label="「妻を"];
+	node1 [label="持つと"];
+	node2 [label="みんな"];
+	node3 [label="そう"];
+	node4 [label="云う"];
+	node5 [label="気に"];
+	node6 [label="なるのさ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

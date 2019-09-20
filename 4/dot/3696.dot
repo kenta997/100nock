@@ -1,0 +1,23 @@
+digraph graph3696 {
+	node0 [label="初さんの"];
+	node1 [label="隣りが"];
+	node2 [label="長どんで"];
+	node3 [label="これは"];
+	node4 [label="昨日火事で"];
+	node5 [label="焚き出されたかの"];
+	node6 [label="ごとく"];
+	node7 [label="愁然と"];
+	node8 [label="算盤に"];
+	node9 [label="身を"];
+	node10 [label="凭している。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node10;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,9 @@
+digraph graph1497 {
+	node0 [label="「迷亭のは"];
+	node1 [label="聴いているのか、"];
+	node2 [label="交ぜ返しているのか"];
+	node3 [label="判然しない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

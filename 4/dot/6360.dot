@@ -1,0 +1,37 @@
+digraph graph6360 {
+	node0 [label="金田君には"];
+	node1 [label="御目に"];
+	node2 [label="懸った"];
+	node3 [label="事は"];
+	node4 [label="ないが、"];
+	node5 [label="まず"];
+	node6 [label="あの"];
+	node7 [label="細君を"];
+	node8 [label="恭しく"];
+	node9 [label="おっ立てて、"];
+	node10 [label="琴瑟調和している"];
+	node11 [label="ところを"];
+	node12 [label="見ると"];
+	node13 [label="非凡の"];
+	node14 [label="人間と"];
+	node15 [label="見立てて"];
+	node16 [label="差支え"];
+	node17 [label="あるまい。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node17;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node17;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

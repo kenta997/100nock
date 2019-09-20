@@ -1,0 +1,7 @@
+digraph graph5621 {
+	node0 [label="滅多に"];
+	node1 [label="寄り付くべき"];
+	node2 [label="帯ではない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

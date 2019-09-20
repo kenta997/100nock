@@ -1,0 +1,9 @@
+digraph graph1783 {
+	node0 [label="聞いた"];
+	node1 [label="事さえ"];
+	node2 [label="今が"];
+	node3 [label="始めてである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,35 @@
+digraph graph1461 {
+	node0 [label="それ"];
+	node1 [label="以来、"];
+	node2 [label="坊や"];
+	node3 [label="辛いのは"];
+	node4 [label="どこと"];
+	node5 [label="聞くと"];
+	node6 [label="きっと"];
+	node7 [label="舌を"];
+	node8 [label="出すから"];
+	node9 [label="妙だ」"];
+	node10 [label="「まるで"];
+	node11 [label="犬に"];
+	node12 [label="芸を"];
+	node13 [label="仕込む"];
+	node14 [label="気で"];
+	node15 [label="いるから"];
+	node16 [label="残酷だ。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

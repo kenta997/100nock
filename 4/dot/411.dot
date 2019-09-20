@@ -1,0 +1,9 @@
+digraph graph411 {
+	node0 [label="「どこで」"];
+	node1 [label="「どこでも"];
+	node2 [label="そりゃ御聞きに"];
+	node3 [label="ならんでもよいでしょう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

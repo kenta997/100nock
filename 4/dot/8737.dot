@@ -1,0 +1,5 @@
+digraph graph8737 {
+	node0 [label="訳は"];
+	node1 [label="こうさ。"];
+	node0 -> node1;
+}

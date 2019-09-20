@@ -1,0 +1,15 @@
+digraph graph1694 {
+	node0 [label="「その"];
+	node1 [label="文句を"];
+	node2 [label="読んで"];
+	node3 [label="御覧なさい」と"];
+	node4 [label="主人が"];
+	node5 [label="笑いながら"];
+	node6 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

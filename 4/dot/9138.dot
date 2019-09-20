@@ -1,0 +1,9 @@
+digraph graph9138 {
+	node0 [label="この"];
+	node1 [label="問題を"];
+	node2 [label="ビールで"];
+	node3 [label="解決してやろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

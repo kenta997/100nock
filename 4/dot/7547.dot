@@ -1,0 +1,7 @@
+digraph graph7547 {
+	node0 [label="「飛んだ"];
+	node1 [label="間違になら"];
+	node2 [label="あね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

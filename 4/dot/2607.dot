@@ -1,0 +1,13 @@
+digraph graph2607 {
+	node0 [label="迷亭一流の"];
+	node1 [label="喩をもって"];
+	node2 [label="寒月君を"];
+	node3 [label="評すれば"];
+	node4 [label="彼は"];
+	node5 [label="活動図書館である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

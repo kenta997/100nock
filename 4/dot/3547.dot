@@ -1,0 +1,15 @@
+digraph graph3547 {
+	node0 [label="「そうさ問題が"];
+	node1 [label="問題だから、"];
+	node2 [label="そう"];
+	node3 [label="鼻の"];
+	node4 [label="言う"];
+	node5 [label="通りにも"];
+	node6 [label="ならないね。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

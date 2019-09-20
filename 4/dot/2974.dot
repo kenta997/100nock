@@ -1,0 +1,35 @@
+digraph graph2974 {
+	node0 [label="「そればってんが……」と"];
+	node1 [label="言い掛けた"];
+	node2 [label="三平君は"];
+	node3 [label="座敷中を"];
+	node4 [label="見廻"];
+	node5 [label="わして"];
+	node6 [label="「今日は"];
+	node7 [label="御嬢さんも"];
+	node8 [label="見えんな」と"];
+	node9 [label="半分妻君に"];
+	node10 [label="聞いているや"];
+	node11 [label="否や"];
+	node12 [label="次の間から"];
+	node13 [label="とん子と"];
+	node14 [label="すん"];
+	node15 [label="子が"];
+	node16 [label="馳け出して来る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node16;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

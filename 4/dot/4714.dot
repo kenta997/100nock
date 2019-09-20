@@ -1,0 +1,37 @@
+digraph graph4714 {
+	node0 [label="ところが"];
+	node1 [label="彼等"];
+	node2 [label="諸君子は"];
+	node3 [label="学校で"];
+	node4 [label="教育を"];
+	node5 [label="受くるに従って、"];
+	node6 [label="だんだん"];
+	node7 [label="君子らしくなった"];
+	node8 [label="ものと"];
+	node9 [label="見えて、"];
+	node10 [label="次第に"];
+	node11 [label="北側から"];
+	node12 [label="南側の"];
+	node13 [label="方面へ"];
+	node14 [label="向けて"];
+	node15 [label="蚕食を"];
+	node16 [label="企だてて"];
+	node17 [label="来た。"];
+	node0 -> node17;
+	node1 -> node2;
+	node2 -> node17;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node17;
+	node10 -> node17;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

@@ -1,0 +1,29 @@
+digraph graph7977 {
+	node0 [label="要するに"];
+	node1 [label="私は"];
+	node2 [label="甘干しの"];
+	node3 [label="柿を"];
+	node4 [label="食っては"];
+	node5 [label="もぐり、"];
+	node6 [label="もぐっては"];
+	node7 [label="食い、"];
+	node8 [label="とうとう"];
+	node9 [label="軒端に"];
+	node10 [label="吊るした"];
+	node11 [label="奴を"];
+	node12 [label="みんな"];
+	node13 [label="食ってしまいました」"];
+	node0 -> node13;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

@@ -1,0 +1,9 @@
+digraph graph8102 {
+	node0 [label="いつまでも聞くから"];
+	node1 [label="十時に"];
+	node2 [label="なるまで"];
+	node3 [label="やりたまえ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

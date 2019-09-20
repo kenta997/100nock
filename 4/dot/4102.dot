@@ -1,0 +1,9 @@
+digraph graph4102 {
+	node0 [label="落ちると"];
+	node1 [label="降りるのは、"];
+	node2 [label="ちとりの"];
+	node3 [label="差である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

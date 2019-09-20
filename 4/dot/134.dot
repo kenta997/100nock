@@ -1,0 +1,35 @@
+digraph graph134 {
+	node0 [label="彼の"];
+	node1 [label="友は"];
+	node2 [label="金縁の"];
+	node3 [label="眼鏡越に"];
+	node4 [label="主人の"];
+	node5 [label="顔を"];
+	node6 [label="見ながら、"];
+	node7 [label="「そう"];
+	node8 [label="初めから"];
+	node9 [label="上手には"];
+	node10 [label="かけないさ、"];
+	node11 [label="第一室内の"];
+	node12 [label="想像ばかりで"];
+	node13 [label="画が"];
+	node14 [label="かける"];
+	node15 [label="訳の"];
+	node16 [label="ものではない。"];
+	node0 -> node1;
+	node1 -> node16;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

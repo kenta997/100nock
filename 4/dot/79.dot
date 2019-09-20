@@ -1,0 +1,11 @@
+digraph graph79 {
+	node0 [label="これが"];
+	node1 [label="彼の"];
+	node2 [label="毎夜"];
+	node3 [label="繰り返す"];
+	node4 [label="日課である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

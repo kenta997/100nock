@@ -1,0 +1,29 @@
+digraph graph1145 {
+	node0 [label="水の"];
+	node1 [label="中へ"];
+	node2 [label="飛び込んだつもりで"];
+	node3 [label="いた"];
+	node4 [label="ところが、"];
+	node5 [label="つい"];
+	node6 [label="間違って"];
+	node7 [label="橋の"];
+	node8 [label="真中へ"];
+	node9 [label="飛び下りたので、"];
+	node10 [label="その"];
+	node11 [label="時は"];
+	node12 [label="実に"];
+	node13 [label="残念でした。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

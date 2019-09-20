@@ -1,0 +1,5 @@
+digraph graph9098 {
+	node0 [label="これが"];
+	node1 [label="順当だ。"];
+	node0 -> node1;
+}

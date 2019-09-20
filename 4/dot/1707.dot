@@ -1,0 +1,13 @@
+digraph graph1707 {
+	node0 [label="迷亭は"];
+	node1 [label="面白半分に"];
+	node2 [label="「こりゃ"];
+	node3 [label="どうです」と"];
+	node4 [label="三枚目を"];
+	node5 [label="出す。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

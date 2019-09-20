@@ -1,0 +1,17 @@
+digraph graph1495 {
+	node0 [label="演舌家は"];
+	node1 [label="もっと"];
+	node2 [label="上品な"];
+	node3 [label="詞を"];
+	node4 [label="使って"];
+	node5 [label="貰いたいね」と"];
+	node6 [label="迷亭先生また"];
+	node7 [label="交ぜ返す。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

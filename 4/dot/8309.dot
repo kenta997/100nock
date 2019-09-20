@@ -1,0 +1,9 @@
+digraph graph8309 {
+	node0 [label="「ありがたい"];
+	node1 [label="事に"];
+	node2 [label="弓は"];
+	node3 [label="無難です。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

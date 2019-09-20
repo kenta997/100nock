@@ -1,0 +1,11 @@
+digraph graph7298 {
+	node0 [label="もっと"];
+	node1 [label="条理を"];
+	node2 [label="立てて"];
+	node3 [label="話すが"];
+	node4 [label="いい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,11 @@
+digraph graph5495 {
+	node0 [label="「まあ"];
+	node1 [label="全体"];
+	node2 [label="何が"];
+	node3 [label="そんなに"];
+	node4 [label="不平なんだい」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

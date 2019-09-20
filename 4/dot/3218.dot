@@ -1,0 +1,23 @@
+digraph graph3218 {
+	node0 [label="して"];
+	node1 [label="見れば"];
+	node2 [label="いかに"];
+	node3 [label="賢"];
+	node4 [label="こい"];
+	node5 [label="吾輩のごとき"];
+	node6 [label="ものでも"];
+	node7 [label="鼠の"];
+	node8 [label="捕れん"];
+	node9 [label="はずは"];
+	node10 [label="あるまい。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

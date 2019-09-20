@@ -1,0 +1,9 @@
+digraph graph193 {
+	node0 [label="吾輩の"];
+	node1 [label="倍は"];
+	node2 [label="たしかに"];
+	node3 [label="ある。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

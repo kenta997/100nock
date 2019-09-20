@@ -1,0 +1,11 @@
+digraph graph7749 {
+	node0 [label="ついでに"];
+	node1 [label="お払いの"];
+	node2 [label="方も"];
+	node3 [label="願いたい"];
+	node4 [label="もので」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

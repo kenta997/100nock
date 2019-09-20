@@ -1,0 +1,19 @@
+digraph graph830 {
+	node0 [label="やはり"];
+	node1 [label="沈着な"];
+	node2 [label="口調で"];
+	node3 [label="「その"];
+	node4 [label="船頭で"];
+	node5 [label="せっかくの"];
+	node6 [label="催しも"];
+	node7 [label="竜頭蛇尾に"];
+	node8 [label="終りました。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

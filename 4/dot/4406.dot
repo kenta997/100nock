@@ -1,0 +1,27 @@
+digraph graph4406 {
+	node0 [label="「一体"];
+	node1 [label="この"];
+	node2 [label="湯は"];
+	node3 [label="何に"];
+	node4 [label="利くんでしょう」と"];
+	node5 [label="手拭を"];
+	node6 [label="畳んで"];
+	node7 [label="凸凹頭を"];
+	node8 [label="かくした"];
+	node9 [label="男が"];
+	node10 [label="一同に"];
+	node11 [label="聞いて"];
+	node12 [label="見る。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

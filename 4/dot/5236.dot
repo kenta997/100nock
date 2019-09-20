@@ -1,0 +1,9 @@
+digraph graph5236 {
+	node0 [label="「いや"];
+	node1 [label="何、"];
+	node2 [label="大した"];
+	node3 [label="事でもないのさ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

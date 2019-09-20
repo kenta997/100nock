@@ -1,0 +1,7 @@
+digraph graph7660 {
+	node0 [label="——"];
+	node1 [label="なに君と僕の"];
+	node2 [label="間柄じゃないか。"];
+	node0 -> node2;
+	node1 -> node2;
+}

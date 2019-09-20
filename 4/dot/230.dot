@@ -1,0 +1,13 @@
+digraph graph230 {
+	node0 [label="吾輩が"];
+	node1 [label="車屋の"];
+	node2 [label="黒と"];
+	node3 [label="知己に"];
+	node4 [label="なったのは"];
+	node5 [label="これからである。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

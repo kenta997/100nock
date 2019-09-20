@@ -1,0 +1,9 @@
+digraph graph4742 {
+	node0 [label="教育の"];
+	node1 [label="功果は"];
+	node2 [label="いよいよ"];
+	node3 [label="顕著になってくる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

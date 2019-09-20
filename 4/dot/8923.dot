@@ -1,0 +1,5 @@
+digraph graph8923 {
+	node0 [label="いつの間に"];
+	node1 [label="御帰りですか」"];
+	node0 -> node1;
+}

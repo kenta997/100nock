@@ -1,0 +1,35 @@
+digraph graph414 {
+	node0 [label="二人は"];
+	node1 [label="女で"];
+	node2 [label="私が"];
+	node3 [label="その"];
+	node4 [label="中へ"];
+	node5 [label="まじりましたが、"];
+	node6 [label="自分でも"];
+	node7 [label="善く"];
+	node8 [label="弾けたと"];
+	node9 [label="思いました」"];
+	node10 [label="「ふん、そして"];
+	node11 [label="その"];
+	node12 [label="女というのは"];
+	node13 [label="何者かね」と"];
+	node14 [label="主人は"];
+	node15 [label="羨ましそうに"];
+	node16 [label="問いかける。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+}

@@ -1,0 +1,15 @@
+digraph graph1382 {
+	node0 [label="「天然居士と"];
+	node1 [label="云うなあやはり"];
+	node2 [label="偶然童子のような"];
+	node3 [label="戒名かね」と"];
+	node4 [label="迷亭は"];
+	node5 [label="不相変出鱈目を"];
+	node6 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

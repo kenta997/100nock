@@ -1,0 +1,15 @@
+digraph graph1114 {
+	node0 [label="あの"];
+	node1 [label="奇麗な、"];
+	node2 [label="あの"];
+	node3 [label="快活な"];
+	node4 [label="あの"];
+	node5 [label="健康な"];
+	node6 [label="○○子さんが……」"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

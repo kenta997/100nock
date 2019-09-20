@@ -1,0 +1,15 @@
+digraph graph1190 {
+	node0 [label="細君は"];
+	node1 [label="恨めしい"];
+	node2 [label="顔付を"];
+	node3 [label="して、"];
+	node4 [label="到底"];
+	node5 [label="いらっしゃれませんかと"];
+	node6 [label="聞く。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

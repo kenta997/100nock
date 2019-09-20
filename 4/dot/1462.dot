@@ -1,0 +1,23 @@
+digraph graph1462 {
+	node0 [label="時に"];
+	node1 [label="寒月は"];
+	node2 [label="もう"];
+	node3 [label="来そうな"];
+	node4 [label="ものだな」"];
+	node5 [label="「寒月が"];
+	node6 [label="来るのかい」と"];
+	node7 [label="主人は"];
+	node8 [label="不審な"];
+	node9 [label="顔を"];
+	node10 [label="する。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

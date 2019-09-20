@@ -1,0 +1,23 @@
+digraph graph4207 {
+	node0 [label="あの"];
+	node1 [label="皮の"];
+	node2 [label="あたりへ"];
+	node3 [label="行って"];
+	node4 [label="背中を"];
+	node5 [label="つけるが"];
+	node6 [label="早いか必ず"];
+	node7 [label="べたりと"];
+	node8 [label="おいでに"];
+	node9 [label="なるに"];
+	node10 [label="極っている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,17 @@
+digraph graph4873 {
+	node0 [label="試みに"];
+	node1 [label="石の"];
+	node2 [label="上に"];
+	node3 [label="坐って"];
+	node4 [label="ご覧、"];
+	node5 [label="尻が"];
+	node6 [label="冷えるのは"];
+	node7 [label="当り前だろう。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+}

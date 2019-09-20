@@ -1,0 +1,27 @@
+digraph graph5929 {
+	node0 [label="主人は"];
+	node1 [label="この"];
+	node2 [label="時"];
+	node3 [label="ようやく本心に"];
+	node4 [label="立ち返って、"];
+	node5 [label="精神修養の"];
+	node6 [label="結果を"];
+	node7 [label="存分に"];
+	node8 [label="老人の"];
+	node9 [label="服装に"];
+	node10 [label="応用して"];
+	node11 [label="少々"];
+	node12 [label="驚いた。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

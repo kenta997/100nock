@@ -1,0 +1,25 @@
+digraph graph5190 {
+	node0 [label="「ごもっともで、"];
+	node1 [label="よく"];
+	node2 [label="注意は"];
+	node3 [label="致しますが"];
+	node4 [label="何分"];
+	node5 [label="多人数の"];
+	node6 [label="事で……"];
+	node7 [label="よく"];
+	node8 [label="これから"];
+	node9 [label="注意を"];
+	node10 [label="せんと"];
+	node11 [label="いかんぜ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

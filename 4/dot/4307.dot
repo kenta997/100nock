@@ -1,0 +1,15 @@
+digraph graph4307 {
+	node0 [label="だから"];
+	node1 [label="どんな"];
+	node2 [label="人間でも"];
+	node3 [label="生れる"];
+	node4 [label="ときは"];
+	node5 [label="必ず"];
+	node6 [label="赤裸である。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,7 @@
+digraph graph7138 {
+	node0 [label="没分暁で"];
+	node1 [label="強情なんだから"];
+	node2 [label="仕方がない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

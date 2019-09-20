@@ -1,0 +1,21 @@
+digraph graph7636 {
+	node0 [label="「禅坊主の"];
+	node1 [label="碁には"];
+	node2 [label="こんな"];
+	node3 [label="法は"];
+	node4 [label="ないかも知れないが、"];
+	node5 [label="本因坊の"];
+	node6 [label="流儀じゃ、"];
+	node7 [label="あるんだから"];
+	node8 [label="仕方が"];
+	node9 [label="ないさ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

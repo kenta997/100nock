@@ -1,0 +1,11 @@
+digraph graph8587 {
+	node0 [label="人間は"];
+	node1 [label="どうしても"];
+	node2 [label="死ななければならん"];
+	node3 [label="事が"];
+	node4 [label="分明になった」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

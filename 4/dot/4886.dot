@@ -1,0 +1,9 @@
+digraph graph4886 {
+	node0 [label="逆上であって"];
+	node1 [label="見れば"];
+	node2 [label="臨時の"];
+	node3 [label="気違である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

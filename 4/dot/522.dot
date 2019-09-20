@@ -1,0 +1,21 @@
+digraph graph522 {
+	node0 [label="それに"];
+	node1 [label="時々"];
+	node2 [label="思い出したように"];
+	node3 [label="一心不乱に"];
+	node4 [label="かかりは"];
+	node5 [label="する"];
+	node6 [label="ものの"];
+	node7 [label="五六分"];
+	node8 [label="立つと"];
+	node9 [label="忘れてしまう。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,37 @@
+digraph graph1116 {
+	node0 [label="さっきから"];
+	node1 [label="伺っていると"];
+	node2 [label="○○子さんと"];
+	node3 [label="云うのが"];
+	node4 [label="二返ばかり"];
+	node5 [label="聞えるようだが、"];
+	node6 [label="もし"];
+	node7 [label="差支えが"];
+	node8 [label="なければ"];
+	node9 [label="承"];
+	node10 [label="わりたいね、"];
+	node11 [label="君」と"];
+	node12 [label="主人を"];
+	node13 [label="顧みると、"];
+	node14 [label="主人も"];
+	node15 [label="「うむ」と"];
+	node16 [label="生返事を"];
+	node17 [label="する。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node17;
+	node15 -> node17;
+	node16 -> node17;
+}

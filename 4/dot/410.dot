@@ -1,0 +1,19 @@
+digraph graph410 {
+	node0 [label="「一昨夜も"];
+	node1 [label="ちょいと"];
+	node2 [label="合奏会を"];
+	node3 [label="やりましてね」と"];
+	node4 [label="寒月君は"];
+	node5 [label="また"];
+	node6 [label="話しを"];
+	node7 [label="もとへ"];
+	node8 [label="戻す。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

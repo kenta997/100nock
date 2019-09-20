@@ -1,0 +1,5 @@
+digraph graph8521 {
+	node0 [label="いつでも"];
+	node1 [label="焦熱地獄だ。"];
+	node0 -> node1;
+}

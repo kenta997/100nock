@@ -1,0 +1,23 @@
+digraph graph4094 {
+	node0 [label="それだから"];
+	node1 [label="鳶口のように"];
+	node2 [label="物を"];
+	node3 [label="かけて"];
+	node4 [label="引き寄せる"];
+	node5 [label="事は"];
+	node6 [label="出来るが、"];
+	node7 [label="逆に"];
+	node8 [label="押し出す"];
+	node9 [label="力は"];
+	node10 [label="ない。"];
+	node0 -> node6;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

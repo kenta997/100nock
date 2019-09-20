@@ -1,0 +1,11 @@
+digraph graph5922 {
+	node0 [label="フロックコートは"];
+	node1 [label="着ているが"];
+	node2 [label="すこしも"];
+	node3 [label="からだに"];
+	node4 [label="合わない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

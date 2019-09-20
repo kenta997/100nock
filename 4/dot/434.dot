@@ -1,0 +1,11 @@
+digraph graph434 {
+	node0 [label="ただし"];
+	node1 [label="これだけは"];
+	node2 [label="失恋の"];
+	node3 [label="ためとも"];
+	node4 [label="思われない。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

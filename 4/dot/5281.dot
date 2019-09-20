@@ -1,0 +1,19 @@
+digraph graph5281 {
+	node0 [label="太陽が"];
+	node1 [label="無事に"];
+	node2 [label="東から"];
+	node3 [label="出て、"];
+	node4 [label="無事に"];
+	node5 [label="西へ"];
+	node6 [label="入るのも"];
+	node7 [label="全く実業家の"];
+	node8 [label="御蔭である。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

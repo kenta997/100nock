@@ -1,0 +1,11 @@
+digraph graph5796 {
+	node0 [label="　神は"];
+	node1 [label="人間の"];
+	node2 [label="苦しまぎれに"];
+	node3 [label="捏造せる"];
+	node4 [label="土偶のみ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

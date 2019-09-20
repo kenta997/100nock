@@ -1,0 +1,11 @@
+digraph graph4335 {
+	node0 [label="赤裸は"];
+	node1 [label="赤裸で"];
+	node2 [label="どこまでも"];
+	node3 [label="差別を"];
+	node4 [label="立ててくる。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

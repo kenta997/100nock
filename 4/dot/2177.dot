@@ -1,0 +1,13 @@
+digraph graph2177 {
+	node0 [label="今日は"];
+	node1 [label="土曜ですから"];
+	node2 [label="これから"];
+	node3 [label="廻ったら、"];
+	node4 [label="もう"];
+	node5 [label="帰っておりましょう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

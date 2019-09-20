@@ -1,0 +1,15 @@
+digraph graph8269 {
+	node0 [label="これからが"];
+	node1 [label="面白い"];
+	node2 [label="ところです、"];
+	node3 [label="ちょうど"];
+	node4 [label="いい"];
+	node5 [label="時ですから"];
+	node6 [label="聞いて下さい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

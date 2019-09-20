@@ -1,0 +1,21 @@
+digraph graph1026 {
+	node0 [label="何でも"];
+	node1 [label="第二回には"];
+	node2 [label="知名の"];
+	node3 [label="文士を"];
+	node4 [label="招待して"];
+	node5 [label="大会を"];
+	node6 [label="やるつもりだから、"];
+	node7 [label="先生にも"];
+	node8 [label="是非御臨席を"];
+	node9 [label="願いたいって。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

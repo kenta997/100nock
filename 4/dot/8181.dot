@@ -1,0 +1,11 @@
+digraph graph8181 {
+	node0 [label="寒月君は"];
+	node1 [label="これに"];
+	node2 [label="勢を"];
+	node3 [label="得て隠し所を"];
+	node4 [label="説明する。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

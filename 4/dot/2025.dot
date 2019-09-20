@@ -1,0 +1,13 @@
+digraph graph2025 {
+	node0 [label="あんな"];
+	node1 [label="ものの"];
+	node2 [label="娘を"];
+	node3 [label="誰が"];
+	node4 [label="貰う"];
+	node5 [label="ものか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

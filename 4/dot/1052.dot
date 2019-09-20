@@ -1,0 +1,5 @@
+digraph graph1052 {
+	node0 [label="一番"];
+	node1 [label="仕舞にね。"];
+	node0 -> node1;
+}

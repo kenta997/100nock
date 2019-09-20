@@ -1,0 +1,7 @@
+digraph graph3854 {
+	node0 [label="大和魂！　と"];
+	node1 [label="掏摸が"];
+	node2 [label="云う。"];
+	node0 -> node2;
+	node1 -> node2;
+}

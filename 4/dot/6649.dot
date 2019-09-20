@@ -1,0 +1,19 @@
+digraph graph6649 {
+	node0 [label="ここには"];
+	node1 [label="大分群を"];
+	node2 [label="なして"];
+	node3 [label="数に"];
+	node4 [label="したら、"];
+	node5 [label="両方を"];
+	node6 [label="合せて"];
+	node7 [label="約二十粒も"];
+	node8 [label="あったろう。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

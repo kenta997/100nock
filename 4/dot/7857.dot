@@ -1,0 +1,9 @@
+digraph graph7857 {
+	node0 [label="「小供を"];
+	node1 [label="連れて、"];
+	node2 [label="さっき"];
+	node3 [label="出掛けた」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

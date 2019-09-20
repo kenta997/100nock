@@ -1,0 +1,7 @@
+digraph graph3378 {
+	node0 [label="まるで"];
+	node1 [label="贋造の"];
+	node2 [label="芭蕉葉のようだ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

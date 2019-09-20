@@ -1,0 +1,7 @@
+digraph graph8376 {
+	node0 [label="「気が"];
+	node1 [label="しても"];
+	node2 [label="事実だよ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

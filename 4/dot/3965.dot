@@ -1,0 +1,19 @@
+digraph graph3965 {
+	node0 [label="夏の"];
+	node1 [label="半から"];
+	node2 [label="秋の"];
+	node3 [label="始めへ"];
+	node4 [label="かけてやる"];
+	node5 [label="遊戯としては"];
+	node6 [label="もっとも"];
+	node7 [label="上乗の"];
+	node8 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

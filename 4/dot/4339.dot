@@ -1,0 +1,23 @@
+digraph graph4339 {
+	node0 [label="吾輩は"];
+	node1 [label="文明の"];
+	node2 [label="諸君子の"];
+	node3 [label="ために"];
+	node4 [label="ここに"];
+	node5 [label="謹んで"];
+	node6 [label="その"];
+	node7 [label="一般を"];
+	node8 [label="紹介するの"];
+	node9 [label="栄を"];
+	node10 [label="有する。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

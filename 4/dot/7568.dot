@@ -1,0 +1,11 @@
+digraph graph7568 {
+	node0 [label="「君も"];
+	node1 [label="大分迷亭見たように"];
+	node2 [label="呑気な"];
+	node3 [label="事を"];
+	node4 [label="云うね」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

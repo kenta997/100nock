@@ -1,0 +1,7 @@
+digraph graph9067 {
+	node0 [label="　なるほど"];
+	node1 [label="そこいらだろうと"];
+	node2 [label="思った。"];
+	node0 -> node1;
+	node1 -> node2;
+}

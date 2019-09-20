@@ -1,0 +1,11 @@
+digraph graph7475 {
+	node0 [label="吾輩には"];
+	node1 [label="この"];
+	node2 [label="狂言が"];
+	node3 [label="ちょっと"];
+	node4 [label="面白かった。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,23 @@
+digraph graph5712 {
+	node0 [label="昔から"];
+	node1 [label="増上慢を"];
+	node2 [label="もって"];
+	node3 [label="己を"];
+	node4 [label="害し"];
+	node5 [label="他を"];
+	node6 [label="※うた事蹟の"];
+	node7 [label="三分の二は"];
+	node8 [label="たしかに"];
+	node9 [label="鏡の"];
+	node10 [label="所作である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

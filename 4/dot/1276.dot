@@ -1,0 +1,13 @@
+digraph graph1276 {
+	node0 [label="座蒲団の"];
+	node1 [label="上に"];
+	node2 [label="立ったまま、"];
+	node3 [label="木彫の"];
+	node4 [label="猫のように眼も"];
+	node5 [label="動かさない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

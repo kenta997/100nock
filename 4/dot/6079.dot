@@ -1,0 +1,9 @@
+digraph graph6079 {
+	node0 [label="名前の"];
+	node1 [label="独仙なども"];
+	node2 [label="振った"];
+	node3 [label="ものさ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

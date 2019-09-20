@@ -1,0 +1,9 @@
+digraph graph4393 {
+	node0 [label="どう"];
+	node1 [label="云う"];
+	node2 [label="もんか人に"];
+	node3 [label="好かれねえ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

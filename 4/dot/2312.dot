@@ -1,0 +1,29 @@
+digraph graph2312 {
+	node0 [label="なに"];
+	node1 [label="その後"];
+	node2 [label="時"];
+	node3 [label="々東京へは"];
+	node4 [label="出て来る"];
+	node5 [label="事も"];
+	node6 [label="あるんだが、"];
+	node7 [label="つい"];
+	node8 [label="用事が"];
+	node9 [label="多い"];
+	node10 [label="もんだから、"];
+	node11 [label="いつでも"];
+	node12 [label="失敬するような"];
+	node13 [label="訳さ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

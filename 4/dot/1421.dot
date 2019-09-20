@@ -1,0 +1,15 @@
+digraph graph1421 {
+	node0 [label="「ほかの"];
+	node1 [label="道楽は"];
+	node2 [label="ないですが、"];
+	node3 [label="無暗に"];
+	node4 [label="読みもしない"];
+	node5 [label="本ばかり"];
+	node6 [label="買いましてね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

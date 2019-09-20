@@ -1,0 +1,31 @@
+digraph graph5782 {
+	node0 [label="……"];
+	node1 [label="始めて"];
+	node2 [label="海鼠を"];
+	node3 [label="食い出せる"];
+	node4 [label="人は"];
+	node5 [label="其胆力に"];
+	node6 [label="於て"];
+	node7 [label="敬すべく、"];
+	node8 [label="始めて"];
+	node9 [label="河豚を"];
+	node10 [label="喫せる"];
+	node11 [label="漢は"];
+	node12 [label="其勇気に"];
+	node13 [label="於て"];
+	node14 [label="重んずべし。"];
+	node0 -> node14;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

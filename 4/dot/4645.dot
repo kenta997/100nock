@@ -1,0 +1,11 @@
+digraph graph4645 {
+	node0 [label="「なに"];
+	node1 [label="苦しくっても"];
+	node2 [label="これから"];
+	node3 [label="少し"];
+	node4 [label="稽古するんだ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

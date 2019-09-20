@@ -1,0 +1,37 @@
+digraph graph6914 {
+	node0 [label="その"];
+	node1 [label="馬鹿が"];
+	node2 [label="この"];
+	node3 [label="騒ぎを"];
+	node4 [label="見て"];
+	node5 [label="御前方は"];
+	node6 [label="何で"];
+	node7 [label="そんなに"];
+	node8 [label="騒ぐんだ、"];
+	node9 [label="何年"];
+	node10 [label="かかっても"];
+	node11 [label="地蔵一つ"];
+	node12 [label="動かす"];
+	node13 [label="事が"];
+	node14 [label="出来ないのか、"];
+	node15 [label="可哀想な"];
+	node16 [label="ものだ、と"];
+	node17 [label="云ったそうですって——」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+	node16 -> node17;
+}

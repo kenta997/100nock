@@ -1,0 +1,11 @@
+digraph graph5334 {
+	node0 [label="僕が"];
+	node1 [label="文部大臣なら"];
+	node2 [label="早速"];
+	node3 [label="閉鎖を"];
+	node4 [label="命じてやる」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

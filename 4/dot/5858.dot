@@ -1,0 +1,23 @@
+digraph graph5858 {
+	node0 [label="座敷の"];
+	node1 [label="方へ"];
+	node2 [label="行ったなと"];
+	node3 [label="思うと"];
+	node4 [label="襖を"];
+	node5 [label="二三度あけたり"];
+	node6 [label="閉てたりして、"];
+	node7 [label="今度は"];
+	node8 [label="書斎の"];
+	node9 [label="方へ"];
+	node10 [label="やってくる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

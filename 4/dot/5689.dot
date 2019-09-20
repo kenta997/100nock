@@ -1,0 +1,33 @@
+digraph graph5689 {
+	node0 [label="それから"];
+	node1 [label="主人は"];
+	node2 [label="鼻の"];
+	node3 [label="膏を"];
+	node4 [label="塗抹した"];
+	node5 [label="指頭を"];
+	node6 [label="転じて"];
+	node7 [label="ぐいと"];
+	node8 [label="右眼の"];
+	node9 [label="下瞼を"];
+	node10 [label="裏返して、"];
+	node11 [label="俗に"];
+	node12 [label="云う"];
+	node13 [label="べっかんこうを"];
+	node14 [label="見事に"];
+	node15 [label="やって退けた。"];
+	node0 -> node15;
+	node1 -> node15;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

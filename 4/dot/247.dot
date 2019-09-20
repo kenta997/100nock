@@ -1,0 +1,37 @@
+digraph graph247 {
+	node0 [label="うちの"];
+	node1 [label="亭主が"];
+	node2 [label="石灰の"];
+	node3 [label="袋を"];
+	node4 [label="持って"];
+	node5 [label="椽の"];
+	node6 [label="下へ"];
+	node7 [label="這い込んだら"];
+	node8 [label="御めえ大きな"];
+	node9 [label="いたちの"];
+	node10 [label="野郎が"];
+	node11 [label="面"];
+	node12 [label="喰って"];
+	node13 [label="飛び出したと"];
+	node14 [label="思いねえ」"];
+	node15 [label="「ふん」と"];
+	node16 [label="感心して"];
+	node17 [label="見せる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

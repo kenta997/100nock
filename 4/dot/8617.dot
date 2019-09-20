@@ -1,0 +1,5 @@
+digraph graph8617 {
+	node0 [label="迷亭先生御聞きに"];
+	node1 [label="なりましたか。"];
+	node0 -> node1;
+}

@@ -1,0 +1,9 @@
+digraph graph2645 {
+	node0 [label="話は"];
+	node1 [label="罪が"];
+	node2 [label="ないのが"];
+	node3 [label="いいね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

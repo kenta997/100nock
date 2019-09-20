@@ -1,0 +1,9 @@
+digraph graph4601 {
+	node0 [label="　細君は"];
+	node1 [label="吃驚して"];
+	node2 [label="「はい」と"];
+	node3 [label="答えた。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

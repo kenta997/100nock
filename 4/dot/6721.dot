@@ -1,0 +1,7 @@
+digraph graph6721 {
+	node0 [label="「なぜ"];
+	node1 [label="そんなに"];
+	node2 [label="眠いんでしょう。"];
+	node0 -> node2;
+	node1 -> node2;
+}

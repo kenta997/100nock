@@ -1,0 +1,7 @@
+digraph graph3115 {
+	node0 [label="「少しも"];
+	node1 [label="儲けも"];
+	node2 [label="せん癖に」"];
+	node0 -> node1;
+	node1 -> node2;
+}

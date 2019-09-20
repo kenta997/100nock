@@ -1,0 +1,13 @@
+digraph graph3823 {
+	node0 [label="しかし"];
+	node1 [label="東風君"];
+	node2 [label="この"];
+	node3 [label="捧げ方は"];
+	node4 [label="少し"];
+	node5 [label="まずかったね。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

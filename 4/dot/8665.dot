@@ -1,0 +1,9 @@
+digraph graph8665 {
+	node0 [label="「烈しい"];
+	node1 [label="秋の日が"];
+	node2 [label="かんかん"];
+	node3 [label="しやしないか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,13 @@
+digraph graph2558 {
+	node0 [label="「よく"];
+	node1 [label="人の"];
+	node2 [label="云う"];
+	node3 [label="事を"];
+	node4 [label="疑"];
+	node5 [label="ぐる男だ。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

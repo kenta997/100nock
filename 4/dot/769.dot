@@ -1,0 +1,5 @@
+digraph graph769 {
+	node0 [label="少し"];
+	node1 [label="痛い。"];
+	node0 -> node1;
+}

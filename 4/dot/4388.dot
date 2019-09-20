@@ -1,0 +1,13 @@
+digraph graph4388 {
+	node0 [label="民さんなんざあ"];
+	node1 [label="腰が"];
+	node2 [label="低いんじゃねえ、"];
+	node3 [label="頭が"];
+	node4 [label="高け"];
+	node5 [label="えんだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

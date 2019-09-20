@@ -1,0 +1,23 @@
+digraph graph4500 {
+	node0 [label="その"];
+	node1 [label="間際ですら"];
+	node2 [label="かくのごとく"];
+	node3 [label="頑固であるなら、"];
+	node4 [label="この"];
+	node5 [label="頑固は"];
+	node6 [label="本人にとって"];
+	node7 [label="牢として"];
+	node8 [label="抜くべからざる"];
+	node9 [label="病気に"];
+	node10 [label="相違ない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

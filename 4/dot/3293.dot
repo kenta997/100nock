@@ -1,0 +1,9 @@
+digraph graph3293 {
+	node0 [label="もう"];
+	node1 [label="鼠の"];
+	node2 [label="出る"];
+	node3 [label="時分だ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

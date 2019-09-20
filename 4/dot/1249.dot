@@ -1,0 +1,19 @@
+digraph graph1249 {
+	node0 [label="　"];
+	node1 [label="吾輩は"];
+	node2 [label="おとなしく"];
+	node3 [label="三人の"];
+	node4 [label="話しを"];
+	node5 [label="順番に"];
+	node6 [label="聞いていたが"];
+	node7 [label="おかしくも"];
+	node8 [label="悲しくもなかった。"];
+	node0 -> node8;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

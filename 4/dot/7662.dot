@@ -1,0 +1,9 @@
+digraph graph7662 {
+	node0 [label="死ぬか"];
+	node1 [label="生きるかと"];
+	node2 [label="云う"];
+	node3 [label="場合だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

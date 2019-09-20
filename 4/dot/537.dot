@@ -1,0 +1,27 @@
+digraph graph537 {
+	node0 [label="すると"];
+	node1 [label="友人は"];
+	node2 [label="「カーライルが"];
+	node3 [label="胃弱だって、"];
+	node4 [label="胃弱の"];
+	node5 [label="病人が"];
+	node6 [label="必ず"];
+	node7 [label="カーライルには"];
+	node8 [label="なれないさ」と"];
+	node9 [label="極め付けたので"];
+	node10 [label="主人は"];
+	node11 [label="黙然と"];
+	node12 [label="していた。"];
+	node0 -> node12;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

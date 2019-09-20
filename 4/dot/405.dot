@@ -1,0 +1,27 @@
+digraph graph405 {
+	node0 [label="椎茸の"];
+	node1 [label="傘を"];
+	node2 [label="前歯で"];
+	node3 [label="噛み切ろうとしたら"];
+	node4 [label="ぼろりと"];
+	node5 [label="歯が"];
+	node6 [label="欠けましたよ」"];
+	node7 [label="「椎茸で"];
+	node8 [label="前歯が"];
+	node9 [label="かける"];
+	node10 [label="なんざ、"];
+	node11 [label="何だか"];
+	node12 [label="爺々臭いね。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

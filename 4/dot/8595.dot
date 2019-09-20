@@ -1,0 +1,15 @@
+digraph graph8595 {
+	node0 [label="自殺クラブは"];
+	node1 [label="この"];
+	node2 [label="第二の"];
+	node3 [label="問題と共に"];
+	node4 [label="起るべき"];
+	node5 [label="運命を"];
+	node6 [label="有している」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

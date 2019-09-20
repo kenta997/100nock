@@ -1,0 +1,29 @@
+digraph graph334 {
+	node0 [label="　"];
+	node1 [label="吾輩は"];
+	node2 [label="御馳走も"];
+	node3 [label="食わないから"];
+	node4 [label="別段"];
+	node5 [label="肥りもしないが、"];
+	node6 [label="まずまず"];
+	node7 [label="健康で"];
+	node8 [label="跛にも"];
+	node9 [label="ならずに"];
+	node10 [label="その"];
+	node11 [label="日"];
+	node12 [label="その日を"];
+	node13 [label="暮している。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

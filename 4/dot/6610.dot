@@ -1,0 +1,19 @@
+digraph graph6610 {
+	node0 [label="ただ"];
+	node1 [label="入らざる"];
+	node2 [label="事を"];
+	node3 [label="捏造して"];
+	node4 [label="自ら"];
+	node5 [label="苦しんでいる者だと"];
+	node6 [label="云えば、"];
+	node7 [label="それで"];
+	node8 [label="充分だ。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

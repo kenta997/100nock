@@ -1,0 +1,17 @@
+digraph graph2155 {
+	node0 [label="「鈴木君"];
+	node1 [label="どう"];
+	node2 [label="だい、"];
+	node3 [label="御聞の"];
+	node4 [label="通りの"];
+	node5 [label="次第さ、"];
+	node6 [label="随分"];
+	node7 [label="厄介だろうが？"];
+	node0 -> node7;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,19 @@
+digraph graph4098 {
+	node0 [label="だから"];
+	node1 [label="何等かの"];
+	node2 [label="手段を"];
+	node3 [label="もって"];
+	node4 [label="この"];
+	node5 [label="自然の"];
+	node6 [label="傾向を"];
+	node7 [label="幾分か"];
+	node8 [label="ゆるめなければならん。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

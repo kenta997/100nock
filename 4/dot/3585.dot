@@ -1,0 +1,19 @@
+digraph graph3585 {
+	node0 [label="「君だって"];
+	node1 [label="恋煩いなんかした"];
+	node2 [label="事は"];
+	node3 [label="なさそうじゃないか」と"];
+	node4 [label="主人も"];
+	node5 [label="正面から"];
+	node6 [label="細君に"];
+	node7 [label="助太刀を"];
+	node8 [label="する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

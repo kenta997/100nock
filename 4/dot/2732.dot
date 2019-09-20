@@ -1,0 +1,13 @@
+digraph graph2732 {
+	node0 [label="　"];
+	node1 [label="この"];
+	node2 [label="時"];
+	node3 [label="吾輩は"];
+	node4 [label="蹲踞まりながら"];
+	node5 [label="考えた。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,15 @@
+digraph graph2402 {
+	node0 [label="金田や"];
+	node1 [label="鼻は"];
+	node2 [label="どうでも"];
+	node3 [label="構わんが、"];
+	node4 [label="娘自身の"];
+	node5 [label="意向は"];
+	node6 [label="どうなんだ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,5 @@
+digraph graph5913 {
+	node0 [label="「それは"];
+	node1 [label="ない。"];
+	node0 -> node1;
+}

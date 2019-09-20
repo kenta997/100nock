@@ -1,0 +1,11 @@
+digraph graph82 {
+	node0 [label="人間と"];
+	node1 [label="生れたら"];
+	node2 [label="教師と"];
+	node3 [label="なるに"];
+	node4 [label="限る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

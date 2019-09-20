@@ -1,0 +1,5 @@
+digraph graph8512 {
+	node0 [label="文明の"];
+	node1 [label="咒詛だ。"];
+	node0 -> node1;
+}

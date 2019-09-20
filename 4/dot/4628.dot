@@ -1,0 +1,5 @@
+digraph graph4628 {
+	node0 [label="そうしたら"];
+	node1 [label="御飯ですよ」"];
+	node0 -> node1;
+}

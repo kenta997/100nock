@@ -1,0 +1,7 @@
+digraph graph1123 {
+	node0 [label="私はまた"];
+	node1 [label="水を"];
+	node2 [label="見る。"];
+	node0 -> node2;
+	node1 -> node2;
+}

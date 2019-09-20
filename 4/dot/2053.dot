@@ -1,0 +1,7 @@
+digraph graph2053 {
+	node0 [label="——"];
+	node1 [label="もってのほかの"];
+	node2 [label="事である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,11 @@
+digraph graph14 {
+	node0 [label="のみならず"];
+	node1 [label="顔の"];
+	node2 [label="真中が"];
+	node3 [label="あまりに"];
+	node4 [label="突起している。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

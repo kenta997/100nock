@@ -1,0 +1,11 @@
+digraph graph6887 {
+	node0 [label="「どの"];
+	node1 [label="殿下さまですか、"];
+	node2 [label="どの"];
+	node3 [label="殿下さまだって"];
+	node4 [label="不敬ですわ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

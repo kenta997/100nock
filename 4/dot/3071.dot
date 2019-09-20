@@ -1,0 +1,33 @@
+digraph graph3071 {
+	node0 [label="いわんや"];
+	node1 [label="同君は"];
+	node2 [label="すでに"];
+	node3 [label="書生ではない、"];
+	node4 [label="卒業の日は"];
+	node5 [label="浅きにも"];
+	node6 [label="係わらず"];
+	node7 [label="堂々たる"];
+	node8 [label="一個の"];
+	node9 [label="法学士で、"];
+	node10 [label="六つ井物産会社の"];
+	node11 [label="役員であるのだから"];
+	node12 [label="吾輩の"];
+	node13 [label="驚愕もまた"];
+	node14 [label="一と"];
+	node15 [label="通りではない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

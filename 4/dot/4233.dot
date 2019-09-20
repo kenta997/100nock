@@ -1,0 +1,5 @@
+digraph graph4233 {
+	node0 [label="あんまり"];
+	node1 [label="軽蔑してはいけない。"];
+	node0 -> node1;
+}

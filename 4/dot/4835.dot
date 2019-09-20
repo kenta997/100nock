@@ -1,0 +1,19 @@
+digraph graph4835 {
+	node0 [label="もし"];
+	node1 [label="主人が"];
+	node2 [label="出懸けて来たら、"];
+	node3 [label="逃げ出すか、または"];
+	node4 [label="始めから"];
+	node5 [label="向う側に"];
+	node6 [label="いて"];
+	node7 [label="知らん顔を"];
+	node8 [label="する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

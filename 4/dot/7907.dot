@@ -1,0 +1,19 @@
+digraph graph7907 {
+	node0 [label="「天才は"];
+	node1 [label="昔から"];
+	node2 [label="迫害を"];
+	node3 [label="加えられる"];
+	node4 [label="ものだからね」と"];
+	node5 [label="東風君は"];
+	node6 [label="大に"];
+	node7 [label="同情を"];
+	node8 [label="表した。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

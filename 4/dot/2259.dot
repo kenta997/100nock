@@ -1,0 +1,9 @@
+digraph graph2259 {
+	node0 [label="御自分が"];
+	node1 [label="好きで"];
+	node2 [label="貰っておいて"];
+	node3 [label="不具だなんて……」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

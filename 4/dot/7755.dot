@@ -1,0 +1,13 @@
+digraph graph7755 {
+	node0 [label="「君のような"];
+	node1 [label="せわしない"];
+	node2 [label="男と"];
+	node3 [label="碁を"];
+	node4 [label="打つのは"];
+	node5 [label="苦痛だよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

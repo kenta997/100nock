@@ -1,0 +1,5 @@
+digraph graph8585 {
+	node0 [label="錬金術は"];
+	node1 [label="これである。"];
+	node0 -> node1;
+}

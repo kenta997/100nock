@@ -1,0 +1,5 @@
+digraph graph4352 {
+	node0 [label="大分骨が"];
+	node1 [label="折れる。"];
+	node0 -> node1;
+}

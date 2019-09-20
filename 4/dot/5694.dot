@@ -1,0 +1,15 @@
+digraph graph5694 {
+	node0 [label="すべて"];
+	node1 [label="人間の"];
+	node2 [label="研究と"];
+	node3 [label="云う"];
+	node4 [label="ものは"];
+	node5 [label="自己を"];
+	node6 [label="研究するのである。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

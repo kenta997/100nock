@@ -1,0 +1,5 @@
+digraph graph1778 {
+	node0 [label="たちが"];
+	node1 [label="悪いです。"];
+	node0 -> node1;
+}

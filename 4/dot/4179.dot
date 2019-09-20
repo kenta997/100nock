@@ -1,0 +1,21 @@
+digraph graph4179 {
+	node0 [label="毛穴から"];
+	node1 [label="染み出す"];
+	node2 [label="汗が、"];
+	node3 [label="流れればと"];
+	node4 [label="思うのに"];
+	node5 [label="毛の"];
+	node6 [label="根に"];
+	node7 [label="膏のように"];
+	node8 [label="ねばり"];
+	node9 [label="付く。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

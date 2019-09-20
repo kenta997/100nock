@@ -1,0 +1,9 @@
+digraph graph5354 {
+	node0 [label="「今日は"];
+	node1 [label="これで"];
+	node2 [label="十六"];
+	node3 [label="返目だ」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

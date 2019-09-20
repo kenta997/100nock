@@ -1,0 +1,29 @@
+digraph graph3779 {
+	node0 [label="「まあ"];
+	node1 [label="議論は"];
+	node2 [label="いいが、"];
+	node3 [label="それから"];
+	node4 [label="どう"];
+	node5 [label="するの"];
+	node6 [label="だい」と"];
+	node7 [label="東風君、"];
+	node8 [label="ことに"];
+	node9 [label="よると、"];
+	node10 [label="やる了見と"];
+	node11 [label="見えて"];
+	node12 [label="筋を"];
+	node13 [label="聞きたがる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

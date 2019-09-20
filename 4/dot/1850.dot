@@ -1,0 +1,7 @@
+digraph graph1850 {
+	node0 [label="少々"];
+	node1 [label="眼が"];
+	node2 [label="くらむ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

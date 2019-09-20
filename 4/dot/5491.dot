@@ -1,0 +1,7 @@
+digraph graph5491 {
+	node0 [label="面白いや、"];
+	node1 [label="いくらでも"];
+	node2 [label="やるがいい」"];
+	node0 -> node2;
+	node1 -> node2;
+}

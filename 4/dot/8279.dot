@@ -1,0 +1,5 @@
+digraph graph8279 {
+	node0 [label="「ああ、"];
+	node1 [label="眠かった。"];
+	node0 -> node1;
+}

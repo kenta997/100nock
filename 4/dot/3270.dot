@@ -1,0 +1,31 @@
+digraph graph3270 {
+	node0 [label="吾輩の"];
+	node1 [label="場合でも"];
+	node2 [label="三面攻撃は"];
+	node3 [label="必ず"];
+	node4 [label="起らぬと"];
+	node5 [label="断言すべき"];
+	node6 [label="相当の"];
+	node7 [label="論拠は"];
+	node8 [label="ないのであるが、"];
+	node9 [label="起らぬと"];
+	node10 [label="する"];
+	node11 [label="方が"];
+	node12 [label="安心を"];
+	node13 [label="得るに"];
+	node14 [label="便利である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

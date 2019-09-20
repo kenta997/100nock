@@ -1,0 +1,7 @@
+digraph graph3054 {
+	node0 [label="山の芋ばかり"];
+	node1 [label="持って"];
+	node2 [label="行たのですか」"];
+	node0 -> node1;
+	node1 -> node2;
+}

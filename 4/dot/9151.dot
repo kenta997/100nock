@@ -1,0 +1,7 @@
+digraph graph9151 {
+	node0 [label="猫じゃ"];
+	node1 [label="猫じゃが"];
+	node2 [label="踊りたくなる。"];
+	node0 -> node2;
+	node1 -> node2;
+}

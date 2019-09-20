@@ -1,0 +1,17 @@
+digraph graph8727 {
+	node0 [label="その"];
+	node1 [label="次には"];
+	node2 [label="御上の"];
+	node3 [label="御威光でも"];
+	node4 [label="出来ない"];
+	node5 [label="ものが"];
+	node6 [label="出来てくる"];
+	node7 [label="時代です。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

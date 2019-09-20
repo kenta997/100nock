@@ -1,0 +1,33 @@
+digraph graph8183 {
+	node0 [label="この"];
+	node1 [label="つづらは"];
+	node2 [label="国を"];
+	node3 [label="出る"];
+	node4 [label="時"];
+	node5 [label="御祖母さんが"];
+	node6 [label="餞別に"];
+	node7 [label="くれた"];
+	node8 [label="ものですが、"];
+	node9 [label="何でも"];
+	node10 [label="御祖母さんが"];
+	node11 [label="嫁に"];
+	node12 [label="くる"];
+	node13 [label="時"];
+	node14 [label="持って来た"];
+	node15 [label="ものだそうです」"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

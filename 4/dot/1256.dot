@@ -1,0 +1,35 @@
+digraph graph1256 {
+	node0 [label="要するに"];
+	node1 [label="主人も"];
+	node2 [label="寒月も"];
+	node3 [label="迷亭も"];
+	node4 [label="太平の"];
+	node5 [label="逸民で、"];
+	node6 [label="彼等は"];
+	node7 [label="糸瓜のごとく"];
+	node8 [label="風に吹かれて超然と"];
+	node9 [label="澄し切っているような"];
+	node10 [label="ものの、"];
+	node11 [label="その実は"];
+	node12 [label="やはり"];
+	node13 [label="娑婆気も"];
+	node14 [label="あり"];
+	node15 [label="慾気も"];
+	node16 [label="ある。"];
+	node0 -> node16;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node16;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

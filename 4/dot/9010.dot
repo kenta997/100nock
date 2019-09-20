@@ -1,0 +1,5 @@
+digraph graph9010 {
+	node0 [label="立ってるのが"];
+	node1 [label="ある。"];
+	node0 -> node1;
+}

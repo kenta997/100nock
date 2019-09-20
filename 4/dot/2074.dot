@@ -1,0 +1,11 @@
+digraph graph2074 {
+	node0 [label="この"];
+	node1 [label="故に"];
+	node2 [label="吾輩は"];
+	node3 [label="金田邸へ"];
+	node4 [label="忍び込むのである。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

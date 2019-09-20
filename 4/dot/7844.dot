@@ -1,0 +1,9 @@
+digraph graph7844 {
+	node0 [label="「女も"];
+	node1 [label="あの"];
+	node2 [label="通り"];
+	node3 [label="黒いのです」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

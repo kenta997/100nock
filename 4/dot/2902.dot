@@ -1,0 +1,21 @@
+digraph graph2902 {
+	node0 [label="「どんな"];
+	node1 [label="帯って、"];
+	node2 [label="そんなに"];
+	node3 [label="何本も"];
+	node4 [label="ある"];
+	node5 [label="もんですか、"];
+	node6 [label="黒繻子と"];
+	node7 [label="縮緬の"];
+	node8 [label="腹合せの"];
+	node9 [label="帯です」"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,37 @@
+digraph graph7554 {
+	node0 [label="「それなら"];
+	node1 [label="それで"];
+	node2 [label="いいとして、"];
+	node3 [label="当人が"];
+	node4 [label="あとに"];
+	node5 [label="なって、"];
+	node6 [label="急に"];
+	node7 [label="良心に"];
+	node8 [label="責められて、"];
+	node9 [label="恐ろしく"];
+	node10 [label="なった"];
+	node11 [label="ものだから、"];
+	node12 [label="大に"];
+	node13 [label="恐縮して"];
+	node14 [label="僕の"];
+	node15 [label="うちへ"];
+	node16 [label="相談に"];
+	node17 [label="来たんだ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node17;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

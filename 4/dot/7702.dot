@@ -1,0 +1,9 @@
+digraph graph7702 {
+	node0 [label="滅多に"];
+	node1 [label="食うと"];
+	node2 [label="ペストに"];
+	node3 [label="なるぜ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

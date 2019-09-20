@@ -1,0 +1,13 @@
+digraph graph2729 {
+	node0 [label="やがて"];
+	node1 [label="台所で"];
+	node2 [label="マチを"];
+	node3 [label="擦る"];
+	node4 [label="音が"];
+	node5 [label="聞える。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

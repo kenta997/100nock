@@ -1,0 +1,11 @@
+digraph graph6811 {
+	node0 [label="「おお、"];
+	node1 [label="よし"];
+	node2 [label="よし"];
+	node3 [label="坊ばちゃんから"];
+	node4 [label="なさい。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

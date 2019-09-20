@@ -1,0 +1,29 @@
+digraph graph799 {
+	node0 [label="　"];
+	node1 [label="東風君は"];
+	node2 [label="冷めたくなった"];
+	node3 [label="茶を"];
+	node4 [label="ぐっと"];
+	node5 [label="飲み干して"];
+	node6 [label="「実は"];
+	node7 [label="今日"];
+	node8 [label="参りましたのは、"];
+	node9 [label="少々"];
+	node10 [label="先生に"];
+	node11 [label="御願が"];
+	node12 [label="あって参ったので」と"];
+	node13 [label="改まる。"];
+	node0 -> node13;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

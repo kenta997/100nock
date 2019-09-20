@@ -1,0 +1,11 @@
+digraph graph402 {
+	node0 [label="「君歯を"];
+	node1 [label="どうかしたかね」と"];
+	node2 [label="主人は"];
+	node3 [label="問題を"];
+	node4 [label="転じた。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

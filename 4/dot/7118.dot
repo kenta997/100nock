@@ -1,0 +1,7 @@
+digraph graph7118 {
+	node0 [label="「そんなら"];
+	node1 [label="還すが"];
+	node2 [label="いい。"];
+	node0 -> node1;
+	node1 -> node2;
+}

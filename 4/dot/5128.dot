@@ -1,0 +1,31 @@
+digraph graph5128 {
+	node0 [label="そうかと"];
+	node1 [label="思うと"];
+	node2 [label="白の"];
+	node3 [label="帆木綿に"];
+	node4 [label="黒い"];
+	node5 [label="縁を"];
+	node6 [label="とって"];
+	node7 [label="胸の"];
+	node8 [label="真中に"];
+	node9 [label="花文字を、"];
+	node10 [label="同じ"];
+	node11 [label="色に"];
+	node12 [label="縫いつけた"];
+	node13 [label="洒落者も"];
+	node14 [label="ある。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

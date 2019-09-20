@@ -1,0 +1,9 @@
+digraph graph962 {
+	node0 [label="全体"];
+	node1 [label="どこに"];
+	node2 [label="あったのか」と"];
+	node3 [label="問う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

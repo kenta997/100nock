@@ -1,0 +1,9 @@
+digraph graph8012 {
+	node0 [label="「ええ学校が"];
+	node1 [label="なかったら、"];
+	node2 [label="全く人迹は"];
+	node3 [label="稀ですよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

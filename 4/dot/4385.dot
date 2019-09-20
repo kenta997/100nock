@@ -1,0 +1,21 @@
+digraph graph4385 {
+	node0 [label="「どうしたか、"];
+	node1 [label="じゃんじゃんが"];
+	node2 [label="好きだからね」"];
+	node3 [label="「じゃんじゃんばかりじゃねえ……」"];
+	node4 [label="「そう"];
+	node5 [label="かい、"];
+	node6 [label="あの男も"];
+	node7 [label="腹の"];
+	node8 [label="よくねえ"];
+	node9 [label="男だからね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

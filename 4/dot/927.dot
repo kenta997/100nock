@@ -1,0 +1,7 @@
+digraph graph927 {
+	node0 [label="いえ"];
+	node1 [label="病人は"];
+	node2 [label="私ではございません。"];
+	node0 -> node2;
+	node1 -> node2;
+}

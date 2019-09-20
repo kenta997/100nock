@@ -1,0 +1,25 @@
+digraph graph2007 {
+	node0 [label="ことに"];
+	node1 [label="宛転たる"];
+	node2 [label="嬌音を"];
+	node3 [label="もって、"];
+	node4 [label="乾燥なる"];
+	node5 [label="講筵に"];
+	node6 [label="一点の"];
+	node7 [label="艶味を"];
+	node8 [label="添えられたのは"];
+	node9 [label="実に"];
+	node10 [label="望外の"];
+	node11 [label="幸福であります。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

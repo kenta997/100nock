@@ -1,0 +1,9 @@
+digraph graph4314 {
+	node0 [label="これが"];
+	node1 [label="今日の"];
+	node2 [label="車夫の"];
+	node3 [label="先祖である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

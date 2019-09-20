@@ -1,0 +1,17 @@
+digraph graph3243 {
+	node0 [label="時々"];
+	node1 [label="門前を"];
+	node2 [label="人力が"];
+	node3 [label="通るが、"];
+	node4 [label="通り過ぎた"];
+	node5 [label="後は"];
+	node6 [label="一段と"];
+	node7 [label="淋しい。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

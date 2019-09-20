@@ -1,0 +1,5 @@
+digraph graph4083 {
+	node0 [label="馳け上っておいて"];
+	node1 [label="馳け下がる。"];
+	node0 -> node1;
+}

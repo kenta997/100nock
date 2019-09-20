@@ -1,0 +1,21 @@
+digraph graph8000 {
+	node0 [label="「いよいよ"];
+	node1 [label="夜に"];
+	node2 [label="入ったので、"];
+	node3 [label="まず"];
+	node4 [label="安心と"];
+	node5 [label="ほっと"];
+	node6 [label="一息ついて"];
+	node7 [label="鞍懸村の"];
+	node8 [label="下宿を"];
+	node9 [label="出ました。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

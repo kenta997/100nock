@@ -1,0 +1,35 @@
+digraph graph1415 {
+	node0 [label="しかし"];
+	node1 [label="あれで"];
+	node2 [label="腹の中は"];
+	node3 [label="毒の"];
+	node4 [label="ない"];
+	node5 [label="善人ですよ」"];
+	node6 [label="「あの"];
+	node7 [label="上"];
+	node8 [label="腹の中に"];
+	node9 [label="毒が"];
+	node10 [label="あっちゃ、"];
+	node11 [label="辛防は"];
+	node12 [label="出来ませんわ」と"];
+	node13 [label="細君は"];
+	node14 [label="大に"];
+	node15 [label="気焔を"];
+	node16 [label="揚げる。"];
+	node0 -> node16;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+}

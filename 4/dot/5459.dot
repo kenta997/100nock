@@ -1,0 +1,11 @@
+digraph graph5459 {
+	node0 [label="ただ"];
+	node1 [label="わるく"];
+	node2 [label="滑かで"];
+	node3 [label="ぶるぶる"];
+	node4 [label="振えているばかりだ」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

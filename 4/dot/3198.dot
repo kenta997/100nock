@@ -1,0 +1,23 @@
+digraph graph3198 {
+	node0 [label="しかし"];
+	node1 [label="一歩"];
+	node2 [label="退いて"];
+	node3 [label="考えて"];
+	node4 [label="見ると、"];
+	node5 [label="かくまでに"];
+	node6 [label="彼等が"];
+	node7 [label="吾輩を"];
+	node8 [label="軽蔑するのも、"];
+	node9 [label="あながち"];
+	node10 [label="無理ではない。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

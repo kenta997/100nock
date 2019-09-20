@@ -1,0 +1,21 @@
+digraph graph1789 {
+	node0 [label="こう"];
+	node1 [label="云う"];
+	node2 [label="事件に関しては"];
+	node3 [label="主人は"];
+	node4 [label="むしろ"];
+	node5 [label="無頓着でかつ"];
+	node6 [label="あまりに"];
+	node7 [label="銭が"];
+	node8 [label="なさ"];
+	node9 [label="過ぎる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

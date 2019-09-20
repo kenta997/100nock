@@ -1,0 +1,5 @@
+digraph graph7550 {
+	node0 [label="「貰うかも知れないから"];
+	node1 [label="構わないんです。"];
+	node0 -> node1;
+}

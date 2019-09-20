@@ -1,0 +1,7 @@
+digraph graph8335 {
+	node0 [label="何時だと"];
+	node1 [label="思う、"];
+	node2 [label="君」"];
+	node0 -> node1;
+	node1 -> node2;
+}

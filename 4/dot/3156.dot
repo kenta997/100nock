@@ -1,0 +1,7 @@
+digraph graph3156 {
+	node0 [label="「近々"];
+	node1 [label="博士に"];
+	node2 [label="なりますか」"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,23 @@
+digraph graph4824 {
+	node0 [label="もし"];
+	node1 [label="木戸から"];
+	node2 [label="迂回して"];
+	node3 [label="敵地を"];
+	node4 [label="突こうとすれば、"];
+	node5 [label="足音を"];
+	node6 [label="聞きつけて、"];
+	node7 [label="ぽかりぽかりと"];
+	node8 [label="捉まる前に"];
+	node9 [label="向う側へ"];
+	node10 [label="下りてしまう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

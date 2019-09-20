@@ -1,0 +1,7 @@
+digraph graph7584 {
+	node0 [label="「そうか"];
+	node1 [label="帰るのかい、"];
+	node2 [label="用事でもあるのかい」"];
+	node0 -> node1;
+	node1 -> node2;
+}

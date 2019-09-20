@@ -1,0 +1,25 @@
+digraph graph5050 {
+	node0 [label="直線に"];
+	node1 [label="布かれ"];
+	node2 [label="たる砲列の"];
+	node3 [label="中の"];
+	node4 [label="一人が、"];
+	node5 [label="ダムダム弾を"];
+	node6 [label="右の"];
+	node7 [label="手に"];
+	node8 [label="握って"];
+	node9 [label="擂粉木の"];
+	node10 [label="所有者に"];
+	node11 [label="抛りつける。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

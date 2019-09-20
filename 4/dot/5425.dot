@@ -1,0 +1,9 @@
+digraph graph5425 {
+	node0 [label="主人は"];
+	node1 [label="「なるほど"];
+	node2 [label="重くなりますな」と"];
+	node3 [label="答える。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

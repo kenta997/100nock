@@ -1,0 +1,19 @@
+digraph graph8776 {
+	node0 [label="ここにおいて"];
+	node1 [label="夫婦雑居は"];
+	node2 [label="お互の"];
+	node3 [label="損だと"];
+	node4 [label="云う"];
+	node5 [label="事が"];
+	node6 [label="次第に"];
+	node7 [label="人間に"];
+	node8 [label="分ってくる。"];
+	node0 -> node8;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

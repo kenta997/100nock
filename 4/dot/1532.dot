@@ -1,0 +1,9 @@
+digraph graph1532 {
+	node0 [label="「本当に"];
+	node1 [label="死に損いだな」と"];
+	node2 [label="主人まで"];
+	node3 [label="浮かれ出す。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

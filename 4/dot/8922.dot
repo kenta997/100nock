@@ -1,0 +1,5 @@
+digraph graph8922 {
+	node0 [label="「奥さん、"];
+	node1 [label="奥さん。"];
+	node0 -> node1;
+}

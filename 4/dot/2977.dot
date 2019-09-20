@@ -1,0 +1,7 @@
+digraph graph2977 {
+	node0 [label="多々良君は"];
+	node1 [label="頭を"];
+	node2 [label="掻きながら"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,15 @@
+digraph graph1658 {
+	node0 [label="野郎は"];
+	node1 [label="御門違いです」と"];
+	node2 [label="鼻子の"];
+	node3 [label="言葉使いは"];
+	node4 [label="ますます"];
+	node5 [label="御里を"];
+	node6 [label="あらわして来る。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

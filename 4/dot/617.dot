@@ -1,0 +1,33 @@
+digraph graph617 {
+	node0 [label="猫であろうが、"];
+	node1 [label="あるまいが"];
+	node2 [label="こうなった"];
+	node3 [label="日"];
+	node4 [label="にゃあ"];
+	node5 [label="構う"];
+	node6 [label="ものか、"];
+	node7 [label="何でも"];
+	node8 [label="餅の"];
+	node9 [label="魔が"];
+	node10 [label="落ちるまで"];
+	node11 [label="やるべしという"];
+	node12 [label="意気込みで"];
+	node13 [label="無茶苦茶に"];
+	node14 [label="顔中"];
+	node15 [label="引っ掻き廻す。"];
+	node0 -> node15;
+	node1 -> node15;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

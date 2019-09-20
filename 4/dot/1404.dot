@@ -1,0 +1,21 @@
+digraph graph1404 {
+	node0 [label="「どうも"];
+	node1 [label="御退屈様、"];
+	node2 [label="もう"];
+	node3 [label="帰りましょう」と"];
+	node4 [label="茶を"];
+	node5 [label="注ぎ"];
+	node6 [label="易えて"];
+	node7 [label="迷亭の"];
+	node8 [label="前へ"];
+	node9 [label="出す。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

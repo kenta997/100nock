@@ -1,0 +1,13 @@
+digraph graph5729 {
+	node0 [label="遠からぬ"];
+	node1 [label="うちに"];
+	node2 [label="塩鯛の"];
+	node3 [label="眼玉のごとく"];
+	node4 [label="腐爛するに"];
+	node5 [label="きまってる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

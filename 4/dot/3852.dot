@@ -1,0 +1,7 @@
+digraph graph3852 {
+	node0 [label="「起し得て突兀ですね」と"];
+	node1 [label="寒月君が"];
+	node2 [label="ほめる。"];
+	node0 -> node2;
+	node1 -> node2;
+}

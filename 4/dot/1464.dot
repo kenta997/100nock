@@ -1,0 +1,29 @@
+digraph graph1464 {
+	node0 [label="午後"];
+	node1 [label="一時までに"];
+	node2 [label="苦沙弥の"];
+	node3 [label="家へ"];
+	node4 [label="来いと"];
+	node5 [label="端書を"];
+	node6 [label="出しておいたから」"];
+	node7 [label="「人の"];
+	node8 [label="都合も"];
+	node9 [label="聞かんで"];
+	node10 [label="勝手な"];
+	node11 [label="事を"];
+	node12 [label="する"];
+	node13 [label="男だ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

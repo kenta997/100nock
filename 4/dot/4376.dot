@@ -1,0 +1,9 @@
+digraph graph4376 {
+	node0 [label="それから"];
+	node1 [label="どう"];
+	node2 [label="なったか"];
+	node3 [label="分らない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

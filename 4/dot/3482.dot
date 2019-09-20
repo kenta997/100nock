@@ -1,0 +1,23 @@
+digraph graph3482 {
+	node0 [label="「その"];
+	node1 [label="鋏が"];
+	node2 [label="どうして"];
+	node3 [label="十四通りに"];
+	node4 [label="使えます」と"];
+	node5 [label="聞くや"];
+	node6 [label="否や迷亭君は"];
+	node7 [label="大得意な"];
+	node8 [label="調子で"];
+	node9 [label="「今一々説明しますから"];
+	node10 [label="聞いていらっしゃい。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

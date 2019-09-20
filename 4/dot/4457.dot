@@ -1,0 +1,25 @@
+digraph graph4457 {
+	node0 [label="小供は"];
+	node1 [label="大福を"];
+	node2 [label="踏み付けたような"];
+	node3 [label="爺さんを"];
+	node4 [label="見て"];
+	node5 [label="大変だと"];
+	node6 [label="思ったか、"];
+	node7 [label="わーっと"];
+	node8 [label="悲鳴を"];
+	node9 [label="揚げて"];
+	node10 [label="なき"];
+	node11 [label="出す。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

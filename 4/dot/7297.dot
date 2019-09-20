@@ -1,0 +1,15 @@
+digraph graph7297 {
+	node0 [label="「名前だけは"];
+	node1 [label="君の"];
+	node2 [label="名だって、"];
+	node3 [label="何の"];
+	node4 [label="事だ"];
+	node5 [label="かちっとも"];
+	node6 [label="分らんじゃないか。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

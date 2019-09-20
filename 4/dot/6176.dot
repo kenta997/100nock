@@ -1,0 +1,29 @@
+digraph graph6176 {
+	node0 [label="天の"];
+	node1 [label="道は"];
+	node2 [label="白なり、"];
+	node3 [label="地の"];
+	node4 [label="道は"];
+	node5 [label="白なり、"];
+	node6 [label="人は"];
+	node7 [label="中間に"];
+	node8 [label="在って"];
+	node9 [label="赤しと"];
+	node10 [label="云う"];
+	node11 [label="豚仙の"];
+	node12 [label="格言を"];
+	node13 [label="示したんだって……」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

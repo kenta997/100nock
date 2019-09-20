@@ -1,0 +1,13 @@
+digraph graph1739 {
+	node0 [label="着物の"];
+	node1 [label="咎じゃございません」と"];
+	node2 [label="細君"];
+	node3 [label="うまく"];
+	node4 [label="責任を"];
+	node5 [label="逃がれる。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

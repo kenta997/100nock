@@ -1,0 +1,5 @@
+digraph graph560 {
+	node0 [label="マーカスは"];
+	node1 [label="好い名じゃないか。"];
+	node0 -> node1;
+}

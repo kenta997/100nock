@@ -1,0 +1,7 @@
+digraph graph9071 {
+	node0 [label="「僕ですか、"];
+	node1 [label="一竿風月閑生計、"];
+	node2 [label="人釣白蘋紅蓼間」"];
+	node0 -> node2;
+	node1 -> node2;
+}

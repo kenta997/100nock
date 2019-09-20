@@ -1,0 +1,15 @@
+digraph graph8892 {
+	node0 [label="或る"];
+	node1 [label="人問う、"];
+	node2 [label="妻を"];
+	node3 [label="娶る"];
+	node4 [label="いずれの"];
+	node5 [label="時において"];
+	node6 [label="すべきか。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

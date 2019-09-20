@@ -1,0 +1,23 @@
+digraph graph591 {
+	node0 [label="最後に"];
+	node1 [label="からだ全体の"];
+	node2 [label="重量を"];
+	node3 [label="椀の"];
+	node4 [label="底へ"];
+	node5 [label="落すようにして、"];
+	node6 [label="あぐりと"];
+	node7 [label="餅の"];
+	node8 [label="角を"];
+	node9 [label="一寸ばかり"];
+	node10 [label="食い込んだ。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

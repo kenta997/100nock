@@ -1,0 +1,35 @@
+digraph graph8568 {
+	node0 [label="「生れる"];
+	node1 [label="時には"];
+	node2 [label="誰も"];
+	node3 [label="熟考して"];
+	node4 [label="生れる"];
+	node5 [label="ものは"];
+	node6 [label="有りませんが、"];
+	node7 [label="死ぬ"];
+	node8 [label="時には"];
+	node9 [label="誰も"];
+	node10 [label="苦に"];
+	node11 [label="すると"];
+	node12 [label="見えますね」と"];
+	node13 [label="寒月君が"];
+	node14 [label="よそよそしい"];
+	node15 [label="格言を"];
+	node16 [label="のべる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

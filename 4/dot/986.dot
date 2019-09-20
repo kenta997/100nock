@@ -1,0 +1,9 @@
+digraph graph986 {
+	node0 [label="彼は"];
+	node1 [label="家屋を"];
+	node2 [label="地上に"];
+	node3 [label="引く。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

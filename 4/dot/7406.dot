@@ -1,0 +1,19 @@
+digraph graph7406 {
+	node0 [label="彼は"];
+	node1 [label="この"];
+	node2 [label="真理の"];
+	node3 [label="ために"];
+	node4 [label="将来"];
+	node5 [label="ますます"];
+	node6 [label="本当の"];
+	node7 [label="人間に"];
+	node8 [label="なるだろう。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

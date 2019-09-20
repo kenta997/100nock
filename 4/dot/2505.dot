@@ -1,0 +1,9 @@
+digraph graph2505 {
+	node0 [label="引き越す"];
+	node1 [label="時に"];
+	node2 [label="盗んで行きたかった"];
+	node3 [label="くらいだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

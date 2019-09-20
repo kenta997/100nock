@@ -1,0 +1,15 @@
+digraph graph828 {
+	node0 [label="やがて"];
+	node1 [label="「船頭は"];
+	node2 [label="無理でしたか」と"];
+	node3 [label="御世辞の"];
+	node4 [label="ない"];
+	node5 [label="ところを"];
+	node6 [label="打ち明ける。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

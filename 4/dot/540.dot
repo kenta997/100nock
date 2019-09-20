@@ -1,0 +1,11 @@
+digraph graph540 {
+	node0 [label="吾輩も"];
+	node1 [label="ちょっと"];
+	node2 [label="雑煮が"];
+	node3 [label="食って"];
+	node4 [label="見たくなった。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

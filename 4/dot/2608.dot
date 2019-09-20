@@ -1,0 +1,11 @@
+digraph graph2608 {
+	node0 [label="智識を"];
+	node1 [label="もって"];
+	node2 [label="捏ね上げたる"];
+	node3 [label="二十八珊の"];
+	node4 [label="弾丸である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,21 @@
+digraph graph5925 {
+	node0 [label="その"];
+	node1 [label="上白シャツと"];
+	node2 [label="白襟が"];
+	node3 [label="離れ離れに"];
+	node4 [label="なって、"];
+	node5 [label="仰"];
+	node6 [label="むくと"];
+	node7 [label="間から"];
+	node8 [label="咽喉仏が"];
+	node9 [label="見える。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

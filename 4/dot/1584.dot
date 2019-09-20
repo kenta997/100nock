@@ -1,0 +1,17 @@
+digraph graph1584 {
+	node0 [label="主人は"];
+	node1 [label="「嘘を"];
+	node2 [label="つけ」と"];
+	node3 [label="腹の中で"];
+	node4 [label="言ったまま、"];
+	node5 [label="ぷかぷか"];
+	node6 [label="煙草を"];
+	node7 [label="ふかす。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

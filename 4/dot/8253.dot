@@ -1,0 +1,5 @@
+digraph graph8253 {
+	node0 [label="「湯には"];
+	node1 [label="這入らなかったのですか」"];
+	node0 -> node1;
+}

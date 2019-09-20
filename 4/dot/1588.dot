@@ -1,0 +1,9 @@
+digraph graph1588 {
+	node0 [label="しばらくは"];
+	node1 [label="三人鼎坐の"];
+	node2 [label="まま"];
+	node3 [label="無言である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

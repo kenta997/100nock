@@ -1,0 +1,13 @@
+digraph graph5450 {
+	node0 [label="「うん迷亭か、"];
+	node1 [label="あれは"];
+	node2 [label="池に"];
+	node3 [label="浮いてる"];
+	node4 [label="金魚麩のように"];
+	node5 [label="ふわふわしているね。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

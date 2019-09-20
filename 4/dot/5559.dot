@@ -1,0 +1,9 @@
+digraph graph5559 {
+	node0 [label="人間には"];
+	node1 [label="たった"];
+	node2 [label="一人"];
+	node3 [label="ある。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

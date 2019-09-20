@@ -1,0 +1,9 @@
+digraph graph131 {
+	node0 [label="「どうも"];
+	node1 [label="甘く"];
+	node2 [label="かけない"];
+	node3 [label="ものだね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

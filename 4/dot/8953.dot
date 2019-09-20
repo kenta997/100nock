@@ -1,0 +1,7 @@
+digraph graph8953 {
+	node0 [label="文学者は"];
+	node1 [label="常識が"];
+	node2 [label="ないですね。"];
+	node0 -> node2;
+	node1 -> node2;
+}

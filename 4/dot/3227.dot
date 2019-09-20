@@ -1,0 +1,25 @@
+digraph graph3227 {
+	node0 [label="その"];
+	node1 [label="下に"];
+	node2 [label="摺鉢が"];
+	node3 [label="仰向けに"];
+	node4 [label="置かれて、"];
+	node5 [label="摺鉢の"];
+	node6 [label="中には"];
+	node7 [label="小桶の"];
+	node8 [label="尻が"];
+	node9 [label="吾輩の"];
+	node10 [label="方を"];
+	node11 [label="向いている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

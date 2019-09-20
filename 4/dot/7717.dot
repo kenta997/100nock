@@ -1,0 +1,7 @@
+digraph graph7717 {
+	node0 [label="「ちょっとくらいじゃ"];
+	node1 [label="奇麗に"];
+	node2 [label="ゃなりそうもない」"];
+	node0 -> node2;
+	node1 -> node2;
+}

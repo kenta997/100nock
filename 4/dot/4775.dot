@@ -1,0 +1,11 @@
+digraph graph4775 {
+	node0 [label="否"];
+	node1 [label="恃み難い"];
+	node2 [label="場合でも"];
+	node3 [label="恃みたい"];
+	node4 [label="ものである。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

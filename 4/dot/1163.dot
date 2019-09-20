@@ -1,0 +1,21 @@
+digraph graph1163 {
+	node0 [label="翌日に"];
+	node1 [label="なると"];
+	node2 [label="細君が"];
+	node3 [label="また"];
+	node4 [label="新聞を"];
+	node5 [label="持って来て"];
+	node6 [label="今日は"];
+	node7 [label="堀川だから"];
+	node8 [label="いいでしょうと"];
+	node9 [label="云う。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node9;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

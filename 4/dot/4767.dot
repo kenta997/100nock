@@ -1,0 +1,19 @@
+digraph graph4767 {
+	node0 [label="からかうと"];
+	node1 [label="云うのも"];
+	node2 [label="つまり"];
+	node3 [label="この"];
+	node4 [label="刺激を"];
+	node5 [label="作って"];
+	node6 [label="遊ぶ"];
+	node7 [label="一種の"];
+	node8 [label="娯楽である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

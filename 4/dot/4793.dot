@@ -1,0 +1,7 @@
+digraph graph4793 {
+	node0 [label="落雲館の"];
+	node1 [label="生徒は"];
+	node2 [label="少年である。"];
+	node0 -> node1;
+	node1 -> node2;
+}

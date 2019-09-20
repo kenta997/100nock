@@ -1,0 +1,7 @@
+digraph graph4430 {
+	node0 [label="和唐内の"];
+	node1 [label="時にゃ"];
+	node2 [label="無かったね。"];
+	node0 -> node1;
+	node1 -> node2;
+}

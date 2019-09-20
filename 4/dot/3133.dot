@@ -1,0 +1,15 @@
+digraph graph3133 {
+	node0 [label="「ええ今まで"];
+	node1 [label="九州の"];
+	node2 [label="炭坑に"];
+	node3 [label="おりましたが、"];
+	node4 [label="こないだ"];
+	node5 [label="東京詰に"];
+	node6 [label="なりました。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

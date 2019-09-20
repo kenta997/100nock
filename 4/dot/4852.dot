@@ -1,0 +1,11 @@
+digraph graph4852 {
+	node0 [label="これが"];
+	node1 [label="逆かさに"];
+	node2 [label="上ると"];
+	node3 [label="怒り"];
+	node4 [label="出す。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

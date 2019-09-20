@@ -1,0 +1,9 @@
+digraph graph2994 {
+	node0 [label="そげん山の芋の"];
+	node1 [label="好きな"];
+	node2 [label="男が"];
+	node3 [label="おりますか？"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

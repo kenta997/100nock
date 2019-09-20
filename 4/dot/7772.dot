@@ -1,0 +1,11 @@
+digraph graph7772 {
+	node0 [label="「うむ、"];
+	node1 [label="一と"];
+	node2 [label="通りなら"];
+	node3 [label="誰にでも"];
+	node4 [label="出来るさ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

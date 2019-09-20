@@ -1,0 +1,5 @@
+digraph graph6829 {
+	node0 [label="ぷう、"];
+	node1 [label="ぷうぷうって」"];
+	node0 -> node1;
+}

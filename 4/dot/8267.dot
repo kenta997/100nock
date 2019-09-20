@@ -1,0 +1,25 @@
+digraph graph8267 {
+	node0 [label="「もう"];
+	node1 [label="ヴァイオリンは"];
+	node2 [label="片"];
+	node3 [label="ついたかい」と"];
+	node4 [label="主人は"];
+	node5 [label="よう"];
+	node6 [label="やく本を"];
+	node7 [label="伏せて、"];
+	node8 [label="起き上りながら"];
+	node9 [label="ついに"];
+	node10 [label="降参を"];
+	node11 [label="申し込んだ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node11;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

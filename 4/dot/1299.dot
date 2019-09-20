@@ -1,0 +1,21 @@
+digraph graph1299 {
+	node0 [label="　吾輩は"];
+	node1 [label="名前は"];
+	node2 [label="ないと"];
+	node3 [label="しばしば"];
+	node4 [label="断っておくのに、"];
+	node5 [label="この"];
+	node6 [label="下女は"];
+	node7 [label="野良野良と"];
+	node8 [label="吾輩を"];
+	node9 [label="呼ぶ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

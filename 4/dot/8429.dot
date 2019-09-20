@@ -1,0 +1,7 @@
+digraph graph8429 {
+	node0 [label="ちょうど"];
+	node1 [label="私には"];
+	node2 [label="相当です」"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,11 @@
+digraph graph4143 {
+	node0 [label="いわんや"];
+	node1 [label="綱渡りにも"];
+	node2 [label="劣らざる"];
+	node3 [label="芸当兼運動を"];
+	node4 [label="やるのだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

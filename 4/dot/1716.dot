@@ -1,0 +1,33 @@
+digraph graph1716 {
+	node0 [label="見送りに"];
+	node1 [label="出た"];
+	node2 [label="両人が"];
+	node3 [label="席へ"];
+	node4 [label="返るや"];
+	node5 [label="否や迷亭が"];
+	node6 [label="「ありゃ"];
+	node7 [label="何だい」と"];
+	node8 [label="云うと"];
+	node9 [label="主人も"];
+	node10 [label="「ありゃ"];
+	node11 [label="何だい」と"];
+	node12 [label="双方から"];
+	node13 [label="同じ"];
+	node14 [label="問を"];
+	node15 [label="かける。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

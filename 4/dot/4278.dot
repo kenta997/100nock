@@ -1,0 +1,9 @@
+digraph graph4278 {
+	node0 [label="猫に"];
+	node1 [label="劣る"];
+	node2 [label="獣と"];
+	node3 [label="認定していいのである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

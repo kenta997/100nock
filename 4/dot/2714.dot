@@ -1,0 +1,7 @@
+digraph graph2714 {
+	node0 [label="今のは"];
+	node1 [label="たしかに"];
+	node2 [label="鼠ではない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

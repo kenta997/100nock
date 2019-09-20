@@ -1,0 +1,7 @@
+digraph graph3342 {
+	node0 [label="二三分"];
+	node1 [label="滑れば"];
+	node2 [label="落ちねばならぬ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

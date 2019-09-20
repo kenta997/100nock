@@ -1,0 +1,15 @@
+digraph graph1139 {
+	node0 [label="「とうとう"];
+	node1 [label="飛び込んだの"];
+	node2 [label="かい」と"];
+	node3 [label="主人が"];
+	node4 [label="眼を"];
+	node5 [label="ぱちつかせて"];
+	node6 [label="問う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

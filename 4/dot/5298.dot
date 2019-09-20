@@ -1,0 +1,15 @@
+digraph graph5298 {
+	node0 [label="「何か"];
+	node1 [label="心配でも"];
+	node2 [label="ありゃしないか、"];
+	node3 [label="僕に"];
+	node4 [label="出来る"];
+	node5 [label="事なら"];
+	node6 [label="何でもするぜ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

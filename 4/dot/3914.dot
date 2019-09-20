@@ -1,0 +1,7 @@
+digraph graph3914 {
+	node0 [label="それは"];
+	node1 [label="そう"];
+	node2 [label="答える訳だ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

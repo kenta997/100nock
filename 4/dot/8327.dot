@@ -1,0 +1,11 @@
+digraph graph8327 {
+	node0 [label="何でも、"];
+	node1 [label="どっかで"];
+	node2 [label="停電するに"];
+	node3 [label="違ないと"];
+	node4 [label="思った」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

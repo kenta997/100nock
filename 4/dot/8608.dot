@@ -1,0 +1,23 @@
+digraph graph8608 {
+	node0 [label="アーサー・ジョーンスと"];
+	node1 [label="云う"];
+	node2 [label="人の"];
+	node3 [label="かいた"];
+	node4 [label="脚本の"];
+	node5 [label="なかに"];
+	node6 [label="しきりに"];
+	node7 [label="自殺を"];
+	node8 [label="主張する"];
+	node9 [label="哲学者が"];
+	node10 [label="あって……」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

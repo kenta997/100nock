@@ -1,0 +1,31 @@
+digraph graph9175 {
+	node0 [label="近来は"];
+	node1 [label="大分減って"];
+	node2 [label="烏が"];
+	node3 [label="見えないなと"];
+	node4 [label="先刻"];
+	node5 [label="思ったが、"];
+	node6 [label="吾輩自身が"];
+	node7 [label="烏の"];
+	node8 [label="代りに"];
+	node9 [label="こんな"];
+	node10 [label="所で"];
+	node11 [label="行水を"];
+	node12 [label="使おうなどとは"];
+	node13 [label="思いも"];
+	node14 [label="寄らなかった。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

@@ -1,0 +1,17 @@
+digraph graph981 {
+	node0 [label="なぜ"];
+	node1 [label="落ちるのか、"];
+	node2 [label="なぜ"];
+	node3 [label="上へ"];
+	node4 [label="上へとのみ"];
+	node5 [label="のぼらぬかと"];
+	node6 [label="ケートが"];
+	node7 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

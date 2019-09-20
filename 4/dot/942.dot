@@ -1,0 +1,31 @@
+digraph graph942 {
+	node0 [label="吾輩の"];
+	node1 [label="主人は"];
+	node2 [label="毎朝風呂場で"];
+	node3 [label="含嗽を"];
+	node4 [label="やる"];
+	node5 [label="時、"];
+	node6 [label="楊枝で"];
+	node7 [label="咽喉を"];
+	node8 [label="つっ突いて"];
+	node9 [label="妙な"];
+	node10 [label="声を"];
+	node11 [label="無遠慮に"];
+	node12 [label="出す"];
+	node13 [label="癖が"];
+	node14 [label="ある。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

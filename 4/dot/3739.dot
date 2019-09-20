@@ -1,0 +1,19 @@
+digraph graph3739 {
+	node0 [label="細君と"];
+	node1 [label="入れ違いに"];
+	node2 [label="座敷へ"];
+	node3 [label="這入って来た"];
+	node4 [label="ものは"];
+	node5 [label="誰かと"];
+	node6 [label="思ったら"];
+	node7 [label="ご存じの"];
+	node8 [label="越智東風君であった。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

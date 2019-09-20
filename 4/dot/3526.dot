@@ -1,0 +1,15 @@
+digraph graph3526 {
+	node0 [label="「この"];
+	node1 [label="長い"];
+	node2 [label="奴へ"];
+	node3 [label="ツユを"];
+	node4 [label="三分一つけて、"];
+	node5 [label="一口に"];
+	node6 [label="飲んでしまうんだね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

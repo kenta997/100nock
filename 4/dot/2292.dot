@@ -1,0 +1,11 @@
+digraph graph2292 {
+	node0 [label="これが"];
+	node1 [label="平均を"];
+	node2 [label="破壊する"];
+	node3 [label="第三の"];
+	node4 [label="条件である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

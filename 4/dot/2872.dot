@@ -1,0 +1,9 @@
+digraph graph2872 {
+	node0 [label="「俺の"];
+	node1 [label="寝たのは"];
+	node2 [label="御前より"];
+	node3 [label="あとだ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,7 @@
+digraph graph7050 {
+	node0 [label="ねえ"];
+	node1 [label="ちょいと、"];
+	node2 [label="あなた」"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,5 @@
+digraph graph8823 {
+	node0 [label="少ない"];
+	node1 [label="訳さ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,25 @@
+digraph graph638 {
+	node0 [label="ついに"];
+	node1 [label="天祐も"];
+	node2 [label="どっかへ"];
+	node3 [label="消え失せて、"];
+	node4 [label="在来の"];
+	node5 [label="通り四つ這に"];
+	node6 [label="なって、"];
+	node7 [label="眼を"];
+	node8 [label="白黒するの"];
+	node9 [label="醜態を"];
+	node10 [label="演ずるまでに"];
+	node11 [label="閉口した。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,23 @@
+digraph graph2225 {
+	node0 [label="——"];
+	node1 [label="主人が"];
+	node2 [label="偕老同穴を"];
+	node3 [label="契った"];
+	node4 [label="夫人の"];
+	node5 [label="脳天の"];
+	node6 [label="真中には"];
+	node7 [label="真丸な"];
+	node8 [label="大きな"];
+	node9 [label="禿が"];
+	node10 [label="ある。"];
+	node0 -> node10;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

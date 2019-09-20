@@ -1,0 +1,15 @@
+digraph graph5010 {
+	node0 [label="主人は"];
+	node1 [label="なぜ"];
+	node2 [label="笑ったかと"];
+	node3 [label="云うと"];
+	node4 [label="全く"];
+	node5 [label="嬉しくって"];
+	node6 [label="笑ったのである。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

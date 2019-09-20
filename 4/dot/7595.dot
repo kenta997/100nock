@@ -1,0 +1,7 @@
+digraph graph7595 {
+	node0 [label="負けた方が"];
+	node1 [label="何か"];
+	node2 [label="奢るんだぜ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

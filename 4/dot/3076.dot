@@ -1,0 +1,5 @@
+digraph graph3076 {
+	node0 [label="「先生泥棒に"];
+	node1 [label="逢いなさったそうですな。"];
+	node0 -> node1;
+}

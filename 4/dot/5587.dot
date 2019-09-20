@@ -1,0 +1,21 @@
+digraph graph5587 {
+	node0 [label="浅草の"];
+	node1 [label="観音様で"];
+	node2 [label="西洋人が"];
+	node3 [label="振り反って"];
+	node4 [label="見た"];
+	node5 [label="くらい"];
+	node6 [label="奇麗だったなどと"];
+	node7 [label="自慢する"];
+	node8 [label="事さえ"];
+	node9 [label="ある。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

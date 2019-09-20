@@ -1,0 +1,5 @@
+digraph graph2921 {
+	node0 [label="代価が"];
+	node1 [label="二十七銭」"];
+	node0 -> node1;
+}

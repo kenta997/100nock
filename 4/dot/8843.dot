@@ -1,0 +1,7 @@
+digraph graph8843 {
+	node0 [label="英雄なんか"];
+	node1 [label="一人も"];
+	node2 [label="出やしない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

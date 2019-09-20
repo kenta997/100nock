@@ -1,0 +1,9 @@
+digraph graph4128 {
+	node0 [label="次のは"];
+	node1 [label="主人の"];
+	node2 [label="庭を"];
+	node3 [label="眺めている。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

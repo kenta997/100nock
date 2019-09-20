@@ -1,0 +1,11 @@
+digraph graph1852 {
+	node0 [label="構う"];
+	node1 [label="ものかと"];
+	node2 [label="滅茶苦茶に"];
+	node3 [label="あるき"];
+	node4 [label="廻る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

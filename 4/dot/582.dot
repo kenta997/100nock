@@ -1,0 +1,15 @@
+digraph graph582 {
+	node0 [label="吾輩は"];
+	node1 [label="この"];
+	node2 [label="刹那に"];
+	node3 [label="猫ながら"];
+	node4 [label="一の"];
+	node5 [label="真理を"];
+	node6 [label="感得した。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

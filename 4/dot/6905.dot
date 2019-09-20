@@ -1,0 +1,7 @@
+digraph graph6905 {
+	node0 [label="「雪江さん、"];
+	node1 [label="日当って"];
+	node2 [label="なに？"];
+	node0 -> node1;
+	node1 -> node2;
+}

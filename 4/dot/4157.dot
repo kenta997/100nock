@@ -1,0 +1,13 @@
+digraph graph4157 {
+	node0 [label="諺にも"];
+	node1 [label="烏合の衆と"];
+	node2 [label="云うから"];
+	node3 [label="三羽だって"];
+	node4 [label="存外"];
+	node5 [label="弱いかも知れない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

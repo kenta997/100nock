@@ -1,0 +1,13 @@
+digraph graph3211 {
+	node0 [label="　"];
+	node1 [label="せんだってじゅうから"];
+	node2 [label="日本は"];
+	node3 [label="露西亜と"];
+	node4 [label="大戦争を"];
+	node5 [label="しているそうだ。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

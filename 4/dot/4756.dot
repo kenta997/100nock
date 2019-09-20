@@ -1,0 +1,37 @@
+digraph graph4756 {
+	node0 [label="小犬が"];
+	node1 [label="駱駝の"];
+	node2 [label="周囲を"];
+	node3 [label="疾風のごとく"];
+	node4 [label="廻転して"];
+	node5 [label="吠え立てると、"];
+	node6 [label="駱駝は"];
+	node7 [label="何の"];
+	node8 [label="気も"];
+	node9 [label="つかずに、"];
+	node10 [label="依然として"];
+	node11 [label="背中へ"];
+	node12 [label="瘤を"];
+	node13 [label="こしらえて"];
+	node14 [label="突っ"];
+	node15 [label="立った"];
+	node16 [label="ままである"];
+	node17 [label="そうだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node17;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node17;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

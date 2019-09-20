@@ -1,0 +1,35 @@
+digraph graph2550 {
+	node0 [label="さっき"];
+	node1 [label="鈴木君に"];
+	node2 [label="逢って"];
+	node3 [label="説法を"];
+	node4 [label="受けた"];
+	node5 [label="時は"];
+	node6 [label="金田の"];
+	node7 [label="娘の"];
+	node8 [label="事ばかりが"];
+	node9 [label="気の毒になったが、"];
+	node10 [label="今迷亭から"];
+	node11 [label="鼻々と"];
+	node12 [label="云われるとまた"];
+	node13 [label="先日喧嘩を"];
+	node14 [label="した"];
+	node15 [label="事を"];
+	node16 [label="思い出す。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

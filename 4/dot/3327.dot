@@ -1,0 +1,13 @@
+digraph graph3327 {
+	node0 [label="吾輩は"];
+	node1 [label="何の"];
+	node2 [label="目的も"];
+	node3 [label="なく"];
+	node4 [label="器械的に"];
+	node5 [label="跳上る。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,9 @@
+digraph graph1505 {
+	node0 [label="両人は"];
+	node1 [label="毫も"];
+	node2 [label="希臘語が"];
+	node3 [label="読めないのである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

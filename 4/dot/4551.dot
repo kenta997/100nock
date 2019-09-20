@@ -1,0 +1,11 @@
+digraph graph4551 {
+	node0 [label="「どうしても"];
+	node1 [label="いいから"];
+	node2 [label="ちょっと"];
+	node3 [label="撲って"];
+	node4 [label="見ろ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

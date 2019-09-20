@@ -1,0 +1,25 @@
+digraph graph652 {
+	node0 [label="すると、"];
+	node1 [label="いつの間にか"];
+	node2 [label="心が"];
+	node3 [label="晴々して"];
+	node4 [label="今までの"];
+	node5 [label="心配も"];
+	node6 [label="苦労も"];
+	node7 [label="何もかも"];
+	node8 [label="忘れて、"];
+	node9 [label="生れ変ったような"];
+	node10 [label="心持に"];
+	node11 [label="なる。"];
+	node0 -> node11;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

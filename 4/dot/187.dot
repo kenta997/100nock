@@ -1,0 +1,29 @@
+digraph graph187 {
+	node0 [label="茶の木の"];
+	node1 [label="根を"];
+	node2 [label="一本一本嗅ぎながら、"];
+	node3 [label="西側の"];
+	node4 [label="杉垣の"];
+	node5 [label="そばまで"];
+	node6 [label="くると、"];
+	node7 [label="枯菊を"];
+	node8 [label="押し倒して"];
+	node9 [label="その上に"];
+	node10 [label="大きな"];
+	node11 [label="猫が"];
+	node12 [label="前後不覚に"];
+	node13 [label="寝ている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

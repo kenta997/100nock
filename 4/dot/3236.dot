@@ -1,0 +1,17 @@
+digraph graph3236 {
+	node0 [label="どの"];
+	node1 [label="方面から"];
+	node2 [label="来るかなと"];
+	node3 [label="台所の"];
+	node4 [label="真中に"];
+	node5 [label="立って"];
+	node6 [label="四方を"];
+	node7 [label="見廻わす。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

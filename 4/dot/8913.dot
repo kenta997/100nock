@@ -1,0 +1,7 @@
+digraph graph8913 {
+	node0 [label="「もう"];
+	node1 [label="沢山です、"];
+	node2 [label="先生。"];
+	node0 -> node1;
+	node1 -> node2;
+}

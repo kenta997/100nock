@@ -1,0 +1,9 @@
+digraph graph7461 {
+	node0 [label="「雪江さん、"];
+	node1 [label="憚りさま、"];
+	node2 [label="これを"];
+	node3 [label="出して来て下さい」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

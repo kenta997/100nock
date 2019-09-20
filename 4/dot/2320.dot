@@ -1,0 +1,9 @@
+digraph graph2320 {
+	node0 [label="たしか"];
+	node1 [label="小供が"];
+	node2 [label="あるはずだったが"];
+	node3 [label="一人かい」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

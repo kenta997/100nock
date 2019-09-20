@@ -1,0 +1,29 @@
+digraph graph5215 {
+	node0 [label="これから"];
+	node1 [label="述べるのは、"];
+	node2 [label="吾輩"];
+	node3 [label="自ら余瀾と"];
+	node4 [label="号するのだけれど、"];
+	node5 [label="余瀾なら"];
+	node6 [label="どうせ"];
+	node7 [label="つまらんに"];
+	node8 [label="極っている、"];
+	node9 [label="読まんでもよかろうなどと"];
+	node10 [label="思うと"];
+	node11 [label="飛んだ"];
+	node12 [label="後悔を"];
+	node13 [label="する。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

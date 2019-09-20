@@ -1,0 +1,11 @@
+digraph graph5794 {
+	node0 [label="天地の"];
+	node1 [label="裡に"];
+	node2 [label="何を"];
+	node3 [label="たのまんと"];
+	node4 [label="するか。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

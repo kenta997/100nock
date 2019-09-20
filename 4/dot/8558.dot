@@ -1,0 +1,27 @@
+digraph graph8558 {
+	node0 [label="「娘は——"];
+	node1 [label="娘は"];
+	node2 [label="見た"];
+	node3 [label="事が"];
+	node4 [label="ないから"];
+	node5 [label="何とも"];
+	node6 [label="云え"];
+	node7 [label="ないが——"];
+	node8 [label="まず"];
+	node9 [label="着倒れか、"];
+	node10 [label="食い倒れ、もしくは"];
+	node11 [label="呑んだくれの"];
+	node12 [label="類だろう。"];
+	node0 -> node7;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

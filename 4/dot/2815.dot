@@ -1,0 +1,21 @@
+digraph graph2815 {
+	node0 [label="吾輩は"];
+	node1 [label="未来の"];
+	node2 [label="事件の"];
+	node3 [label="発展を"];
+	node4 [label="ここまで"];
+	node5 [label="予想して、"];
+	node6 [label="富子嬢の"];
+	node7 [label="ために、"];
+	node8 [label="やっと"];
+	node9 [label="安心した。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

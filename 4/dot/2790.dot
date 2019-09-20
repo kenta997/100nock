@@ -1,0 +1,11 @@
+digraph graph2790 {
+	node0 [label="純粋の"];
+	node1 [label="模傚は"];
+	node2 [label="かくのごとく"];
+	node3 [label="至難な"];
+	node4 [label="ものである。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,13 @@
+digraph graph3083 {
+	node0 [label="鼠は"];
+	node1 [label="捕らず"];
+	node2 [label="泥棒が"];
+	node3 [label="来ても"];
+	node4 [label="知らん顔を"];
+	node5 [label="している。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

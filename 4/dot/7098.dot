@@ -1,0 +1,13 @@
+digraph graph7098 {
+	node0 [label="未来の"];
+	node1 [label="考の"];
+	node2 [label="ある"];
+	node3 [label="ものは、"];
+	node4 [label="誰でも"];
+	node5 [label="這入る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

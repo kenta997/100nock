@@ -1,0 +1,19 @@
+digraph graph2640 {
+	node0 [label="ねえ"];
+	node1 [label="鈴木君」と"];
+	node2 [label="云うと"];
+	node3 [label="鈴木君は"];
+	node4 [label="ようやく話が"];
+	node5 [label="金田事件を"];
+	node6 [label="離れたので"];
+	node7 [label="ほっと"];
+	node8 [label="一息つきながら"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

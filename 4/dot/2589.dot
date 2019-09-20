@@ -1,0 +1,33 @@
+digraph graph2589 {
+	node0 [label="「そこで"];
+	node1 [label="この"];
+	node2 [label="矛盾なる"];
+	node3 [label="現象の"];
+	node4 [label="説明を"];
+	node5 [label="明記して、"];
+	node6 [label="暗黒の"];
+	node7 [label="淵から"];
+	node8 [label="吾人の"];
+	node9 [label="疑を"];
+	node10 [label="千載の"];
+	node11 [label="下に"];
+	node12 [label="救い出してくれた"];
+	node13 [label="者は"];
+	node14 [label="誰だと"];
+	node15 [label="思う。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

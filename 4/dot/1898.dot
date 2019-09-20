@@ -1,0 +1,13 @@
+digraph graph1898 {
+	node0 [label="——"];
+	node1 [label="あんまり"];
+	node2 [label="人を"];
+	node3 [label="馬鹿にすると"];
+	node4 [label="電話を"];
+	node5 [label="切ってしまうよ。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

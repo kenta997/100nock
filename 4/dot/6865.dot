@@ -1,0 +1,33 @@
+digraph graph6865 {
+	node0 [label="それで"];
+	node1 [label="法螺吹は"];
+	node2 [label="大変"];
+	node3 [label="怒って、"];
+	node4 [label="巡査の"];
+	node5 [label="服を"];
+	node6 [label="脱いで、"];
+	node7 [label="付け髯を"];
+	node8 [label="紙屑籠へ"];
+	node9 [label="抛り込んで、"];
+	node10 [label="今度は"];
+	node11 [label="大金持ちの"];
+	node12 [label="服装を"];
+	node13 [label="して"];
+	node14 [label="出て"];
+	node15 [label="来たそうです。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

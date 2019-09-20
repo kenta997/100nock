@@ -1,0 +1,9 @@
+digraph graph1734 {
+	node0 [label="シモニジスは"];
+	node1 [label="八十で"];
+	node2 [label="妙詩を"];
+	node3 [label="作った。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

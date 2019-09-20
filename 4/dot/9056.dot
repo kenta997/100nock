@@ -1,0 +1,11 @@
+digraph graph9056 {
+	node0 [label="ちと"];
+	node1 [label="人中へも"];
+	node2 [label="出るがよ"];
+	node3 [label="かたい"];
+	node4 [label="先生。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

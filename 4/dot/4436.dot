@@ -1,0 +1,19 @@
+digraph graph4436 {
+	node0 [label="——"];
+	node1 [label="それで"];
+	node2 [label="その使を"];
+	node3 [label="二年"];
+	node4 [label="とめておいて"];
+	node5 [label="しまいに"];
+	node6 [label="長崎で"];
+	node7 [label="女郎を"];
+	node8 [label="見せたんだがね。"];
+	node0 -> node8;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

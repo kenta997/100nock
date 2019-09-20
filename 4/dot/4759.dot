@@ -1,0 +1,17 @@
+digraph graph4759 {
+	node0 [label="さればと"];
+	node1 [label="云って"];
+	node2 [label="獅子や"];
+	node3 [label="虎のように"];
+	node4 [label="先方が"];
+	node5 [label="強過ぎても"];
+	node6 [label="者に"];
+	node7 [label="ならん。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

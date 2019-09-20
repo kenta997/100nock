@@ -1,0 +1,27 @@
+digraph graph1574 {
+	node0 [label="抜け上った"];
+	node1 [label="生え際から"];
+	node2 [label="前髪が"];
+	node3 [label="堤防工事のように"];
+	node4 [label="高く"];
+	node5 [label="聳えて、"];
+	node6 [label="少なくとも"];
+	node7 [label="顔の"];
+	node8 [label="長さの"];
+	node9 [label="二分の一だけ"];
+	node10 [label="天に"];
+	node11 [label="向って"];
+	node12 [label="せり出している。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

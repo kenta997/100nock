@@ -1,0 +1,13 @@
+digraph graph3355 {
+	node0 [label="二疋の"];
+	node1 [label="怪物は"];
+	node2 [label="戸棚の"];
+	node3 [label="中へ"];
+	node4 [label="姿を"];
+	node5 [label="かくす。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

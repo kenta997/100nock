@@ -1,0 +1,15 @@
+digraph graph4778 {
+	node0 [label="柔術使が"];
+	node1 [label="時々"];
+	node2 [label="人を"];
+	node3 [label="投げて"];
+	node4 [label="見たくなるのと"];
+	node5 [label="同じ"];
+	node6 [label="事である。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

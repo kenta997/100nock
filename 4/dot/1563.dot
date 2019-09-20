@@ -1,0 +1,15 @@
+digraph graph1563 {
+	node0 [label="たまに"];
+	node1 [label="分るかと"];
+	node2 [label="思うと"];
+	node3 [label="鳶口や"];
+	node4 [label="掛矢の"];
+	node5 [label="事を"];
+	node6 [label="聞かれる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

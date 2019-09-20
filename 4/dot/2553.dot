@@ -1,0 +1,13 @@
+digraph graph2553 {
+	node0 [label="啻に"];
+	node1 [label="珍報のみならず、"];
+	node2 [label="嬉しい"];
+	node3 [label="快"];
+	node4 [label="よい"];
+	node5 [label="珍報である。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

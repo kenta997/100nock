@@ -1,0 +1,25 @@
+digraph graph7247 {
+	node0 [label="その"];
+	node1 [label="鏘々たる"];
+	node2 [label="先生が、"];
+	node3 [label="最前から"];
+	node4 [label="吃の"];
+	node5 [label="御姫様のように"];
+	node6 [label="もじもじしているのは、"];
+	node7 [label="何か"];
+	node8 [label="云わくの"];
+	node9 [label="ある"];
+	node10 [label="事でなくては"];
+	node11 [label="ならん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,19 @@
+digraph graph1110 {
+	node0 [label="　主人は"];
+	node1 [label="無論、"];
+	node2 [label="迷亭先生も"];
+	node3 [label="「御"];
+	node4 [label="安くないね」などという"];
+	node5 [label="月並は"];
+	node6 [label="云わず、"];
+	node7 [label="静粛に"];
+	node8 [label="謹聴している。"];
+	node0 -> node8;
+	node1 -> node8;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,5 @@
+digraph graph7029 {
+	node0 [label="「いい"];
+	node1 [label="恰好なの？"];
+	node0 -> node1;
+}

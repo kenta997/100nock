@@ -1,0 +1,29 @@
+digraph graph3529 {
+	node0 [label="つるつると"];
+	node1 [label="咽喉を"];
+	node2 [label="滑り込む"];
+	node3 [label="ところがね"];
+	node4 [label="うちだよ」と"];
+	node5 [label="思い切って"];
+	node6 [label="箸を"];
+	node7 [label="高く"];
+	node8 [label="上げると"];
+	node9 [label="蕎麦は"];
+	node10 [label="ようやくの"];
+	node11 [label="事で"];
+	node12 [label="地を"];
+	node13 [label="離れた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

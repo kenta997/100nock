@@ -1,0 +1,9 @@
+digraph graph3690 {
+	node0 [label="今度"];
+	node1 [label="行ったら"];
+	node2 [label="見て来"];
+	node3 [label="給え。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

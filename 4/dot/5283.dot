@@ -1,0 +1,15 @@
+digraph graph5283 {
+	node0 [label="それにしても"];
+	node1 [label="冥頑不霊の"];
+	node2 [label="主人も"];
+	node3 [label="今度は"];
+	node4 [label="少し"];
+	node5 [label="悟らずば"];
+	node6 [label="なるまい。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

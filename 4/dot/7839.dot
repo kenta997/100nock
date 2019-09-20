@@ -1,0 +1,11 @@
+digraph graph7839 {
+	node0 [label="「君の国の"];
+	node1 [label="書生と"];
+	node2 [label="来たら、"];
+	node3 [label="本当に"];
+	node4 [label="話せないね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,33 @@
+digraph graph3943 {
+	node0 [label="だから"];
+	node1 [label="運動を"];
+	node2 [label="わるく"];
+	node3 [label="云った"];
+	node4 [label="連中が"];
+	node5 [label="急に"];
+	node6 [label="運動が"];
+	node7 [label="したくなって、"];
+	node8 [label="女までが"];
+	node9 [label="ラケットを"];
+	node10 [label="持って"];
+	node11 [label="往来を"];
+	node12 [label="あるき廻ったって"];
+	node13 [label="一向"];
+	node14 [label="不思議は"];
+	node15 [label="ない。"];
+	node0 -> node15;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node15;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

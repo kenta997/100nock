@@ -1,0 +1,5 @@
+digraph graph9178 {
+	node0 [label="飛び上っても"];
+	node1 [label="出られない。"];
+	node0 -> node1;
+}

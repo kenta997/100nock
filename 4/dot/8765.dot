@@ -1,0 +1,5 @@
+digraph graph8765 {
+	node0 [label="野蛮な"];
+	node1 [label="ものさ。"];
+	node0 -> node1;
+}

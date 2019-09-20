@@ -1,0 +1,13 @@
+digraph graph9033 {
+	node0 [label="——"];
+	node1 [label="こっちのは"];
+	node2 [label="知事の"];
+	node3 [label="娘です」と"];
+	node4 [label="一人で"];
+	node5 [label="弁じ立てる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

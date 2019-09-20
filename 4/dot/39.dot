@@ -1,0 +1,7 @@
+digraph graph39 {
+	node0 [label="どうも"];
+	node1 [label="非常に"];
+	node2 [label="苦しい。"];
+	node0 -> node2;
+	node1 -> node2;
+}

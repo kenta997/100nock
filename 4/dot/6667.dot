@@ -1,0 +1,13 @@
+digraph graph6667 {
+	node0 [label="吾輩も"];
+	node1 [label="日本の"];
+	node2 [label="猫だから"];
+	node3 [label="多少の"];
+	node4 [label="愛国心は"];
+	node5 [label="ある。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

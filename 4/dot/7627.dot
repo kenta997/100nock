@@ -1,0 +1,15 @@
+digraph graph7627 {
+	node0 [label="白と黒が"];
+	node1 [label="盤から、"];
+	node2 [label="こぼれ落ちるまでに"];
+	node3 [label="押し合って、"];
+	node4 [label="御互に"];
+	node5 [label="ギューギュー"];
+	node6 [label="云っている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,11 @@
+digraph graph3738 {
+	node0 [label="「おやまた"];
+	node1 [label="御客様だ」と"];
+	node2 [label="細君は"];
+	node3 [label="茶の間へ"];
+	node4 [label="引き下がる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

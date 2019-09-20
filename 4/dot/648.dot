@@ -1,0 +1,23 @@
+digraph graph648 {
+	node0 [label="いっその"];
+	node1 [label="事気を"];
+	node2 [label="易えて新道の"];
+	node3 [label="二絃琴の"];
+	node4 [label="御師匠さんの"];
+	node5 [label="所の"];
+	node6 [label="三毛子でも"];
+	node7 [label="訪問しようと"];
+	node8 [label="台所から"];
+	node9 [label="裏へ"];
+	node10 [label="出た。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

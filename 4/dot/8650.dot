@@ -1,0 +1,35 @@
+digraph graph8650 {
+	node0 [label="今昔の"];
+	node1 [label="問題は"];
+	node2 [label="とにかく、"];
+	node3 [label="そこの"];
+	node4 [label="風習として"];
+	node5 [label="日暮れの"];
+	node6 [label="鐘が"];
+	node7 [label="お寺で"];
+	node8 [label="鳴ると、"];
+	node9 [label="家々の"];
+	node10 [label="女が"];
+	node11 [label="ことごとく"];
+	node12 [label="出て来て"];
+	node13 [label="河へ"];
+	node14 [label="這入って"];
+	node15 [label="水泳を"];
+	node16 [label="やる……」"];
+	node0 -> node1;
+	node1 -> node16;
+	node2 -> node16;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

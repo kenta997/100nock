@@ -1,0 +1,13 @@
+digraph graph4926 {
+	node0 [label="敵の"];
+	node1 [label="計は"];
+	node2 [label="なかなか"];
+	node3 [label="巧妙と"];
+	node4 [label="云うて"];
+	node5 [label="よろしい。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

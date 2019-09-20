@@ -1,0 +1,19 @@
+digraph graph406 {
+	node0 [label="俳句には"];
+	node1 [label="なるかも知れないが、"];
+	node2 [label="恋には"];
+	node3 [label="ならんようだな」と"];
+	node4 [label="平手で"];
+	node5 [label="吾輩の"];
+	node6 [label="頭を"];
+	node7 [label="軽く"];
+	node8 [label="叩く。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

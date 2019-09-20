@@ -1,0 +1,11 @@
+digraph graph2335 {
+	node0 [label="実業家も"];
+	node1 [label="悪くもないが"];
+	node2 [label="我々の"];
+	node3 [label="うちは"];
+	node4 [label="駄目だ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

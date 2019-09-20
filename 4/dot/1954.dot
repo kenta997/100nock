@@ -1,0 +1,13 @@
+digraph graph1954 {
+	node0 [label="第一句が"];
+	node1 [label="この"];
+	node2 [label="顔に"];
+	node3 [label="鼻祭りと"];
+	node4 [label="云うのだ」"];
+	node5 [label="「それから？"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

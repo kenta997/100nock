@@ -1,0 +1,27 @@
+digraph graph1038 {
+	node0 [label="「どんな"];
+	node1 [label="経験か、"];
+	node2 [label="聞かし玉え」と"];
+	node3 [label="主人は"];
+	node4 [label="行徳の"];
+	node5 [label="俎を"];
+	node6 [label="遠く"];
+	node7 [label="後に"];
+	node8 [label="見捨てた"];
+	node9 [label="気で、"];
+	node10 [label="ほっと"];
+	node11 [label="息を"];
+	node12 [label="つく。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node12;
+	node3 -> node12;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

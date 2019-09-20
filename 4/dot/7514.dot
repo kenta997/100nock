@@ -1,0 +1,7 @@
+digraph graph7514 {
+	node0 [label="「今日は"];
+	node1 [label="少し"];
+	node2 [label="弱ってるんだよ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

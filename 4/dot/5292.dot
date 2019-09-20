@@ -1,0 +1,11 @@
+digraph graph5292 {
+	node0 [label="「君"];
+	node1 [label="少し"];
+	node2 [label="顔色が"];
+	node3 [label="悪いようだぜ、"];
+	node4 [label="どうかしやせんか」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

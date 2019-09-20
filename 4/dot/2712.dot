@@ -1,0 +1,9 @@
+digraph graph2712 {
+	node0 [label="鼠としても"];
+	node1 [label="大変"];
+	node2 [label="用心深い"];
+	node3 [label="鼠である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

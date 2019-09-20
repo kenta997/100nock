@@ -1,0 +1,27 @@
+digraph graph1063 {
+	node0 [label="よく"];
+	node1 [label="人が"];
+	node2 [label="首を"];
+	node3 [label="縊ると"];
+	node4 [label="云うが"];
+	node5 [label="こんな"];
+	node6 [label="時に"];
+	node7 [label="ふと"];
+	node8 [label="誘われて"];
+	node9 [label="死ぬ"];
+	node10 [label="気に"];
+	node11 [label="なるのじゃないかと"];
+	node12 [label="思い出す。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

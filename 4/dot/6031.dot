@@ -1,0 +1,13 @@
+digraph graph6031 {
+	node0 [label="蝦蟆の"];
+	node1 [label="事を"];
+	node2 [label="かいると"];
+	node3 [label="云うのと"];
+	node4 [label="同じ"];
+	node5 [label="事さ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

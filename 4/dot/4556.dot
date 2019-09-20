@@ -1,0 +1,9 @@
+digraph graph4556 {
+	node0 [label="「もう"];
+	node1 [label="一"];
+	node2 [label="返やって"];
+	node3 [label="見ろ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

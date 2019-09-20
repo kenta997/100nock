@@ -1,0 +1,25 @@
+digraph graph1193 {
+	node0 [label="早く"];
+	node1 [label="顔でも"];
+	node2 [label="洗って"];
+	node3 [label="着物でも"];
+	node4 [label="着換えて"];
+	node5 [label="待っているがいい、と"];
+	node6 [label="口では"];
+	node7 [label="云ったような"];
+	node8 [label="ものの"];
+	node9 [label="胸中は"];
+	node10 [label="無限の"];
+	node11 [label="感慨である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

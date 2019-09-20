@@ -1,0 +1,31 @@
+digraph graph4857 {
+	node0 [label="その後"];
+	node1 [label="人文が"];
+	node2 [label="進むに従って"];
+	node3 [label="鈍液、"];
+	node4 [label="怒"];
+	node5 [label="液、"];
+	node6 [label="憂液は"];
+	node7 [label="いつの間にか"];
+	node8 [label="なくなって、"];
+	node9 [label="現今に"];
+	node10 [label="至っては"];
+	node11 [label="血液だけが"];
+	node12 [label="昔のように"];
+	node13 [label="循環していると"];
+	node14 [label="云う話しだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node14;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

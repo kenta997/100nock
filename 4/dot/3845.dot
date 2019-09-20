@@ -1,0 +1,19 @@
+digraph graph3845 {
+	node0 [label="全く東風君独特の"];
+	node1 [label="伎倆で"];
+	node2 [label="敬々服々の"];
+	node3 [label="至りだ」と"];
+	node4 [label="しきりに"];
+	node5 [label="正直な"];
+	node6 [label="人を"];
+	node7 [label="まぜ返して"];
+	node8 [label="喜んでいる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

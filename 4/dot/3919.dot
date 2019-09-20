@@ -1,0 +1,13 @@
+digraph graph3919 {
+	node0 [label="全く潮水を"];
+	node1 [label="呑んで"];
+	node2 [label="始終"];
+	node3 [label="海水浴を"];
+	node4 [label="やっている"];
+	node5 [label="からだ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

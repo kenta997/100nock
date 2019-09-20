@@ -1,0 +1,11 @@
+digraph graph6036 {
+	node0 [label="杉原を"];
+	node1 [label="すぎ原などと"];
+	node2 [label="云うのは"];
+	node3 [label="田舎ものの"];
+	node4 [label="言葉さ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph3457 {
+	node0 [label="「いや"];
+	node1 [label="御目覚かね。"];
+	node0 -> node1;
+}

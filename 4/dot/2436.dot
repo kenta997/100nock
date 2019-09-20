@@ -1,0 +1,11 @@
+digraph graph2436 {
+	node0 [label="無理ではないように"];
+	node1 [label="思われて来れば、"];
+	node2 [label="鈴木君の"];
+	node3 [label="依頼通りに"];
+	node4 [label="してやりたくなる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

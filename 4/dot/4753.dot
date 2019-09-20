@@ -1,0 +1,15 @@
+digraph graph4753 {
+	node0 [label="第二から"];
+	node1 [label="かう者が"];
+	node2 [label="勢力において"];
+	node3 [label="人数において"];
+	node4 [label="相手より"];
+	node5 [label="強くなくては"];
+	node6 [label="いかん。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,9 @@
+digraph graph5994 {
+	node0 [label="「よく"];
+	node1 [label="忘れずに"];
+	node2 [label="暗誦した"];
+	node3 [label="ものですね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

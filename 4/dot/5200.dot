@@ -1,0 +1,17 @@
+digraph graph5200 {
+	node0 [label="では"];
+	node1 [label="この"];
+	node2 [label="生徒は"];
+	node3 [label="あなたに"];
+	node4 [label="御引き渡し"];
+	node5 [label="申しますから"];
+	node6 [label="お連れ帰りを"];
+	node7 [label="願います。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

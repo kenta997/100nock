@@ -1,0 +1,17 @@
+digraph graph9194 {
+	node0 [label="自ら"];
+	node1 [label="求めて"];
+	node2 [label="苦しんで、"];
+	node3 [label="自ら"];
+	node4 [label="好んで"];
+	node5 [label="拷問に"];
+	node6 [label="罹っているのは"];
+	node7 [label="馬鹿気ている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+}

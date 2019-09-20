@@ -1,0 +1,21 @@
+digraph graph4708 {
+	node0 [label="その"];
+	node1 [label="信用すべからざる"];
+	node2 [label="事は"];
+	node3 [label="群鶴館に"];
+	node4 [label="鶴の"];
+	node5 [label="下りざるごとく、"];
+	node6 [label="臥竜窟に"];
+	node7 [label="猫が"];
+	node8 [label="いるような"];
+	node9 [label="ものである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,9 @@
+digraph graph4404 {
+	node0 [label="薬湯は"];
+	node1 [label="この"];
+	node2 [label="くらいでないと"];
+	node3 [label="利きません。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

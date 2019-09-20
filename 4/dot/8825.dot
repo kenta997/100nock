@@ -1,0 +1,21 @@
+digraph graph8825 {
+	node0 [label="この"];
+	node1 [label="傾向が"];
+	node2 [label="だんだん"];
+	node3 [label="発達して"];
+	node4 [label="婚姻が"];
+	node5 [label="不道徳になる"];
+	node6 [label="時分には"];
+	node7 [label="芸術も"];
+	node8 [label="完く"];
+	node9 [label="滅亡さ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

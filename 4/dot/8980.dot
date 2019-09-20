@@ -1,0 +1,7 @@
+digraph graph8980 {
+	node0 [label="東風君新体詩の"];
+	node1 [label="種が"];
+	node2 [label="出来た。"];
+	node0 -> node1;
+	node1 -> node2;
+}

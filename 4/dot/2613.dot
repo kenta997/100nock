@@ -1,0 +1,9 @@
+digraph graph2613 {
+	node0 [label="鈴木君は"];
+	node1 [label="少し"];
+	node2 [label="凹んだ"];
+	node3 [label="気味で"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

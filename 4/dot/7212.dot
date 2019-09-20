@@ -1,0 +1,5 @@
+digraph graph7212 {
+	node0 [label="　"];
+	node1 [label="古井何とかだね。"];
+	node0 -> node1;
+}

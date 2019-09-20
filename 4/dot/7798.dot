@@ -1,0 +1,9 @@
+digraph graph7798 {
+	node0 [label="大概な"];
+	node1 [label="所なら、"];
+	node2 [label="君に"];
+	node3 [label="進上する」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

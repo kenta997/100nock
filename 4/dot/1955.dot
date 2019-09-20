@@ -1,0 +1,15 @@
+digraph graph1955 {
+	node0 [label="」"];
+	node1 [label="「次が"];
+	node2 [label="この"];
+	node3 [label="鼻に"];
+	node4 [label="神酒供えというのさ」"];
+	node5 [label="「次の"];
+	node6 [label="句は？"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

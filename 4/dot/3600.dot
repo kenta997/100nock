@@ -1,0 +1,33 @@
+digraph graph3600 {
+	node0 [label="「這入って"];
+	node1 [label="見ると"];
+	node2 [label="八畳の"];
+	node3 [label="真中に"];
+	node4 [label="大きな"];
+	node5 [label="囲炉裏が"];
+	node6 [label="切ってあって、"];
+	node7 [label="その"];
+	node8 [label="周りに"];
+	node9 [label="娘と"];
+	node10 [label="娘の"];
+	node11 [label="爺さんと"];
+	node12 [label="婆さんと"];
+	node13 [label="僕と"];
+	node14 [label="四人"];
+	node15 [label="坐ったんですがね。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

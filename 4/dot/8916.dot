@@ -1,0 +1,9 @@
+digraph graph8916 {
+	node0 [label="「もう"];
+	node1 [label="たいていに"];
+	node2 [label="するが"];
+	node3 [label="いい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

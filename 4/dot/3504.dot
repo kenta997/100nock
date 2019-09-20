@@ -1,0 +1,5 @@
+digraph graph3504 {
+	node0 [label="美くしい"];
+	node1 [label="髪ですね。"];
+	node0 -> node1;
+}

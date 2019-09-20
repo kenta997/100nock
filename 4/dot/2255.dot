@@ -1,0 +1,13 @@
+digraph graph2255 {
+	node0 [label="禿が"];
+	node1 [label="伝染するなら"];
+	node2 [label="白髪だって"];
+	node3 [label="伝染しますわ」と"];
+	node4 [label="細君少々"];
+	node5 [label="ぷりぷりする。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

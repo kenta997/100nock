@@ -1,0 +1,15 @@
+digraph graph23 {
+	node0 [label="　"];
+	node1 [label="ふと"];
+	node2 [label="気が"];
+	node3 [label="付いて"];
+	node4 [label="見ると"];
+	node5 [label="書生は"];
+	node6 [label="いない。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

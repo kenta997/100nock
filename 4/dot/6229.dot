@@ -1,0 +1,25 @@
+digraph graph6229 {
+	node0 [label="　"];
+	node1 [label="巡査は"];
+	node2 [label="おかしかったと"];
+	node3 [label="見えて、"];
+	node4 [label="にやにや"];
+	node5 [label="笑いながら"];
+	node6 [label="「あしたね、"];
+	node7 [label="午前"];
+	node8 [label="九時までに"];
+	node9 [label="日本堤の"];
+	node10 [label="分署まで"];
+	node11 [label="来て下さい。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

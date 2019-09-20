@@ -1,0 +1,7 @@
+digraph graph4012 {
+	node0 [label="油蝉は"];
+	node1 [label="しつこくて"];
+	node2 [label="行かん。"];
+	node0 -> node2;
+	node1 -> node2;
+}

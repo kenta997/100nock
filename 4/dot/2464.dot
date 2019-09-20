@@ -1,0 +1,11 @@
+digraph graph2464 {
+	node0 [label="すこぶる"];
+	node1 [label="短かいけれども"];
+	node2 [label="すこぶる"];
+	node3 [label="鋭どい"];
+	node4 [label="幕である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

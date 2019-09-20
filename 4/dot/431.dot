@@ -1,0 +1,7 @@
+digraph graph431 {
+	node0 [label="ふだん着も"];
+	node1 [label="余所ゆきも"];
+	node2 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

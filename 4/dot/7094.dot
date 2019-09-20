@@ -1,0 +1,9 @@
+digraph graph7094 {
+	node0 [label="女学生と"];
+	node1 [label="保険と"];
+	node2 [label="どっちが"];
+	node3 [label="嫌なの？"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

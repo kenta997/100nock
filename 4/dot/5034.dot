@@ -1,0 +1,25 @@
+digraph graph5034 {
+	node0 [label="縦隊を"];
+	node1 [label="少し"];
+	node2 [label="右へ"];
+	node3 [label="離れて"];
+	node4 [label="運動場の"];
+	node5 [label="方面には"];
+	node6 [label="砲隊が"];
+	node7 [label="形勝の"];
+	node8 [label="地を"];
+	node9 [label="占めて"];
+	node10 [label="陣地を"];
+	node11 [label="布いている。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

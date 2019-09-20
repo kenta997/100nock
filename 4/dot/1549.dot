@@ -1,0 +1,9 @@
+digraph graph1549 {
+	node0 [label="君"];
+	node1 [label="知ってるか」"];
+	node2 [label="「うんにゃ」"];
+	node3 [label="「知らない？"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

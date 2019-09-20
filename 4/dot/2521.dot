@@ -1,0 +1,11 @@
+digraph graph2521 {
+	node0 [label="僕に"];
+	node1 [label="西洋料理なんか"];
+	node2 [label="奢る"];
+	node3 [label="金は"];
+	node4 [label="ないんだからな。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

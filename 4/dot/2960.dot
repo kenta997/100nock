@@ -1,0 +1,13 @@
+digraph graph2960 {
+	node0 [label="細君は"];
+	node1 [label="茶の間へ"];
+	node2 [label="引き下がって"];
+	node3 [label="針箱の"];
+	node4 [label="前へ"];
+	node5 [label="坐る。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

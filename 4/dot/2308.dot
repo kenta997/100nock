@@ -1,0 +1,27 @@
+digraph graph2308 {
+	node0 [label="「つい"];
+	node1 [label="まだ"];
+	node2 [label="忙が"];
+	node3 [label="しい"];
+	node4 [label="ものだから"];
+	node5 [label="報知も"];
+	node6 [label="しなかったが、"];
+	node7 [label="実は"];
+	node8 [label="この間から"];
+	node9 [label="東京の"];
+	node10 [label="本社の"];
+	node11 [label="方へ"];
+	node12 [label="帰るようになってね……」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

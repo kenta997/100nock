@@ -1,0 +1,25 @@
+digraph graph2467 {
+	node0 [label="どんな"];
+	node1 [label="僥倖に"];
+	node2 [label="廻り合わんとも"];
+	node3 [label="限らんからね」と"];
+	node4 [label="迷亭は"];
+	node5 [label="鈴木君に対しても"];
+	node6 [label="主人に対するごとく"];
+	node7 [label="毫も"];
+	node8 [label="遠慮と"];
+	node9 [label="云う"];
+	node10 [label="事を"];
+	node11 [label="知らぬ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node11;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

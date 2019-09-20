@@ -1,0 +1,23 @@
+digraph graph4893 {
+	node0 [label="これは"];
+	node1 [label="渋柿を"];
+	node2 [label="食えば"];
+	node3 [label="便秘する、"];
+	node4 [label="便秘すれば"];
+	node5 [label="逆上は"];
+	node6 [label="必ず"];
+	node7 [label="起るという"];
+	node8 [label="理論から"];
+	node9 [label="来た"];
+	node10 [label="ものだ。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

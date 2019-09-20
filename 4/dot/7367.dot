@@ -1,0 +1,19 @@
+digraph graph7367 {
+	node0 [label="彼が"];
+	node1 [label="武右衛門君に対して"];
+	node2 [label="「そう"];
+	node3 [label="さな」を"];
+	node4 [label="繰り返しているのでも"];
+	node5 [label="這裏の"];
+	node6 [label="消息は"];
+	node7 [label="よく"];
+	node8 [label="分る。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

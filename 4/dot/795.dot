@@ -1,0 +1,29 @@
+digraph graph795 {
+	node0 [label="「それから"];
+	node1 [label="二人で"];
+	node2 [label="表へ"];
+	node3 [label="出ると、"];
+	node4 [label="どうだ"];
+	node5 [label="君"];
+	node6 [label="うまく"];
+	node7 [label="行ったろう、"];
+	node8 [label="橡面坊を"];
+	node9 [label="種に"];
+	node10 [label="使った"];
+	node11 [label="ところが"];
+	node12 [label="面白かろうと"];
+	node13 [label="大得意なんです。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node13;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

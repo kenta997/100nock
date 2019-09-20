@@ -1,0 +1,31 @@
+digraph graph5097 {
+	node0 [label="しかし"];
+	node1 [label="毎日"];
+	node2 [label="毎日"];
+	node3 [label="ボールを"];
+	node4 [label="人の"];
+	node5 [label="邸内に"];
+	node6 [label="抛り込む"];
+	node7 [label="者の"];
+	node8 [label="眼に"];
+	node9 [label="映ずる"];
+	node10 [label="空間は"];
+	node11 [label="たしかに"];
+	node12 [label="この"];
+	node13 [label="排列に"];
+	node14 [label="慣れている。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

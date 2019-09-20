@@ -1,0 +1,21 @@
+digraph graph5389 {
+	node0 [label="　"];
+	node1 [label="甘木先生も"];
+	node2 [label="驚ろいたが、"];
+	node3 [label="そこは"];
+	node4 [label="温厚の"];
+	node5 [label="長者だから、"];
+	node6 [label="別段"];
+	node7 [label="激した"];
+	node8 [label="様子も"];
+	node9 [label="なく、"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

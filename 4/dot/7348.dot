@@ -1,0 +1,15 @@
+digraph graph7348 {
+	node0 [label="愛嬌に"];
+	node1 [label="なる"];
+	node2 [label="代りには"];
+	node3 [label="馬鹿をもって"];
+	node4 [label="甘じ"];
+	node5 [label="なくては"];
+	node6 [label="ならん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

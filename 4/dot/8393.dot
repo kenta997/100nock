@@ -1,0 +1,5 @@
+digraph graph8393 {
+	node0 [label="「博士ですか、"];
+	node1 [label="エヘヘヘヘ。"];
+	node0 -> node1;
+}

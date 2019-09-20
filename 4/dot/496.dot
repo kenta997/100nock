@@ -1,0 +1,9 @@
+digraph graph496 {
+	node0 [label="神田の"];
+	node1 [label="某亭で"];
+	node2 [label="晩餐を"];
+	node3 [label="食う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

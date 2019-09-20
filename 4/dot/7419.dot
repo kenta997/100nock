@@ -1,0 +1,9 @@
+digraph graph7419 {
+	node0 [label="「なに"];
+	node1 [label="構わん、"];
+	node2 [label="まあ"];
+	node3 [label="御上がり」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

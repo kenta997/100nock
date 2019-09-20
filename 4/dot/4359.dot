@@ -1,0 +1,15 @@
+digraph graph4359 {
+	node0 [label="「だって"];
+	node1 [label="この"];
+	node2 [label="左の"];
+	node3 [label="方だぜ」た"];
+	node4 [label="左肺の"];
+	node5 [label="方を"];
+	node6 [label="指す。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,5 @@
+digraph graph7102 {
+	node0 [label="「来月から"];
+	node1 [label="這入るつもりだ」"];
+	node0 -> node1;
+}

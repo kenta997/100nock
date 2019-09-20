@@ -1,0 +1,9 @@
+digraph graph9029 {
+	node0 [label="「この方は"];
+	node1 [label="性質が"];
+	node2 [label="極"];
+	node3 [label="いいです。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

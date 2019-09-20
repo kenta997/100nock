@@ -1,0 +1,11 @@
+digraph graph2133 {
+	node0 [label="「ごもっともで、"];
+	node1 [label="全く道楽から"];
+	node2 [label="くる"];
+	node3 [label="嘘だから"];
+	node4 [label="困ります」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

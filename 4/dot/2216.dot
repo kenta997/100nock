@@ -1,0 +1,13 @@
+digraph graph2216 {
+	node0 [label="礼も"];
+	node1 [label="非礼も"];
+	node2 [label="相互の"];
+	node3 [label="解釈次第で"];
+	node4 [label="どうでもなる"];
+	node5 [label="事だ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

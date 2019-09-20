@@ -1,0 +1,15 @@
+digraph graph8210 {
+	node0 [label="音さえ"];
+	node1 [label="出なけりゃと"];
+	node2 [label="云うが、"];
+	node3 [label="音が"];
+	node4 [label="出なくても"];
+	node5 [label="隠し了せないのが"];
+	node6 [label="あるよ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,11 @@
+digraph graph5243 {
+	node0 [label="「なあに、"];
+	node1 [label="そんな"];
+	node2 [label="大した"];
+	node3 [label="事じゃ"];
+	node4 [label="無いのさ。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

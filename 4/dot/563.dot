@@ -1,0 +1,7 @@
+digraph graph563 {
+	node0 [label="Z.Marcusは"];
+	node1 [label="実に"];
+	node2 [label="うまい。"];
+	node0 -> node2;
+	node1 -> node2;
+}

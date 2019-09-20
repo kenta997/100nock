@@ -1,0 +1,19 @@
+digraph graph6639 {
+	node0 [label="とん子は"];
+	node1 [label="御はちの"];
+	node2 [label="蓋を"];
+	node3 [label="あけて"];
+	node4 [label="大きな"];
+	node5 [label="しゃもじを"];
+	node6 [label="取り上げて、"];
+	node7 [label="しばらく"];
+	node8 [label="眺めていた。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

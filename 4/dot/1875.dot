@@ -1,0 +1,5 @@
+digraph graph1875 {
+	node0 [label="「御前は"];
+	node1 [label="大和かい。"];
+	node0 -> node1;
+}

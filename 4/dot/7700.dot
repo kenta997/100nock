@@ -1,0 +1,7 @@
+digraph graph7700 {
+	node0 [label="「なぜって、"];
+	node1 [label="そりゃ鼠が"];
+	node2 [label="食ったのです」"];
+	node0 -> node2;
+	node1 -> node2;
+}

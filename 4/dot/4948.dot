@@ -1,0 +1,33 @@
+digraph graph4948 {
+	node0 [label="生憎"];
+	node1 [label="作家の"];
+	node2 [label="頭の"];
+	node3 [label="方が"];
+	node4 [label="亀の甲より"];
+	node5 [label="軟らかであった"];
+	node6 [label="ものだから、"];
+	node7 [label="禿は"];
+	node8 [label="めちゃめちゃに"];
+	node9 [label="砕けて"];
+	node10 [label="有名なる"];
+	node11 [label="イスキラスは"];
+	node12 [label="ここに"];
+	node13 [label="無惨の"];
+	node14 [label="最後を"];
+	node15 [label="遂げた。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node15;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

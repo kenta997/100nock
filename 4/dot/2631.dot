@@ -1,0 +1,11 @@
+digraph graph2631 {
+	node0 [label="「だって"];
+	node1 [label="君"];
+	node2 [label="ゃ大学の"];
+	node3 [label="教師でも"];
+	node4 [label="何でもないじゃないか。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

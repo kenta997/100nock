@@ -1,0 +1,11 @@
+digraph graph7090 {
+	node0 [label="「また"];
+	node1 [label="小供の"];
+	node2 [label="癖に"];
+	node3 [label="生意気を"];
+	node4 [label="云う。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

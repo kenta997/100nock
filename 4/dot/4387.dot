@@ -1,0 +1,11 @@
+digraph graph4387 {
+	node0 [label="職人てえ"];
+	node1 [label="ものは、"];
+	node2 [label="あんな"];
+	node3 [label="もんじゃねえが」"];
+	node4 [label="「そうよ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

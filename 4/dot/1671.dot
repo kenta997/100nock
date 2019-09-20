@@ -1,0 +1,15 @@
+digraph graph1671 {
+	node0 [label="「博士に"];
+	node1 [label="ならなければ"];
+	node2 [label="やれないと"];
+	node3 [label="おっしゃるんですか」と"];
+	node4 [label="主人は"];
+	node5 [label="不愉快そうに"];
+	node6 [label="尋ねる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

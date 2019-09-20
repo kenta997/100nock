@@ -1,0 +1,21 @@
+digraph graph1756 {
+	node0 [label="二十三日に"];
+	node1 [label="静岡で"];
+	node2 [label="祝捷会が"];
+	node3 [label="あるから"];
+	node4 [label="それまでに"];
+	node5 [label="間に合うように、"];
+	node6 [label="至急"];
+	node7 [label="調達しろと"];
+	node8 [label="云う"];
+	node9 [label="命令なんです。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

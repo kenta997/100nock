@@ -1,0 +1,23 @@
+digraph graph6697 {
+	node0 [label="「今日は"];
+	node1 [label="大祭日ですから、"];
+	node2 [label="朝の"];
+	node3 [label="うちに"];
+	node4 [label="ちょっと"];
+	node5 [label="上がろうと"];
+	node6 [label="思って、"];
+	node7 [label="八時半頃から"];
+	node8 [label="家を"];
+	node9 [label="出て"];
+	node10 [label="急いで来たの」"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

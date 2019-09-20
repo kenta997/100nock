@@ -1,0 +1,9 @@
+digraph graph7133 {
+	node0 [label="「御前が"];
+	node1 [label="繰り返すから"];
+	node2 [label="仕方が"];
+	node3 [label="ないさ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,7 @@
+digraph graph7722 {
+	node0 [label="　ヴァイオリンを"];
+	node1 [label="抱いて"];
+	node2 [label="寝たって？"];
+	node0 -> node1;
+	node1 -> node2;
+}

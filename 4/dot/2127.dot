@@ -1,0 +1,7 @@
+digraph graph2127 {
+	node0 [label="あれに"];
+	node1 [label="掛っちゃ"];
+	node2 [label="たまりません。"];
+	node0 -> node1;
+	node1 -> node2;
+}

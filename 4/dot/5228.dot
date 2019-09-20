@@ -1,0 +1,5 @@
+digraph graph5228 {
+	node0 [label="聞きたくて"];
+	node1 [label="聴いたのではない。"];
+	node0 -> node1;
+}

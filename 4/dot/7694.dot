@@ -1,0 +1,9 @@
+digraph graph7694 {
+	node0 [label="「少し"];
+	node1 [label="大きいのが"];
+	node2 [label="名産たる"];
+	node3 [label="所以かね」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

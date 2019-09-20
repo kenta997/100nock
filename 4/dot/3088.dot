@@ -1,0 +1,5 @@
+digraph graph3088 {
+	node0 [label="「煮て"];
+	node1 [label="喰べます」"];
+	node0 -> node1;
+}

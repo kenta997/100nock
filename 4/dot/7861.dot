@@ -1,0 +1,5 @@
+digraph graph7861 {
+	node0 [label="勝手に"];
+	node1 [label="出てあるくのだ」"];
+	node0 -> node1;
+}

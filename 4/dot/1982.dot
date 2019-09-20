@@ -1,0 +1,25 @@
+digraph graph1982 {
+	node0 [label="この"];
+	node1 [label="作用で"];
+	node2 [label="骨の"];
+	node3 [label="左右が"];
+	node4 [label="削り取られて"];
+	node5 [label="細い"];
+	node6 [label="高い"];
+	node7 [label="隆起と"];
+	node8 [label="変化して参ります——"];
+	node9 [label="実に"];
+	node10 [label="恐ろしい"];
+	node11 [label="作用です。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

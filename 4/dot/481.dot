@@ -1,0 +1,9 @@
+digraph graph481 {
+	node0 [label="人間は"];
+	node1 [label="こう"];
+	node2 [label="自惚れているから"];
+	node3 [label="困る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

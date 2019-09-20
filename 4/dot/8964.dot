@@ -1,0 +1,11 @@
+digraph graph8964 {
+	node0 [label="この"];
+	node1 [label="煙草を"];
+	node2 [label="吸ってると、"];
+	node3 [label="大変信用が"];
+	node4 [label="違います」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

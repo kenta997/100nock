@@ -1,0 +1,31 @@
+digraph graph4124 {
+	node0 [label="とうとう"];
+	node1 [label="四返繰り返したが、"];
+	node2 [label="四返目に"];
+	node3 [label="半分ほど"];
+	node4 [label="巡りかけたら、"];
+	node5 [label="隣の"];
+	node6 [label="屋根から"];
+	node7 [label="烏が"];
+	node8 [label="三羽"];
+	node9 [label="飛んで来て、"];
+	node10 [label="一間ばかり"];
+	node11 [label="向うに"];
+	node12 [label="列を"];
+	node13 [label="正して"];
+	node14 [label="とまった。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

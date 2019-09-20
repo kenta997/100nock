@@ -1,0 +1,5 @@
+digraph graph7240 {
+	node0 [label="「学校の"];
+	node1 [label="事かい」"];
+	node0 -> node1;
+}

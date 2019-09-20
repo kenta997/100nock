@@ -1,0 +1,31 @@
+digraph graph443 {
+	node0 [label="四五日前の"];
+	node1 [label="ことであったが、"];
+	node2 [label="二人の"];
+	node3 [label="小供が"];
+	node4 [label="馬鹿に"];
+	node5 [label="早くから"];
+	node6 [label="眼を"];
+	node7 [label="覚まして、"];
+	node8 [label="まだ"];
+	node9 [label="主人夫婦の"];
+	node10 [label="寝ている"];
+	node11 [label="間に"];
+	node12 [label="対い合うて"];
+	node13 [label="食卓に"];
+	node14 [label="着いた。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

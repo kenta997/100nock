@@ -1,0 +1,7 @@
+digraph graph5242 {
+	node0 [label="いつが"];
+	node1 [label="宜しゅう、"];
+	node2 [label="ございますか」"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,11 @@
+digraph graph6208 {
+	node0 [label="君でなくっちゃ、"];
+	node1 [label="間に合わない」と"];
+	node2 [label="大きな"];
+	node3 [label="声を"];
+	node4 [label="出す。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

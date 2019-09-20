@@ -1,0 +1,13 @@
+digraph graph1078 {
+	node0 [label="いやいや自分が"];
+	node1 [label="下がっては"];
+	node2 [label="命が"];
+	node3 [label="ない、"];
+	node4 [label="危ないから"];
+	node5 [label="よそう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

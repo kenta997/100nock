@@ -1,0 +1,7 @@
+digraph graph1803 {
+	node0 [label="主人にも"];
+	node1 [label="迷亭先生にも"];
+	node2 [label="話せない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

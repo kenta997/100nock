@@ -1,0 +1,37 @@
+digraph graph1858 {
+	node0 [label="」"];
+	node1 [label="「津木ピン助や"];
+	node2 [label="福地キシャゴが"];
+	node3 [label="いるから、"];
+	node4 [label="頼んでから"];
+	node5 [label="かわして"];
+	node6 [label="やろう」"];
+	node7 [label="吾輩は"];
+	node8 [label="金田君の"];
+	node9 [label="生国は"];
+	node10 [label="分らんが、"];
+	node11 [label="妙な"];
+	node12 [label="名前の"];
+	node13 [label="人間ばかり"];
+	node14 [label="揃った"];
+	node15 [label="所だと"];
+	node16 [label="少々"];
+	node17 [label="驚いた。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node17;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

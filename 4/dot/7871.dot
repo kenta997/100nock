@@ -1,0 +1,9 @@
+digraph graph7871 {
+	node0 [label="四六二十四、"];
+	node1 [label="二十五、"];
+	node2 [label="二十六、"];
+	node3 [label="二十七と。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

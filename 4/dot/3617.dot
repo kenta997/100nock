@@ -1,0 +1,11 @@
+digraph graph3617 {
+	node0 [label="「もう少しで"];
+	node1 [label="失恋に"];
+	node2 [label="なるから"];
+	node3 [label="しばらく"];
+	node4 [label="辛抱していらっしゃい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

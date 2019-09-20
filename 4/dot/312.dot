@@ -1,0 +1,23 @@
+digraph graph312 {
+	node0 [label="「なに"];
+	node1 [label="その"];
+	node2 [label="時"];
+	node3 [label="ゃ別の"];
+	node4 [label="本と"];
+	node5 [label="間違えたとか"];
+	node6 [label="何とか"];
+	node7 [label="云うばかりさ」と"];
+	node8 [label="云って"];
+	node9 [label="けらけら"];
+	node10 [label="笑っている。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

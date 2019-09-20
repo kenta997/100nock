@@ -1,0 +1,13 @@
+digraph graph7975 {
+	node0 [label="「そう"];
+	node1 [label="諸君が"];
+	node2 [label="御困り"];
+	node3 [label="とある"];
+	node4 [label="以上は"];
+	node5 [label="仕方がない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

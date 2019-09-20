@@ -1,0 +1,11 @@
+digraph graph2562 {
+	node0 [label="迷亭は"];
+	node1 [label="少しも"];
+	node2 [label="気が付かないから"];
+	node3 [label="平気な"];
+	node4 [label="ものである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

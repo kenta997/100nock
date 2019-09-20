@@ -1,0 +1,9 @@
+digraph graph8490 {
+	node0 [label="せんだっては"];
+	node1 [label="せんだってで"];
+	node2 [label="今日は"];
+	node3 [label="今日だ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

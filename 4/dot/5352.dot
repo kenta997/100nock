@@ -1,0 +1,7 @@
+digraph graph5352 {
+	node0 [label="「何が"];
+	node1 [label="分っ"];
+	node2 [label="たんだい」"];
+	node0 -> node1;
+	node1 -> node2;
+}

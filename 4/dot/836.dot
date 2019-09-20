@@ -1,0 +1,17 @@
+digraph graph836 {
+	node0 [label="「それは"];
+	node1 [label="飛んだ"];
+	node2 [label="事で」と"];
+	node3 [label="主人は"];
+	node4 [label="正月"];
+	node5 [label="早々"];
+	node6 [label="弔詞を"];
+	node7 [label="述べている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,7 @@
+digraph graph7976 {
+	node0 [label="たいていに"];
+	node1 [label="して"];
+	node2 [label="切り上げましょう。"];
+	node0 -> node1;
+	node1 -> node2;
+}

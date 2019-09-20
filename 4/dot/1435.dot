@@ -1,0 +1,31 @@
+digraph graph1435 {
+	node0 [label="王様は"];
+	node1 [label="まだ"];
+	node2 [label="未練が"];
+	node3 [label="あったと"];
+	node4 [label="見えて、"];
+	node5 [label="余った"];
+	node6 [label="三冊を"];
+	node7 [label="いくらで"];
+	node8 [label="売ると"];
+	node9 [label="聞くと、"];
+	node10 [label="やはり"];
+	node11 [label="九冊分の"];
+	node12 [label="ねだんを"];
+	node13 [label="くれと"];
+	node14 [label="云うそうです。"];
+	node0 -> node14;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

@@ -1,0 +1,33 @@
+digraph graph2813 {
+	node0 [label="して"];
+	node1 [label="見ると"];
+	node2 [label="寒月君の"];
+	node3 [label="代りに"];
+	node4 [label="この"];
+	node5 [label="泥棒を"];
+	node6 [label="差し出しても"];
+	node7 [label="必ず"];
+	node8 [label="満身の"];
+	node9 [label="愛を"];
+	node10 [label="捧げて"];
+	node11 [label="琴瑟調和の"];
+	node12 [label="実を"];
+	node13 [label="挙げら"];
+	node14 [label="るるに"];
+	node15 [label="相違ない。"];
+	node0 -> node1;
+	node1 -> node15;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

@@ -1,0 +1,7 @@
+digraph graph3909 {
+	node0 [label="みんな"];
+	node1 [label="健全に"];
+	node2 [label="泳いでいる。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,27 @@
+digraph graph5822 {
+	node0 [label="およそ"];
+	node1 [label="天地の"];
+	node2 [label="間に"];
+	node3 [label="わからん"];
+	node4 [label="ものは"];
+	node5 [label="沢山"];
+	node6 [label="あるが"];
+	node7 [label="意味を"];
+	node8 [label="つけて"];
+	node9 [label="つかない"];
+	node10 [label="ものは"];
+	node11 [label="一つも"];
+	node12 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

@@ -1,0 +1,11 @@
+digraph graph941 {
+	node0 [label="　鵝鳥が"];
+	node1 [label="絞め殺されるような"];
+	node2 [label="声は"];
+	node3 [label="うまい"];
+	node4 [label="形容である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

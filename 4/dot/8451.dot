@@ -1,0 +1,25 @@
+digraph graph8451 {
+	node0 [label="「不用意の"];
+	node1 [label="際に"];
+	node2 [label="人の"];
+	node3 [label="懐中を"];
+	node4 [label="抜くのが"];
+	node5 [label="スリで、"];
+	node6 [label="不用意の"];
+	node7 [label="際に"];
+	node8 [label="人の"];
+	node9 [label="胸中を"];
+	node10 [label="釣るのが"];
+	node11 [label="探偵だ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

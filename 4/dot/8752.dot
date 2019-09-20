@@ -1,0 +1,9 @@
+digraph graph8752 {
+	node0 [label="一家一門ことごとく"];
+	node1 [label="一軒の"];
+	node2 [label="うちに"];
+	node3 [label="ごろごろしている。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

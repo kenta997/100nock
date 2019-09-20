@@ -1,0 +1,9 @@
+digraph graph3860 {
+	node0 [label="肴屋の"];
+	node1 [label="銀さんも"];
+	node2 [label="大和魂を"];
+	node3 [label="有っている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

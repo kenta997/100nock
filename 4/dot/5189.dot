@@ -1,0 +1,19 @@
+digraph graph5189 {
+	node0 [label="仮令"];
+	node1 [label="垣を"];
+	node2 [label="乗り越えるにしても知れないように、"];
+	node3 [label="そっと"];
+	node4 [label="拾って行くなら、"];
+	node5 [label="まだ"];
+	node6 [label="勘弁の"];
+	node7 [label="しようも"];
+	node8 [label="ありますが……」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

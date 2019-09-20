@@ -1,0 +1,11 @@
+digraph graph6947 {
+	node0 [label="どうか"];
+	node1 [label="馬鹿竹に"];
+	node2 [label="なって下さい、と"];
+	node3 [label="云う"];
+	node4 [label="演説なの」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

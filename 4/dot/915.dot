@@ -1,0 +1,13 @@
+digraph graph915 {
+	node0 [label="　それから"];
+	node1 [label="四五日は"];
+	node2 [label="別段の"];
+	node3 [label="事も"];
+	node4 [label="なく"];
+	node5 [label="過ぎ去った。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

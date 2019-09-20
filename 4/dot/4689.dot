@@ -1,0 +1,5 @@
+digraph graph4689 {
+	node0 [label="これぎりの"];
+	node1 [label="話しである。"];
+	node0 -> node1;
+}

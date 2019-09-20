@@ -1,0 +1,29 @@
+digraph graph8121 {
+	node0 [label="顔は"];
+	node1 [label="頭巾で"];
+	node2 [label="かくしてあるから"];
+	node3 [label="分る"];
+	node4 [label="気遣は"];
+	node5 [label="ないのですけれども"];
+	node6 [label="何だか"];
+	node7 [label="気が"];
+	node8 [label="せいて"];
+	node9 [label="一刻も"];
+	node10 [label="早く"];
+	node11 [label="往来へ"];
+	node12 [label="出たくて"];
+	node13 [label="堪りません。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

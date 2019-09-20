@@ -1,0 +1,15 @@
+digraph graph6669 {
+	node0 [label="こんな"];
+	node1 [label="ものが"];
+	node2 [label="一人でも"];
+	node3 [label="殖えれば"];
+	node4 [label="国家は"];
+	node5 [label="それだけ"];
+	node6 [label="衰える訳である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

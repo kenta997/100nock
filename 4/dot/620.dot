@@ -1,0 +1,15 @@
+digraph graph620 {
+	node0 [label="我ながら"];
+	node1 [label="よく"];
+	node2 [label="こんなに"];
+	node3 [label="器用に"];
+	node4 [label="起っていられた"];
+	node5 [label="ものだと"];
+	node6 [label="思う。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,7 @@
+digraph graph6107 {
+	node0 [label="負惜みの"];
+	node1 [label="強い"];
+	node2 [label="男だ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,27 @@
+digraph graph2089 {
+	node0 [label="それは"];
+	node1 [label="追って"];
+	node2 [label="篤と"];
+	node3 [label="考えた"];
+	node4 [label="上、"];
+	node5 [label="猫の"];
+	node6 [label="脳裏を"];
+	node7 [label="残り"];
+	node8 [label="なく"];
+	node9 [label="解剖し得た"];
+	node10 [label="時"];
+	node11 [label="改めて"];
+	node12 [label="御吹聴仕ろう。"];
+	node0 -> node12;
+	node1 -> node12;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

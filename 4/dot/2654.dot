@@ -1,0 +1,25 @@
+digraph graph2654 {
+	node0 [label="鈴木君と"];
+	node1 [label="迷亭君の"];
+	node2 [label="帰った"];
+	node3 [label="あとは"];
+	node4 [label="木枯しの"];
+	node5 [label="はたと"];
+	node6 [label="吹き息んで、"];
+	node7 [label="しんしんと"];
+	node8 [label="降る"];
+	node9 [label="雪の"];
+	node10 [label="夜のごとく"];
+	node11 [label="静かになった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,11 @@
+digraph graph3081 {
+	node0 [label="「しかし"];
+	node1 [label="一番愚なのは"];
+	node2 [label="この"];
+	node3 [label="猫です"];
+	node4 [label="ばい。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

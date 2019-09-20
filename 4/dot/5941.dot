@@ -1,0 +1,11 @@
+digraph graph5941 {
+	node0 [label="「その"];
+	node1 [label="鉄扇は"];
+	node2 [label="大分"];
+	node3 [label="重い"];
+	node4 [label="ものでございましょう」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

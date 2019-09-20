@@ -1,0 +1,13 @@
+digraph graph598 {
+	node0 [label="この"];
+	node1 [label="餅も"];
+	node2 [label="主人と"];
+	node3 [label="同じように"];
+	node4 [label="どうしても"];
+	node5 [label="割り切れない。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

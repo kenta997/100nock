@@ -1,0 +1,5 @@
+digraph graph6112 {
+	node0 [label="「その"];
+	node1 [label="電光さ。"];
+	node0 -> node1;
+}

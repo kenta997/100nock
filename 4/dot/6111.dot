@@ -1,0 +1,15 @@
+digraph graph6111 {
+	node0 [label="「うん電光影裏に"];
+	node1 [label="春風を"];
+	node2 [label="きるとか"];
+	node3 [label="云う"];
+	node4 [label="句を"];
+	node5 [label="教えて"];
+	node6 [label="行ったよ」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

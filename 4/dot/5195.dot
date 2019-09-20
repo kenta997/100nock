@@ -1,0 +1,23 @@
+digraph graph5195 {
+	node0 [label="これを"];
+	node1 [label="許すと"];
+	node2 [label="つい"];
+	node3 [label="御迷惑になるような"];
+	node4 [label="事が"];
+	node5 [label="出来ますが、"];
+	node6 [label="これは"];
+	node7 [label="是非"];
+	node8 [label="御容赦を"];
+	node9 [label="願いたいと"];
+	node10 [label="思います。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

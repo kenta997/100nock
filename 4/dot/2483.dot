@@ -1,0 +1,31 @@
+digraph graph2483 {
+	node0 [label="「曾呂崎が"];
+	node1 [label="電車へ"];
+	node2 [label="乗ったら、"];
+	node3 [label="乗る"];
+	node4 [label="たんびに"];
+	node5 [label="品川まで"];
+	node6 [label="行ってしまうは、"];
+	node7 [label="それより"];
+	node8 [label="やっぱり"];
+	node9 [label="天然居士で"];
+	node10 [label="沢庵石へ"];
+	node11 [label="彫り付けられてる"];
+	node12 [label="方が"];
+	node13 [label="無事で"];
+	node14 [label="いい」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node13;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

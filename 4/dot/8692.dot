@@ -1,0 +1,11 @@
+digraph graph8692 {
+	node0 [label="これからが"];
+	node1 [label="いよいよ"];
+	node2 [label="巧妙なる"];
+	node3 [label="詐偽に"];
+	node4 [label="取りかかるのだぜ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

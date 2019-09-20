@@ -1,0 +1,13 @@
+digraph graph2721 {
+	node0 [label="御高名だけは"];
+	node1 [label="かねて"];
+	node2 [label="承"];
+	node3 [label="わっている"];
+	node4 [label="泥棒陰士ではないか"];
+	node5 [label="知らん。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

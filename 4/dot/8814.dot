@@ -1,0 +1,9 @@
+digraph graph8814 {
+	node0 [label="鴛鴦歌を"];
+	node1 [label="いく篇"];
+	node2 [label="作ったって"];
+	node3 [label="始まらないやね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

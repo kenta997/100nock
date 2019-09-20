@@ -1,0 +1,31 @@
+digraph graph905 {
+	node0 [label="左も"];
+	node1 [label="なくば"];
+	node2 [label="切角の"];
+	node3 [label="大国民も"];
+	node4 [label="近き"];
+	node5 [label="将来に"];
+	node6 [label="於て"];
+	node7 [label="悉く"];
+	node8 [label="大兄の如く"];
+	node9 [label="胃病患者と"];
+	node10 [label="相成る"];
+	node11 [label="事と"];
+	node12 [label="窃かに"];
+	node13 [label="心痛罷りあり"];
+	node14 [label="候……」"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

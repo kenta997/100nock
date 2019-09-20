@@ -1,0 +1,15 @@
+digraph graph3722 {
+	node0 [label="「また"];
+	node1 [label="むずかしい"];
+	node2 [label="名前が"];
+	node3 [label="出て来ましたね」と"];
+	node4 [label="寒月君は"];
+	node5 [label="依然として"];
+	node6 [label="にやにやする。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

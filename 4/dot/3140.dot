@@ -1,0 +1,25 @@
+digraph graph3140 {
+	node0 [label="「実際"];
+	node1 [label="馬鹿気ているな」と"];
+	node2 [label="主人のような"];
+	node3 [label="超然主義の"];
+	node4 [label="人でも"];
+	node5 [label="金銭の"];
+	node6 [label="観念は"];
+	node7 [label="普通の"];
+	node8 [label="人間と"];
+	node9 [label="異なる"];
+	node10 [label="ところは"];
+	node11 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

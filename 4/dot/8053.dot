@@ -1,0 +1,15 @@
+digraph graph8053 {
+	node0 [label="私だって"];
+	node1 [label="ヴァイオリンは"];
+	node2 [label="欲しいに"];
+	node3 [label="相違ないですけれども、"];
+	node4 [label="命は"];
+	node5 [label="これでも"];
+	node6 [label="惜しいですからね。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

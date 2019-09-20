@@ -1,0 +1,21 @@
+digraph graph1969 {
+	node0 [label="ところが"];
+	node1 [label="どうして"];
+	node2 [label="だんだん"];
+	node3 [label="御覧のごとく"];
+	node4 [label="斯様に"];
+	node5 [label="せり出して参ったか」と"];
+	node6 [label="自分の"];
+	node7 [label="鼻を"];
+	node8 [label="抓んで"];
+	node9 [label="見せる。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

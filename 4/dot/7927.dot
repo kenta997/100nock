@@ -1,0 +1,21 @@
+digraph graph7927 {
+	node0 [label="「琳琅※鏘として"];
+	node1 [label="鳴るじゃ"];
+	node2 [label="ないか」と"];
+	node3 [label="むずかしい"];
+	node4 [label="事を"];
+	node5 [label="持ち出したのは"];
+	node6 [label="独仙君であったが、"];
+	node7 [label="誰も"];
+	node8 [label="取り合わなかったのは"];
+	node9 [label="気の毒である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

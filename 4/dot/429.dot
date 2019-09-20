@@ -1,0 +1,23 @@
+digraph graph429 {
+	node0 [label="所々が"];
+	node1 [label="薄くなって"];
+	node2 [label="日に"];
+	node3 [label="透かして"];
+	node4 [label="見ると"];
+	node5 [label="裏から"];
+	node6 [label="つぎを"];
+	node7 [label="当てた"];
+	node8 [label="針の"];
+	node9 [label="目が"];
+	node10 [label="見える。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

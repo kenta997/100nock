@@ -1,0 +1,13 @@
+digraph graph2952 {
+	node0 [label="「うるさい"];
+	node1 [label="女だな、"];
+	node2 [label="意味も"];
+	node3 [label="何にも"];
+	node4 [label="無いと"];
+	node5 [label="云うに」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

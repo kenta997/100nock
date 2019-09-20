@@ -1,0 +1,13 @@
+digraph graph4979 {
+	node0 [label="「生徒たるべき"];
+	node1 [label="ものが、"];
+	node2 [label="何で"];
+	node3 [label="他の"];
+	node4 [label="邸内へ"];
+	node5 [label="侵入するのですか」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

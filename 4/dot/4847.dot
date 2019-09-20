@@ -1,0 +1,33 @@
+digraph graph4847 {
+	node0 [label="逆上とは"];
+	node1 [label="読んで"];
+	node2 [label="字のごとく"];
+	node3 [label="逆かさに"];
+	node4 [label="上るのである、"];
+	node5 [label="この"];
+	node6 [label="点に関しては"];
+	node7 [label="ゲーレンも"];
+	node8 [label="パラセルサスも"];
+	node9 [label="旧弊なる"];
+	node10 [label="扁鵲も"];
+	node11 [label="異議を"];
+	node12 [label="唱うる"];
+	node13 [label="者は"];
+	node14 [label="一人も"];
+	node15 [label="ない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node15;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

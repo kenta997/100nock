@@ -1,0 +1,11 @@
+digraph graph1674 {
+	node0 [label="主人は"];
+	node1 [label="迷亭を"];
+	node2 [label="見てい"];
+	node3 [label="よいよいやな顔を"];
+	node4 [label="する。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

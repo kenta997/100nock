@@ -1,0 +1,27 @@
+digraph graph260 {
+	node0 [label="うちの"];
+	node1 [label="亭主なんか"];
+	node2 [label="己の"];
+	node3 [label="御蔭で"];
+	node4 [label="もう"];
+	node5 [label="壱円五十銭くらい"];
+	node6 [label="儲けて"];
+	node7 [label="いやがる"];
+	node8 [label="癖に、"];
+	node9 [label="碌なものを"];
+	node10 [label="食わせた"];
+	node11 [label="事も"];
+	node12 [label="ありゃしねえ。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

@@ -1,0 +1,31 @@
+digraph graph5534 {
+	node0 [label="心さえ"];
+	node1 [label="自由にする"];
+	node2 [label="修業を"];
+	node3 [label="したら、"];
+	node4 [label="落雲館の"];
+	node5 [label="生徒が"];
+	node6 [label="いくら"];
+	node7 [label="騒いでも"];
+	node8 [label="平気な"];
+	node9 [label="ものではないか、"];
+	node10 [label="今戸焼の"];
+	node11 [label="狸でも"];
+	node12 [label="構わんで"];
+	node13 [label="おられそうな"];
+	node14 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node14;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

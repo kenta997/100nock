@@ -1,0 +1,9 @@
+digraph graph8698 {
+	node0 [label="短かくも"];
+	node1 [label="あり、"];
+	node2 [label="短か"];
+	node3 [label="くもなしだ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

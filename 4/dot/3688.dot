@@ -1,0 +1,27 @@
+digraph graph3688 {
+	node0 [label="僕等が"];
+	node1 [label="ちょうど"];
+	node2 [label="二丁目の"];
+	node3 [label="角へ"];
+	node4 [label="来ると、"];
+	node5 [label="伊勢源と"];
+	node6 [label="云う"];
+	node7 [label="呉服屋の"];
+	node8 [label="前で"];
+	node9 [label="その"];
+	node10 [label="男に"];
+	node11 [label="出っ"];
+	node12 [label="食わした。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

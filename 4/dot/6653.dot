@@ -1,0 +1,13 @@
+digraph graph6653 {
+	node0 [label="大人ですら"];
+	node1 [label="注意しないと"];
+	node2 [label="火傷を"];
+	node3 [label="したような"];
+	node4 [label="心持ちが"];
+	node5 [label="する。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

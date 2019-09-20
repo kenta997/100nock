@@ -1,0 +1,7 @@
+digraph graph4452 {
+	node0 [label="番頭さんは"];
+	node1 [label="「おーい」と"];
+	node2 [label="答えた。"];
+	node0 -> node2;
+	node1 -> node2;
+}

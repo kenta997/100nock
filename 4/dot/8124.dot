@@ -1,0 +1,31 @@
+digraph graph8124 {
+	node0 [label="こいつは"];
+	node1 [label="大変だと"];
+	node2 [label="金善の"];
+	node3 [label="角を"];
+	node4 [label="西へ"];
+	node5 [label="折れて"];
+	node6 [label="濠端を"];
+	node7 [label="薬王師道へ"];
+	node8 [label="出て、"];
+	node9 [label="はんの"];
+	node10 [label="木村から"];
+	node11 [label="庚申山の"];
+	node12 [label="裾へ"];
+	node13 [label="出てようやく下宿へ"];
+	node14 [label="帰りました。"];
+	node0 -> node1;
+	node1 -> node14;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node14;
+	node7 -> node14;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

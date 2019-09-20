@@ -1,0 +1,21 @@
+digraph graph6433 {
+	node0 [label="聾では"];
+	node1 [label="下女が"];
+	node2 [label="勤まる"];
+	node3 [label="訳が"];
+	node4 [label="ないが、"];
+	node5 [label="ことに"];
+	node6 [label="よると"];
+	node7 [label="猫の"];
+	node8 [label="声だけには"];
+	node9 [label="聾なのだろう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

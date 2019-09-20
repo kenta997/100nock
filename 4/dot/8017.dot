@@ -1,0 +1,21 @@
+digraph graph8017 {
+	node0 [label="振り向いて"];
+	node1 [label="見ると"];
+	node2 [label="東嶺寺の"];
+	node3 [label="森が"];
+	node4 [label="こんもりと"];
+	node5 [label="黒く、"];
+	node6 [label="暗い"];
+	node7 [label="中に"];
+	node8 [label="暗く"];
+	node9 [label="写っています。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

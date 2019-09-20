@@ -1,0 +1,11 @@
+digraph graph3892 {
+	node0 [label="　"];
+	node1 [label="吾輩は"];
+	node2 [label="近頃"];
+	node3 [label="運動を"];
+	node4 [label="始めた。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

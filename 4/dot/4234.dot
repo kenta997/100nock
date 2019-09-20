@@ -1,0 +1,33 @@
+digraph graph4234 {
+	node0 [label="さて"];
+	node1 [label="忍び込んで"];
+	node2 [label="見ると、"];
+	node3 [label="左の"];
+	node4 [label="方に"];
+	node5 [label="松を"];
+	node6 [label="割って"];
+	node7 [label="八寸くらいに"];
+	node8 [label="したのが"];
+	node9 [label="山のように"];
+	node10 [label="積んであって、"];
+	node11 [label="その"];
+	node12 [label="隣りには"];
+	node13 [label="石炭が"];
+	node14 [label="岡のように"];
+	node15 [label="盛ってある。"];
+	node0 -> node15;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

@@ -1,0 +1,23 @@
+digraph graph163 {
+	node0 [label="吾輩は"];
+	node1 [label="波斯産の"];
+	node2 [label="猫のごとく"];
+	node3 [label="黄を"];
+	node4 [label="含める"];
+	node5 [label="淡"];
+	node6 [label="灰色に"];
+	node7 [label="漆のごとき"];
+	node8 [label="斑入りの"];
+	node9 [label="皮膚を"];
+	node10 [label="有している。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

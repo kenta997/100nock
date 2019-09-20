@@ -1,0 +1,5 @@
+digraph graph2159 {
+	node0 [label="一体どうした"];
+	node1 [label="訳なんでしょう」"];
+	node0 -> node1;
+}

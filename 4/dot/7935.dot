@@ -1,0 +1,27 @@
+digraph graph7935 {
+	node0 [label="音楽会などへ"];
+	node1 [label="行って"];
+	node2 [label="出来るだけ"];
+	node3 [label="熱心に"];
+	node4 [label="聞いているが、"];
+	node5 [label="どうも"];
+	node6 [label="それほどに"];
+	node7 [label="感興が"];
+	node8 [label="乗らない」と"];
+	node9 [label="東風君は"];
+	node10 [label="しきりに"];
+	node11 [label="羨"];
+	node12 [label="やましがっている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

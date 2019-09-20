@@ -1,0 +1,5 @@
+digraph graph9030 {
+	node0 [label="年も"];
+	node1 [label="若いです。"];
+	node0 -> node1;
+}

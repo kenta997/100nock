@@ -1,0 +1,7 @@
+digraph graph7005 {
+	node0 [label="愛がなければ夫婦の"];
+	node1 [label="関係は"];
+	node2 [label="成立しやしないわ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

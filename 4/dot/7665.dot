@@ -1,0 +1,7 @@
+digraph graph7665 {
+	node0 [label="「知らなくってもいいから、"];
+	node1 [label="ちょっと"];
+	node2 [label="どけたまえ」"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,11 @@
+digraph graph2194 {
+	node0 [label="あ、"];
+	node1 [label="そうそうそれで"];
+	node2 [label="分らなければ、"];
+	node3 [label="好い事が"];
+	node4 [label="ある。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,21 @@
+digraph graph5038 {
+	node0 [label="ある"];
+	node1 [label="人の"];
+	node2 [label="説に"];
+	node3 [label="よると"];
+	node4 [label="これは"];
+	node5 [label="ベースボールの"];
+	node6 [label="練習であって、"];
+	node7 [label="決して"];
+	node8 [label="戦闘準備ではない"];
+	node9 [label="そうだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

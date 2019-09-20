@@ -1,0 +1,13 @@
+digraph graph579 {
+	node0 [label="小供は"];
+	node1 [label="奥座敷で"];
+	node2 [label="「何と"];
+	node3 [label="おっしゃる"];
+	node4 [label="兎さん」を"];
+	node5 [label="歌っている。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

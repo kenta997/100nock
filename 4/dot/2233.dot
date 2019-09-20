@@ -1,0 +1,13 @@
+digraph graph2233 {
+	node0 [label="この"];
+	node1 [label="度は"];
+	node2 [label="観音様の"];
+	node3 [label="鳩の"];
+	node4 [label="事を"];
+	node5 [label="思い出す。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,11 @@
+digraph graph7745 {
+	node0 [label="「そんな"];
+	node1 [label="碁が"];
+	node2 [label="ある"];
+	node3 [label="ものかなら"];
+	node4 [label="打ちましょう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

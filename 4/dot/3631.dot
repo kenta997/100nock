@@ -1,0 +1,27 @@
+digraph graph3631 {
+	node0 [label="ところが"];
+	node1 [label="翌朝は"];
+	node2 [label="丸薬缶さ」"];
+	node3 [label="「人を"];
+	node4 [label="馬鹿にして"];
+	node5 [label="いら"];
+	node6 [label="あ」と"];
+	node7 [label="主人は"];
+	node8 [label="例によって"];
+	node9 [label="天井の"];
+	node10 [label="方へ"];
+	node11 [label="視線を"];
+	node12 [label="そらす。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

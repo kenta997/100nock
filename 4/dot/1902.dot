@@ -1,0 +1,11 @@
+digraph graph1902 {
+	node0 [label="足元で"];
+	node1 [label="狆が"];
+	node2 [label="驚ろいて"];
+	node3 [label="急に"];
+	node4 [label="吠え出す。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

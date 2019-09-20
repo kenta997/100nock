@@ -1,0 +1,33 @@
+digraph graph2758 {
+	node0 [label="もう"];
+	node1 [label="我慢出来んから"];
+	node2 [label="行李の"];
+	node3 [label="影から"];
+	node4 [label="飛出そうと"];
+	node5 [label="決心した"];
+	node6 [label="時、"];
+	node7 [label="寝室の"];
+	node8 [label="障子が"];
+	node9 [label="スーと"];
+	node10 [label="明いて"];
+	node11 [label="待ち兼ねた"];
+	node12 [label="陰士が"];
+	node13 [label="ついに"];
+	node14 [label="眼前に"];
+	node15 [label="あらわれた。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

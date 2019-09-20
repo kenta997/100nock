@@ -1,0 +1,5 @@
+digraph graph6352 {
+	node0 [label="これも"];
+	node1 [label="棒組だ。"];
+	node0 -> node1;
+}

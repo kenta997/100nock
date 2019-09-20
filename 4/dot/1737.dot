@@ -1,0 +1,23 @@
+digraph graph1737 {
+	node0 [label="あしたから"];
+	node1 [label="迷亭の"];
+	node2 [label="着ているような"];
+	node3 [label="奴を"];
+	node4 [label="着るから"];
+	node5 [label="出しておけ」"];
+	node6 [label="「出しておけって、"];
+	node7 [label="あんな"];
+	node8 [label="立派な"];
+	node9 [label="御召は"];
+	node10 [label="ござんせんわ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

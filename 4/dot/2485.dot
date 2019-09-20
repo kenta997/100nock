@@ -1,0 +1,25 @@
+digraph graph2485 {
+	node0 [label="気の毒だねえ、"];
+	node1 [label="いい"];
+	node2 [label="頭の"];
+	node3 [label="男だったが"];
+	node4 [label="惜しい"];
+	node5 [label="事を"];
+	node6 [label="した」と"];
+	node7 [label="鈴木君が"];
+	node8 [label="云うと、"];
+	node9 [label="迷亭は"];
+	node10 [label="直ちに"];
+	node11 [label="引き受けて"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,11 @@
+digraph graph834 {
+	node0 [label="主人は"];
+	node1 [label="いよいよ"];
+	node2 [label="柔かに"];
+	node3 [label="頭を"];
+	node4 [label="撫でてくれる。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

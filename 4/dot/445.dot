@@ -1,0 +1,33 @@
+digraph graph445 {
+	node0 [label="いつものように砂糖を"];
+	node1 [label="分配してくれる"];
+	node2 [label="ものが"];
+	node3 [label="ないので、"];
+	node4 [label="大きい"];
+	node5 [label="方が"];
+	node6 [label="やがて"];
+	node7 [label="壺の"];
+	node8 [label="中から"];
+	node9 [label="一匙の"];
+	node10 [label="砂糖を"];
+	node11 [label="すくい出して"];
+	node12 [label="自分の"];
+	node13 [label="皿の"];
+	node14 [label="上へ"];
+	node15 [label="あけた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

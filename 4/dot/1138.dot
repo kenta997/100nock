@@ -1,0 +1,23 @@
+digraph graph1138 {
+	node0 [label="ここだと"];
+	node1 [label="思って"];
+	node2 [label="力を"];
+	node3 [label="込めて"];
+	node4 [label="一反"];
+	node5 [label="飛び上がっておいて、そして"];
+	node6 [label="小石か"];
+	node7 [label="何ぞのように"];
+	node8 [label="未練"];
+	node9 [label="なく"];
+	node10 [label="落ちてしまいました」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

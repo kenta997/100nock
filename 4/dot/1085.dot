@@ -1,0 +1,23 @@
+digraph graph1085 {
+	node0 [label="是非"];
+	node1 [label="やる"];
+	node2 [label="事に"];
+	node3 [label="しようと"];
+	node4 [label="思ったが、"];
+	node5 [label="もし"];
+	node6 [label="東風が"];
+	node7 [label="来て"];
+	node8 [label="待っていると"];
+	node9 [label="気の毒だと"];
+	node10 [label="考え出した。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

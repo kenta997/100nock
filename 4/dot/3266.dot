@@ -1,0 +1,9 @@
+digraph graph3266 {
+	node0 [label="まず"];
+	node1 [label="世間を"];
+	node2 [label="見渡して"];
+	node3 [label="見給え。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

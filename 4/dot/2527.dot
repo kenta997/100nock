@@ -1,0 +1,23 @@
+digraph graph2527 {
+	node0 [label="吾輩は"];
+	node1 [label="ほかに"];
+	node2 [label="能は"];
+	node3 [label="ないが"];
+	node4 [label="意志だけは"];
+	node5 [label="決して"];
+	node6 [label="君方に"];
+	node7 [label="負けは"];
+	node8 [label="せんと"];
+	node9 [label="剛情を"];
+	node10 [label="張るのさ」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node10;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

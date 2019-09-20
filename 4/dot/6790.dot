@@ -1,0 +1,9 @@
+digraph graph6790 {
+	node0 [label="「八木さんは"];
+	node1 [label="雪江さんの"];
+	node2 [label="学校の"];
+	node3 [label="先生なの」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,9 @@
+digraph graph9000 {
+	node0 [label="しかし"];
+	node1 [label="シャンパンくらいじゃ"];
+	node2 [label="承知しそうもない"];
+	node3 [label="男だ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

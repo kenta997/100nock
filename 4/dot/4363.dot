@@ -1,0 +1,15 @@
+digraph graph4363 {
+	node0 [label="すると、"];
+	node1 [label="からだに"];
+	node2 [label="付いていた"];
+	node3 [label="石鹸が"];
+	node4 [label="垢と共に"];
+	node5 [label="浮き"];
+	node6 [label="あがる。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

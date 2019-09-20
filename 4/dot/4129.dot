@@ -1,0 +1,11 @@
+digraph graph4129 {
+	node0 [label="三羽目は"];
+	node1 [label="嘴を"];
+	node2 [label="垣根の"];
+	node3 [label="竹で"];
+	node4 [label="拭いている。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

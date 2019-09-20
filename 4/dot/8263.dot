@@ -1,0 +1,7 @@
+digraph graph8263 {
+	node0 [label="「そんなのが"];
+	node1 [label="江戸趣味と"];
+	node2 [label="云うのでしょうか」"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,9 @@
+digraph graph5857 {
+	node0 [label="主人も"];
+	node1 [label="主人だが"];
+	node2 [label="客も"];
+	node3 [label="客だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,9 @@
+digraph graph3508 {
+	node0 [label="「奥さんこれが"];
+	node1 [label="僕の"];
+	node2 [label="自弁の"];
+	node3 [label="御馳走ですよ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,5 @@
+digraph graph3401 {
+	node0 [label="迷亭に"];
+	node1 [label="極っている。"];
+	node0 -> node1;
+}

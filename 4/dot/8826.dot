@@ -1,0 +1,37 @@
+digraph graph8826 {
+	node0 [label="そうだろう"];
+	node1 [label="君の"];
+	node2 [label="かいた"];
+	node3 [label="ものは"];
+	node4 [label="僕に"];
+	node5 [label="わからなくなる、"];
+	node6 [label="僕の"];
+	node7 [label="かいた"];
+	node8 [label="ものは"];
+	node9 [label="君に"];
+	node10 [label="わからなくなった"];
+	node11 [label="日"];
+	node12 [label="にゃ、"];
+	node13 [label="君と僕の"];
+	node14 [label="間には"];
+	node15 [label="芸術も"];
+	node16 [label="糞も"];
+	node17 [label="ないじゃないか」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node17;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node17;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node17;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

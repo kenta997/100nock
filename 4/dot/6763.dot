@@ -1,0 +1,7 @@
+digraph graph6763 {
+	node0 [label="誓って"];
+	node1 [label="死なないって"];
+	node2 [label="威張るの」"];
+	node0 -> node1;
+	node1 -> node2;
+}

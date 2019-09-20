@@ -1,0 +1,5 @@
+digraph graph7198 {
+	node0 [label="厄介な"];
+	node1 [label="毬栗坊主だ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,27 @@
+digraph graph6415 {
+	node0 [label="思うに"];
+	node1 [label="この"];
+	node2 [label="両者の"];
+	node3 [label="関係は"];
+	node4 [label="形式論理学の"];
+	node5 [label="命題における"];
+	node6 [label="名辞のごとく"];
+	node7 [label="その"];
+	node8 [label="内容の"];
+	node9 [label="いかんに"];
+	node10 [label="かかわらず"];
+	node11 [label="結合せられた"];
+	node12 [label="ものであろう。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

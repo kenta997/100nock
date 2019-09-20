@@ -1,0 +1,15 @@
+digraph graph8820 {
+	node0 [label="現に"];
+	node1 [label="今でも"];
+	node2 [label="英国などでは"];
+	node3 [label="この"];
+	node4 [label="傾向が"];
+	node5 [label="ちゃんと"];
+	node6 [label="あらわれている。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

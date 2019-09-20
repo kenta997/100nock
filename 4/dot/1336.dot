@@ -1,0 +1,11 @@
+digraph graph1336 {
+	node0 [label="筆は"];
+	node1 [label="それだけで"];
+	node2 [label="はたと"];
+	node3 [label="留った"];
+	node4 [label="ぎり動かない。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

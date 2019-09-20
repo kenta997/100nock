@@ -1,0 +1,13 @@
+digraph graph4039 {
+	node0 [label="逃げるのは"];
+	node1 [label="仕方がないから、"];
+	node2 [label="どうか"];
+	node3 [label="小便ばかりは"];
+	node4 [label="垂れんように"];
+	node5 [label="致したい。"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

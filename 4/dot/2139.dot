@@ -1,0 +1,17 @@
+digraph graph2139 {
+	node0 [label="「そりゃ、"];
+	node1 [label="ひどい」と"];
+	node2 [label="御客さんも"];
+	node3 [label="今度は"];
+	node4 [label="本気に"];
+	node5 [label="苛"];
+	node6 [label="いと"];
+	node7 [label="感じたらしい。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

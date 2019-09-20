@@ -1,0 +1,33 @@
+digraph graph4043 {
+	node0 [label="そうすると"];
+	node1 [label="烏賊の"];
+	node2 [label="墨を"];
+	node3 [label="吐き、"];
+	node4 [label="ベランメーの"];
+	node5 [label="刺物を"];
+	node6 [label="見せ、"];
+	node7 [label="主人が"];
+	node8 [label="羅甸語を"];
+	node9 [label="弄する"];
+	node10 [label="類と"];
+	node11 [label="同じ"];
+	node12 [label="綱目に"];
+	node13 [label="入るべき"];
+	node14 [label="事項と"];
+	node15 [label="なる。"];
+	node0 -> node15;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

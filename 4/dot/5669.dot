@@ -1,0 +1,21 @@
+digraph graph5669 {
+	node0 [label="ついで"];
+	node1 [label="だから"];
+	node2 [label="御三の"];
+	node3 [label="顔を"];
+	node4 [label="ちょっと"];
+	node5 [label="紹介するが、"];
+	node6 [label="それは"];
+	node7 [label="それは"];
+	node8 [label="ふくれた"];
+	node9 [label="ものである。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

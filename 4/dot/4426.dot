@@ -1,0 +1,9 @@
+digraph graph4426 {
+	node0 [label="「鉄砲は"];
+	node1 [label="外国から"];
+	node2 [label="渡った"];
+	node3 [label="もんだね。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

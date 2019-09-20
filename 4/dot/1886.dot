@@ -1,0 +1,7 @@
+digraph graph1886 {
+	node0 [label="——"];
+	node1 [label="お前は"];
+	node2 [label="失敬だよ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

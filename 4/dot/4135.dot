@@ -1,0 +1,13 @@
+digraph graph4135 {
+	node0 [label="すると"];
+	node1 [label="真先の"];
+	node2 [label="勘左衛門が"];
+	node3 [label="ちょいと"];
+	node4 [label="羽を"];
+	node5 [label="広げた。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

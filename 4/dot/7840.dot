@@ -1,0 +1,15 @@
+digraph graph7840 {
+	node0 [label="元来"];
+	node1 [label="何だって、"];
+	node2 [label="紺の"];
+	node3 [label="無地の"];
+	node4 [label="袴なんぞ"];
+	node5 [label="穿くん"];
+	node6 [label="だい。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,15 @@
+digraph graph721 {
+	node0 [label="不相変元気が"];
+	node1 [label="いいね」と"];
+	node2 [label="尻尾を"];
+	node3 [label="立てて"];
+	node4 [label="左へ"];
+	node5 [label="くるりと"];
+	node6 [label="廻わす。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

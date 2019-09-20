@@ -1,0 +1,15 @@
+digraph graph403 {
+	node0 [label="「ええ実は"];
+	node1 [label="ある"];
+	node2 [label="所で"];
+	node3 [label="椎茸を"];
+	node4 [label="食いましてね」"];
+	node5 [label="「何を"];
+	node6 [label="食ったって？"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

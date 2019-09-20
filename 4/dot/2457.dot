@@ -1,0 +1,15 @@
+digraph graph2457 {
+	node0 [label="何でも"];
+	node1 [label="苦沙弥の"];
+	node2 [label="うちへは"];
+	node3 [label="十年に"];
+	node4 [label="一遍くらい"];
+	node5 [label="くるに"];
+	node6 [label="限る。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

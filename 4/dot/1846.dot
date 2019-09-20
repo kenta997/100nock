@@ -1,0 +1,11 @@
+digraph graph1846 {
+	node0 [label="なるべく"];
+	node1 [label="尻尾の"];
+	node2 [label="方を"];
+	node3 [label="見て"];
+	node4 [label="三拝しなければならん。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

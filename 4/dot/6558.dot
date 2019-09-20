@@ -1,0 +1,15 @@
+digraph graph6558 {
+	node0 [label="逆か"];
+	node1 [label="立ちでは"];
+	node2 [label="そう"];
+	node3 [label="長く"];
+	node4 [label="続く"];
+	node5 [label="気遣は"];
+	node6 [label="ない。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

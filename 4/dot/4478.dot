@@ -1,0 +1,21 @@
+digraph graph4478 {
+	node0 [label="万人の"];
+	node1 [label="うちに"];
+	node2 [label="一人くらいは"];
+	node3 [label="高山彦九郎が"];
+	node4 [label="山賊を"];
+	node5 [label="叱"];
+	node6 [label="したようだ"];
+	node7 [label="くらいに"];
+	node8 [label="解釈してくれるかも"];
+	node9 [label="知れん。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node9;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

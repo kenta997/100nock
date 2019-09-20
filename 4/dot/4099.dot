@@ -1,0 +1,5 @@
+digraph graph4099 {
+	node0 [label="これ即ち"];
+	node1 [label="降りるのである。"];
+	node0 -> node1;
+}

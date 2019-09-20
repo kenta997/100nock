@@ -1,0 +1,15 @@
+digraph graph3816 {
+	node0 [label="東風君、"];
+	node1 [label="思い切って"];
+	node2 [label="富子嬢に"];
+	node3 [label="捧げたのは"];
+	node4 [label="えらい」と"];
+	node5 [label="しきりに"];
+	node6 [label="賞める。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

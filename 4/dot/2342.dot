@@ -1,0 +1,29 @@
+digraph graph2342 {
+	node0 [label="「馬鹿じゃない、"];
+	node1 [label="なかなか"];
+	node2 [label="利口な"];
+	node3 [label="男なんだよ、"];
+	node4 [label="実業界で"];
+	node5 [label="ちょっと"];
+	node6 [label="有名だがね、"];
+	node7 [label="君"];
+	node8 [label="知らんかしら、"];
+	node9 [label="つい"];
+	node10 [label="この"];
+	node11 [label="先の"];
+	node12 [label="横丁に"];
+	node13 [label="いるんだが」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

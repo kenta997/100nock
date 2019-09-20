@@ -1,0 +1,15 @@
+digraph graph2677 {
+	node0 [label="毎夜"];
+	node1 [label="読まない"];
+	node2 [label="本を"];
+	node3 [label="ご苦労"];
+	node4 [label="千万にも"];
+	node5 [label="寝室まで"];
+	node6 [label="運んでくる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

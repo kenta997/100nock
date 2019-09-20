@@ -1,0 +1,21 @@
+digraph graph4067 {
+	node0 [label="この"];
+	node1 [label="時"];
+	node2 [label="つくつく君は"];
+	node3 [label="悲鳴を"];
+	node4 [label="揚げて、"];
+	node5 [label="薄い"];
+	node6 [label="透明な"];
+	node7 [label="羽根を"];
+	node8 [label="縦横無尽に"];
+	node9 [label="振う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

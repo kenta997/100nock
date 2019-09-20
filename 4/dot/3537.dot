@@ -1,0 +1,21 @@
+digraph graph3537 {
+	node0 [label="山葵が"];
+	node1 [label="利いた"];
+	node2 [label="ものか、"];
+	node3 [label="飲み込むのに"];
+	node4 [label="骨が"];
+	node5 [label="折れた"];
+	node6 [label="ものか"];
+	node7 [label="これは"];
+	node8 [label="いまだに"];
+	node9 [label="判然しない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

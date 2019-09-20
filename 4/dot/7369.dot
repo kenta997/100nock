@@ -1,0 +1,21 @@
+digraph graph7369 {
+	node0 [label="冷淡は"];
+	node1 [label="人間の"];
+	node2 [label="本来の"];
+	node3 [label="性質であって、"];
+	node4 [label="その"];
+	node5 [label="性質を"];
+	node6 [label="かくそうと"];
+	node7 [label="力めないのは"];
+	node8 [label="正直な"];
+	node9 [label="人である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

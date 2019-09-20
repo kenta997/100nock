@@ -1,0 +1,9 @@
+digraph graph7249 {
+	node0 [label="主人も"];
+	node1 [label="少々"];
+	node2 [label="不審に"];
+	node3 [label="思った。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

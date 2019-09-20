@@ -1,0 +1,13 @@
+digraph graph655 {
+	node0 [label="その"];
+	node1 [label="背中の"];
+	node2 [label="丸さ加減が"];
+	node3 [label="言うに"];
+	node4 [label="言われんほど"];
+	node5 [label="美しい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,15 @@
+digraph graph2424 {
+	node0 [label="寒月だって"];
+	node1 [label="えらいかも知れんが"];
+	node2 [label="身分から"];
+	node3 [label="云や——いや"];
+	node4 [label="身分と"];
+	node5 [label="云っちゃ"];
+	node6 [label="失礼かも知れない。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

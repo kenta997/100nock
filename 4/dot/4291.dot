@@ -1,0 +1,31 @@
+digraph graph4291 {
+	node0 [label="それほど"];
+	node1 [label="裸体が"];
+	node2 [label="いい"];
+	node3 [label="ものなら"];
+	node4 [label="娘を"];
+	node5 [label="裸体に"];
+	node6 [label="して、"];
+	node7 [label="ついでに"];
+	node8 [label="自分も"];
+	node9 [label="裸に"];
+	node10 [label="なって"];
+	node11 [label="上野公園を"];
+	node12 [label="散歩でも"];
+	node13 [label="するがいい、"];
+	node14 [label="できない？"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

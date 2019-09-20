@@ -1,0 +1,7 @@
+digraph graph7477 {
+	node0 [label="「先生障子を"];
+	node1 [label="張り"];
+	node2 [label="易えましたね。"];
+	node0 -> node1;
+	node1 -> node2;
+}

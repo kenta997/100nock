@@ -1,0 +1,5 @@
+digraph graph6769 {
+	node0 [label="「ある"];
+	node1 [label="もんですか。"];
+	node0 -> node1;
+}

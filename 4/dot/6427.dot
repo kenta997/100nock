@@ -1,0 +1,11 @@
+digraph graph6427 {
+	node0 [label="御三は"];
+	node1 [label="いっこう"];
+	node2 [label="顧みる"];
+	node3 [label="景色が"];
+	node4 [label="ない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

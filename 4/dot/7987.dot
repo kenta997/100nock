@@ -1,0 +1,9 @@
+digraph graph7987 {
+	node0 [label="寒月君も"];
+	node1 [label="落ちつき"];
+	node2 [label="払った"];
+	node3 [label="もので"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,5 @@
+digraph graph9040 {
+	node0 [label="「何だ"];
+	node1 [label="いそのビールは」"];
+	node0 -> node1;
+}

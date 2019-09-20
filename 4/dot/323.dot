@@ -1,0 +1,27 @@
+digraph graph323 {
+	node0 [label="ことに"];
+	node1 [label="著"];
+	node2 [label="るしく"];
+	node3 [label="吾輩の"];
+	node4 [label="注意を"];
+	node5 [label="惹いたのは"];
+	node6 [label="彼の"];
+	node7 [label="元気の"];
+	node8 [label="消沈と"];
+	node9 [label="その"];
+	node10 [label="体格の"];
+	node11 [label="悪くなった"];
+	node12 [label="事である。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

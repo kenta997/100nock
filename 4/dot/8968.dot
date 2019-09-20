@@ -1,0 +1,5 @@
+digraph graph8968 {
+	node0 [label="博士にゃ、"];
+	node1 [label="とうとうならんですか。"];
+	node0 -> node1;
+}

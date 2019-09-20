@@ -1,0 +1,21 @@
+digraph graph8763 {
+	node0 [label="昔しなら"];
+	node1 [label="文句は"];
+	node2 [label="ないさ、"];
+	node3 [label="異体同心とか"];
+	node4 [label="云って、"];
+	node5 [label="目には"];
+	node6 [label="夫婦二人に"];
+	node7 [label="見えるが、"];
+	node8 [label="内実は"];
+	node9 [label="一人前なんだからね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

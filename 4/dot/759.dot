@@ -1,0 +1,25 @@
+digraph graph759 {
+	node0 [label="吾輩が"];
+	node1 [label="驚ろいて、"];
+	node2 [label="からだの"];
+	node3 [label="泥を"];
+	node4 [label="払っている"];
+	node5 [label="間に"];
+	node6 [label="黒は"];
+	node7 [label="垣根を"];
+	node8 [label="潜って、"];
+	node9 [label="どこかへ"];
+	node10 [label="姿を"];
+	node11 [label="隠した。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

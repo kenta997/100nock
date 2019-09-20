@@ -1,0 +1,21 @@
+digraph graph6345 {
+	node0 [label="気狂を"];
+	node1 [label="標準に"];
+	node2 [label="して"];
+	node3 [label="自分を"];
+	node4 [label="そっちへ"];
+	node5 [label="引きつけて"];
+	node6 [label="解釈するから"];
+	node7 [label="こんな"];
+	node8 [label="結論が"];
+	node9 [label="出るのである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

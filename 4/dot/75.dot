@@ -1,0 +1,11 @@
+digraph graph75 {
+	node0 [label="大飯を"];
+	node1 [label="食った"];
+	node2 [label="後で"];
+	node3 [label="タカジヤスターゼを"];
+	node4 [label="飲む。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

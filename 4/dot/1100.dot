@@ -1,0 +1,23 @@
+digraph graph1100 {
+	node0 [label="　寒月は"];
+	node1 [label="火鉢の"];
+	node2 [label="灰を"];
+	node3 [label="丁寧に"];
+	node4 [label="掻き馴らして、"];
+	node5 [label="俯向いて"];
+	node6 [label="にやにや"];
+	node7 [label="笑っていたが、"];
+	node8 [label="やがて"];
+	node9 [label="口を"];
+	node10 [label="開く。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

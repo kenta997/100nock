@@ -1,0 +1,7 @@
+digraph graph2432 {
+	node0 [label="全く迷亭君が"];
+	node1 [label="わるかった"];
+	node2 [label="んだろう。"];
+	node0 -> node1;
+	node1 -> node2;
+}

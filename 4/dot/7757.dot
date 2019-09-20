@@ -1,0 +1,13 @@
+digraph graph7757 {
+	node0 [label="仕方がないから、"];
+	node1 [label="ここへ"];
+	node2 [label="一目"];
+	node3 [label="入れて"];
+	node4 [label="目に"];
+	node5 [label="しておこう」"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

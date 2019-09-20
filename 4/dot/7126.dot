@@ -1,0 +1,9 @@
+digraph graph7126 {
+	node0 [label="「分らん"];
+	node1 [label="事を"];
+	node2 [label="言う"];
+	node3 [label="奴だな。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

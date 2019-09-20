@@ -1,0 +1,21 @@
+digraph graph8168 {
+	node0 [label="「だって"];
+	node1 [label="君は"];
+	node2 [label="平生羅甸語が"];
+	node3 [label="読めると"];
+	node4 [label="云ってるじゃないか」と"];
+	node5 [label="迷亭君も"];
+	node6 [label="危険だと"];
+	node7 [label="見て取って、"];
+	node8 [label="ちょっと"];
+	node9 [label="逃げた。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

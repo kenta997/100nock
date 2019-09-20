@@ -1,0 +1,13 @@
+digraph graph5337 {
+	node0 [label="「あるの"];
+	node1 [label="ないのって、"];
+	node2 [label="朝から"];
+	node3 [label="晩まで"];
+	node4 [label="癪に"];
+	node5 [label="障り続けだ」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

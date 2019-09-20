@@ -1,0 +1,27 @@
+digraph graph236 {
+	node0 [label="けれども"];
+	node1 [label="事実は"];
+	node2 [label="事実で"];
+	node3 [label="詐る"];
+	node4 [label="訳には"];
+	node5 [label="行かないから、"];
+	node6 [label="吾輩は"];
+	node7 [label="「実は"];
+	node8 [label="とろうとろうと"];
+	node9 [label="思って"];
+	node10 [label="まだ"];
+	node11 [label="捕らない」と"];
+	node12 [label="答えた。"];
+	node0 -> node12;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node12;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

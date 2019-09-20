@@ -1,0 +1,31 @@
+digraph graph2069 {
+	node0 [label="強勢は"];
+	node1 [label="権利なりとの"];
+	node2 [label="格言さえ"];
+	node3 [label="ある"];
+	node4 [label="この"];
+	node5 [label="浮世に"];
+	node6 [label="存在する"];
+	node7 [label="以上は、"];
+	node8 [label="いかに"];
+	node9 [label="こっちに"];
+	node10 [label="道理が"];
+	node11 [label="あっても"];
+	node12 [label="猫の"];
+	node13 [label="議論は"];
+	node14 [label="通らない。"];
+	node0 -> node14;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

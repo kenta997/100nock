@@ -1,0 +1,11 @@
+digraph graph2144 {
+	node0 [label="「そこで"];
+	node1 [label="ちょっと"];
+	node2 [label="君を"];
+	node3 [label="煩わしたいと"];
+	node4 [label="思ってな……」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

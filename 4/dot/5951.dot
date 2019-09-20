@@ -1,0 +1,7 @@
+digraph graph5951 {
+	node0 [label="「伯父さん、"];
+	node1 [label="そりゃ正成の"];
+	node2 [label="甲割ですかね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

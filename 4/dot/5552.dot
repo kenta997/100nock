@@ -1,0 +1,11 @@
+digraph graph5552 {
+	node0 [label="主人が"];
+	node1 [label="いずれを"];
+	node2 [label="択ぶかは"];
+	node3 [label="主人の"];
+	node4 [label="随意である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

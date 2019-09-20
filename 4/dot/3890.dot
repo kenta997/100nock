@@ -1,0 +1,11 @@
+digraph graph3890 {
+	node0 [label="晩は"];
+	node1 [label="ことに"];
+	node2 [label="よると"];
+	node3 [label="一雨"];
+	node4 [label="かかるかも知れない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph6767 {
+	node0 [label="「貯金が"];
+	node1 [label="あるの？"];
+	node0 -> node1;
+}

@@ -1,0 +1,7 @@
+digraph graph3989 {
+	node0 [label="ただ"];
+	node1 [label="右往左往へ"];
+	node2 [label="逃げ惑うのみである。"];
+	node0 -> node2;
+	node1 -> node2;
+}

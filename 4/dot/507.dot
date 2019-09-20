@@ -1,0 +1,9 @@
+digraph graph507 {
+	node0 [label="△△は"];
+	node1 [label="是非香の物を"];
+	node2 [label="断てと"];
+	node3 [label="忠告した。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

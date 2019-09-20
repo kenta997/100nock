@@ -1,0 +1,5 @@
+digraph graph4220 {
+	node0 [label="これが"];
+	node1 [label="疑問である。"];
+	node0 -> node1;
+}

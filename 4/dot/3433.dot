@@ -1,0 +1,7 @@
+digraph graph3433 {
+	node0 [label="牛飼や"];
+	node1 [label="いろはの"];
+	node2 [label="亭主じゃありません。"];
+	node0 -> node1;
+	node1 -> node2;
+}

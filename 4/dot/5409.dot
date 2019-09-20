@@ -1,0 +1,9 @@
+digraph graph5409 {
+	node0 [label="「催眠術を"];
+	node1 [label="かけるのは"];
+	node2 [label="むずかしい"];
+	node3 [label="ものでしょうか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

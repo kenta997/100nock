@@ -1,0 +1,11 @@
+digraph graph8576 {
+	node0 [label="「なるほど君などは"];
+	node1 [label="どこから"];
+	node2 [label="見ても"];
+	node3 [label="神経衰弱以前の"];
+	node4 [label="民だよ」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,13 @@
+digraph graph9004 {
+	node0 [label="「ええ"];
+	node1 [label="作りますとも、"];
+	node2 [label="一瓶"];
+	node3 [label="二十銭の"];
+	node4 [label="シャンパンでも"];
+	node5 [label="作ります。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

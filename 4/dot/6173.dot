@@ -1,0 +1,11 @@
+digraph graph6173 {
+	node0 [label="「うん、"];
+	node1 [label="真中が"];
+	node2 [label="赤くて"];
+	node3 [label="左右が"];
+	node4 [label="白い。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

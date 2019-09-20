@@ -1,0 +1,7 @@
+digraph graph142 {
+	node0 [label="枯木に"];
+	node1 [label="寒鴉"];
+	node2 [label="あり。"];
+	node0 -> node2;
+	node1 -> node2;
+}

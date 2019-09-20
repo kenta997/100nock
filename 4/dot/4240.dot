@@ -1,0 +1,23 @@
+digraph graph4240 {
+	node0 [label="丸い"];
+	node1 [label="ものが"];
+	node2 [label="三角に"];
+	node3 [label="積まれるのは"];
+	node4 [label="不本意"];
+	node5 [label="千万だろうと、"];
+	node6 [label="ひそかに"];
+	node7 [label="小桶諸君の"];
+	node8 [label="意を"];
+	node9 [label="諒と"];
+	node10 [label="した。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

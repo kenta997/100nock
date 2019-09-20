@@ -1,0 +1,19 @@
+digraph graph7354 {
+	node0 [label="武右衛門君が"];
+	node1 [label="退校に"];
+	node2 [label="なるのは、"];
+	node3 [label="自分が"];
+	node4 [label="免職に"];
+	node5 [label="なるのとは"];
+	node6 [label="大に"];
+	node7 [label="趣が"];
+	node8 [label="違う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

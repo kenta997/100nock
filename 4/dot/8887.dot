@@ -1,0 +1,9 @@
+digraph graph8887 {
+	node0 [label="賢者"];
+	node1 [label="答えて"];
+	node2 [label="曰く、"];
+	node3 [label="貞婦……」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

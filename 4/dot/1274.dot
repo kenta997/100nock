@@ -1,0 +1,15 @@
+digraph graph1274 {
+	node0 [label="　"];
+	node1 [label="チーン南無"];
+	node2 [label="猫誉信女南無阿弥陀仏南無阿弥陀仏と"];
+	node3 [label="今度は"];
+	node4 [label="下女の"];
+	node5 [label="声が"];
+	node6 [label="する。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

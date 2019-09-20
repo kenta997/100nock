@@ -1,0 +1,5 @@
+digraph graph7326 {
+	node0 [label="「どうでしょう退校に"];
+	node1 [label="なるでしょうか」"];
+	node0 -> node1;
+}

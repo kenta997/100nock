@@ -1,0 +1,11 @@
+digraph graph4392 {
+	node0 [label="しかし"];
+	node1 [label="よく"];
+	node2 [label="あれだけに"];
+	node3 [label="なったよ」"];
+	node4 [label="「うん。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,15 @@
+digraph graph3969 {
+	node0 [label="すると"];
+	node1 [label="すわこそと"];
+	node2 [label="云う"];
+	node3 [label="身構を"];
+	node4 [label="して"];
+	node5 [label="鎌首を"];
+	node6 [label="ふり上げる。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,11 @@
+digraph graph950 {
+	node0 [label="　下女は"];
+	node1 [label="無暗に"];
+	node2 [label="感服しては、"];
+	node3 [label="無暗にねえを"];
+	node4 [label="使用する。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

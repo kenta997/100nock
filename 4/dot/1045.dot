@@ -1,0 +1,11 @@
+digraph graph1045 {
+	node0 [label="それに"];
+	node1 [label="つけても、"];
+	node2 [label="こんなに"];
+	node3 [label="のらくらしていては"];
+	node4 [label="勿体ない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

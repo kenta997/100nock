@@ -1,0 +1,27 @@
+digraph graph5321 {
+	node0 [label="　"];
+	node1 [label="鈴木君が"];
+	node2 [label="しきりに"];
+	node3 [label="主人の"];
+	node4 [label="動静を"];
+	node5 [label="研究していると、"];
+	node6 [label="表の"];
+	node7 [label="門が"];
+	node8 [label="がらがらと"];
+	node9 [label="あく、"];
+	node10 [label="客来かと"];
+	node11 [label="思うと"];
+	node12 [label="そうでない。"];
+	node0 -> node10;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

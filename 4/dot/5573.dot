@@ -1,0 +1,21 @@
+digraph graph5573 {
+	node0 [label="だから"];
+	node1 [label="養子が"];
+	node2 [label="死んで"];
+	node3 [label="そのまた"];
+	node4 [label="養子が"];
+	node5 [label="跡を"];
+	node6 [label="続いだら"];
+	node7 [label="葛根湯が"];
+	node8 [label="アンチピリンに"];
+	node9 [label="化けるかも知れない。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node9;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

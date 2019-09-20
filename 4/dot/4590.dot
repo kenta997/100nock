@@ -1,0 +1,23 @@
+digraph graph4590 {
+	node0 [label="実を"];
+	node1 [label="云うと"];
+	node2 [label="吾輩も"];
+	node3 [label="これは"];
+	node4 [label="洗湯の"];
+	node5 [label="逆上が"];
+	node6 [label="まだ"];
+	node7 [label="さめない"];
+	node8 [label="ためだろうと"];
+	node9 [label="思った"];
+	node10 [label="くらいだ。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

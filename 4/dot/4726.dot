@@ -1,0 +1,25 @@
+digraph graph4726 {
+	node0 [label="この"];
+	node1 [label="両者が"];
+	node2 [label="この際"];
+	node3 [label="図らずも"];
+	node4 [label="合して"];
+	node5 [label="一と"];
+	node6 [label="なったのは、"];
+	node7 [label="今から"];
+	node8 [label="考えて"];
+	node9 [label="見ても"];
+	node10 [label="返す返す"];
+	node11 [label="残念である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

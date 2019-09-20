@@ -1,0 +1,21 @@
+digraph graph305 {
+	node0 [label="ところが"];
+	node1 [label="その"];
+	node2 [label="時の"];
+	node3 [label="傍聴者は"];
+	node4 [label="約百名ばかりであったが、"];
+	node5 [label="皆"];
+	node6 [label="熱心に"];
+	node7 [label="それを"];
+	node8 [label="傾聴して"];
+	node9 [label="おった。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

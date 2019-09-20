@@ -1,0 +1,33 @@
+digraph graph4305 {
+	node0 [label="化物でも"];
+	node1 [label="全体が"];
+	node2 [label="申し合せて"];
+	node3 [label="化物に"];
+	node4 [label="なれば、"];
+	node5 [label="いわゆる"];
+	node6 [label="化物は"];
+	node7 [label="消えて"];
+	node8 [label="なくなる訳だから"];
+	node9 [label="構わんが、"];
+	node10 [label="それでは"];
+	node11 [label="人間自身が"];
+	node12 [label="大に"];
+	node13 [label="困却する"];
+	node14 [label="事に"];
+	node15 [label="なるばかりだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node15;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

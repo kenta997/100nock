@@ -1,0 +1,11 @@
+digraph graph6351 {
+	node0 [label="朝から"];
+	node1 [label="晩まで"];
+	node2 [label="弁当持参で"];
+	node3 [label="球ばかり"];
+	node4 [label="磨いている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

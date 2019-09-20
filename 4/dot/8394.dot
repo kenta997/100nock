@@ -1,0 +1,5 @@
+digraph graph8394 {
+	node0 [label="博士ならも"];
+	node1 [label="うならなくってもいいんです」"];
+	node0 -> node1;
+}

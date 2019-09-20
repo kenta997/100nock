@@ -1,0 +1,7 @@
+digraph graph6908 {
+	node0 [label="「御金を"];
+	node1 [label="もらって"];
+	node2 [label="何にするの？"];
+	node0 -> node1;
+	node1 -> node2;
+}

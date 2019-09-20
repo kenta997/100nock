@@ -1,0 +1,11 @@
+digraph graph2876 {
+	node0 [label="「すると"];
+	node1 [label="盗賊の"];
+	node2 [label="這入ったのは、"];
+	node3 [label="何時頃に"];
+	node4 [label="なるかな」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,33 @@
+digraph graph1946 {
+	node0 [label="「向う横丁の"];
+	node1 [label="鼻が"];
+	node2 [label="さっき"];
+	node3 [label="押しかけて来たんだよ、"];
+	node4 [label="ここへ、"];
+	node5 [label="実に"];
+	node6 [label="僕等"];
+	node7 [label="二人は"];
+	node8 [label="驚いたよ、"];
+	node9 [label="ねえ"];
+	node10 [label="苦沙弥君」"];
+	node11 [label="「うむ」と"];
+	node12 [label="主人は"];
+	node13 [label="寝ながら"];
+	node14 [label="茶を"];
+	node15 [label="飲む。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

@@ -1,0 +1,13 @@
+digraph graph4696 {
+	node0 [label="だから"];
+	node1 [label="ここへ"];
+	node2 [label="引き越して来た"];
+	node3 [label="当時から"];
+	node4 [label="ゆっくりと"];
+	node5 [label="話し始める。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

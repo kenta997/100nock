@@ -1,0 +1,9 @@
+digraph graph3875 {
+	node0 [label="大和魂は"];
+	node1 [label="それ"];
+	node2 [label="天狗の"];
+	node3 [label="類か」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

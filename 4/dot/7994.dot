@@ -1,0 +1,27 @@
+digraph graph7994 {
+	node0 [label="「そう"];
+	node1 [label="日が"];
+	node2 [label="暮れなくちゃ"];
+	node3 [label="聞く"];
+	node4 [label="方も"];
+	node5 [label="困るから"];
+	node6 [label="やめよう」と"];
+	node7 [label="主人が"];
+	node8 [label="とうとう"];
+	node9 [label="我慢が"];
+	node10 [label="し切れなくなったと"];
+	node11 [label="見えて"];
+	node12 [label="云い出した。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

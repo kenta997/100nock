@@ -1,0 +1,15 @@
+digraph graph9097 {
+	node0 [label="寒月君は"];
+	node1 [label="珠磨りを"];
+	node2 [label="やめて"];
+	node3 [label="とうとう"];
+	node4 [label="お国から"];
+	node5 [label="奥さんを"];
+	node6 [label="連れて来た。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

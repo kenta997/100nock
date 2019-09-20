@@ -1,0 +1,29 @@
+digraph graph1558 {
+	node0 [label="すると"];
+	node1 [label="存外"];
+	node2 [label="うまく"];
+	node3 [label="出来たんだ——"];
+	node4 [label="あとで"];
+	node5 [label="考えると"];
+	node6 [label="それが"];
+	node7 [label="災の"];
+	node8 [label="本さね」"];
+	node9 [label="「それから"];
+	node10 [label="どうした」と"];
+	node11 [label="主人は"];
+	node12 [label="ついに"];
+	node13 [label="釣り込まれる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

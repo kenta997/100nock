@@ -1,0 +1,13 @@
+digraph graph3946 {
+	node0 [label="御承知のごとく"];
+	node1 [label="不幸にして"];
+	node2 [label="機械を"];
+	node3 [label="持つ"];
+	node4 [label="事が"];
+	node5 [label="出来ん。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

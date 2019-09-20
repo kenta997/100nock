@@ -1,0 +1,29 @@
+digraph graph6384 {
+	node0 [label="人間の"];
+	node1 [label="膝の"];
+	node2 [label="上へ"];
+	node3 [label="乗って"];
+	node4 [label="眠っている"];
+	node5 [label="うちに、"];
+	node6 [label="吾輩は"];
+	node7 [label="吾輩の"];
+	node8 [label="柔かな"];
+	node9 [label="毛衣を"];
+	node10 [label="そっと"];
+	node11 [label="人間の"];
+	node12 [label="腹に"];
+	node13 [label="こすり付ける。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

@@ -1,0 +1,11 @@
+digraph graph8962 {
+	node0 [label="「そんな"];
+	node1 [label="贅沢を"];
+	node2 [label="する"];
+	node3 [label="金が"];
+	node4 [label="あるのかい」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph7147 {
+	node0 [label="それだから"];
+	node1 [label="落第するんだ」"];
+	node0 -> node1;
+}

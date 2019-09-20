@@ -1,0 +1,35 @@
+digraph graph6457 {
+	node0 [label="さすがに"];
+	node1 [label="長女は"];
+	node2 [label="長女だけに、"];
+	node3 [label="姉を"];
+	node4 [label="もって"];
+	node5 [label="自ら"];
+	node6 [label="任じているから、"];
+	node7 [label="うがい茶碗を"];
+	node8 [label="からから"];
+	node9 [label="かんと抛"];
+	node10 [label="出して"];
+	node11 [label="「坊やちゃん、"];
+	node12 [label="それは"];
+	node13 [label="雑巾よ」と"];
+	node14 [label="雑巾を"];
+	node15 [label="とりに"];
+	node16 [label="かかる。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

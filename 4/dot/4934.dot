@@ -1,0 +1,13 @@
+digraph graph4934 {
+	node0 [label="彼は"];
+	node1 [label="つるつる"];
+	node2 [label="然たる"];
+	node3 [label="金柑頭を"];
+	node4 [label="有して"];
+	node5 [label="おった。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

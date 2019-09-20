@@ -1,0 +1,15 @@
+digraph graph6594 {
+	node0 [label="主人は"];
+	node1 [label="一応"];
+	node2 [label="この"];
+	node3 [label="三女子の"];
+	node4 [label="顔を"];
+	node5 [label="公平に"];
+	node6 [label="見渡した。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

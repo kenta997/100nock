@@ -1,0 +1,11 @@
+digraph graph3100 {
+	node0 [label="「今年で"];
+	node1 [label="九年目でしょう」と"];
+	node2 [label="細君は"];
+	node3 [label="主人を"];
+	node4 [label="顧みる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

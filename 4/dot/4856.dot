@@ -1,0 +1,13 @@
+digraph graph4856 {
+	node0 [label="最後が"];
+	node1 [label="血液、"];
+	node2 [label="これは"];
+	node3 [label="四肢を"];
+	node4 [label="壮んに"];
+	node5 [label="する。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,9 @@
+digraph graph9081 {
+	node0 [label="出て御両人の"];
+	node1 [label="前で"];
+	node2 [label="新体詩を"];
+	node3 [label="朗読したいです」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

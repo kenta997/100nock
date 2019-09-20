@@ -1,0 +1,13 @@
+digraph graph3311 {
+	node0 [label="吾輩は"];
+	node1 [label="先天的鼠を"];
+	node2 [label="捕る"];
+	node3 [label="能力が"];
+	node4 [label="ないのか"];
+	node5 [label="知らん。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

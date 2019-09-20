@@ -1,0 +1,11 @@
+digraph graph5671 {
+	node0 [label="あまり"];
+	node1 [label="ふくれ方が"];
+	node2 [label="残酷なので"];
+	node3 [label="眼は"];
+	node4 [label="両方共紛失している。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

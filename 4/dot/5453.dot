@@ -1,0 +1,25 @@
+digraph graph5453 {
+	node0 [label="「どうしたか"];
+	node1 [label="聞いても"];
+	node2 [label="見なかったが、——"];
+	node3 [label="そうさ、"];
+	node4 [label="まあ"];
+	node5 [label="天稟の"];
+	node6 [label="奇人だろう、"];
+	node7 [label="その"];
+	node8 [label="代り考も"];
+	node9 [label="何も"];
+	node10 [label="ない"];
+	node11 [label="全く金魚麩だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

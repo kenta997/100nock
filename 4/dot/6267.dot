@@ -1,0 +1,9 @@
+digraph graph6267 {
+	node0 [label="「馬鹿あ"];
+	node1 [label="云ってら、"];
+	node2 [label="あれは"];
+	node3 [label="刑事だね」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,7 @@
+digraph graph6692 {
+	node0 [label="これは"];
+	node1 [label="主人の"];
+	node2 [label="姪である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

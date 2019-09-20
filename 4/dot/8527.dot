@@ -1,0 +1,11 @@
+digraph graph8527 {
+	node0 [label="「それが"];
+	node1 [label="英吉利趣味ですか」"];
+	node2 [label="これは"];
+	node3 [label="寒月君の"];
+	node4 [label="質問であった。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,33 @@
+digraph graph1776 {
+	node0 [label="「僕より、"];
+	node1 [label="あの"];
+	node2 [label="女の"];
+	node3 [label="方が"];
+	node4 [label="上わ手で"];
+	node5 [label="さあ」"];
+	node6 [label="「あなただって"];
+	node7 [label="御負けなさる"];
+	node8 [label="気遣いは"];
+	node9 [label="ありません」"];
+	node10 [label="「しかし"];
+	node11 [label="奥さん、"];
+	node12 [label="僕の"];
+	node13 [label="法螺は"];
+	node14 [label="単なる"];
+	node15 [label="法螺ですよ。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node15;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

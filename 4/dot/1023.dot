@@ -1,0 +1,5 @@
+digraph graph1023 {
+	node0 [label="「その"];
+	node1 [label="朗読会さ。"];
+	node0 -> node1;
+}

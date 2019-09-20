@@ -1,0 +1,7 @@
+digraph graph6252 {
+	node0 [label="当り前に"];
+	node1 [label="あしらってりゃ"];
+	node2 [label="沢山だ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

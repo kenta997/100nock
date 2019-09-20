@@ -1,0 +1,9 @@
+digraph graph8020 {
+	node0 [label="「布哇は"];
+	node1 [label="突飛だね」と"];
+	node2 [label="迷亭君が"];
+	node3 [label="云った。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

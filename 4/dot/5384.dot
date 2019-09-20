@@ -1,0 +1,11 @@
+digraph graph5384 {
+	node0 [label="医者は"];
+	node1 [label="大抵"];
+	node2 [label="どうですと"];
+	node3 [label="云うに"];
+	node4 [label="極まってる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,37 @@
+digraph graph4332 {
+	node0 [label="仮令"];
+	node1 [label="世界"];
+	node2 [label="何億万の"];
+	node3 [label="人口を"];
+	node4 [label="挙げて"];
+	node5 [label="化物の"];
+	node6 [label="域に"];
+	node7 [label="引ずりおろして"];
+	node8 [label="これなら"];
+	node9 [label="平等だろう、"];
+	node10 [label="みんなが"];
+	node11 [label="化物だから"];
+	node12 [label="恥ずかしい"];
+	node13 [label="事は"];
+	node14 [label="ないと"];
+	node15 [label="安心しても"];
+	node16 [label="やっぱり"];
+	node17 [label="駄目である。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

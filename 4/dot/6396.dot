@@ -1,0 +1,11 @@
+digraph graph6396 {
+	node0 [label="返事を"];
+	node1 [label="しないのは"];
+	node2 [label="この"];
+	node3 [label="男の"];
+	node4 [label="癖である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

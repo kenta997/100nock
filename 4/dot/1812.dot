@@ -1,0 +1,19 @@
+digraph graph1812 {
+	node0 [label="人に"];
+	node1 [label="告げられんでも"];
+	node2 [label="人に"];
+	node3 [label="知られているなと"];
+	node4 [label="云う"];
+	node5 [label="自覚を"];
+	node6 [label="彼等に"];
+	node7 [label="与うるだけが"];
+	node8 [label="愉快である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+}

@@ -1,0 +1,11 @@
+digraph graph2833 {
+	node0 [label="笑い方までが"];
+	node1 [label="寒月君の"];
+	node2 [label="模写であるには"];
+	node3 [label="吾輩も"];
+	node4 [label="驚いた。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

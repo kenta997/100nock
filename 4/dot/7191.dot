@@ -1,0 +1,19 @@
+digraph graph7191 {
+	node0 [label="布団は"];
+	node1 [label="乗る"];
+	node2 [label="ための"];
+	node3 [label="布団で"];
+	node4 [label="見詰める"];
+	node5 [label="ために"];
+	node6 [label="細君が"];
+	node7 [label="勧工場から"];
+	node8 [label="仕入れて来たのではない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,5 @@
+digraph graph7427 {
+	node0 [label="「どこへ"];
+	node1 [label="出るんだい。"];
+	node0 -> node1;
+}

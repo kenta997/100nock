@@ -1,0 +1,13 @@
+digraph graph6623 {
+	node0 [label="同時に"];
+	node1 [label="味噌汁は"];
+	node2 [label="容赦なくだらだらと"];
+	node3 [label="胸の"];
+	node4 [label="あたりへ"];
+	node5 [label="こぼれだす。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

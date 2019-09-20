@@ -1,0 +1,11 @@
+digraph graph4718 {
+	node0 [label="檜の"];
+	node1 [label="ある"];
+	node2 [label="所は"];
+	node3 [label="座敷の"];
+	node4 [label="正面である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

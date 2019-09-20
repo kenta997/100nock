@@ -1,0 +1,15 @@
+digraph graph4512 {
+	node0 [label="　"];
+	node1 [label="いかに"];
+	node2 [label="馬鹿でも"];
+	node3 [label="病気でも"];
+	node4 [label="主人に"];
+	node5 [label="変りは"];
+	node6 [label="ない。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

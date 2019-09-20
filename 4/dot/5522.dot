@@ -1,0 +1,23 @@
+digraph graph5522 {
+	node0 [label="西洋の"];
+	node1 [label="文明は"];
+	node2 [label="積極的、"];
+	node3 [label="進取的かも知れないが"];
+	node4 [label="つまり"];
+	node5 [label="不満足で"];
+	node6 [label="一生を"];
+	node7 [label="くらす"];
+	node8 [label="人の"];
+	node9 [label="作った"];
+	node10 [label="文明さ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node10;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

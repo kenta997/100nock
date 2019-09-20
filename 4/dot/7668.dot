@@ -1,0 +1,13 @@
+digraph graph7668 {
+	node0 [label="向後は"];
+	node1 [label="旧に"];
+	node2 [label="倍し"];
+	node3 [label="待ったを"];
+	node4 [label="仕り"];
+	node5 [label="候。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

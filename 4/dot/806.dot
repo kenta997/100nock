@@ -1,0 +1,33 @@
+digraph graph806 {
+	node0 [label="藪睨みから"];
+	node1 [label="惚れられたと"];
+	node2 [label="自認している"];
+	node3 [label="人間も"];
+	node4 [label="ある"];
+	node5 [label="世の中だから"];
+	node6 [label="この"];
+	node7 [label="くらいの"];
+	node8 [label="誤謬は"];
+	node9 [label="決して"];
+	node10 [label="驚くに"];
+	node11 [label="足らんと"];
+	node12 [label="撫でら"];
+	node13 [label="るるが"];
+	node14 [label="ままに"];
+	node15 [label="すましていた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

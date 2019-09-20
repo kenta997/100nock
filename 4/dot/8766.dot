@@ -1,0 +1,7 @@
+digraph graph8766 {
+	node0 [label="今は"];
+	node1 [label="そうは"];
+	node2 [label="行かないやね。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,31 @@
+digraph graph1086 {
+	node0 [label="それでは"];
+	node1 [label="まず"];
+	node2 [label="東風に"];
+	node3 [label="逢って"];
+	node4 [label="約束通り"];
+	node5 [label="話しを"];
+	node6 [label="して、"];
+	node7 [label="それから"];
+	node8 [label="出直そうと"];
+	node9 [label="云う"];
+	node10 [label="気に"];
+	node11 [label="なって"];
+	node12 [label="ついに"];
+	node13 [label="うちへ"];
+	node14 [label="帰ったのさ」"];
+	node0 -> node14;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+}

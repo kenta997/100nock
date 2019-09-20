@@ -1,0 +1,17 @@
+digraph graph7338 {
+	node0 [label="人間に"];
+	node1 [label="せよ、"];
+	node2 [label="動物に"];
+	node3 [label="せよ、"];
+	node4 [label="己を"];
+	node5 [label="知るのは"];
+	node6 [label="生涯の"];
+	node7 [label="大事である。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

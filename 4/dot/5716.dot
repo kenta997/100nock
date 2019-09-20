@@ -1,0 +1,27 @@
+digraph graph5716 {
+	node0 [label="こんな"];
+	node1 [label="顔で"];
+	node2 [label="よく"];
+	node3 [label="まあ"];
+	node4 [label="人で"];
+	node5 [label="候と"];
+	node6 [label="反り"];
+	node7 [label="かえって"];
+	node8 [label="今日まで"];
+	node9 [label="暮らされた"];
+	node10 [label="ものだと"];
+	node11 [label="気がつくに"];
+	node12 [label="きまっている。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node10;
+	node3 -> node10;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

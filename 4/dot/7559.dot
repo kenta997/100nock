@@ -1,0 +1,11 @@
+digraph graph7559 {
+	node0 [label="「そんな"];
+	node1 [label="悪るい、"];
+	node2 [label="不道徳な"];
+	node3 [label="事を"];
+	node4 [label="したから」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,33 @@
+digraph graph5448 {
+	node0 [label="なぜ"];
+	node1 [label="哲学者と"];
+	node2 [label="云うと、"];
+	node3 [label="何も"];
+	node4 [label="迷亭のように"];
+	node5 [label="自分で"];
+	node6 [label="振り散らすからではない、"];
+	node7 [label="ただ"];
+	node8 [label="主人と"];
+	node9 [label="対話する"];
+	node10 [label="時の"];
+	node11 [label="様子を"];
+	node12 [label="拝見していると"];
+	node13 [label="いかにも"];
+	node14 [label="哲学者らしく"];
+	node15 [label="思われるからである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node15;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

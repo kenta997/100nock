@@ -1,0 +1,9 @@
+digraph graph8924 {
+	node0 [label="　茶の間では"];
+	node1 [label="しんとして"];
+	node2 [label="答が"];
+	node3 [label="ない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

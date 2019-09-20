@@ -1,0 +1,15 @@
+digraph graph5615 {
+	node0 [label="それ"];
+	node1 [label="以来"];
+	node2 [label="この"];
+	node3 [label="机は"];
+	node4 [label="決して"];
+	node5 [label="寝台に"];
+	node6 [label="転用されないようである。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

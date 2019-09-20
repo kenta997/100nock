@@ -1,0 +1,27 @@
+digraph graph965 {
+	node0 [label="　"];
+	node1 [label="第二読本が"];
+	node2 [label="どうしたんだ」"];
+	node3 [label="「僕の"];
+	node4 [label="翻訳している"];
+	node5 [label="名文と"];
+	node6 [label="云うのは"];
+	node7 [label="第二読本の"];
+	node8 [label="中に"];
+	node9 [label="あると"];
+	node10 [label="云う"];
+	node11 [label="事さ」"];
+	node12 [label="「冗談じゃない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

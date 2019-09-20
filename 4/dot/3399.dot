@@ -1,0 +1,23 @@
+digraph graph3399 {
+	node0 [label="「いや"];
+	node1 [label="結構」"];
+	node2 [label="「どうも"];
+	node3 [label="良い"];
+	node4 [label="心持ちだ」"];
+	node5 [label="「もう"];
+	node6 [label="一杯」などと"];
+	node7 [label="家中に"];
+	node8 [label="響き渡るような"];
+	node9 [label="声を"];
+	node10 [label="出す。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,7 @@
+digraph graph7816 {
+	node0 [label="あすこには"];
+	node1 [label="灰吹きがない"];
+	node2 [label="そうだ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

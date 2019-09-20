@@ -1,0 +1,33 @@
+digraph graph2170 {
+	node0 [label="「水島と"];
+	node1 [label="云う"];
+	node2 [label="人には"];
+	node3 [label="逢った"];
+	node4 [label="事も"];
+	node5 [label="ございませんが、"];
+	node6 [label="とにかく"];
+	node7 [label="こちらと"];
+	node8 [label="御縁組が"];
+	node9 [label="出来れば"];
+	node10 [label="生涯の"];
+	node11 [label="幸福で、"];
+	node12 [label="本人は"];
+	node13 [label="無論"];
+	node14 [label="異存は"];
+	node15 [label="ないのでしょう」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node15;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

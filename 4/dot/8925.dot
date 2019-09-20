@@ -1,0 +1,7 @@
+digraph graph8925 {
+	node0 [label="「奥さん、"];
+	node1 [label="今のを"];
+	node2 [label="聞いたんですか。"];
+	node0 -> node1;
+	node1 -> node2;
+}

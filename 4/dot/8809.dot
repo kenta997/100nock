@@ -1,0 +1,13 @@
+digraph graph8809 {
+	node0 [label="個性の"];
+	node1 [label="発展というのは"];
+	node2 [label="個性の"];
+	node3 [label="自由と"];
+	node4 [label="云う"];
+	node5 [label="意味だろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

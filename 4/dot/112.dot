@@ -1,0 +1,21 @@
+digraph graph112 {
+	node0 [label="もし"];
+	node1 [label="相手が"];
+	node2 [label="この"];
+	node3 [label="規約を"];
+	node4 [label="守らなければ"];
+	node5 [label="腕力に"];
+	node6 [label="訴えて"];
+	node7 [label="善い"];
+	node8 [label="くらいの"];
+	node9 [label="ものだ。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

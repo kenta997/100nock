@@ -1,0 +1,33 @@
+digraph graph2524 {
+	node0 [label="いよいよ"];
+	node1 [label="百日紅が"];
+	node2 [label="散って"];
+	node3 [label="一輪の花も"];
+	node4 [label="なくなっても"];
+	node5 [label="当人平気で"];
+	node6 [label="いるから、"];
+	node7 [label="いよいよ"];
+	node8 [label="西洋料理に"];
+	node9 [label="有り"];
+	node10 [label="ついたなと"];
+	node11 [label="思って"];
+	node12 [label="契約履行を"];
+	node13 [label="逼ると"];
+	node14 [label="迷亭すまして"];
+	node15 [label="取り合わない」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+}

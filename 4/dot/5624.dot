@@ -1,0 +1,25 @@
+digraph graph5624 {
+	node0 [label="すると"];
+	node1 [label="この"];
+	node2 [label="光りは"];
+	node3 [label="机の"];
+	node4 [label="上で"];
+	node5 [label="動いている"];
+	node6 [label="鏡から"];
+	node7 [label="出る"];
+	node8 [label="ものだと"];
+	node9 [label="云う"];
+	node10 [label="事が"];
+	node11 [label="分った。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

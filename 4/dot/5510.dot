@@ -1,0 +1,15 @@
+digraph graph5510 {
+	node0 [label="下宿屋を"];
+	node1 [label="退去させると、"];
+	node2 [label="その"];
+	node3 [label="次の"];
+	node4 [label="家が"];
+	node5 [label="癪に"];
+	node6 [label="触る。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

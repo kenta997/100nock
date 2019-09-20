@@ -1,0 +1,15 @@
+digraph graph4544 {
+	node0 [label="多病に"];
+	node1 [label="して"];
+	node2 [label="残喘を"];
+	node3 [label="保つ"];
+	node4 [label="方が"];
+	node5 [label="よほど"];
+	node6 [label="結構だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

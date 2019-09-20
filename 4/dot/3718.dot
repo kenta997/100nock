@@ -1,0 +1,11 @@
+digraph graph3718 {
+	node0 [label="筒袖を"];
+	node1 [label="穿いて"];
+	node2 [label="鉄棒へ"];
+	node3 [label="ぶら下がるから"];
+	node4 [label="感心だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph694 {
+	node0 [label="少し"];
+	node1 [label="待って下さい。"];
+	node0 -> node1;
+}

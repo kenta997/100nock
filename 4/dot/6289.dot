@@ -1,0 +1,11 @@
+digraph graph6289 {
+	node0 [label="こんな"];
+	node1 [label="幸福を"];
+	node2 [label="豚的幸福と"];
+	node3 [label="名づけるのだ"];
+	node4 [label="そうだ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,13 @@
+digraph graph8834 {
+	node0 [label="あれを"];
+	node1 [label="読むと"];
+	node2 [label="壮快と"];
+	node3 [label="云うより"];
+	node4 [label="むしろ"];
+	node5 [label="気の毒になる。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

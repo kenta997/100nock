@@ -1,0 +1,7 @@
+digraph graph756 {
+	node0 [label="「御めっちの"];
+	node1 [label="知った"];
+	node2 [label="事じゃねえ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

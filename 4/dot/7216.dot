@@ -1,0 +1,9 @@
+digraph graph7216 {
+	node0 [label="今の"];
+	node1 [label="名じゃない、"];
+	node2 [label="昔の"];
+	node3 [label="名だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

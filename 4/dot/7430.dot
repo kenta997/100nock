@@ -1,0 +1,9 @@
+digraph graph7430 {
+	node0 [label="「つまらんじゃないか、"];
+	node1 [label="それより"];
+	node2 [label="ちょっと"];
+	node3 [label="御上り」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,15 @@
+digraph graph6474 {
+	node0 [label="この"];
+	node1 [label="騒動中"];
+	node2 [label="比較的"];
+	node3 [label="静かであったのは、"];
+	node4 [label="次女の"];
+	node5 [label="すん"];
+	node6 [label="子嬢である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

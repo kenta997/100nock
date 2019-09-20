@@ -1,0 +1,9 @@
+digraph graph2103 {
+	node0 [label="言語も"];
+	node1 [label="彼の"];
+	node2 [label="顔面のごとく"];
+	node3 [label="平板尨大である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

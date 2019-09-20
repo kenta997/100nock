@@ -1,0 +1,5 @@
+digraph graph6601 {
+	node0 [label="これでも"];
+	node1 [label="生長しなければならぬ。"];
+	node0 -> node1;
+}

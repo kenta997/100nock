@@ -1,0 +1,5 @@
+digraph graph8317 {
+	node0 [label="「どっかへ"];
+	node1 [label="行くのかい」"];
+	node0 -> node1;
+}

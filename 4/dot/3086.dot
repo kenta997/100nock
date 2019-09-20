@@ -1,0 +1,5 @@
+digraph graph3086 {
+	node0 [label="「やっても"];
+	node1 [label="好い。"];
+	node0 -> node1;
+}

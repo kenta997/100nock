@@ -1,0 +1,15 @@
+digraph graph8390 {
+	node0 [label="「いえ、"];
+	node1 [label="こないだうちから"];
+	node2 [label="国へ"];
+	node3 [label="帰省していた"];
+	node4 [label="もんですから、"];
+	node5 [label="暫時中止の"];
+	node6 [label="姿です。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,13 @@
+digraph graph5136 {
+	node0 [label="「貴様等は"];
+	node1 [label="ぬ"];
+	node2 [label="すっ"];
+	node3 [label="とうか」と"];
+	node4 [label="主人は"];
+	node5 [label="尋問した。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

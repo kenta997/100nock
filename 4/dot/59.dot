@@ -1,0 +1,25 @@
+digraph graph59 {
+	node0 [label="吾輩が"];
+	node1 [label="最後に"];
+	node2 [label="つまみ出されようとした"];
+	node3 [label="ときに、"];
+	node4 [label="この"];
+	node5 [label="家の"];
+	node6 [label="主人が"];
+	node7 [label="騒々しい"];
+	node8 [label="何だと"];
+	node9 [label="いいながら"];
+	node10 [label="出て"];
+	node11 [label="来た。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

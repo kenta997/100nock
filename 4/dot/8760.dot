@@ -1,0 +1,15 @@
+digraph graph8760 {
+	node0 [label="今の"];
+	node1 [label="人の"];
+	node2 [label="考では"];
+	node3 [label="いっしょに"];
+	node4 [label="いるから"];
+	node5 [label="夫婦だと"];
+	node6 [label="思ってる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

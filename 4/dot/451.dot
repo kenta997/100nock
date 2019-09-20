@@ -1,0 +1,19 @@
+digraph graph451 {
+	node0 [label="姉が"];
+	node1 [label="また"];
+	node2 [label="壺へ"];
+	node3 [label="手を"];
+	node4 [label="懸ける、"];
+	node5 [label="妹が"];
+	node6 [label="また"];
+	node7 [label="匙を"];
+	node8 [label="とる。"];
+	node0 -> node8;
+	node1 -> node8;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

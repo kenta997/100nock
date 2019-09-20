@@ -1,0 +1,9 @@
+digraph graph1083 {
+	node0 [label="撓り"];
+	node1 [label="按排が"];
+	node2 [label="実に"];
+	node3 [label="美的である。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

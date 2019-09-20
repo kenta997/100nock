@@ -1,0 +1,11 @@
+digraph graph7241 {
+	node0 [label="「ええ、"];
+	node1 [label="少し"];
+	node2 [label="御話し"];
+	node3 [label="しようと"];
+	node4 [label="思って……」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

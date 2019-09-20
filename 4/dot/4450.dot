@@ -1,0 +1,25 @@
+digraph graph4450 {
+	node0 [label="今日は"];
+	node1 [label="少々"];
+	node2 [label="御寒うございますから、"];
+	node3 [label="どうぞ"];
+	node4 [label="御緩くり——"];
+	node5 [label="どうぞ"];
+	node6 [label="白い"];
+	node7 [label="湯へ"];
+	node8 [label="出たり"];
+	node9 [label="這入ったりして、"];
+	node10 [label="ゆるりと"];
+	node11 [label="御あったまり下さい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

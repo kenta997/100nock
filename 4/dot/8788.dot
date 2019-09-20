@@ -1,0 +1,13 @@
+digraph graph8788 {
+	node0 [label="それは"];
+	node1 [label="とにかく、"];
+	node2 [label="未来記の"];
+	node3 [label="続きを"];
+	node4 [label="話すと"];
+	node5 [label="こうさ。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,7 @@
+digraph graph3094 {
+	node0 [label="「先生教師などを"];
+	node1 [label="して"];
+	node2 [label="おったちゃとうていあかんですばい。"];
+	node0 -> node1;
+	node1 -> node2;
+}

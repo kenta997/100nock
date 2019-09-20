@@ -1,0 +1,15 @@
+digraph graph2560 {
+	node0 [label="とにかく"];
+	node1 [label="寒月の"];
+	node2 [label="事だから"];
+	node3 [label="鼻の"];
+	node4 [label="恐縮するような"];
+	node5 [label="ものに"];
+	node6 [label="違いない」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

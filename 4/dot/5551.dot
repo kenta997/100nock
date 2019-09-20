@@ -1,0 +1,15 @@
+digraph graph5551 {
+	node0 [label="最後の"];
+	node1 [label="珍客は"];
+	node2 [label="消極的の"];
+	node3 [label="修養で"];
+	node4 [label="安心を"];
+	node5 [label="得ろと"];
+	node6 [label="説法したのである。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

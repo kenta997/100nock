@@ -1,0 +1,15 @@
+digraph graph118 {
+	node0 [label="いくら"];
+	node1 [label="人間だって、"];
+	node2 [label="そう"];
+	node3 [label="いつまでも"];
+	node4 [label="栄える"];
+	node5 [label="事も"];
+	node6 [label="あるまい。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

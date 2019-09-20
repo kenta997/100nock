@@ -1,0 +1,5 @@
+digraph graph8246 {
+	node0 [label="僕も"];
+	node1 [label="男子だ」"];
+	node0 -> node1;
+}

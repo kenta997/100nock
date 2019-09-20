@@ -1,0 +1,13 @@
+digraph graph4925 {
+	node0 [label="煩悶の"];
+	node1 [label="極そこいらを"];
+	node2 [label="迷付いている"];
+	node3 [label="血が"];
+	node4 [label="逆さに"];
+	node5 [label="上るはずである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

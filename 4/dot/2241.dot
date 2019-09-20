@@ -1,0 +1,15 @@
+digraph graph2241 {
+	node0 [label="「ええ」と"];
+	node1 [label="細君は"];
+	node2 [label="依然として"];
+	node3 [label="仕事の"];
+	node4 [label="手を"];
+	node5 [label="やめずに"];
+	node6 [label="答える。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

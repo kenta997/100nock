@@ -1,0 +1,9 @@
+digraph graph2912 {
+	node0 [label="「そんな"];
+	node1 [label="講釈は"];
+	node2 [label="聞かんでも"];
+	node3 [label="いい。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

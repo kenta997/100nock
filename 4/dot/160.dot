@@ -1,0 +1,27 @@
+digraph graph160 {
+	node0 [label="背と"];
+	node1 [label="いい"];
+	node2 [label="毛並と"];
+	node3 [label="いい顔の"];
+	node4 [label="造作と"];
+	node5 [label="いい"];
+	node6 [label="あえて"];
+	node7 [label="他の"];
+	node8 [label="猫に"];
+	node9 [label="勝るとは"];
+	node10 [label="決して"];
+	node11 [label="思って"];
+	node12 [label="おらん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

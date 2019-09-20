@@ -1,0 +1,29 @@
+digraph graph2374 {
+	node0 [label="そりゃそうとして、"];
+	node1 [label="今日"];
+	node2 [label="来たのは、"];
+	node3 [label="少し"];
+	node4 [label="君に"];
+	node5 [label="用事が"];
+	node6 [label="あって来たんだがね——"];
+	node7 [label="あの"];
+	node8 [label="元君の"];
+	node9 [label="教えたとか"];
+	node10 [label="云う、"];
+	node11 [label="水島——ええ水島ええ"];
+	node12 [label="ちょっと"];
+	node13 [label="思い出せない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

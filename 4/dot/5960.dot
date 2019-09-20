@@ -1,0 +1,11 @@
+digraph graph5960 {
+	node0 [label="「いくら性の"];
+	node1 [label="いい"];
+	node2 [label="鉄だって"];
+	node3 [label="そうは"];
+	node4 [label="いきませんよ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

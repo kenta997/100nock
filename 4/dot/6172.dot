@@ -1,0 +1,7 @@
+digraph graph6172 {
+	node0 [label="やっぱり"];
+	node1 [label="赤い"];
+	node2 [label="状袋だろう」"];
+	node0 -> node2;
+	node1 -> node2;
+}

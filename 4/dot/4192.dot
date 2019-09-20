@@ -1,0 +1,23 @@
+digraph graph4192 {
+	node0 [label="——"];
+	node1 [label="人間の"];
+	node2 [label="取り扱が"];
+	node3 [label="俄然"];
+	node4 [label="豹変したので、"];
+	node5 [label="いくら"];
+	node6 [label="痒ゆくても"];
+	node7 [label="人力を"];
+	node8 [label="利用する"];
+	node9 [label="事は"];
+	node10 [label="出来ん。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

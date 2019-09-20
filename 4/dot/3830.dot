@@ -1,0 +1,7 @@
+digraph graph3830 {
+	node0 [label="霊か相思の"];
+	node1 [label="煙の"];
+	node2 [label="たなびき"];
+	node0 -> node1;
+	node1 -> node2;
+}

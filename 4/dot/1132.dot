@@ -1,0 +1,11 @@
+digraph graph1132 {
+	node0 [label="人も"];
+	node1 [label="犬も"];
+	node2 [label="月も"];
+	node3 [label="何にも"];
+	node4 [label="見えません。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph4466 {
+	node0 [label="そうして"];
+	node1 [label="お前の。"];
+	node0 -> node1;
+}

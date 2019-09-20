@@ -1,0 +1,15 @@
+digraph graph6718 {
+	node0 [label="すると"];
+	node1 [label="夜具の"];
+	node2 [label="中へ"];
+	node3 [label="潜って"];
+	node4 [label="返事も"];
+	node5 [label="しないんです"];
+	node6 [label="もの。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

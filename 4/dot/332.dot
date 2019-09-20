@@ -1,0 +1,11 @@
+digraph graph332 {
+	node0 [label="小供は"];
+	node1 [label="感心に"];
+	node2 [label="休まないで"];
+	node3 [label="幼稚園へ"];
+	node4 [label="かよう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

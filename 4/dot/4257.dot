@@ -1,0 +1,13 @@
+digraph graph4257 {
+	node0 [label="開校式を"];
+	node1 [label="やると"];
+	node2 [label="すれば、"];
+	node3 [label="市の"];
+	node4 [label="淑女を"];
+	node5 [label="招待しなければならん。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

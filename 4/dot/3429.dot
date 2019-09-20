@@ -1,0 +1,25 @@
+digraph graph3429 {
+	node0 [label="しかし"];
+	node1 [label="最前の"];
+	node2 [label="倒行して"];
+	node3 [label="逆"];
+	node4 [label="施すで"];
+	node5 [label="少々"];
+	node6 [label="懲りているから、"];
+	node7 [label="今度は"];
+	node8 [label="ただ"];
+	node9 [label="「へえー」と"];
+	node10 [label="云ったのみで"];
+	node11 [label="問い返さなかった。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

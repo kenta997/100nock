@@ -1,0 +1,21 @@
+digraph graph840 {
+	node0 [label="見ると"];
+	node1 [label="現今"];
+	node2 [label="知名な"];
+	node3 [label="文学博士、"];
+	node4 [label="文学士連中の"];
+	node5 [label="名が"];
+	node6 [label="行儀"];
+	node7 [label="よく"];
+	node8 [label="勢揃を"];
+	node9 [label="している。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

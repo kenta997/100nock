@@ -1,0 +1,23 @@
+digraph graph4862 {
+	node0 [label="ちょうど"];
+	node1 [label="交番焼打の"];
+	node2 [label="当時"];
+	node3 [label="巡査が"];
+	node4 [label="ことごとく"];
+	node5 [label="警察署へ"];
+	node6 [label="集って、"];
+	node7 [label="町内には"];
+	node8 [label="一人も"];
+	node9 [label="なくなったような"];
+	node10 [label="ものだ。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

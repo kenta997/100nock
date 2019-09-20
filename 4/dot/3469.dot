@@ -1,0 +1,13 @@
+digraph graph3469 {
+	node0 [label="それを"];
+	node1 [label="片端から"];
+	node2 [label="蓆でも"];
+	node3 [label="巻くごとく"];
+	node4 [label="ぐるぐる"];
+	node5 [label="畳む。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

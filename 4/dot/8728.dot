@@ -1,0 +1,27 @@
+digraph graph8728 {
+	node0 [label="今の"];
+	node1 [label="世は"];
+	node2 [label="いかに"];
+	node3 [label="殿下でも"];
+	node4 [label="閣下でも、"];
+	node5 [label="ある程度以上に"];
+	node6 [label="個人の"];
+	node7 [label="人格の"];
+	node8 [label="上に"];
+	node9 [label="のしかかる"];
+	node10 [label="事が"];
+	node11 [label="出来ない"];
+	node12 [label="世の中です。"];
+	node0 -> node1;
+	node1 -> node12;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

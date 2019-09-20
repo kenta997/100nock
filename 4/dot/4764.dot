@@ -1,0 +1,13 @@
+digraph graph4764 {
+	node0 [label="退屈な"];
+	node1 [label="時には"];
+	node2 [label="髯の"];
+	node3 [label="数さえ"];
+	node4 [label="勘定して"];
+	node5 [label="見たくなる者だ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

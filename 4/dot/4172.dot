@@ -1,0 +1,19 @@
+digraph graph4172 {
+	node0 [label="猫なら"];
+	node1 [label="この"];
+	node2 [label="くらい"];
+	node3 [label="やれば"];
+	node4 [label="たしかに"];
+	node5 [label="応えるのだが"];
+	node6 [label="生憎"];
+	node7 [label="相手は"];
+	node8 [label="烏だ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

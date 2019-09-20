@@ -1,0 +1,9 @@
+digraph graph8523 {
+	node0 [label="三更月下入無我とは"];
+	node1 [label="この"];
+	node2 [label="至境を"];
+	node3 [label="咏じたものさ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

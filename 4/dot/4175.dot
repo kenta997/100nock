@@ -1,0 +1,21 @@
+digraph graph4175 {
+	node0 [label="機を"];
+	node1 [label="見るに"];
+	node2 [label="敏なる"];
+	node3 [label="吾輩は"];
+	node4 [label="とうてい"];
+	node5 [label="駄目と"];
+	node6 [label="見て取ったから、"];
+	node7 [label="奇麗さっぱりと"];
+	node8 [label="椽側へ"];
+	node9 [label="引き上げた。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

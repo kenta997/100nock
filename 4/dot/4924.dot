@@ -1,0 +1,15 @@
+digraph graph4924 {
+	node0 [label="主人は"];
+	node1 [label="恐縮の"];
+	node2 [label="結果として"];
+	node3 [label="手足に"];
+	node4 [label="通う"];
+	node5 [label="血管が"];
+	node6 [label="収縮せざるを得ない。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

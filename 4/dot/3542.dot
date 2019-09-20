@@ -1,0 +1,29 @@
+digraph graph3542 {
+	node0 [label="　ところへ"];
+	node1 [label="寒月君が、"];
+	node2 [label="どう"];
+	node3 [label="云う"];
+	node4 [label="了見か"];
+	node5 [label="この"];
+	node6 [label="暑いのに"];
+	node7 [label="御苦労にも"];
+	node8 [label="冬帽を"];
+	node9 [label="被って"];
+	node10 [label="両足を"];
+	node11 [label="埃だらけに"];
+	node12 [label="して"];
+	node13 [label="やってくる。"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

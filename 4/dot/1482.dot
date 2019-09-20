@@ -1,0 +1,21 @@
+digraph graph1482 {
+	node0 [label="「いよー"];
+	node1 [label="本式に"];
+	node2 [label="やるのか"];
+	node3 [label="次には"];
+	node4 [label="拍手の"];
+	node5 [label="請求とおいで"];
+	node6 [label="なさるだろう」と"];
+	node7 [label="迷亭は"];
+	node8 [label="独りで"];
+	node9 [label="騒ぎ立てる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

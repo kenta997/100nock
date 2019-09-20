@@ -1,0 +1,9 @@
+digraph graph2736 {
+	node0 [label="それ"];
+	node1 [label="ぎり音も"];
+	node2 [label="沙汰も"];
+	node3 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

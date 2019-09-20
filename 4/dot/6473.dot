@@ -1,0 +1,21 @@
+digraph graph6473 {
+	node0 [label="元禄が"];
+	node1 [label="冷たくては"];
+	node2 [label="大変だから、"];
+	node3 [label="御三が"];
+	node4 [label="台所から"];
+	node5 [label="飛び出して来て、"];
+	node6 [label="雑巾を"];
+	node7 [label="取上げて"];
+	node8 [label="着物を"];
+	node9 [label="拭いてやる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

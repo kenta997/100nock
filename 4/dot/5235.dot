@@ -1,0 +1,5 @@
+digraph graph5235 {
+	node0 [label="何か"];
+	node1 [label="ご用で」"];
+	node0 -> node1;
+}

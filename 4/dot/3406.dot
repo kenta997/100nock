@@ -1,0 +1,11 @@
+digraph graph3406 {
+	node0 [label="今風呂場で"];
+	node1 [label="御三に"];
+	node2 [label="水を"];
+	node3 [label="掛けて"];
+	node4 [label="貰ってね。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

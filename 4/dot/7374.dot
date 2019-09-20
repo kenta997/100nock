@@ -1,0 +1,9 @@
+digraph graph7374 {
+	node0 [label="理由は"];
+	node1 [label="ない"];
+	node2 [label="ただ"];
+	node3 [label="ありがたい。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

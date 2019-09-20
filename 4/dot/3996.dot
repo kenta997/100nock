@@ -1,0 +1,15 @@
+digraph graph3996 {
+	node0 [label="君は"];
+	node1 [label="惰性で"];
+	node2 [label="急廻転が"];
+	node3 [label="出来ないから"];
+	node4 [label="やはり"];
+	node5 [label="やむを得ず"];
+	node6 [label="前進してくる。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

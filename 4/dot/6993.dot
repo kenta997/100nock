@@ -1,0 +1,11 @@
+digraph graph6993 {
+	node0 [label="「いやな"];
+	node1 [label="人ね、"];
+	node2 [label="そんな"];
+	node3 [label="ものを"];
+	node4 [label="見せびらかして。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

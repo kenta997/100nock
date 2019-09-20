@@ -1,0 +1,7 @@
+digraph graph1878 {
+	node0 [label="鶉の"];
+	node1 [label="三を"];
+	node2 [label="取るんだよ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

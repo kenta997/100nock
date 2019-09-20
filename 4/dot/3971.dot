@@ -1,0 +1,13 @@
+digraph graph3971 {
+	node0 [label="振り上げた"];
+	node1 [label="鎌首を"];
+	node2 [label="右の"];
+	node3 [label="前足で"];
+	node4 [label="ちょっと"];
+	node5 [label="参る。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

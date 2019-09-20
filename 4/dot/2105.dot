@@ -1,0 +1,9 @@
+digraph graph2105 {
+	node0 [label="「ところが"];
+	node1 [label="何だか"];
+	node2 [label="要領を"];
+	node3 [label="得んので」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,31 @@
+digraph graph182 {
+	node0 [label="　我儘も"];
+	node1 [label="この"];
+	node2 [label="くらいなら"];
+	node3 [label="我慢するが"];
+	node4 [label="吾輩は"];
+	node5 [label="人間の"];
+	node6 [label="不徳について"];
+	node7 [label="これよりも"];
+	node8 [label="数倍"];
+	node9 [label="悲しむべき"];
+	node10 [label="報道を"];
+	node11 [label="耳に"];
+	node12 [label="した"];
+	node13 [label="事が"];
+	node14 [label="ある。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node14;
+	node4 -> node14;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node14;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

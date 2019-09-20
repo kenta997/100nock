@@ -1,0 +1,9 @@
+digraph graph3102 {
+	node0 [label="「九年"];
+	node1 [label="立っても"];
+	node2 [label="月給は"];
+	node3 [label="上がらず。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

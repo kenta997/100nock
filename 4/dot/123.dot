@@ -1,0 +1,15 @@
+digraph graph123 {
+	node0 [label="その"];
+	node1 [label="癖"];
+	node2 [label="やり出すと"];
+	node3 [label="胃弱の"];
+	node4 [label="癖に"];
+	node5 [label="いやに"];
+	node6 [label="熱心だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

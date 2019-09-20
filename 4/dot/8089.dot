@@ -1,0 +1,15 @@
+digraph graph8089 {
+	node0 [label="「秋の夜長に"];
+	node1 [label="川端で"];
+	node2 [label="犬の"];
+	node3 [label="遠吠を"];
+	node4 [label="きくのは"];
+	node5 [label="ちょっと"];
+	node6 [label="芝居がかりだね。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

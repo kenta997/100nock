@@ -1,0 +1,7 @@
+digraph graph8129 {
+	node0 [label="今までは"];
+	node1 [label="単に"];
+	node2 [label="序幕です」"];
+	node0 -> node2;
+	node1 -> node2;
+}

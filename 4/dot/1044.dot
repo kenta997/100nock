@@ -1,0 +1,29 @@
+digraph graph1044 {
+	node0 [label="なるほど"];
+	node1 [label="親は"];
+	node2 [label="ありがたい"];
+	node3 [label="ものだ、"];
+	node4 [label="他人では"];
+	node5 [label="とても"];
+	node6 [label="こうは"];
+	node7 [label="いかないと、"];
+	node8 [label="呑気な"];
+	node9 [label="僕も"];
+	node10 [label="その"];
+	node11 [label="時だけは"];
+	node12 [label="大に"];
+	node13 [label="感動した。"];
+	node0 -> node13;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

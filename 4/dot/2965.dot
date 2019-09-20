@@ -1,0 +1,33 @@
+digraph graph2965 {
+	node0 [label="三平君は"];
+	node1 [label="以前の"];
+	node2 [label="関係から"];
+	node3 [label="時々"];
+	node4 [label="旧先生の"];
+	node5 [label="草廬を"];
+	node6 [label="訪問して"];
+	node7 [label="日曜などには"];
+	node8 [label="一日"];
+	node9 [label="遊んで"];
+	node10 [label="帰るくらい、"];
+	node11 [label="この"];
+	node12 [label="家族とは"];
+	node13 [label="遠慮の"];
+	node14 [label="ない"];
+	node15 [label="間柄である。"];
+	node0 -> node15;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

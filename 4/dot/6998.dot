@@ -1,0 +1,19 @@
+digraph graph6998 {
+	node0 [label="「どうですか、"];
+	node1 [label="あの"];
+	node2 [label="方は"];
+	node3 [label="学校へ"];
+	node4 [label="行って"];
+	node5 [label="球ばかり"];
+	node6 [label="磨いていらっしゃるから、"];
+	node7 [label="大方"];
+	node8 [label="知らないでしょう」"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

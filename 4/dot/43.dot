@@ -1,0 +1,11 @@
+digraph graph43 {
+	node0 [label="一樹の"];
+	node1 [label="蔭とは"];
+	node2 [label="よく"];
+	node3 [label="云った"];
+	node4 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

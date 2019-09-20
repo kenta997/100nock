@@ -1,0 +1,5 @@
+digraph graph4160 {
+	node0 [label="いよいよ"];
+	node1 [label="肝癪に障る。"];
+	node0 -> node1;
+}

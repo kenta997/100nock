@@ -1,0 +1,7 @@
+digraph graph8445 {
+	node0 [label="断わる"];
+	node1 [label="訳が"];
+	node2 [label="ありません。"];
+	node0 -> node1;
+	node1 -> node2;
+}

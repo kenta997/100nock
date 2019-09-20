@@ -1,0 +1,13 @@
+digraph graph4694 {
+	node0 [label="しかし"];
+	node1 [label="話しは"];
+	node2 [label="過去へ"];
+	node3 [label="溯らんと"];
+	node4 [label="源因が"];
+	node5 [label="分からない。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

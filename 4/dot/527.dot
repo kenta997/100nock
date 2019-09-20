@@ -1,0 +1,19 @@
+digraph graph527 {
+	node0 [label="ただ"];
+	node1 [label="昨夜"];
+	node2 [label="寒月と"];
+	node3 [label="傾けた"];
+	node4 [label="三杯の"];
+	node5 [label="正宗は"];
+	node6 [label="たしかに"];
+	node7 [label="利目が"];
+	node8 [label="ある。"];
+	node0 -> node8;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

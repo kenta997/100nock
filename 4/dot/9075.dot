@@ -1,0 +1,5 @@
+digraph graph9075 {
+	node0 [label="寒月君は"];
+	node1 [label="出てくれるでしょうね。"];
+	node0 -> node1;
+}

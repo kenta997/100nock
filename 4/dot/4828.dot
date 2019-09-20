@@ -1,0 +1,21 @@
+digraph graph4828 {
+	node0 [label="もし"];
+	node1 [label="そんな"];
+	node2 [label="事を"];
+	node3 [label="やる"];
+	node4 [label="日には"];
+	node5 [label="教師を"];
+	node6 [label="辞職して、"];
+	node7 [label="その方専門に"];
+	node8 [label="ならなければ"];
+	node9 [label="追っつかない。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

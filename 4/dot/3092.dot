@@ -1,0 +1,5 @@
+digraph graph3092 {
+	node0 [label="なるほど"];
+	node1 [label="寒いはずである。"];
+	node0 -> node1;
+}

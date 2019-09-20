@@ -1,0 +1,33 @@
+digraph graph5082 {
+	node0 [label="運動の"];
+	node1 [label="第二則に"];
+	node2 [label="曰く運動の"];
+	node3 [label="変化は、"];
+	node4 [label="加えられたる"];
+	node5 [label="力に"];
+	node6 [label="比例す、"];
+	node7 [label="しかして"];
+	node8 [label="その"];
+	node9 [label="力の"];
+	node10 [label="働く"];
+	node11 [label="直線の"];
+	node12 [label="方向において"];
+	node13 [label="起る"];
+	node14 [label="ものと"];
+	node15 [label="す。"];
+	node0 -> node1;
+	node1 -> node15;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

@@ -1,0 +1,11 @@
+digraph graph6337 {
+	node0 [label="まず"];
+	node1 [label="脈搏から"];
+	node2 [label="して"];
+	node3 [label="検査しなくては"];
+	node4 [label="ならん。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,11 @@
+digraph graph1851 {
+	node0 [label="どこに"];
+	node1 [label="いるのだか"];
+	node2 [label="ちょっと"];
+	node3 [label="方角が"];
+	node4 [label="分らなくなる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,23 @@
+digraph graph42 {
+	node0 [label="縁は"];
+	node1 [label="不思議な"];
+	node2 [label="もので、"];
+	node3 [label="もし"];
+	node4 [label="この"];
+	node5 [label="竹垣が"];
+	node6 [label="破れていなかったなら、"];
+	node7 [label="吾輩は"];
+	node8 [label="ついに"];
+	node9 [label="路傍に"];
+	node10 [label="餓死したかも知れんのである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

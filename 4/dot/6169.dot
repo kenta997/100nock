@@ -1,0 +1,13 @@
+digraph graph6169 {
+	node0 [label="「それじゃ"];
+	node1 [label="僕の"];
+	node2 [label="所へ"];
+	node3 [label="来たのも"];
+	node4 [label="老梅から"];
+	node5 [label="来たんだ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

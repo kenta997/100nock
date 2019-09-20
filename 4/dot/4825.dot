@@ -1,0 +1,15 @@
+digraph graph4825 {
+	node0 [label="膃肭臍が"];
+	node1 [label="ひなたぼっこを"];
+	node2 [label="している"];
+	node3 [label="ところへ"];
+	node4 [label="密猟船が"];
+	node5 [label="向ったような"];
+	node6 [label="者だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

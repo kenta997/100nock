@@ -1,0 +1,5 @@
+digraph graph1480 {
+	node0 [label="寒月君は"];
+	node1 [label="いそがない。"];
+	node0 -> node1;
+}

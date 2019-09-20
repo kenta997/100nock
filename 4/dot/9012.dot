@@ -1,0 +1,7 @@
+digraph graph9012 {
+	node0 [label="袴を"];
+	node1 [label="穿いてるが"];
+	node2 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+}

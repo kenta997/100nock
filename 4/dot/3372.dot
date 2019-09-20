@@ -1,0 +1,9 @@
+digraph graph3372 {
+	node0 [label="暑いと"];
+	node1 [label="その上へ"];
+	node2 [label="日傘を"];
+	node3 [label="かぶる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

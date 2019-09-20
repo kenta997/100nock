@@ -1,0 +1,5 @@
+digraph graph3445 {
+	node0 [label="相変らず"];
+	node1 [label="午睡ですかね。"];
+	node0 -> node1;
+}

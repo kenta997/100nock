@@ -1,0 +1,19 @@
+digraph graph1775 {
+	node0 [label="あなたも"];
+	node1 [label="よっぽど"];
+	node2 [label="法螺が"];
+	node3 [label="御上手で"];
+	node4 [label="いらっしゃる"];
+	node5 [label="事」と"];
+	node6 [label="細君は"];
+	node7 [label="非常に"];
+	node8 [label="感心する。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

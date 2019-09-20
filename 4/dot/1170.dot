@@ -1,0 +1,35 @@
+digraph graph1170 {
+	node0 [label="晩飯を"];
+	node1 [label="くって"];
+	node2 [label="電車で"];
+	node3 [label="行こうと"];
+	node4 [label="降参を"];
+	node5 [label="すると、"];
+	node6 [label="行くなら"];
+	node7 [label="四時までに"];
+	node8 [label="向うへ"];
+	node9 [label="着くようにしなくっちゃ"];
+	node10 [label="いけません、"];
+	node11 [label="そんな"];
+	node12 [label="ぐずぐずして"];
+	node13 [label="はいられませんと"];
+	node14 [label="急に"];
+	node15 [label="勢が"];
+	node16 [label="いい。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+}

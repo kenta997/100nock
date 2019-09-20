@@ -1,0 +1,17 @@
+digraph graph8027 {
+	node0 [label="それで"];
+	node1 [label="金善方へ"];
+	node2 [label="来て"];
+	node3 [label="見ると、"];
+	node4 [label="店には"];
+	node5 [label="ランプが"];
+	node6 [label="かんかん"];
+	node7 [label="ともって……」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,5 @@
+digraph graph2460 {
+	node0 [label="主人は"];
+	node1 [label="にやにやしている。"];
+	node0 -> node1;
+}

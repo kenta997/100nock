@@ -1,0 +1,13 @@
+digraph graph3055 {
+	node0 [label="「山の芋ばかりなら"];
+	node1 [label="困りゃ"];
+	node2 [label="しませんが、"];
+	node3 [label="不断着を"];
+	node4 [label="みんな"];
+	node5 [label="取って行きました」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,9 @@
+digraph graph4760 {
+	node0 [label="からかいかけるや"];
+	node1 [label="否や"];
+	node2 [label="八つ裂きに"];
+	node3 [label="されてしまう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

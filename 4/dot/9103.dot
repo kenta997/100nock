@@ -1,0 +1,9 @@
+digraph graph9103 {
+	node0 [label="鈴木の"];
+	node1 [label="藤さんは"];
+	node2 [label="どこまでも"];
+	node3 [label="転がって行く。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

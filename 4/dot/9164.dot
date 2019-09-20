@@ -1,0 +1,7 @@
+digraph graph9164 {
+	node0 [label="こう"];
+	node1 [label="なれば"];
+	node2 [label="それまでだ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

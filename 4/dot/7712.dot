@@ -1,0 +1,7 @@
+digraph graph7712 {
+	node0 [label="「なに鼠だから、"];
+	node1 [label="どこに"];
+	node2 [label="住んでてもそそっかしいのでしょう。"];
+	node0 -> node2;
+	node1 -> node2;
+}

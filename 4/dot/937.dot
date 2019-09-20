@@ -1,0 +1,25 @@
+digraph graph937 {
+	node0 [label="「風邪を"];
+	node1 [label="引くと"];
+	node2 [label="いっても"];
+	node3 [label="あまり"];
+	node4 [label="出あるきもしないようだったに……」"];
+	node5 [label="「いえね、"];
+	node6 [label="あなた、"];
+	node7 [label="それが"];
+	node8 [label="近頃は"];
+	node9 [label="悪い"];
+	node10 [label="友達が"];
+	node11 [label="出来ましてね」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

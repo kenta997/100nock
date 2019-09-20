@@ -1,0 +1,19 @@
+digraph graph8301 {
+	node0 [label="「いよいよ"];
+	node1 [label="出たね」と"];
+	node2 [label="東風君が"];
+	node3 [label="云うと"];
+	node4 [label="「滅多に"];
+	node5 [label="弾くと"];
+	node6 [label="あぶないよ」と"];
+	node7 [label="迷亭君が"];
+	node8 [label="注意した。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

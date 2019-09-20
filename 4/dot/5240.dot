@@ -1,0 +1,7 @@
+digraph graph5240 {
+	node0 [label="「ええ、"];
+	node1 [label="そう……」と"];
+	node2 [label="考えている。"];
+	node0 -> node1;
+	node1 -> node2;
+}

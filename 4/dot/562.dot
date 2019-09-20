@@ -1,0 +1,5 @@
+digraph graph562 {
+	node0 [label="Ｚでなくては"];
+	node1 [label="いかん。"];
+	node0 -> node1;
+}

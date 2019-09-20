@@ -1,0 +1,9 @@
+digraph graph2551 {
+	node0 [label="思い出すと"];
+	node1 [label="滑稽でもあり、また"];
+	node2 [label="少々は"];
+	node3 [label="悪らしくもなる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

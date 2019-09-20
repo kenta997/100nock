@@ -1,0 +1,11 @@
+digraph graph906 {
+	node0 [label="　また"];
+	node1 [label="大兄のごとくか、"];
+	node2 [label="癪に障る男だと"];
+	node3 [label="主人が"];
+	node4 [label="思う。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,11 @@
+digraph graph5656 {
+	node0 [label="ただ"];
+	node1 [label="見てさえ"];
+	node2 [label="あまり気味の"];
+	node3 [label="いい"];
+	node4 [label="顔じゃない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

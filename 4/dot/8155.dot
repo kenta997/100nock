@@ -1,0 +1,7 @@
+digraph graph8155 {
+	node0 [label="「どこへ"];
+	node1 [label="入れたと"];
+	node2 [label="思う」"];
+	node0 -> node1;
+	node1 -> node2;
+}

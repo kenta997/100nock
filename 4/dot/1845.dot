@@ -1,0 +1,27 @@
+digraph graph1845 {
+	node0 [label="吾輩の"];
+	node1 [label="尊敬する"];
+	node2 [label="尻尾大明神を"];
+	node3 [label="礼拝して"];
+	node4 [label="ニャン運長久を"];
+	node5 [label="祈らばやと、"];
+	node6 [label="ちょっと"];
+	node7 [label="低頭して"];
+	node8 [label="見たが、"];
+	node9 [label="どうも"];
+	node10 [label="少し"];
+	node11 [label="見当が"];
+	node12 [label="違うようである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

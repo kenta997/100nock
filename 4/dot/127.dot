@@ -1,0 +1,31 @@
+digraph graph127 {
+	node0 [label="何を"];
+	node1 [label="買って来たのかと"];
+	node2 [label="思うと"];
+	node3 [label="水彩絵具と"];
+	node4 [label="毛筆と"];
+	node5 [label="ワットマンという"];
+	node6 [label="紙で"];
+	node7 [label="今日から"];
+	node8 [label="謡や"];
+	node9 [label="俳句を"];
+	node10 [label="やめて"];
+	node11 [label="絵を"];
+	node12 [label="かく"];
+	node13 [label="決心と"];
+	node14 [label="見えた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node14;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

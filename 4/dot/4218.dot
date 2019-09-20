@@ -1,0 +1,13 @@
+digraph graph4218 {
+	node0 [label="やって"];
+	node1 [label="見て"];
+	node2 [label="功験が"];
+	node3 [label="なければ"];
+	node4 [label="よすまでの"];
+	node5 [label="事だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

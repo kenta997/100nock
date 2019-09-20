@@ -1,0 +1,23 @@
+digraph graph3981 {
+	node0 [label="先方が"];
+	node1 [label="いつまでもこの"];
+	node2 [label="態度で"];
+	node3 [label="いては"];
+	node4 [label="運動に"];
+	node5 [label="ならんから、"];
+	node6 [label="あまり"];
+	node7 [label="長くなるとまた"];
+	node8 [label="ちょいと"];
+	node9 [label="一本"];
+	node10 [label="参る。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

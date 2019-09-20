@@ -1,0 +1,11 @@
+digraph graph5962 {
+	node0 [label="「寒月というのは、"];
+	node1 [label="あの"];
+	node2 [label="ガラス球を"];
+	node3 [label="磨っている"];
+	node4 [label="男かい。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

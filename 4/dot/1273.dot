@@ -1,0 +1,9 @@
+digraph graph1273 {
+	node0 [label="「御前も"];
+	node1 [label="回向を"];
+	node2 [label="して"];
+	node3 [label="おやりなさい」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

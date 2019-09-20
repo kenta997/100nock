@@ -1,0 +1,9 @@
+digraph graph2735 {
+	node0 [label="陰士は"];
+	node1 [label="いよいよ"];
+	node2 [label="書斎へ"];
+	node3 [label="這入った。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

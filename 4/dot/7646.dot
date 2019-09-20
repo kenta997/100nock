@@ -1,0 +1,9 @@
+digraph graph7646 {
+	node0 [label="一剣天に"];
+	node1 [label="倚って"];
+	node2 [label="寒し——ええ、"];
+	node3 [label="面倒だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

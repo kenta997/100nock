@@ -1,0 +1,11 @@
+digraph graph2347 {
+	node0 [label="君のように"];
+	node1 [label="そう"];
+	node2 [label="真面目に"];
+	node3 [label="解釈しちゃ"];
+	node4 [label="困る」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,25 @@
+digraph graph8784 {
+	node0 [label="「すると"];
+	node1 [label="私なぞは"];
+	node2 [label="資格の"];
+	node3 [label="ない"];
+	node4 [label="組へ"];
+	node5 [label="編入される"];
+	node6 [label="訳ですね」と"];
+	node7 [label="寒月君は"];
+	node8 [label="際どい"];
+	node9 [label="ところで"];
+	node10 [label="のろけを"];
+	node11 [label="云った。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

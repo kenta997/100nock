@@ -1,0 +1,11 @@
+digraph graph3 {
+	node0 [label="　どこで"];
+	node1 [label="生れた"];
+	node2 [label="かとんと"];
+	node3 [label="見当が"];
+	node4 [label="つかぬ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

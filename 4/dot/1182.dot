@@ -1,0 +1,17 @@
+digraph graph1182 {
+	node0 [label="今日は"];
+	node1 [label="幸い"];
+	node2 [label="時間も"];
+	node3 [label="ある、"];
+	node4 [label="嚢中には"];
+	node5 [label="四五枚の"];
+	node6 [label="堵物も"];
+	node7 [label="ある。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+}

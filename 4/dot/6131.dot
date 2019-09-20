@@ -1,0 +1,5 @@
+digraph graph6131 {
+	node0 [label="一人は"];
+	node1 [label="理野陶然さ。"];
+	node0 -> node1;
+}

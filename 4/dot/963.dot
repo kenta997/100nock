@@ -1,0 +1,11 @@
+digraph graph963 {
+	node0 [label="「第二読本」と"];
+	node1 [label="主人は"];
+	node2 [label="落ちつき"];
+	node3 [label="はらって"];
+	node4 [label="答える。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,9 @@
+digraph graph2982 {
+	node0 [label="「寿司は"];
+	node1 [label="持って来んが、"];
+	node2 [label="山の芋は"];
+	node3 [label="上げたろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

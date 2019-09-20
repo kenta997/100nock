@@ -1,0 +1,13 @@
+digraph graph3460 {
+	node0 [label="さあ坐りたまえ」と"];
+	node1 [label="どっちが"];
+	node2 [label="客だか"];
+	node3 [label="分らぬ"];
+	node4 [label="挨拶を"];
+	node5 [label="する。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

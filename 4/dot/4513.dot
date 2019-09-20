@@ -1,0 +1,25 @@
+digraph graph4513 {
+	node0 [label="一飯君恩を"];
+	node1 [label="重んずと"];
+	node2 [label="云う"];
+	node3 [label="詩人も"];
+	node4 [label="ある"];
+	node5 [label="事だから"];
+	node6 [label="猫だって"];
+	node7 [label="主人の"];
+	node8 [label="身の上を"];
+	node9 [label="思わない"];
+	node10 [label="事は"];
+	node11 [label="あるまい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

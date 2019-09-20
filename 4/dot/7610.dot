@@ -1,0 +1,5 @@
+digraph graph7610 {
+	node0 [label="さあ、"];
+	node1 [label="来たまえ。"];
+	node0 -> node1;
+}

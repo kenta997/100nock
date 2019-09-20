@@ -1,0 +1,37 @@
+digraph graph5040 {
+	node0 [label="しかし"];
+	node1 [label="聞く"];
+	node2 [label="ところに"];
+	node3 [label="よれば"];
+	node4 [label="これは"];
+	node5 [label="米国から"];
+	node6 [label="輸入された"];
+	node7 [label="遊戯で、"];
+	node8 [label="今日"];
+	node9 [label="中学程度以上の"];
+	node10 [label="学校に"];
+	node11 [label="行わるる"];
+	node12 [label="運動の"];
+	node13 [label="うちで"];
+	node14 [label="もっとも"];
+	node15 [label="流行する"];
+	node16 [label="ものだ"];
+	node17 [label="そうだ。"];
+	node0 -> node17;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node17;
+	node4 -> node17;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node17;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

@@ -1,0 +1,29 @@
+digraph graph6376 {
+	node0 [label="のみならず"];
+	node1 [label="彼は"];
+	node2 [label="せっかく"];
+	node3 [label="この"];
+	node4 [label="問題を"];
+	node5 [label="提供して"];
+	node6 [label="自己の"];
+	node7 [label="思索力に"];
+	node8 [label="訴えながら、"];
+	node9 [label="ついに"];
+	node10 [label="何等の"];
+	node11 [label="結論に"];
+	node12 [label="達せずして"];
+	node13 [label="やめてしまった。"];
+	node0 -> node13;
+	node1 -> node13;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

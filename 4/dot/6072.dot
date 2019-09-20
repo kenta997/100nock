@@ -1,0 +1,23 @@
+digraph graph6072 {
+	node0 [label="「君"];
+	node1 [label="独仙の"];
+	node2 [label="説を"];
+	node3 [label="聞いた"];
+	node4 [label="事が"];
+	node5 [label="あるのかい」と"];
+	node6 [label="主人は"];
+	node7 [label="剣呑だから"];
+	node8 [label="念を"];
+	node9 [label="推して"];
+	node10 [label="見る。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

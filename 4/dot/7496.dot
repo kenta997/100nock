@@ -1,0 +1,15 @@
+digraph graph7496 {
+	node0 [label="元を"];
+	node1 [label="糺せば"];
+	node2 [label="金田令嬢の"];
+	node3 [label="ハイカラと"];
+	node4 [label="生意気から"];
+	node5 [label="起った"];
+	node6 [label="事だ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

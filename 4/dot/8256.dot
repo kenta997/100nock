@@ -1,0 +1,5 @@
+digraph graph8256 {
+	node0 [label="「何とも"];
+	node1 [label="云えませんね。"];
+	node0 -> node1;
+}

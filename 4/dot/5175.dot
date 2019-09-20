@@ -1,0 +1,9 @@
+digraph graph5175 {
+	node0 [label="小使などに"];
+	node1 [label="何が"];
+	node2 [label="分かる"];
+	node3 [label="ものか」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

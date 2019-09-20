@@ -1,0 +1,5 @@
+digraph graph8409 {
+	node0 [label="ねえ、"];
+	node1 [label="東風君そうだろう」"];
+	node0 -> node1;
+}

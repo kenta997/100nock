@@ -1,0 +1,15 @@
+digraph graph4797 {
+	node0 [label="それを"];
+	node1 [label="怒る"];
+	node2 [label="主人は"];
+	node3 [label="野暮の"];
+	node4 [label="極、"];
+	node5 [label="間抜の"];
+	node6 [label="骨頂でしょう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

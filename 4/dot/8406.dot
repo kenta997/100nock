@@ -1,0 +1,15 @@
+digraph graph8406 {
+	node0 [label="あの"];
+	node1 [label="事件なら、"];
+	node2 [label="君と僕が"];
+	node3 [label="知ってるばかりじゃない、"];
+	node4 [label="公然の秘密として"];
+	node5 [label="天下一般に"];
+	node6 [label="知れ渡ってる。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

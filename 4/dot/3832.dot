@@ -1,0 +1,9 @@
+digraph graph3832 {
+	node0 [label="あまく"];
+	node1 [label="得てしか"];
+	node2 [label="熱き"];
+	node3 [label="口づけ"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

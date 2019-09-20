@@ -1,0 +1,23 @@
+digraph graph6445 {
+	node0 [label="自分では"];
+	node1 [label="ベトヴェンの"];
+	node2 [label="シンフォニーにも"];
+	node3 [label="劣らざる"];
+	node4 [label="美妙の"];
+	node5 [label="音と"];
+	node6 [label="確信しているのだが"];
+	node7 [label="御三には"];
+	node8 [label="何等の"];
+	node9 [label="影響も"];
+	node10 [label="生じないようだ。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

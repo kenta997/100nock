@@ -1,0 +1,15 @@
+digraph graph2319 {
+	node0 [label="「十八金だよ」と"];
+	node1 [label="鈴木君は"];
+	node2 [label="笑いながら"];
+	node3 [label="答えたが"];
+	node4 [label="「君も"];
+	node5 [label="大分年を"];
+	node6 [label="取ったね。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

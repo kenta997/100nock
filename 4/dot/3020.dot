@@ -1,0 +1,19 @@
+digraph graph3020 {
+	node0 [label="「やだわ、"];
+	node1 [label="虫が"];
+	node2 [label="食うなんて、"];
+	node3 [label="そりゃ髷で"];
+	node4 [label="釣る"];
+	node5 [label="ところは"];
+	node6 [label="女だから"];
+	node7 [label="少しは"];
+	node8 [label="禿げますさ」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

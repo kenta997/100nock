@@ -1,0 +1,9 @@
+digraph graph1814 {
+	node0 [label="やはり"];
+	node1 [label="行く"];
+	node2 [label="事に"];
+	node3 [label="致そう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

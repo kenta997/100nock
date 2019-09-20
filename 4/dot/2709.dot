@@ -1,0 +1,21 @@
+digraph graph2709 {
+	node0 [label="大方"];
+	node1 [label="例の"];
+	node2 [label="鼠だろう、"];
+	node3 [label="鼠なら"];
+	node4 [label="捕らん"];
+	node5 [label="事に"];
+	node6 [label="極めているから"];
+	node7 [label="勝手に"];
+	node8 [label="あばれるが"];
+	node9 [label="宜しい。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

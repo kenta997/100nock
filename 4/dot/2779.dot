@@ -1,0 +1,25 @@
+digraph graph2779 {
+	node0 [label="彼等"];
+	node1 [label="顔面の"];
+	node2 [label="構造は"];
+	node3 [label="神の"];
+	node4 [label="成功の"];
+	node5 [label="紀念と"];
+	node6 [label="見ら"];
+	node7 [label="るると同時に"];
+	node8 [label="失敗の"];
+	node9 [label="痕迹とも"];
+	node10 [label="判ぜら"];
+	node11 [label="るるではないか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

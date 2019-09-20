@@ -1,0 +1,15 @@
+digraph graph5440 {
+	node0 [label="交際の"];
+	node1 [label="少ない"];
+	node2 [label="主人の"];
+	node3 [label="家に"];
+	node4 [label="しては"];
+	node5 [label="まるで"];
+	node6 [label="嘘のようである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

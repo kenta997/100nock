@@ -1,0 +1,21 @@
+digraph graph666 {
+	node0 [label="吾輩も"];
+	node1 [label="先生と"];
+	node2 [label="云われて"];
+	node3 [label="満更"];
+	node4 [label="悪い"];
+	node5 [label="心持ちも"];
+	node6 [label="しないから、"];
+	node7 [label="はいはいと"];
+	node8 [label="返事を"];
+	node9 [label="している。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

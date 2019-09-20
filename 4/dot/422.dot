@@ -1,0 +1,13 @@
+digraph graph422 {
+	node0 [label="吾輩はまた"];
+	node1 [label="欠けは"];
+	node2 [label="せぬかと"];
+	node3 [label="心配したが"];
+	node4 [label="今度は"];
+	node5 [label="大丈夫であった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

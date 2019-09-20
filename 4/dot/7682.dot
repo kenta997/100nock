@@ -1,0 +1,21 @@
+digraph graph7682 {
+	node0 [label="「アーメン」と"];
+	node1 [label="迷亭先生"];
+	node2 [label="今度は"];
+	node3 [label="まるで"];
+	node4 [label="関係の"];
+	node5 [label="ない"];
+	node6 [label="方面へ"];
+	node7 [label="ぴしゃりと"];
+	node8 [label="一石を"];
+	node9 [label="下した。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

@@ -1,0 +1,11 @@
+digraph graph3519 {
+	node0 [label="「奥さん蕎麦を"];
+	node1 [label="食うにも"];
+	node2 [label="いろいろ"];
+	node3 [label="流儀が"];
+	node4 [label="ありますがね。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

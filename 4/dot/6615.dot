@@ -1,0 +1,23 @@
+digraph graph6615 {
+	node0 [label="必ず"];
+	node1 [label="姉の"];
+	node2 [label="茶碗を"];
+	node3 [label="奪い、"];
+	node4 [label="姉の"];
+	node5 [label="箸を"];
+	node6 [label="引ったくって、"];
+	node7 [label="持ちあつかい"];
+	node8 [label="悪い奴を"];
+	node9 [label="無理に"];
+	node10 [label="持ちあつかっている。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

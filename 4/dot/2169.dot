@@ -1,0 +1,11 @@
+digraph graph2169 {
+	node0 [label="「水島さんが"];
+	node1 [label="可哀そうですからね」と"];
+	node2 [label="鼻子夫人が"];
+	node3 [label="口を"];
+	node4 [label="出す。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

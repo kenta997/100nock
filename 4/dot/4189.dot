@@ -1,0 +1,21 @@
+digraph graph4189 {
+	node0 [label="高がのみの"];
+	node1 [label="千疋や"];
+	node2 [label="二千疋で"];
+	node3 [label="よく"];
+	node4 [label="まあ"];
+	node5 [label="こんなに"];
+	node6 [label="現金な"];
+	node7 [label="真似が"];
+	node8 [label="出来た"];
+	node9 [label="ものだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

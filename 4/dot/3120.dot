@@ -1,0 +1,7 @@
+digraph graph3120 {
+	node0 [label="「もう"];
+	node1 [label="五十円に"];
+	node2 [label="なります」"];
+	node0 -> node1;
+	node1 -> node2;
+}

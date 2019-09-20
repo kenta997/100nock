@@ -1,0 +1,15 @@
+digraph graph5030 {
+	node0 [label="だによって"];
+	node1 [label="吾輩が"];
+	node2 [label="蜂の"];
+	node3 [label="陣立てを"];
+	node4 [label="話すのも"];
+	node5 [label="仔細"];
+	node6 [label="なかろう。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

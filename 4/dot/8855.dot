@@ -1,0 +1,33 @@
+digraph graph8855 {
+	node0 [label="見給え"];
+	node1 [label="個性発展の"];
+	node2 [label="結果"];
+	node3 [label="みんな"];
+	node4 [label="神経衰弱を"];
+	node5 [label="起して、"];
+	node6 [label="始末が"];
+	node7 [label="つかなくなった"];
+	node8 [label="時、"];
+	node9 [label="王者の"];
+	node10 [label="民蕩々たりと"];
+	node11 [label="云う"];
+	node12 [label="句の"];
+	node13 [label="価値を"];
+	node14 [label="始めて"];
+	node15 [label="発見するから。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

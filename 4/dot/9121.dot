@@ -1,0 +1,33 @@
+digraph graph9121 {
+	node0 [label="秋風に"];
+	node1 [label="がたつく"];
+	node2 [label="戸が"];
+	node3 [label="細目に"];
+	node4 [label="あいてる"];
+	node5 [label="間から"];
+	node6 [label="吹き込んだと"];
+	node7 [label="見えて"];
+	node8 [label="ランプは"];
+	node9 [label="いつの間にか"];
+	node10 [label="消えているが、"];
+	node11 [label="月夜と"];
+	node12 [label="思われて"];
+	node13 [label="窓から"];
+	node14 [label="影が"];
+	node15 [label="さす。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

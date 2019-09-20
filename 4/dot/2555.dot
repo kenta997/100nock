@@ -1,0 +1,11 @@
+digraph graph2555 {
+	node0 [label="とにかく"];
+	node1 [label="寒月の"];
+	node2 [label="博士に"];
+	node3 [label="なるのは"];
+	node4 [label="結構である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

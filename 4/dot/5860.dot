@@ -1,0 +1,7 @@
+digraph graph5860 {
+	node0 [label="何を"];
+	node1 [label="しているんだ、"];
+	node2 [label="御客さんだよ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

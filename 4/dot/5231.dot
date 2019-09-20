@@ -1,0 +1,5 @@
+digraph graph5231 {
+	node0 [label="「うむ、"];
+	node1 [label="そうかえ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,5 @@
+digraph graph3157 {
+	node0 [label="「今論文を"];
+	node1 [label="書いてるそうだ」"];
+	node0 -> node1;
+}

@@ -1,0 +1,13 @@
+digraph graph6637 {
+	node0 [label="したがって"];
+	node1 [label="頻繁に"];
+	node2 [label="御はちの"];
+	node3 [label="方へ"];
+	node4 [label="手が"];
+	node5 [label="出る。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

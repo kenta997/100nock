@@ -1,0 +1,19 @@
+digraph graph2197 {
+	node0 [label="　"];
+	node1 [label="鈴木君が"];
+	node2 [label="御光来に"];
+	node3 [label="なる"];
+	node4 [label="前に"];
+	node5 [label="帰らないと、"];
+	node6 [label="少し"];
+	node7 [label="都合が"];
+	node8 [label="悪い。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,7 @@
+digraph graph3792 {
+	node0 [label="それこそ"];
+	node1 [label="上田君から"];
+	node2 [label="笑われるばかりだ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

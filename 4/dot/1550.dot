@@ -1,0 +1,15 @@
+digraph graph1550 {
+	node0 [label="　だって"];
+	node1 [label="泉岳寺へ"];
+	node2 [label="行った"];
+	node3 [label="事は"];
+	node4 [label="あるだろう」"];
+	node5 [label="「いいや」"];
+	node6 [label="「ない？"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

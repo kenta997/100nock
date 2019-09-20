@@ -1,0 +1,7 @@
+digraph graph6809 {
+	node0 [label="坊ばは"];
+	node1 [label="なかなか"];
+	node2 [label="聞きそうにない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

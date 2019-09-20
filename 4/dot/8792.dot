@@ -1,0 +1,13 @@
+digraph graph8792 {
+	node0 [label="個性を"];
+	node1 [label="滅すれば"];
+	node2 [label="人間を"];
+	node3 [label="滅すると"];
+	node4 [label="同結果に"];
+	node5 [label="陥る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

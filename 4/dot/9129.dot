@@ -1,0 +1,11 @@
+digraph graph9129 {
+	node0 [label="何でも"];
+	node1 [label="命の"];
+	node2 [label="ある"];
+	node3 [label="うちに"];
+	node4 [label="しておく事だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

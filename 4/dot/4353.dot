@@ -1,0 +1,13 @@
+digraph graph4353 {
+	node0 [label="天水桶の"];
+	node1 [label="方に、"];
+	node2 [label="突っ立っている"];
+	node3 [label="若造が"];
+	node4 [label="二人"];
+	node5 [label="いる。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

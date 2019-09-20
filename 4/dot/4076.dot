@@ -1,0 +1,7 @@
+digraph graph4076 {
+	node0 [label="これが"];
+	node1 [label="両者の"];
+	node2 [label="差である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

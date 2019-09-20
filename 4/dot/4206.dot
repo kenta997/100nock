@@ -1,0 +1,13 @@
+digraph graph4206 {
+	node0 [label="といった"];
+	node1 [label="ところ"];
+	node2 [label="でき"];
+	node3 [label="ゃつなかなか考える"];
+	node4 [label="気遣は"];
+	node5 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

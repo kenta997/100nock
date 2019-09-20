@@ -1,0 +1,9 @@
+digraph graph6878 {
+	node0 [label="「駄目ですわ、"];
+	node1 [label="相手が"];
+	node2 [label="石です"];
+	node3 [label="もの。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

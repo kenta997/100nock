@@ -1,0 +1,11 @@
+digraph graph4358 {
+	node0 [label="用心しねえと"];
+	node1 [label="あぶないよ」と"];
+	node2 [label="熱心に"];
+	node3 [label="忠告を"];
+	node4 [label="加える。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

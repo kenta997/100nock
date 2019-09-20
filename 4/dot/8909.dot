@@ -1,0 +1,7 @@
+digraph graph8909 {
+	node0 [label="友愛の"];
+	node1 [label="敵に"];
+	node2 [label="あらずや。"];
+	node0 -> node1;
+	node1 -> node2;
+}

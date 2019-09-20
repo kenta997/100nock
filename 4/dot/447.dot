@@ -1,0 +1,23 @@
+digraph graph447 {
+	node0 [label="少らく両人は"];
+	node1 [label="睨み合っていたが、"];
+	node2 [label="大きいのが"];
+	node3 [label="また"];
+	node4 [label="匙を"];
+	node5 [label="とって"];
+	node6 [label="一杯を"];
+	node7 [label="わが"];
+	node8 [label="皿の"];
+	node9 [label="上に"];
+	node10 [label="加えた。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node10;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

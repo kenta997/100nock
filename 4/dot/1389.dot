@@ -1,0 +1,11 @@
+digraph graph1389 {
+	node0 [label="空たり間たり"];
+	node1 [label="天然居士噫」と"];
+	node2 [label="大きな"];
+	node3 [label="声で"];
+	node4 [label="読み上る。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

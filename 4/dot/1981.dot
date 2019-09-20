@@ -1,0 +1,7 @@
+digraph graph1981 {
+	node0 [label="出れば"];
+	node1 [label="かまずに"];
+	node2 [label="はいられません。"];
+	node0 -> node1;
+	node1 -> node2;
+}

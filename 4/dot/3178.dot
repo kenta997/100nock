@@ -1,0 +1,9 @@
+digraph graph3178 {
+	node0 [label="奥さん一"];
+	node1 [label="返行って"];
+	node2 [label="食って"];
+	node3 [label="御覧。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,15 @@
+digraph graph3788 {
+	node0 [label="今まで"];
+	node1 [label="比較的"];
+	node2 [label="おとなしくしていた"];
+	node3 [label="迷亭は"];
+	node4 [label="そう"];
+	node5 [label="いつまでもだまっているような"];
+	node6 [label="男ではない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,13 @@
+digraph graph4340 {
+	node0 [label="　"];
+	node1 [label="何だか"];
+	node2 [label="ごちゃごちゃしていて"];
+	node3 [label="何にから"];
+	node4 [label="記述していいか"];
+	node5 [label="分らない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

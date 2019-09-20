@@ -1,0 +1,5 @@
+digraph graph983 {
+	node0 [label="「彼は"];
+	node1 [label="巨人引力である。"];
+	node0 -> node1;
+}

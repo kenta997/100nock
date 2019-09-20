@@ -1,0 +1,25 @@
+digraph graph2830 {
+	node0 [label="振り向いて"];
+	node1 [label="見ると"];
+	node2 [label="陰士の"];
+	node3 [label="顔の"];
+	node4 [label="影が"];
+	node5 [label="ちょうど"];
+	node6 [label="壁の"];
+	node7 [label="高さの"];
+	node8 [label="三分の二の"];
+	node9 [label="所に"];
+	node10 [label="漠然と"];
+	node11 [label="動いている。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

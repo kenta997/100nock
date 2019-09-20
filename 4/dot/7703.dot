@@ -1,0 +1,11 @@
+digraph graph7703 {
+	node0 [label="「なに大丈夫、"];
+	node1 [label="そのくらい"];
+	node2 [label="かじったって"];
+	node3 [label="害は"];
+	node4 [label="ありません」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

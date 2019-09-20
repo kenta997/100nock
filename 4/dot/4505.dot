@@ -1,0 +1,11 @@
+digraph graph4505 {
+	node0 [label="路頭に"];
+	node1 [label="迷う"];
+	node2 [label="結果は"];
+	node3 [label="のたれ死にを"];
+	node4 [label="しなければならない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

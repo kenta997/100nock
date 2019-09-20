@@ -1,0 +1,25 @@
+digraph graph8392 {
+	node0 [label="「だって"];
+	node1 [label="珠が"];
+	node2 [label="磨けないと"];
+	node3 [label="博士には"];
+	node4 [label="なれんぜ」と"];
+	node5 [label="主人は"];
+	node6 [label="少しく"];
+	node7 [label="眉を"];
+	node8 [label="ひそめたが、"];
+	node9 [label="本人は"];
+	node10 [label="存外"];
+	node11 [label="気楽で、"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

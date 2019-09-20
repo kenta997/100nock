@@ -1,0 +1,7 @@
+digraph graph5223 {
+	node0 [label="これは"];
+	node1 [label="吾輩の"];
+	node2 [label="罪ではない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,9 @@
+digraph graph4310 {
+	node0 [label="骨を"];
+	node1 [label="折った"];
+	node2 [label="結果が"];
+	node3 [label="見えぬ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

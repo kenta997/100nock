@@ -1,0 +1,5 @@
+digraph graph7064 {
+	node0 [label="本当に"];
+	node1 [label="驚ろいてしまうわ。"];
+	node0 -> node1;
+}

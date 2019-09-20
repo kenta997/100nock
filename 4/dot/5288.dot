@@ -1,0 +1,17 @@
+digraph graph5288 {
+	node0 [label="愚図愚図して"];
+	node1 [label="はおられん、"];
+	node2 [label="猫だって"];
+	node3 [label="主人の"];
+	node4 [label="事だから"];
+	node5 [label="大に"];
+	node6 [label="心配に"];
+	node7 [label="なる。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,9 @@
+digraph graph731 {
+	node0 [label="また"];
+	node1 [label="あの黒の"];
+	node2 [label="畜生が"];
+	node3 [label="取ったんだよ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

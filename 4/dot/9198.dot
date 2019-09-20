@@ -1,0 +1,5 @@
+digraph graph9198 {
+	node0 [label="　次第に"];
+	node1 [label="楽になってくる。"];
+	node0 -> node1;
+}

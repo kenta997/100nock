@@ -1,0 +1,29 @@
+digraph graph4697 {
+	node0 [label="吹き通しも"];
+	node1 [label="夏は"];
+	node2 [label="せいせいして"];
+	node3 [label="心持ちが"];
+	node4 [label="いい"];
+	node5 [label="ものだ、"];
+	node6 [label="不用心だって"];
+	node7 [label="金の"];
+	node8 [label="ない"];
+	node9 [label="ところに"];
+	node10 [label="盗難の"];
+	node11 [label="ある"];
+	node12 [label="はずは"];
+	node13 [label="ない。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

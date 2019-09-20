@@ -1,0 +1,27 @@
+digraph graph6317 {
+	node0 [label="迷亭は"];
+	node1 [label="それから"];
+	node2 [label="相変らず"];
+	node3 [label="駄弁を"];
+	node4 [label="弄して"];
+	node5 [label="日暮れ方、"];
+	node6 [label="あまり"];
+	node7 [label="遅くなると"];
+	node8 [label="伯父に"];
+	node9 [label="怒られると"];
+	node10 [label="云って"];
+	node11 [label="帰って"];
+	node12 [label="行った。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

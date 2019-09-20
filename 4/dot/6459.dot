@@ -1,0 +1,13 @@
+digraph graph6459 {
+	node0 [label="「いやーよ、"];
+	node1 [label="ば"];
+	node2 [label="ぶ」と"];
+	node3 [label="云いながら"];
+	node4 [label="雑巾を"];
+	node5 [label="引っ張り返した。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

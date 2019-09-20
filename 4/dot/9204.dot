@@ -1,0 +1,15 @@
+digraph graph9204 {
+	node0 [label="日月を"];
+	node1 [label="切り落し、"];
+	node2 [label="天地を"];
+	node3 [label="粉韲して"];
+	node4 [label="不可思議の"];
+	node5 [label="太平に"];
+	node6 [label="入る。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

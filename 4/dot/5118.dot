@@ -1,0 +1,27 @@
+digraph graph5118 {
+	node0 [label="女だの、"];
+	node1 [label="小供だの、"];
+	node2 [label="車引きだの、"];
+	node3 [label="馬子だのと、"];
+	node4 [label="そんな"];
+	node5 [label="見境いの"];
+	node6 [label="ある"];
+	node7 [label="うちは、"];
+	node8 [label="まだ"];
+	node9 [label="逆上を以て"];
+	node10 [label="人に"];
+	node11 [label="誇るに"];
+	node12 [label="足らん。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

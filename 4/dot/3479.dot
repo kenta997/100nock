@@ -1,0 +1,25 @@
+digraph graph3479 {
+	node0 [label="　"];
+	node1 [label="迷亭君は"];
+	node2 [label="今度は"];
+	node3 [label="右の"];
+	node4 [label="袂の"];
+	node5 [label="中から"];
+	node6 [label="赤い"];
+	node7 [label="ケース入りの"];
+	node8 [label="鋏を"];
+	node9 [label="取り出して"];
+	node10 [label="細君に"];
+	node11 [label="見せる。"];
+	node0 -> node11;
+	node1 -> node11;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

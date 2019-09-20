@@ -1,0 +1,23 @@
+digraph graph6090 {
+	node0 [label="「……"];
+	node1 [label="すると"];
+	node2 [label="独仙君は"];
+	node3 [label="ああ"];
+	node4 [label="云う"];
+	node5 [label="好人物だから、"];
+	node6 [label="全くだと"];
+	node7 [label="思って"];
+	node8 [label="安心して"];
+	node9 [label="ぐうぐう"];
+	node10 [label="寝てしまったのさ。"];
+	node0 -> node10;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

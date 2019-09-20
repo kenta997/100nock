@@ -1,0 +1,25 @@
+digraph graph8646 {
+	node0 [label="「燕雀焉んぞ"];
+	node1 [label="大鵬の"];
+	node2 [label="志を"];
+	node3 [label="知らんやですね」と"];
+	node4 [label="寒月君が"];
+	node5 [label="恐れ入ると、"];
+	node6 [label="独仙君は"];
+	node7 [label="そうさと"];
+	node8 [label="云わぬばかりの"];
+	node9 [label="顔付で"];
+	node10 [label="話を"];
+	node11 [label="進める。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

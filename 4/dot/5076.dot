@@ -1,0 +1,9 @@
+digraph graph5076 {
+	node0 [label="苦心の"];
+	node1 [label="あまり頭が"];
+	node2 [label="だんだん"];
+	node3 [label="禿げて来なければならん。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,15 @@
+digraph graph8664 {
+	node0 [label="飛び込みは"];
+	node1 [label="した"];
+	node2 [label="ものの、"];
+	node3 [label="いつもと"];
+	node4 [label="違って"];
+	node5 [label="日が"];
+	node6 [label="暮れない」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,15 @@
+digraph graph8044 {
+	node0 [label="「引っ張る"];
+	node1 [label="訳じゃないんですが、"];
+	node2 [label="どうも、"];
+	node3 [label="まだ"];
+	node4 [label="買えないんですから"];
+	node5 [label="仕方が"];
+	node6 [label="ありません」"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

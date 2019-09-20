@@ -1,0 +1,13 @@
+digraph graph1148 {
+	node0 [label="僕の"];
+	node1 [label="経験と"];
+	node2 [label="善く"];
+	node3 [label="似ている"];
+	node4 [label="ところが"];
+	node5 [label="奇だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

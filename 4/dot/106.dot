@@ -1,0 +1,9 @@
+digraph graph106 {
+	node0 [label="白君は"];
+	node1 [label="先日玉のような"];
+	node2 [label="子猫を"];
+	node3 [label="四疋産まれたのである。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

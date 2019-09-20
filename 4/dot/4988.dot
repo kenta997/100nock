@@ -1,0 +1,11 @@
+digraph graph4988 {
+	node0 [label="吾輩の"];
+	node1 [label="小事件と"];
+	node2 [label="云うのは"];
+	node3 [label="即ち"];
+	node4 [label="これである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

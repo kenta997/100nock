@@ -1,0 +1,21 @@
+digraph graph766 {
+	node0 [label="「それで"];
+	node1 [label="面白い"];
+	node2 [label="趣向が"];
+	node3 [label="あるから"];
+	node4 [label="是非いっしょに"];
+	node5 [label="来いと"];
+	node6 [label="おっしゃるので」と"];
+	node7 [label="客は"];
+	node8 [label="落ちついて"];
+	node9 [label="云う。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

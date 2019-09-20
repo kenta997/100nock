@@ -1,0 +1,15 @@
+digraph graph383 {
+	node0 [label="　おりから"];
+	node1 [label="門の"];
+	node2 [label="格子が"];
+	node3 [label="チリン、"];
+	node4 [label="チリン、"];
+	node5 [label="チリリリリンと"];
+	node6 [label="鳴る。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

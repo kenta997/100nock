@@ -1,0 +1,11 @@
+digraph graph430 {
+	node0 [label="主人の"];
+	node1 [label="服装には"];
+	node2 [label="師走も"];
+	node3 [label="正月も"];
+	node4 [label="ない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

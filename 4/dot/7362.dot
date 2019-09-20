@@ -1,0 +1,15 @@
+digraph graph7362 {
+	node0 [label="だから"];
+	node1 [label="人から"];
+	node2 [label="珍重される"];
+	node3 [label="人間ほど"];
+	node4 [label="怪しい"];
+	node5 [label="ものは"];
+	node6 [label="ない。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

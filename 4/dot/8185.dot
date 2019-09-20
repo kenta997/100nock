@@ -1,0 +1,7 @@
+digraph graph8185 {
+	node0 [label="ヴァイオリンとは"];
+	node1 [label="少し"];
+	node2 [label="調和しないようだ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

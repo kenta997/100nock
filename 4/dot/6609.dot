@@ -1,0 +1,11 @@
+digraph graph6609 {
+	node0 [label="人間の"];
+	node1 [label="定義を"];
+	node2 [label="云うと"];
+	node3 [label="ほかに"];
+	node4 [label="何にもない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

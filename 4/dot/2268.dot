@@ -1,0 +1,31 @@
+digraph graph2268 {
+	node0 [label="「廿にも"];
+	node1 [label="なって"];
+	node2 [label="背いが"];
+	node3 [label="延びるなんて——"];
+	node4 [label="あなたも"];
+	node5 [label="よっぽど人を"];
+	node6 [label="馬鹿に"];
+	node7 [label="なさるのね」と"];
+	node8 [label="細君は"];
+	node9 [label="袖なしを"];
+	node10 [label="抛り出して"];
+	node11 [label="主人の"];
+	node12 [label="方に"];
+	node13 [label="捩じ"];
+	node14 [label="向く。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node14;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

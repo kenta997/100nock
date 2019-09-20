@@ -1,0 +1,11 @@
+digraph graph7671 {
+	node0 [label="座禅なんか"];
+	node1 [label="したら、"];
+	node2 [label="もう少し"];
+	node3 [label="捌けそうな"];
+	node4 [label="ものだ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

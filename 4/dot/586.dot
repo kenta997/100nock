@@ -1,0 +1,13 @@
+digraph graph586 {
+	node0 [label="ところが"];
+	node1 [label="誰も"];
+	node2 [label="来ない、"];
+	node3 [label="いくら※躇していても"];
+	node4 [label="誰も"];
+	node5 [label="来ない。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

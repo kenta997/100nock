@@ -1,0 +1,11 @@
+digraph graph3812 {
+	node0 [label="世の"];
+	node1 [label="人に"];
+	node2 [label="似ず"];
+	node3 [label="あえかに"];
+	node4 [label="見え給う"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

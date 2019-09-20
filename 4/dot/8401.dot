@@ -1,0 +1,11 @@
+digraph graph8401 {
+	node0 [label="「へえって、"];
+	node1 [label="あれほど"];
+	node2 [label="約束が"];
+	node3 [label="あるじゃ"];
+	node4 [label="ないか」"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

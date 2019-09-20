@@ -1,0 +1,23 @@
+digraph graph318 {
+	node0 [label="実際"];
+	node1 [label="奇警な"];
+	node2 [label="語じゃないか、"];
+	node3 [label="ダ・ヴィンチでも"];
+	node4 [label="いいそうな"];
+	node5 [label="事だあね」"];
+	node6 [label="「なるほど奇警には"];
+	node7 [label="相違ないな」と"];
+	node8 [label="主人は"];
+	node9 [label="半分降参を"];
+	node10 [label="した。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

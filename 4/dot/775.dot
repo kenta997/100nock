@@ -1,0 +1,9 @@
+digraph graph775 {
+	node0 [label="客はさまで"];
+	node1 [label="感服した"];
+	node2 [label="様子も"];
+	node3 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

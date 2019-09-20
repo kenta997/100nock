@@ -1,0 +1,15 @@
+digraph graph6898 {
+	node0 [label="ただ"];
+	node1 [label="地蔵様を"];
+	node2 [label="いじめて、"];
+	node3 [label="いたたまれないようにすればいいと"];
+	node4 [label="云って、"];
+	node5 [label="夜昼交替で"];
+	node6 [label="騒ぐんだって」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

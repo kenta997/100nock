@@ -1,0 +1,19 @@
+digraph graph6719 {
+	node0 [label="こっちは"];
+	node1 [label="心配だから"];
+	node2 [label="二度目に"];
+	node3 [label="また"];
+	node4 [label="おこすと、"];
+	node5 [label="夜着の"];
+	node6 [label="袖から"];
+	node7 [label="何か"];
+	node8 [label="云うのよ。"];
+	node0 -> node8;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

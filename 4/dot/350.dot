@@ -1,0 +1,9 @@
+digraph graph350 {
+	node0 [label="誰が"];
+	node1 [label="見たって"];
+	node2 [label="猫に"];
+	node3 [label="相違ない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

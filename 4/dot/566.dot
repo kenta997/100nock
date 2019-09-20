@@ -1,0 +1,29 @@
+digraph graph566 {
+	node0 [label="贅沢も"];
+	node1 [label="この"];
+	node2 [label="くらい"];
+	node3 [label="出来れば"];
+	node4 [label="結構な"];
+	node5 [label="ものだが"];
+	node6 [label="吾輩のように"];
+	node7 [label="牡蠣的主人を"];
+	node8 [label="持つ"];
+	node9 [label="身の上では"];
+	node10 [label="とても"];
+	node11 [label="そんな"];
+	node12 [label="気は"];
+	node13 [label="出ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

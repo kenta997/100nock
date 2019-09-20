@@ -1,0 +1,19 @@
+digraph graph3517 {
+	node0 [label="君は"];
+	node1 [label="蕎麦が"];
+	node2 [label="嫌いなんだろう」"];
+	node3 [label="「僕は"];
+	node4 [label="饂飩が"];
+	node5 [label="好きだ」"];
+	node6 [label="「饂飩は"];
+	node7 [label="馬子が"];
+	node8 [label="食うもんだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

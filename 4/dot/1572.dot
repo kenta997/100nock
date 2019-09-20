@@ -1,0 +1,29 @@
+digraph graph1572 {
+	node0 [label="　主人の"];
+	node1 [label="うちへ"];
+	node2 [label="女客は"];
+	node3 [label="稀有だなと"];
+	node4 [label="見ていると、"];
+	node5 [label="かの"];
+	node6 [label="鋭どい"];
+	node7 [label="声の"];
+	node8 [label="所有主は"];
+	node9 [label="縮緬の"];
+	node10 [label="二枚重ねを"];
+	node11 [label="畳へ"];
+	node12 [label="擦り付けながら"];
+	node13 [label="這入って来る。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

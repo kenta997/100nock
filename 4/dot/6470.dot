@@ -1,0 +1,35 @@
+digraph graph6470 {
+	node0 [label="主人は"];
+	node1 [label="こんな"];
+	node2 [label="間違を"];
+	node3 [label="聞く"];
+	node4 [label="たびに"];
+	node5 [label="笑っているが、"];
+	node6 [label="自分が"];
+	node7 [label="学校へ"];
+	node8 [label="出て英語を"];
+	node9 [label="教える"];
+	node10 [label="時などは、"];
+	node11 [label="これよりも"];
+	node12 [label="滑稽な"];
+	node13 [label="誤謬を"];
+	node14 [label="真面目になって、"];
+	node15 [label="生徒に"];
+	node16 [label="聞かせるのだろう。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node16;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node16;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

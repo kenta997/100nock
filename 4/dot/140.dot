@@ -1,0 +1,7 @@
+digraph graph140 {
+	node0 [label="走るに"];
+	node1 [label="獣"];
+	node2 [label="あり。"];
+	node0 -> node2;
+	node1 -> node2;
+}

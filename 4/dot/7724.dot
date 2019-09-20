@@ -1,0 +1,25 @@
+digraph graph7724 {
+	node0 [label="行く"];
+	node1 [label="春や"];
+	node2 [label="重たき"];
+	node3 [label="琵琶の"];
+	node4 [label="だき心と"];
+	node5 [label="云う"];
+	node6 [label="句も"];
+	node7 [label="あるが、"];
+	node8 [label="それは"];
+	node9 [label="遠き"];
+	node10 [label="その上の"];
+	node11 [label="事だ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

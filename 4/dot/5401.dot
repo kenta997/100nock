@@ -1,0 +1,9 @@
+digraph graph5401 {
+	node0 [label="「運動すると、"];
+	node1 [label="なお"];
+	node2 [label="肝癪が"];
+	node3 [label="起ります」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

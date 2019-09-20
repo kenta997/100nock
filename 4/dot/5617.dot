@@ -1,0 +1,9 @@
+digraph graph5617 {
+	node0 [label="中から"];
+	node1 [label="見える"];
+	node2 [label="綿は"];
+	node3 [label="薄黒い。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

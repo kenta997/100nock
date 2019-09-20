@@ -1,0 +1,23 @@
+digraph graph4088 {
+	node0 [label="人間の"];
+	node1 [label="あさはかな"];
+	node2 [label="了見では、"];
+	node3 [label="どうせ"];
+	node4 [label="降りるのだから"];
+	node5 [label="下向に"];
+	node6 [label="馳け"];
+	node7 [label="下りる"];
+	node8 [label="方が"];
+	node9 [label="楽だと"];
+	node10 [label="思うだろう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

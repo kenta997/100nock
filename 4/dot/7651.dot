@@ -1,0 +1,5 @@
+digraph graph7651 {
+	node0 [label="ちょっと"];
+	node1 [label="待った」"];
+	node0 -> node1;
+}

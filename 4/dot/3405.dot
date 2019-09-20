@@ -1,0 +1,7 @@
+digraph graph3405 {
+	node0 [label="「いえ、"];
+	node1 [label="今"];
+	node2 [label="来たばかりなんですよ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

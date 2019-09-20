@@ -1,0 +1,11 @@
+digraph graph2092 {
+	node0 [label="鼻に"];
+	node1 [label="睨まれたのは"];
+	node2 [label="生れて"];
+	node3 [label="今日が"];
+	node4 [label="始めてである。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

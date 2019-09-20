@@ -1,0 +1,31 @@
+digraph graph525 {
+	node0 [label="Ｃ先生は"];
+	node1 [label="蕎麦を"];
+	node2 [label="食ったら"];
+	node3 [label="よかろうと"];
+	node4 [label="云うから、"];
+	node5 [label="早速"];
+	node6 [label="かけともりを"];
+	node7 [label="かわるがわる"];
+	node8 [label="食ったが、"];
+	node9 [label="これは"];
+	node10 [label="腹が"];
+	node11 [label="下るばかりで"];
+	node12 [label="何等の"];
+	node13 [label="功能も"];
+	node14 [label="なかった。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

@@ -1,0 +1,5 @@
+digraph graph5862 {
+	node0 [label="「おや君かもない"];
+	node1 [label="もんだ。"];
+	node0 -> node1;
+}

@@ -1,0 +1,29 @@
+digraph graph5726 {
+	node0 [label="　"];
+	node1 [label="かように"];
+	node2 [label="考えながら"];
+	node3 [label="なお"];
+	node4 [label="様子を"];
+	node5 [label="うかがっていると、"];
+	node6 [label="それとも"];
+	node7 [label="知らぬ"];
+	node8 [label="主人は"];
+	node9 [label="思う存分"];
+	node10 [label="あかんべえを"];
+	node11 [label="した"];
+	node12 [label="あとで"];
+	node13 [label="「大分充血しているようだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

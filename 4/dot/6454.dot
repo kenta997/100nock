@@ -1,0 +1,21 @@
+digraph graph6454 {
+	node0 [label="一番"];
+	node1 [label="小さいのが"];
+	node2 [label="バケツの"];
+	node3 [label="中から"];
+	node4 [label="濡れ雑巾を"];
+	node5 [label="引きずり出して"];
+	node6 [label="しきりに"];
+	node7 [label="顔中"];
+	node8 [label="撫で"];
+	node9 [label="廻わしている。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

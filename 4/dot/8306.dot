@@ -1,0 +1,13 @@
+digraph graph8306 {
+	node0 [label="「全く天才だ」と"];
+	node1 [label="云う"];
+	node2 [label="東風君について"];
+	node3 [label="「全く癲癇だ」と"];
+	node4 [label="迷亭君が"];
+	node5 [label="つけた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

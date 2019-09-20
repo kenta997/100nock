@@ -1,0 +1,21 @@
+digraph graph257 {
+	node0 [label="いくら"];
+	node1 [label="稼いで"];
+	node2 [label="鼠を"];
+	node3 [label="とったって——"];
+	node4 [label="一てえ"];
+	node5 [label="人間ほど"];
+	node6 [label="ふてえ"];
+	node7 [label="奴は"];
+	node8 [label="世の中に"];
+	node9 [label="いねえぜ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

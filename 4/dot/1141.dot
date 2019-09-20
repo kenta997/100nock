@@ -1,0 +1,13 @@
+digraph graph1141 {
+	node0 [label="「飛び込んだ"];
+	node1 [label="後は"];
+	node2 [label="気が"];
+	node3 [label="遠くなって、"];
+	node4 [label="しばらくは"];
+	node5 [label="夢中でした。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

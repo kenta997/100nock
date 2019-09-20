@@ -1,0 +1,13 @@
+digraph graph6057 {
+	node0 [label="「しかしあの"];
+	node1 [label="伯父さんは"];
+	node2 [label="なかなか"];
+	node3 [label="えらい"];
+	node4 [label="ところが"];
+	node5 [label="あるようだ。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

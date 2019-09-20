@@ -1,0 +1,17 @@
+digraph graph5543 {
+	node0 [label="換言すると"];
+	node1 [label="君が"];
+	node2 [label="金持に"];
+	node3 [label="頭を"];
+	node4 [label="下げなければならんと"];
+	node5 [label="云う"];
+	node6 [label="事に"];
+	node7 [label="なる。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

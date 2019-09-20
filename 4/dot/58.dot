@@ -1,0 +1,23 @@
+digraph graph58 {
+	node0 [label="この間"];
+	node1 [label="おさんの"];
+	node2 [label="三馬を"];
+	node3 [label="偸んで"];
+	node4 [label="この"];
+	node5 [label="返報を"];
+	node6 [label="してやってから、"];
+	node7 [label="やっと"];
+	node8 [label="胸の"];
+	node9 [label="痞が"];
+	node10 [label="下りた。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

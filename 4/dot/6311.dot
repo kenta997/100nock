@@ -1,0 +1,13 @@
+digraph graph6311 {
+	node0 [label="「そうさ、"];
+	node1 [label="吉原と"];
+	node2 [label="云やあ、"];
+	node3 [label="東京に"];
+	node4 [label="一つしか"];
+	node5 [label="ないやね。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

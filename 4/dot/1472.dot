@@ -1,0 +1,15 @@
+digraph graph1472 {
+	node0 [label="妻君は"];
+	node1 [label="ホホと"];
+	node2 [label="笑って"];
+	node3 [label="主人を"];
+	node4 [label="顧みながら"];
+	node5 [label="次の間へ"];
+	node6 [label="退く。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

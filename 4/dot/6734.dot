@@ -1,0 +1,31 @@
+digraph graph6734 {
+	node0 [label="人が"];
+	node1 [label="右と"];
+	node2 [label="云えば"];
+	node3 [label="左、"];
+	node4 [label="左と"];
+	node5 [label="云えば"];
+	node6 [label="右で、"];
+	node7 [label="何でも"];
+	node8 [label="人の"];
+	node9 [label="言う"];
+	node10 [label="通りに"];
+	node11 [label="した"];
+	node12 [label="事が"];
+	node13 [label="ない、——そりゃ"];
+	node14 [label="強情ですよ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

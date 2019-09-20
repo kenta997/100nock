@@ -1,0 +1,7 @@
+digraph graph2897 {
+	node0 [label="「これで"];
+	node1 [label="悪るければ"];
+	node2 [label="買って下さい。"];
+	node0 -> node1;
+	node1 -> node2;
+}

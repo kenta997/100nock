@@ -1,0 +1,21 @@
+digraph graph1031 {
+	node0 [label="迷亭などとは"];
+	node1 [label="大違いだ」と"];
+	node2 [label="主人は"];
+	node3 [label="アンドレア・デル・サルトと"];
+	node4 [label="孔雀の"];
+	node5 [label="舌と"];
+	node6 [label="トチメンボーの"];
+	node7 [label="復讐を"];
+	node8 [label="一度に"];
+	node9 [label="とる。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

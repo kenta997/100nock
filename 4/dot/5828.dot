@@ -1,0 +1,17 @@
+digraph graph5828 {
+	node0 [label="烏が"];
+	node1 [label="白くて"];
+	node2 [label="小町が"];
+	node3 [label="醜婦で"];
+	node4 [label="苦沙弥先生が"];
+	node5 [label="君子でも"];
+	node6 [label="通らん事は"];
+	node7 [label="ない。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

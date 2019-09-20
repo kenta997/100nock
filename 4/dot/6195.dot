@@ -1,0 +1,7 @@
+digraph graph6195 {
+	node0 [label="「アハハハ御茶でも"];
+	node1 [label="上がれは"];
+	node2 [label="きびし過ぎる。"];
+	node0 -> node1;
+	node1 -> node2;
+}

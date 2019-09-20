@@ -1,0 +1,19 @@
+digraph graph1338 {
+	node0 [label="唇が"];
+	node1 [label="真黒になったと"];
+	node2 [label="見ていると、"];
+	node3 [label="今度は"];
+	node4 [label="その"];
+	node5 [label="下へ"];
+	node6 [label="ちょいと"];
+	node7 [label="丸を"];
+	node8 [label="かいた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,23 @@
+digraph graph5641 {
+	node0 [label="髪さえ"];
+	node1 [label="長くしておけば"];
+	node2 [label="露見しないで"];
+	node3 [label="すむ"];
+	node4 [label="ところを、"];
+	node5 [label="好んで"];
+	node6 [label="自己の"];
+	node7 [label="非を"];
+	node8 [label="曝くにも"];
+	node9 [label="当らぬ"];
+	node10 [label="訳だ。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

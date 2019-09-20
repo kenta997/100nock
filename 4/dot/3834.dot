@@ -1,0 +1,15 @@
+digraph graph3834 {
+	node0 [label="「これは"];
+	node1 [label="少々"];
+	node2 [label="振い"];
+	node3 [label="過ぎてる」と"];
+	node4 [label="迷亭は"];
+	node5 [label="寒月に"];
+	node6 [label="渡す。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

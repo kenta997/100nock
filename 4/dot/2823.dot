@@ -1,0 +1,25 @@
+digraph graph2823 {
+	node0 [label="主人は"];
+	node1 [label="うーん、"];
+	node2 [label="むにゃむにゃと"];
+	node3 [label="云いながら"];
+	node4 [label="例の"];
+	node5 [label="赤本を"];
+	node6 [label="突き飛ばして、"];
+	node7 [label="黒い"];
+	node8 [label="腕を"];
+	node9 [label="皮癬病みのように"];
+	node10 [label="ぼりぼり"];
+	node11 [label="掻く。"];
+	node0 -> node11;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

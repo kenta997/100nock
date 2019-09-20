@@ -1,0 +1,15 @@
+digraph graph4638 {
+	node0 [label="平生なら"];
+	node1 [label="猪口に"];
+	node2 [label="二杯と"];
+	node3 [label="きめているのを、"];
+	node4 [label="もう"];
+	node5 [label="四杯"];
+	node6 [label="飲んだ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

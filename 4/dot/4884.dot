@@ -1,0 +1,25 @@
+digraph graph4884 {
+	node0 [label="やはり"];
+	node1 [label="インスピレーションと"];
+	node2 [label="云う"];
+	node3 [label="新発明の"];
+	node4 [label="売薬のような"];
+	node5 [label="名を"];
+	node6 [label="付けて"];
+	node7 [label="おく方が"];
+	node8 [label="彼等の"];
+	node9 [label="ために"];
+	node10 [label="よかろうと"];
+	node11 [label="思う。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

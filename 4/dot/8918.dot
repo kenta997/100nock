@@ -1,0 +1,15 @@
+digraph graph8918 {
+	node0 [label="「清や、"];
+	node1 [label="清や」と"];
+	node2 [label="細君が"];
+	node3 [label="下女を"];
+	node4 [label="呼ぶ"];
+	node5 [label="声が"];
+	node6 [label="する。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

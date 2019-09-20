@@ -1,0 +1,9 @@
+digraph graph7445 {
+	node0 [label="「魑魅鼻を"];
+	node1 [label="衝くとは"];
+	node2 [label="何の"];
+	node3 [label="事だい」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

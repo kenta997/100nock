@@ -1,0 +1,37 @@
+digraph graph636 {
+	node0 [label="ようやく"];
+	node1 [label="笑いが"];
+	node2 [label="やみそうになったら、"];
+	node3 [label="五つに"];
+	node4 [label="なる"];
+	node5 [label="女の子が"];
+	node6 [label="「御かあ"];
+	node7 [label="様、"];
+	node8 [label="猫も"];
+	node9 [label="随分ね」と"];
+	node10 [label="いったので"];
+	node11 [label="狂瀾を"];
+	node12 [label="既倒に"];
+	node13 [label="何とか"];
+	node14 [label="するという"];
+	node15 [label="勢でまた"];
+	node16 [label="大変"];
+	node17 [label="笑われた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node17;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

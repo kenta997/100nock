@@ -1,0 +1,13 @@
+digraph graph204 {
+	node0 [label="彼は"];
+	node1 [label="大に"];
+	node2 [label="軽蔑せる"];
+	node3 [label="調子で"];
+	node4 [label="「何、"];
+	node5 [label="猫だ？"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

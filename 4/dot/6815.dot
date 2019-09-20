@@ -1,0 +1,9 @@
+digraph graph6815 {
+	node0 [label="坊たん、"];
+	node1 [label="坊たん、"];
+	node2 [label="どこ"];
+	node3 [label="行くのって」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

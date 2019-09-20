@@ -1,0 +1,9 @@
+digraph graph7423 {
+	node0 [label="あの"];
+	node1 [label="方面は"];
+	node2 [label="もう"];
+	node3 [label="御免だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

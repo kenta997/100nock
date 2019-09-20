@@ -1,0 +1,27 @@
+digraph graph3257 {
+	node0 [label="まさか"];
+	node1 [label="あんな"];
+	node2 [label="高い"];
+	node3 [label="処から"];
+	node4 [label="落ちてくる"];
+	node5 [label="事も"];
+	node6 [label="なかろうからと"];
+	node7 [label="この"];
+	node8 [label="方面だけは"];
+	node9 [label="警戒を"];
+	node10 [label="解く"];
+	node11 [label="事に"];
+	node12 [label="する。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

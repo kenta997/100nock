@@ -1,0 +1,19 @@
+digraph graph1529 {
+	node0 [label="ところが"];
+	node1 [label="妙な"];
+	node2 [label="はずみで"];
+	node3 [label="一度目には"];
+	node4 [label="台から"];
+	node5 [label="飛び降りる"];
+	node6 [label="ときに"];
+	node7 [label="縄が"];
+	node8 [label="切れてしまったのです。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

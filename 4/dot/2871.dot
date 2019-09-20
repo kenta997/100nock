@@ -1,0 +1,11 @@
+digraph graph2871 {
+	node0 [label="「あなたは"];
+	node1 [label="夕べ"];
+	node2 [label="何時に"];
+	node3 [label="御休みに"];
+	node4 [label="なったんですか」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

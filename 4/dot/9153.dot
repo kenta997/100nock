@@ -1,0 +1,7 @@
+digraph graph9153 {
+	node0 [label="金田の"];
+	node1 [label="じいさんを"];
+	node2 [label="引掻いてやりたくなる。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,13 @@
+digraph graph7597 {
+	node0 [label="「そんな"];
+	node1 [label="事を"];
+	node2 [label="すると、"];
+	node3 [label="せっかくの"];
+	node4 [label="清戯を"];
+	node5 [label="俗了してしまう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

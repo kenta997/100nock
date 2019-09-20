@@ -1,0 +1,15 @@
+digraph graph2299 {
+	node0 [label="この"];
+	node1 [label="不名誉を"];
+	node2 [label="避ける"];
+	node3 [label="ためには"];
+	node4 [label="多少の"];
+	node5 [label="不便は"];
+	node6 [label="忍ばねばならぬ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

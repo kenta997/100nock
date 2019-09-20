@@ -1,0 +1,9 @@
+digraph graph5958 {
+	node0 [label="「いや、"];
+	node1 [label="そんな"];
+	node2 [label="はずは"];
+	node3 [label="ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

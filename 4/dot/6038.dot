@@ -1,0 +1,13 @@
+digraph graph6038 {
+	node0 [label="「じゃ、"];
+	node1 [label="その、"];
+	node2 [label="すい"];
+	node3 [label="原へ"];
+	node4 [label="これから"];
+	node5 [label="行くんですか。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

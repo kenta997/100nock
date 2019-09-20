@@ -1,0 +1,11 @@
+digraph graph3027 {
+	node0 [label="「いいえ、"];
+	node1 [label="それじゃないの、"];
+	node2 [label="もっと"];
+	node3 [label="長い名が"];
+	node4 [label="あるでしょう」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

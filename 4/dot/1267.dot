@@ -1,0 +1,21 @@
+digraph graph1267 {
+	node0 [label="「はい"];
+	node1 [label="遅くなりまして、"];
+	node2 [label="仏師屋へ"];
+	node3 [label="参りましたら"];
+	node4 [label="ちょうど"];
+	node5 [label="出来上った"];
+	node6 [label="ところだと"];
+	node7 [label="申しまして」"];
+	node8 [label="「どれ"];
+	node9 [label="お見せなさい。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

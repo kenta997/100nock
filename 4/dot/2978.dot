@@ -1,0 +1,13 @@
+digraph graph2978 {
+	node0 [label="「よう"];
+	node1 [label="覚えているのう、"];
+	node2 [label="この"];
+	node3 [label="次は"];
+	node4 [label="きっと"];
+	node5 [label="持って来ます。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

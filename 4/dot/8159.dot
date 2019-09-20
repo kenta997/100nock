@@ -1,0 +1,9 @@
+digraph graph8159 {
+	node0 [label="「夜具に"];
+	node1 [label="くるんで"];
+	node2 [label="戸棚へ"];
+	node3 [label="しまったか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

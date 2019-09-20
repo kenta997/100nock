@@ -1,0 +1,11 @@
+digraph graph8751 {
+	node0 [label="日本でも"];
+	node1 [label="山の"];
+	node2 [label="中へ"];
+	node3 [label="這入って"];
+	node4 [label="見給え。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

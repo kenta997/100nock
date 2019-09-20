@@ -1,0 +1,7 @@
+digraph graph6049 {
+	node0 [label="「あれが"];
+	node1 [label="僕の"];
+	node2 [label="伯父さんさ」"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,21 @@
+digraph graph1843 {
+	node0 [label="金田家の"];
+	node1 [label="廊下を"];
+	node2 [label="人の"];
+	node3 [label="知らぬ"];
+	node4 [label="間に"];
+	node5 [label="横行するくらいは、"];
+	node6 [label="仁王様が"];
+	node7 [label="心太を"];
+	node8 [label="踏み潰すよりも"];
+	node9 [label="容易である。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

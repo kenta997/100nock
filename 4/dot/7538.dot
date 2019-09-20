@@ -1,0 +1,7 @@
+digraph graph7538 {
+	node0 [label="「ところが"];
+	node1 [label="手分けが"];
+	node2 [label="あるんだ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

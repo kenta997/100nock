@@ -28,8 +28,11 @@ class Morph:
 lattice = lattice.split("\nEOS")[:-1]
 lattice = [x.split("\n") for x in lattice]
 lattice = [[y.replace("\t", ",").split(",") for y in x] for x in lattice]
-morph = [[Morph(y[0], y[7], y[1], y[2]) for y in x if len(y) == 10] for x in lattice]
+morph = [[Morph(y[0], y[7], y[1], y[2]) for y in x if len(y) >= 8] for x in lattice]
 
 for x in morph[2]:
     print(x)
+
+with open("40.txt", mode="w") as f:
+    f.writelines(["".join([str(y) + "\n" for y in x]) for x in morph])
 

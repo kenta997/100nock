@@ -1,0 +1,31 @@
+digraph graph2482 {
+	node0 [label="「株などは"];
+	node1 [label="どうでも"];
+	node2 [label="構わんが、"];
+	node3 [label="僕は"];
+	node4 [label="曾呂崎に"];
+	node5 [label="一度で"];
+	node6 [label="いいから"];
+	node7 [label="電車へ"];
+	node8 [label="乗らしてやりたかった」と"];
+	node9 [label="主人は"];
+	node10 [label="喰い欠けた"];
+	node11 [label="羊羹の"];
+	node12 [label="歯痕を"];
+	node13 [label="撫然として"];
+	node14 [label="眺める。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node14;
+	node9 -> node14;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

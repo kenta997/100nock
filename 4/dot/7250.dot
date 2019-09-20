@@ -1,0 +1,11 @@
+digraph graph7250 {
+	node0 [label="「話す"];
+	node1 [label="事が"];
+	node2 [label="あるなら、"];
+	node3 [label="早く"];
+	node4 [label="話したらいいじゃないか」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

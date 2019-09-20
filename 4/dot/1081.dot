@@ -1,0 +1,19 @@
+digraph graph1081 {
+	node0 [label="首を"];
+	node1 [label="入れた"];
+	node2 [label="当人は"];
+	node3 [label="台を"];
+	node4 [label="引かれると同時に"];
+	node5 [label="縄を"];
+	node6 [label="ゆるめて"];
+	node7 [label="飛び下りるという"];
+	node8 [label="趣向である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+}

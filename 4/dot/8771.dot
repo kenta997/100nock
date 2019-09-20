@@ -1,0 +1,9 @@
+digraph graph8771 {
+	node0 [label="発達すればする"];
+	node1 [label="ほど"];
+	node2 [label="夫と"];
+	node3 [label="合わなくなる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

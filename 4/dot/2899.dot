@@ -1,0 +1,9 @@
+digraph graph2899 {
+	node0 [label="「帯まで"];
+	node1 [label="とって"];
+	node2 [label="行ったのか、"];
+	node3 [label="苛い奴だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,33 @@
+digraph graph5380 {
+	node0 [label="どう"];
+	node1 [label="するっ"];
+	node2 [label="たって"];
+	node3 [label="仕方がない、"];
+	node4 [label="やはり"];
+	node5 [label="医者の"];
+	node6 [label="薬でも"];
+	node7 [label="飲んで"];
+	node8 [label="肝癪の"];
+	node9 [label="源に"];
+	node10 [label="賄賂でも"];
+	node11 [label="使って"];
+	node12 [label="慰撫するより"];
+	node13 [label="ほかに"];
+	node14 [label="道は"];
+	node15 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node15;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

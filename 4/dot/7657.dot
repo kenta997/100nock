@@ -1,0 +1,11 @@
+digraph graph7657 {
+	node0 [label="「ついでに"];
+	node1 [label="その"];
+	node2 [label="隣りのも"];
+	node3 [label="引き揚げて"];
+	node4 [label="見てくれたまえ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,33 @@
+digraph graph5956 {
+	node0 [label="苦"];
+	node1 [label="沙弥君、"];
+	node2 [label="今日帰りに"];
+	node3 [label="ちょうど"];
+	node4 [label="いい"];
+	node5 [label="機会だから"];
+	node6 [label="大学を"];
+	node7 [label="通り抜ける"];
+	node8 [label="ついでに"];
+	node9 [label="理科へ"];
+	node10 [label="寄って、"];
+	node11 [label="物理の"];
+	node12 [label="実験室を"];
+	node13 [label="見せて"];
+	node14 [label="貰った"];
+	node15 [label="ところがね。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

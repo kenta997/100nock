@@ -1,0 +1,9 @@
+digraph graph9018 {
+	node0 [label="こりゃ"];
+	node1 [label="どうです」と"];
+	node2 [label="一枚寒月君につき"];
+	node3 [label="付ける。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,11 @@
+digraph graph782 {
+	node0 [label="「それから"];
+	node1 [label="どうしました」と"];
+	node2 [label="主人は"];
+	node3 [label="無頓着に"];
+	node4 [label="聞く。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

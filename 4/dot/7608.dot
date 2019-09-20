@@ -1,0 +1,9 @@
+digraph graph7608 {
+	node0 [label="「さすがに"];
+	node1 [label="仙人だけ"];
+	node2 [label="あって"];
+	node3 [label="鷹揚だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,7 @@
+digraph graph5163 {
+	node0 [label="「誰でも"];
+	node1 [label="いいから"];
+	node2 [label="連れてこい」"];
+	node0 -> node1;
+	node1 -> node2;
+}

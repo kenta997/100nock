@@ -1,0 +1,7 @@
+digraph graph7832 {
+	node0 [label="「しかし"];
+	node1 [label="極りが"];
+	node2 [label="つかないから……」"];
+	node0 -> node2;
+	node1 -> node2;
+}

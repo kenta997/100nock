@@ -1,0 +1,5 @@
+digraph graph6083 {
+	node0 [label="夜なかに"];
+	node1 [label="大騒ぎさ。"];
+	node0 -> node1;
+}

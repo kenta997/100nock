@@ -1,0 +1,21 @@
+digraph graph5527 {
+	node0 [label="夫婦君臣の"];
+	node1 [label="間柄も"];
+	node2 [label="その通り、"];
+	node3 [label="武士町人の"];
+	node4 [label="区別も"];
+	node5 [label="その通り、"];
+	node6 [label="自然その物を"];
+	node7 [label="観るのも"];
+	node8 [label="その"];
+	node9 [label="通り。"];
+	node0 -> node1;
+	node1 -> node9;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

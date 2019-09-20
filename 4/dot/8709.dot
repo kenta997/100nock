@@ -1,0 +1,19 @@
+digraph graph8709 {
+	node0 [label="「そら、"];
+	node1 [label="そう"];
+	node2 [label="云う"];
+	node3 [label="人が"];
+	node4 [label="現に"];
+	node5 [label="ここに"];
+	node6 [label="いるから"];
+	node7 [label="たしかな"];
+	node8 [label="ものだ。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

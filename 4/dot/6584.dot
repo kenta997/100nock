@@ -1,0 +1,37 @@
+digraph graph6584 {
+	node0 [label="ところが"];
+	node1 [label="その後"];
+	node2 [label="一戸を"];
+	node3 [label="構えて、"];
+	node4 [label="隠居所を"];
+	node5 [label="引き払う"];
+	node6 [label="際に、"];
+	node7 [label="そこで"];
+	node8 [label="自分の"];
+	node9 [label="もののように"];
+	node10 [label="使っていた"];
+	node11 [label="火鉢を"];
+	node12 [label="何の"];
+	node13 [label="気も"];
+	node14 [label="なく、"];
+	node15 [label="つい"];
+	node16 [label="持って来てしまったのだ"];
+	node17 [label="そうだ。"];
+	node0 -> node17;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

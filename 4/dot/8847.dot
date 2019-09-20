@@ -1,0 +1,13 @@
+digraph graph8847 {
+	node0 [label="だから"];
+	node1 [label="おれは"];
+	node2 [label="孔子だよと"];
+	node3 [label="威張っても"];
+	node4 [label="圧が"];
+	node5 [label="利かない。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

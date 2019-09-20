@@ -1,0 +1,13 @@
+digraph graph7493 {
+	node0 [label="武右衛門君は"];
+	node1 [label="悄然として"];
+	node2 [label="薩摩下駄を"];
+	node3 [label="引きずって"];
+	node4 [label="門を"];
+	node5 [label="出た。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

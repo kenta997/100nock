@@ -1,0 +1,7 @@
+digraph graph4646 {
+	node0 [label="大町桂月が"];
+	node1 [label="飲めと"];
+	node2 [label="云った」"];
+	node0 -> node1;
+	node1 -> node2;
+}

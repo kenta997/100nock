@@ -1,0 +1,25 @@
+digraph graph2034 {
+	node0 [label="主人は"];
+	node1 [label="椽側へ"];
+	node2 [label="出て"];
+	node3 [label="負けないような"];
+	node4 [label="声で"];
+	node5 [label="「やかましい、"];
+	node6 [label="何だわざわざ"];
+	node7 [label="そんな"];
+	node8 [label="塀の"];
+	node9 [label="下へ"];
+	node10 [label="来て」と"];
+	node11 [label="怒鳴る。"];
+	node0 -> node11;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,9 @@
+digraph graph5249 {
+	node0 [label="「ええ"];
+	node1 [label="苦"];
+	node2 [label="沙弥が"];
+	node3 [label="どうかしましたか」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

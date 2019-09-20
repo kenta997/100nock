@@ -1,0 +1,13 @@
+digraph graph3065 {
+	node0 [label="私が"];
+	node1 [label="貰って"];
+	node2 [label="行って"];
+	node3 [label="煮て"];
+	node4 [label="食おうか"];
+	node5 [label="知らん」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

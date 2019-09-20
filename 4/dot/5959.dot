@@ -1,0 +1,19 @@
+digraph graph5959 {
+	node0 [label="これは"];
+	node1 [label="建武時代の"];
+	node2 [label="鉄で、"];
+	node3 [label="性の"];
+	node4 [label="いい"];
+	node5 [label="鉄だから"];
+	node6 [label="決して"];
+	node7 [label="そんな"];
+	node8 [label="虞れはない」"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

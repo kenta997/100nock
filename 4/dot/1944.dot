@@ -1,0 +1,21 @@
+digraph graph1944 {
+	node0 [label="ここから"];
+	node1 [label="乾の"];
+	node2 [label="方角にあたる"];
+	node3 [label="清浄な"];
+	node4 [label="世界で……」"];
+	node5 [label="「あんまり"];
+	node6 [label="清浄でもなさそうだ、"];
+	node7 [label="毒々しい"];
+	node8 [label="鼻だぜ」"];
+	node9 [label="「へえ？"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

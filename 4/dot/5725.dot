@@ -1,0 +1,9 @@
+digraph graph5725 {
+	node0 [label="これも"];
+	node1 [label="哲学者から"];
+	node2 [label="やり込められた"];
+	node3 [label="結果かも知れぬ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

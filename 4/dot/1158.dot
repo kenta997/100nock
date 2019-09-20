@@ -1,0 +1,11 @@
+digraph graph1158 {
+	node0 [label="「やはり"];
+	node1 [label="同日"];
+	node2 [label="同刻じゃないか」と"];
+	node3 [label="迷亭が"];
+	node4 [label="まぜ返す。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

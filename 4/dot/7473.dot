@@ -1,0 +1,23 @@
+digraph graph7473 {
+	node0 [label="「それ御覧"];
+	node1 [label="なさい」と"];
+	node2 [label="細君が"];
+	node3 [label="云うと、"];
+	node4 [label="雪江さんは"];
+	node5 [label="「あら"];
+	node6 [label="大変だ」と"];
+	node7 [label="台所へ"];
+	node8 [label="馳け"];
+	node9 [label="出して"];
+	node10 [label="行った。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,9 @@
+digraph graph958 {
+	node0 [label="面白いのが"];
+	node1 [label="出来たら見せ"];
+	node2 [label="たまえ」と"];
+	node3 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

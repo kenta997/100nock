@@ -1,0 +1,27 @@
+digraph graph2532 {
+	node0 [label="美学原論を"];
+	node1 [label="著わ"];
+	node2 [label="そうと"];
+	node3 [label="する"];
+	node4 [label="意志は"];
+	node5 [label="充分"];
+	node6 [label="あったのだが"];
+	node7 [label="その"];
+	node8 [label="意志を"];
+	node9 [label="君に"];
+	node10 [label="発表した"];
+	node11 [label="翌日から"];
+	node12 [label="忘れてしまった。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

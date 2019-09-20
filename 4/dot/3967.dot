@@ -1,0 +1,15 @@
+digraph graph3967 {
+	node0 [label="時候が"];
+	node1 [label="いいと"];
+	node2 [label="一匹や"];
+	node3 [label="二匹"];
+	node4 [label="見付け出すのは"];
+	node5 [label="雑作も"];
+	node6 [label="ない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

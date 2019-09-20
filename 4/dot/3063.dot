@@ -1,0 +1,5 @@
+digraph graph3063 {
+	node0 [label="「いやそりゃ、"];
+	node1 [label="どうもこうもならん。"];
+	node0 -> node1;
+}

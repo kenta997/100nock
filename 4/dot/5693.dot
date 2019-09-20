@@ -1,0 +1,27 @@
+digraph graph5693 {
+	node0 [label="もし"];
+	node1 [label="善意を"];
+	node2 [label="もって"];
+	node3 [label="蒟蒻問答的に"];
+	node4 [label="解釈してやれば"];
+	node5 [label="主人は"];
+	node6 [label="見性自覚の"];
+	node7 [label="方便としてかように"];
+	node8 [label="鏡を"];
+	node9 [label="相手に"];
+	node10 [label="いろいろな"];
+	node11 [label="仕草を"];
+	node12 [label="演じているのかも知れない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

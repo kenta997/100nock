@@ -1,0 +1,15 @@
+digraph graph8295 {
+	node0 [label="寒月君"];
+	node1 [label="近所へ"];
+	node2 [label="聞えないように"];
+	node3 [label="ヴァイオリンを"];
+	node4 [label="弾く"];
+	node5 [label="方を"];
+	node6 [label="知らんですか」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

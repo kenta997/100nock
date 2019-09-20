@@ -1,0 +1,7 @@
+digraph graph7899 {
+	node0 [label="第一"];
+	node1 [label="買うのに"];
+	node2 [label="困りましたよ先生」"];
+	node0 -> node1;
+	node1 -> node2;
+}

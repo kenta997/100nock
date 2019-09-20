@@ -1,0 +1,11 @@
+digraph graph245 {
+	node0 [label="黒は"];
+	node1 [label="大きな"];
+	node2 [label="眼を"];
+	node3 [label="ぱちつかせて"];
+	node4 [label="云う。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

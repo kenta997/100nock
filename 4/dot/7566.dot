@@ -1,0 +1,15 @@
+digraph graph7566 {
+	node0 [label="ありゃ"];
+	node1 [label="頭は"];
+	node2 [label="大きいが"];
+	node3 [label="人相は"];
+	node4 [label="そんなに"];
+	node5 [label="わるく"];
+	node6 [label="ありません。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

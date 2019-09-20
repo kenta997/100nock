@@ -1,0 +1,29 @@
+digraph graph8123 {
+	node0 [label="往来へ"];
+	node1 [label="出て"];
+	node2 [label="ちょっと"];
+	node3 [label="見廻して"];
+	node4 [label="見ると、"];
+	node5 [label="幸誰も"];
+	node6 [label="いないようですが、"];
+	node7 [label="一丁ばかり"];
+	node8 [label="向から"];
+	node9 [label="二三人して"];
+	node10 [label="町内中に"];
+	node11 [label="響けとばかり"];
+	node12 [label="詩吟を"];
+	node13 [label="して来ます。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

@@ -1,0 +1,35 @@
+digraph graph5634 {
+	node0 [label="こんな"];
+	node1 [label="気取った"];
+	node2 [label="分け方は"];
+	node3 [label="この"];
+	node4 [label="机と"];
+	node5 [label="一向"];
+	node6 [label="調和しないと"];
+	node7 [label="思うが、"];
+	node8 [label="あえて"];
+	node9 [label="他人に"];
+	node10 [label="害を"];
+	node11 [label="及ぼす"];
+	node12 [label="ほどの"];
+	node13 [label="事でないから、"];
+	node14 [label="誰も"];
+	node15 [label="何とも"];
+	node16 [label="云わない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node16;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

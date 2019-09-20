@@ -1,0 +1,7 @@
+digraph graph4693 {
+	node0 [label="実を"];
+	node1 [label="云うと"];
+	node2 [label="あったのである。"];
+	node0 -> node1;
+	node1 -> node2;
+}

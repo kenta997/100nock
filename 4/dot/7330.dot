@@ -1,0 +1,11 @@
+digraph graph7330 {
+	node0 [label="「だから"];
+	node1 [label="滅多な"];
+	node2 [label="真似を"];
+	node3 [label="しないが"];
+	node4 [label="いい」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

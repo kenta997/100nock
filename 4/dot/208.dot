@@ -1,0 +1,11 @@
+digraph graph208 {
+	node0 [label="いやに"];
+	node1 [label="瘠せてるじゃねえか」と"];
+	node2 [label="大王だけに"];
+	node3 [label="気焔を"];
+	node4 [label="吹きかける。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,15 @@
+digraph graph47 {
+	node0 [label="仕方がないから"];
+	node1 [label="とにかく"];
+	node2 [label="明るくて"];
+	node3 [label="暖かそうな"];
+	node4 [label="方へ"];
+	node5 [label="方へと"];
+	node6 [label="あるいて行く。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,31 @@
+digraph graph2047 {
+	node0 [label="何の"];
+	node1 [label="ために、"];
+	node2 [label="かくまで"];
+	node3 [label="足繁く"];
+	node4 [label="金田邸へ"];
+	node5 [label="通うのかと"];
+	node6 [label="不審を"];
+	node7 [label="起すなら"];
+	node8 [label="その"];
+	node9 [label="前に"];
+	node10 [label="ちょっと"];
+	node11 [label="人間に"];
+	node12 [label="反問した"];
+	node13 [label="い事が"];
+	node14 [label="ある。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

@@ -1,0 +1,19 @@
+digraph graph4772 {
+	node0 [label="多少"];
+	node1 [label="人を"];
+	node2 [label="傷けなければ"];
+	node3 [label="自己の"];
+	node4 [label="えらい"];
+	node5 [label="事は"];
+	node6 [label="事実の"];
+	node7 [label="上に"];
+	node8 [label="証拠だてられない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

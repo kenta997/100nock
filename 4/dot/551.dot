@@ -1,0 +1,15 @@
+digraph graph551 {
+	node0 [label="ところへ"];
+	node1 [label="友人が"];
+	node2 [label="遊びに"];
+	node3 [label="来たので"];
+	node4 [label="いっしょに"];
+	node5 [label="散歩に"];
+	node6 [label="出掛けた。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

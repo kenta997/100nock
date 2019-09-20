@@ -1,0 +1,9 @@
+digraph graph6755 {
+	node0 [label="わたしなんか"];
+	node1 [label="是非及第するつもりだったけれども、"];
+	node2 [label="とうとう"];
+	node3 [label="落第してしまったわ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

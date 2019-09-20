@@ -1,0 +1,7 @@
+digraph graph3865 {
+	node0 [label="「その"];
+	node1 [label="一句は"];
+	node2 [label="大出来だ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

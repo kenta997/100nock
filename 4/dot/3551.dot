@@ -1,0 +1,11 @@
+digraph graph3551 {
+	node0 [label="さすがは"];
+	node1 [label="寒月先生だ、"];
+	node2 [label="蛙の"];
+	node3 [label="眼球は"];
+	node4 [label="振ってるよ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

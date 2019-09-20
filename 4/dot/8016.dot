@@ -1,0 +1,7 @@
+digraph graph8016 {
+	node0 [label="誰かあとを"];
+	node1 [label="つけて来そうで"];
+	node2 [label="たまりません。"];
+	node0 -> node1;
+	node1 -> node2;
+}

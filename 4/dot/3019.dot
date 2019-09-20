@@ -1,0 +1,5 @@
+digraph graph3019 {
+	node0 [label="奥さんも"];
+	node1 [label="有んなさるか」"];
+	node0 -> node1;
+}

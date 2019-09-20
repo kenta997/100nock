@@ -1,0 +1,7 @@
+digraph graph1681 {
+	node0 [label="主人の"];
+	node1 [label="顔は"];
+	node2 [label="渋い。"];
+	node0 -> node1;
+	node1 -> node2;
+}

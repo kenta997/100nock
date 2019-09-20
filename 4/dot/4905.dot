@@ -1,0 +1,15 @@
+digraph graph4905 {
+	node0 [label="まず"];
+	node1 [label="今日の"];
+	node2 [label="ところでは"];
+	node3 [label="人為的逆上は"];
+	node4 [label="不可能の"];
+	node5 [label="事と"];
+	node6 [label="なっている。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

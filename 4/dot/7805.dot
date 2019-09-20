@@ -1,0 +1,29 @@
+digraph graph7805 {
+	node0 [label="「でも、"];
+	node1 [label="皆な"];
+	node2 [label="はだしで"];
+	node3 [label="兵式体操を"];
+	node4 [label="して、"];
+	node5 [label="廻れ"];
+	node6 [label="右を"];
+	node7 [label="やるんで"];
+	node8 [label="足の"];
+	node9 [label="皮が"];
+	node10 [label="大変"];
+	node11 [label="厚くなってると"];
+	node12 [label="云う"];
+	node13 [label="話だぜ」"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

@@ -1,0 +1,7 @@
+digraph graph5969 {
+	node0 [label="ビードロやの"];
+	node1 [label="主人にでも"];
+	node2 [label="出来る。"];
+	node0 -> node1;
+	node1 -> node2;
+}

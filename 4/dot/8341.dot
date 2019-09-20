@@ -1,0 +1,35 @@
+digraph graph8341 {
+	node0 [label="山の"];
+	node1 [label="なかだから、"];
+	node2 [label="人の"];
+	node3 [label="住んでる"];
+	node4 [label="所は"];
+	node5 [label="樟脳を"];
+	node6 [label="採る"];
+	node7 [label="小屋が"];
+	node8 [label="一軒"];
+	node9 [label="あるばかり、"];
+	node10 [label="池の"];
+	node11 [label="近辺は"];
+	node12 [label="昼でも"];
+	node13 [label="あまり"];
+	node14 [label="心持ちの"];
+	node15 [label="いい"];
+	node16 [label="場所じゃない。"];
+	node0 -> node1;
+	node1 -> node16;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node16;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node16;
+	node10 -> node11;
+	node11 -> node16;
+	node12 -> node16;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node16;
+}

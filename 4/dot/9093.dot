@@ -1,0 +1,7 @@
+digraph graph9093 {
+	node0 [label="下女は"];
+	node1 [label="湯に"];
+	node2 [label="行った。"];
+	node0 -> node2;
+	node1 -> node2;
+}

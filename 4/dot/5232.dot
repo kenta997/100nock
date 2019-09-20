@@ -1,0 +1,13 @@
+digraph graph5232 {
+	node0 [label="実は"];
+	node1 [label="こないだから、"];
+	node2 [label="君に"];
+	node3 [label="ちょっと"];
+	node4 [label="逢いたいと"];
+	node5 [label="思っていたがね。"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

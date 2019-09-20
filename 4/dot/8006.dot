@@ -1,0 +1,7 @@
+digraph graph8006 {
+	node0 [label="何里くらい"];
+	node1 [label="あるんですか」と"];
+	node2 [label="聞いた。"];
+	node0 -> node1;
+	node1 -> node2;
+}

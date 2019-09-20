@@ -1,0 +1,21 @@
+digraph graph4571 {
+	node0 [label="主人の"];
+	node1 [label="蛇蝎のごとく嫌う"];
+	node2 [label="金田君なら"];
+	node3 [label="やりそうな"];
+	node4 [label="事だが、"];
+	node5 [label="赤裸々をもって"];
+	node6 [label="誇る"];
+	node7 [label="主人としては"];
+	node8 [label="すこぶる"];
+	node9 [label="卑劣である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

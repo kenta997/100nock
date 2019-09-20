@@ -1,0 +1,9 @@
+digraph graph78 {
+	node0 [label="涎を"];
+	node1 [label="本の"];
+	node2 [label="上へ"];
+	node3 [label="垂らす。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

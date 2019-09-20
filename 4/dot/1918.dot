@@ -1,0 +1,33 @@
+digraph graph1918 {
+	node0 [label="この"];
+	node1 [label="さき、"];
+	node2 [label="事局は"];
+	node3 [label="どう"];
+	node4 [label="発展するかと"];
+	node5 [label="謹聴している"];
+	node6 [label="時、"];
+	node7 [label="向うの"];
+	node8 [label="座敷で"];
+	node9 [label="「富子や、"];
+	node10 [label="富子や」と"];
+	node11 [label="大きな"];
+	node12 [label="声で"];
+	node13 [label="金田君が"];
+	node14 [label="令嬢を"];
+	node15 [label="呼ぶ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

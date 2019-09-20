@@ -1,0 +1,5 @@
+digraph graph2681 {
+	node0 [label="活版の"];
+	node1 [label="睡眠剤である。"];
+	node0 -> node1;
+}

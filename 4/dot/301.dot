@@ -1,0 +1,23 @@
+digraph graph301 {
+	node0 [label="この"];
+	node1 [label="美学者は"];
+	node2 [label="こんな"];
+	node3 [label="好加減な"];
+	node4 [label="事を"];
+	node5 [label="吹き散らして"];
+	node6 [label="人を"];
+	node7 [label="担ぐのを"];
+	node8 [label="唯一の"];
+	node9 [label="楽にしている"];
+	node10 [label="男である。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

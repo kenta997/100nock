@@ -1,0 +1,19 @@
+digraph graph1913 {
+	node0 [label="妾しには"];
+	node1 [label="地味過ぎて"];
+	node2 [label="いやだから"];
+	node3 [label="御前に"];
+	node4 [label="上げようと"];
+	node5 [label="おっしゃった、"];
+	node6 [label="あれでございます」"];
+	node7 [label="「あら"];
+	node8 [label="いやだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

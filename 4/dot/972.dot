@@ -1,0 +1,31 @@
+digraph graph972 {
+	node0 [label="それから"];
+	node1 [label="早々"];
+	node2 [label="本文を"];
+	node3 [label="読むさ、"];
+	node4 [label="君は"];
+	node5 [label="声が"];
+	node6 [label="善いから"];
+	node7 [label="なかなか"];
+	node8 [label="面白い」"];
+	node9 [label="「雑ぜ"];
+	node10 [label="かえしては"];
+	node11 [label="いかんよ」と"];
+	node12 [label="予じめ念を"];
+	node13 [label="押してまた"];
+	node14 [label="読み始める。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

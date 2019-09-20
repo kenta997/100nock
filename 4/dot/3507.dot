@@ -1,0 +1,37 @@
+digraph graph3507 {
+	node0 [label="「へえ御待遠さま、"];
+	node1 [label="たんと"];
+	node2 [label="御覧"];
+	node3 [label="遊ばせ」と"];
+	node4 [label="細君が"];
+	node5 [label="鋏を"];
+	node6 [label="主人に"];
+	node7 [label="渡す"];
+	node8 [label="時に、"];
+	node9 [label="勝手から"];
+	node10 [label="御三が"];
+	node11 [label="御客さまの"];
+	node12 [label="御誂が"];
+	node13 [label="参りましたと、"];
+	node14 [label="二個の"];
+	node15 [label="笊蕎麦を"];
+	node16 [label="座敷へ"];
+	node17 [label="持って来る。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

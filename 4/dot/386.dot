@@ -1,0 +1,21 @@
+digraph graph386 {
+	node0 [label="すると"];
+	node1 [label="主人は"];
+	node2 [label="高利貸にでも"];
+	node3 [label="飛び込まれたように"];
+	node4 [label="不安な"];
+	node5 [label="顔付を"];
+	node6 [label="して"];
+	node7 [label="玄関の"];
+	node8 [label="方を"];
+	node9 [label="見る。"];
+	node0 -> node9;
+	node1 -> node9;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

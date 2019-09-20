@@ -1,0 +1,13 @@
+digraph graph7280 {
+	node0 [label="「だから、"];
+	node1 [label="名前は"];
+	node2 [label="廃して、"];
+	node3 [label="投函役に"];
+	node4 [label="なると"];
+	node5 [label="云ったんです」"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

@@ -1,0 +1,9 @@
+digraph graph2916 {
+	node0 [label="「いいじゃありませんか、"];
+	node1 [label="あなたに"];
+	node2 [label="買っていただき"];
+	node3 [label="ゃあしまいし」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

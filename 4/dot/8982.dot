@@ -1,0 +1,13 @@
+digraph graph8982 {
+	node0 [label="「あなたが"];
+	node1 [label="東風君ですか、"];
+	node2 [label="結婚の"];
+	node3 [label="時に"];
+	node4 [label="何か"];
+	node5 [label="作ってくれませんか。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

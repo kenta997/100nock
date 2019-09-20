@@ -1,0 +1,35 @@
+digraph graph4036 {
+	node0 [label="蟷螂君と"];
+	node1 [label="違って"];
+	node2 [label="一たび"];
+	node3 [label="飛んでしまったが"];
+	node4 [label="最後、"];
+	node5 [label="せっかくの"];
+	node6 [label="木登りも、"];
+	node7 [label="木"];
+	node8 [label="登らずと"];
+	node9 [label="何の"];
+	node10 [label="択むところなしと"];
+	node11 [label="云う"];
+	node12 [label="悲運に"];
+	node13 [label="際会する"];
+	node14 [label="事が"];
+	node15 [label="ないとも"];
+	node16 [label="限らん。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node16;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node15;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

@@ -1,0 +1,11 @@
+digraph graph8095 {
+	node0 [label="耶蘇も"];
+	node1 [label="あんな"];
+	node2 [label="世に"];
+	node3 [label="生れれば"];
+	node4 [label="罪人さ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

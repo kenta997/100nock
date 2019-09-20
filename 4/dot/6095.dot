@@ -1,0 +1,11 @@
+digraph graph6095 {
+	node0 [label="「どうりで"];
+	node1 [label="独仙流の"];
+	node2 [label="消極説を"];
+	node3 [label="振り舞わすと"];
+	node4 [label="思った」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

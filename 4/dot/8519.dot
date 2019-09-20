@@ -1,0 +1,11 @@
+digraph graph8519 {
+	node0 [label="二六時中"];
+	node1 [label="己れと"];
+	node2 [label="云う"];
+	node3 [label="意識をもって"];
+	node4 [label="充満している。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

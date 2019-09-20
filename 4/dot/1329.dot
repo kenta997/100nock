@@ -1,0 +1,11 @@
+digraph graph1329 {
+	node0 [label="写真も"];
+	node1 [label="まだ"];
+	node2 [label="撮って"];
+	node3 [label="送らぬ"];
+	node4 [label="容子だ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

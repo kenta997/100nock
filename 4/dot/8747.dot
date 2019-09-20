@@ -1,0 +1,19 @@
+digraph graph8747 {
+	node0 [label="こう"];
+	node1 [label="なると"];
+	node2 [label="人と"];
+	node3 [label="人の"];
+	node4 [label="間に"];
+	node5 [label="空間が"];
+	node6 [label="なくなって、"];
+	node7 [label="生きてるのが"];
+	node8 [label="窮屈になる。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,15 @@
+digraph graph2946 {
+	node0 [label="「教えて"];
+	node1 [label="下すっても"];
+	node2 [label="いいじゃありませんか、"];
+	node3 [label="あなたは"];
+	node4 [label="よっぽど"];
+	node5 [label="私を"];
+	node6 [label="馬鹿にしていらっしゃるのね。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

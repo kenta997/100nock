@@ -1,0 +1,19 @@
+digraph graph4739 {
+	node0 [label="ところが"];
+	node1 [label="実際は"];
+	node2 [label="女※氏の"];
+	node3 [label="時代から"];
+	node4 [label="予期と"];
+	node5 [label="違う"];
+	node6 [label="もので、"];
+	node7 [label="主人はまた"];
+	node8 [label="失敗した。"];
+	node0 -> node8;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

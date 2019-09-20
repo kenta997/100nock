@@ -1,0 +1,33 @@
+digraph graph2615 {
+	node0 [label="さっきまで"];
+	node1 [label="迷亭の"];
+	node2 [label="悪口を"];
+	node3 [label="随分"];
+	node4 [label="ついた"];
+	node5 [label="揚句"];
+	node6 [label="ここで"];
+	node7 [label="無暗な"];
+	node8 [label="事を"];
+	node9 [label="云うと、"];
+	node10 [label="主人のような"];
+	node11 [label="無法者は"];
+	node12 [label="どんな"];
+	node13 [label="事を"];
+	node14 [label="素っ破抜くか"];
+	node15 [label="知れない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

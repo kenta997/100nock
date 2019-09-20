@@ -1,0 +1,7 @@
+digraph graph2466 {
+	node0 [label="長生は"];
+	node1 [label="したい"];
+	node2 [label="もんだな。"];
+	node0 -> node1;
+	node1 -> node2;
+}

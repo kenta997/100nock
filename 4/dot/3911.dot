@@ -1,0 +1,7 @@
+digraph graph3911 {
+	node0 [label="死ねば"];
+	node1 [label="必ず"];
+	node2 [label="浮く。"];
+	node0 -> node2;
+	node1 -> node2;
+}

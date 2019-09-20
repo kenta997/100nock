@@ -1,0 +1,21 @@
+digraph graph7177 {
+	node0 [label="彼は"];
+	node1 [label="四つ目の"];
+	node2 [label="足跡の"];
+	node3 [label="上へ"];
+	node4 [label="ちゃんと"];
+	node5 [label="坐って、"];
+	node6 [label="さも"];
+	node7 [label="窮屈そうに"];
+	node8 [label="畏し"];
+	node9 [label="こまっている。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

@@ -1,0 +1,15 @@
+digraph graph7746 {
+	node0 [label="——"];
+	node1 [label="それじゃ"];
+	node2 [label="この"];
+	node3 [label="かど地面へ"];
+	node4 [label="ちょっと"];
+	node5 [label="曲がって"];
+	node6 [label="置くかな。"];
+	node0 -> node6;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

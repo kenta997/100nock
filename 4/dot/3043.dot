@@ -1,0 +1,7 @@
+digraph graph3043 {
+	node0 [label="「せんだって、"];
+	node1 [label="先生"];
+	node2 [label="こぼしていなさいました。"];
+	node0 -> node2;
+	node1 -> node2;
+}

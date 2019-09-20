@@ -1,0 +1,23 @@
+digraph graph605 {
+	node0 [label="煩悶の"];
+	node1 [label="極尻尾を"];
+	node2 [label="ぐるぐる振って"];
+	node3 [label="見たが"];
+	node4 [label="何等の"];
+	node5 [label="功能も"];
+	node6 [label="ない、"];
+	node7 [label="耳を"];
+	node8 [label="立てたり"];
+	node9 [label="寝かしたりしたが"];
+	node10 [label="駄目である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

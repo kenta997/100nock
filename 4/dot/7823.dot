@@ -1,0 +1,5 @@
+digraph graph7823 {
+	node0 [label="それで"];
+	node1 [label="片づいた。"];
+	node0 -> node1;
+}

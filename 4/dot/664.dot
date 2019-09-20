@@ -1,0 +1,13 @@
+digraph graph664 {
+	node0 [label="町内で"];
+	node1 [label="吾輩を"];
+	node2 [label="先生と"];
+	node3 [label="呼んでくれるのは"];
+	node4 [label="この"];
+	node5 [label="三毛子ばかりである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

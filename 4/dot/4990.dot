@@ -1,0 +1,17 @@
+digraph graph4990 {
+	node0 [label="　主人は"];
+	node1 [label="座敷の"];
+	node2 [label="障子を"];
+	node3 [label="開いて"];
+	node4 [label="腹這に"];
+	node5 [label="なって、"];
+	node6 [label="何か"];
+	node7 [label="思案している。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

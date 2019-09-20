@@ -1,0 +1,9 @@
+digraph graph2763 {
+	node0 [label="こう"];
+	node1 [label="云うのは"];
+	node2 [label="明かに"];
+	node3 [label="パラドックスである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

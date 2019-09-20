@@ -1,0 +1,27 @@
+digraph graph6434 {
+	node0 [label="世の中には"];
+	node1 [label="色盲というのが"];
+	node2 [label="あって、"];
+	node3 [label="当人は"];
+	node4 [label="完全な"];
+	node5 [label="視力を"];
+	node6 [label="具えているつもりでも、"];
+	node7 [label="医者から"];
+	node8 [label="云わせると"];
+	node9 [label="片輪だそうだが、"];
+	node10 [label="この"];
+	node11 [label="御三は"];
+	node12 [label="声盲なのだろう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

@@ -1,0 +1,37 @@
+digraph graph900 {
+	node0 [label="胃内廓清の"];
+	node1 [label="功を"];
+	node2 [label="奏したる"];
+	node3 [label="後"];
+	node4 [label="又"];
+	node5 [label="食卓に"];
+	node6 [label="就き、"];
+	node7 [label="飽く迄"];
+	node8 [label="珍味を"];
+	node9 [label="風"];
+	node10 [label="好し、"];
+	node11 [label="風"];
+	node12 [label="好し了れば"];
+	node13 [label="又"];
+	node14 [label="湯に"];
+	node15 [label="入りて"];
+	node16 [label="之を"];
+	node17 [label="吐出致候。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node17;
+	node7 -> node17;
+	node8 -> node17;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node17;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

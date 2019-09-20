@@ -1,0 +1,9 @@
+digraph graph3111 {
+	node0 [label="これでは"];
+	node1 [label="手の"];
+	node2 [label="つけようが"];
+	node3 [label="ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

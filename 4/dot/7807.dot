@@ -1,0 +1,9 @@
+digraph graph7807 {
+	node0 [label="だれが"];
+	node1 [label="そんな"];
+	node2 [label="事を"];
+	node3 [label="云いました」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

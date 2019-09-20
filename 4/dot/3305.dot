@@ -1,0 +1,17 @@
+digraph graph3305 {
+	node0 [label="　"];
+	node1 [label="今度は"];
+	node2 [label="へっついの"];
+	node3 [label="影で"];
+	node4 [label="吾輩の"];
+	node5 [label="鮑貝が"];
+	node6 [label="ことりと"];
+	node7 [label="鳴る。"];
+	node0 -> node7;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

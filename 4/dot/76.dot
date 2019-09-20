@@ -1,0 +1,9 @@
+digraph graph76 {
+	node0 [label="飲んだ"];
+	node1 [label="後で"];
+	node2 [label="書物を"];
+	node3 [label="ひろげる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,31 @@
+digraph graph8094 {
+	node0 [label="「人が"];
+	node1 [label="認めない"];
+	node2 [label="事を"];
+	node3 [label="すれば、"];
+	node4 [label="どんない"];
+	node5 [label="い事を"];
+	node6 [label="しても"];
+	node7 [label="罪人さ、"];
+	node8 [label="だから"];
+	node9 [label="世の中に"];
+	node10 [label="罪人ほど"];
+	node11 [label="あてに"];
+	node12 [label="ならない"];
+	node13 [label="ものは"];
+	node14 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node14;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node14;
+	node8 -> node14;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

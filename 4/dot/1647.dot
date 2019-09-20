@@ -1,0 +1,15 @@
+digraph graph1647 {
+	node0 [label="「私しの"];
+	node1 [label="方だって、"];
+	node2 [label="ぬかりは"];
+	node3 [label="ありませんやね」と"];
+	node4 [label="鼻子は"];
+	node5 [label="したり顔を"];
+	node6 [label="する。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

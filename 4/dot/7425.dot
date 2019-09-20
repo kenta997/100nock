@@ -1,0 +1,5 @@
+digraph graph7425 {
+	node0 [label="「今日は"];
+	node1 [label="大丈夫です。"];
+	node0 -> node1;
+}

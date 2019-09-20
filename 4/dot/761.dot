@@ -1,0 +1,23 @@
+digraph graph761 {
+	node0 [label="　家へ"];
+	node1 [label="帰ると"];
+	node2 [label="座敷の"];
+	node3 [label="中が、"];
+	node4 [label="いつに"];
+	node5 [label="なく"];
+	node6 [label="春めいて"];
+	node7 [label="主人の"];
+	node8 [label="笑い声さえ"];
+	node9 [label="陽気に"];
+	node10 [label="聞える。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

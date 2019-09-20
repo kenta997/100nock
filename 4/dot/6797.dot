@@ -1,0 +1,9 @@
+digraph graph6797 {
+	node0 [label="「御"];
+	node1 [label="話しって、"];
+	node2 [label="どんな"];
+	node3 [label="御話なの？"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

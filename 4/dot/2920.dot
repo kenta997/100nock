@@ -1,0 +1,5 @@
+digraph graph2920 {
+	node0 [label="「あなたんで"];
+	node1 [label="さあね。"];
+	node0 -> node1;
+}

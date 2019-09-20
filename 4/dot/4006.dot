@@ -1,0 +1,11 @@
+digraph graph4006 {
+	node0 [label="これも"];
+	node1 [label="いやになってから、"];
+	node2 [label="最後の手段として"];
+	node3 [label="むしゃむしゃ"];
+	node4 [label="食ってしまう。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,11 @@
+digraph graph7323 {
+	node0 [label="「学校の"];
+	node1 [label="名を"];
+	node2 [label="書かないだけ"];
+	node3 [label="まあ"];
+	node4 [label="よかった。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

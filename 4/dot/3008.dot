@@ -1,0 +1,15 @@
+digraph graph3008 {
+	node0 [label="多々良君の"];
+	node1 [label="頭の"];
+	node2 [label="後部には"];
+	node3 [label="直径"];
+	node4 [label="一寸ばかりの"];
+	node5 [label="禿が"];
+	node6 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

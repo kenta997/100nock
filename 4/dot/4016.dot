@@ -1,0 +1,31 @@
+digraph graph4016 {
+	node0 [label="八つ口の"];
+	node1 [label="綻びから"];
+	node2 [label="秋風が"];
+	node3 [label="断わりなしに"];
+	node4 [label="膚を"];
+	node5 [label="撫でて"];
+	node6 [label="はっくしょ風邪を"];
+	node7 [label="引いたと"];
+	node8 [label="云う"];
+	node9 [label="頃"];
+	node10 [label="熾に"];
+	node11 [label="尾を"];
+	node12 [label="掉り"];
+	node13 [label="立てて"];
+	node14 [label="なく。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

@@ -1,0 +1,9 @@
+digraph graph2077 {
+	node0 [label="単に"];
+	node1 [label="鼻のみではない、"];
+	node2 [label="顔全体が"];
+	node3 [label="低い。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

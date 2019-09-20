@@ -1,0 +1,27 @@
+digraph graph4959 {
+	node0 [label="この"];
+	node1 [label="睹"];
+	node2 [label="易き"];
+	node3 [label="結果を"];
+	node4 [label="予想せんで、"];
+	node5 [label="あくまでも"];
+	node6 [label="敵と"];
+	node7 [label="戦闘を"];
+	node8 [label="継続しようと"];
+	node9 [label="苦心するのは、"];
+	node10 [label="ただ"];
+	node11 [label="本人たる"];
+	node12 [label="苦沙弥先生のみである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

@@ -1,0 +1,15 @@
+digraph graph4927 {
+	node0 [label="昔し"];
+	node1 [label="希臘に"];
+	node2 [label="イスキラスと"];
+	node3 [label="云う"];
+	node4 [label="作家が"];
+	node5 [label="あった"];
+	node6 [label="そうだ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

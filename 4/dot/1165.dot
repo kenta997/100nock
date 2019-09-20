@@ -1,0 +1,25 @@
+digraph graph1165 {
+	node0 [label="その"];
+	node1 [label="翌日に"];
+	node2 [label="なると"];
+	node3 [label="細君が"];
+	node4 [label="云うには"];
+	node5 [label="今日は"];
+	node6 [label="三十三間堂です、"];
+	node7 [label="私は"];
+	node8 [label="是非"];
+	node9 [label="摂津の"];
+	node10 [label="三十三間堂が"];
+	node11 [label="聞きたい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

@@ -1,0 +1,7 @@
+digraph graph8140 {
+	node0 [label="売る"];
+	node1 [label="ところなんか"];
+	node2 [label="聞かなくってもいい」"];
+	node0 -> node1;
+	node1 -> node2;
+}

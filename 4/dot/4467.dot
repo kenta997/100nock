@@ -1,0 +1,7 @@
+digraph graph4467 {
+	node0 [label="何も"];
+	node1 [label="取らずに"];
+	node2 [label="行んだげな。"];
+	node0 -> node1;
+	node1 -> node2;
+}

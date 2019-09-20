@@ -1,0 +1,11 @@
+digraph graph4976 {
+	node0 [label="両人は"];
+	node1 [label="垣を"];
+	node2 [label="境に"];
+	node3 [label="何か"];
+	node4 [label="談判している。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

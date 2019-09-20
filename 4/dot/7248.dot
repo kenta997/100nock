@@ -1,0 +1,9 @@
+digraph graph7248 {
+	node0 [label="単に"];
+	node1 [label="遠慮のみとは"];
+	node2 [label="とうてい"];
+	node3 [label="受け取られない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

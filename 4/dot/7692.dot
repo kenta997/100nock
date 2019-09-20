@@ -1,0 +1,33 @@
+digraph graph7692 {
+	node0 [label="「名産だって"];
+	node1 [label="東京にも"];
+	node2 [label="そんなのは"];
+	node3 [label="有りそうだぜ」と"];
+	node4 [label="主人は"];
+	node5 [label="一番"];
+	node6 [label="大きな"];
+	node7 [label="奴を"];
+	node8 [label="一本"];
+	node9 [label="取り上げて、"];
+	node10 [label="鼻の"];
+	node11 [label="先へ"];
+	node12 [label="持って行って"];
+	node13 [label="臭いを"];
+	node14 [label="かいで"];
+	node15 [label="見る。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node15;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+}

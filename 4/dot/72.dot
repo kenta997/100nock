@@ -1,0 +1,13 @@
+digraph graph72 {
+	node0 [label="時々"];
+	node1 [label="読みかけてある"];
+	node2 [label="本の"];
+	node3 [label="上に"];
+	node4 [label="涎を"];
+	node5 [label="たらしている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

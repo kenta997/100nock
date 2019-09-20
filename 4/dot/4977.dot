@@ -1,0 +1,11 @@
+digraph graph4977 {
+	node0 [label="聞いて"];
+	node1 [label="見ると"];
+	node2 [label="こんな"];
+	node3 [label="つまらない"];
+	node4 [label="議論である。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

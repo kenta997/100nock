@@ -1,0 +1,17 @@
+digraph graph5179 {
+	node0 [label="平然と"];
+	node1 [label="座に"];
+	node2 [label="就くを"];
+	node3 [label="待ち受けた"];
+	node4 [label="主人は"];
+	node5 [label="直ちに"];
+	node6 [label="談判に"];
+	node7 [label="とりかかる。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

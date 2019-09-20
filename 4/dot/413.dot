@@ -1,0 +1,13 @@
+digraph graph413 {
+	node0 [label="ヴァイオリンも"];
+	node1 [label="三挺くらいに"];
+	node2 [label="なると"];
+	node3 [label="下手でも"];
+	node4 [label="聞かれる"];
+	node5 [label="ものですね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

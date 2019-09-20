@@ -1,0 +1,23 @@
+digraph graph10 {
+	node0 [label="掌の"];
+	node1 [label="上で"];
+	node2 [label="少し"];
+	node3 [label="落ちついて"];
+	node4 [label="書生の"];
+	node5 [label="顔を"];
+	node6 [label="見たのが"];
+	node7 [label="いわゆる"];
+	node8 [label="人間という"];
+	node9 [label="ものの"];
+	node10 [label="見始であろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

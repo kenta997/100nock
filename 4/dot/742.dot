@@ -1,0 +1,25 @@
+digraph graph742 {
+	node0 [label="憚りながら"];
+	node1 [label="車屋の"];
+	node2 [label="黒だ"];
+	node3 [label="あ」と"];
+	node4 [label="腕まくりの"];
+	node5 [label="代りに"];
+	node6 [label="右の"];
+	node7 [label="前足を"];
+	node8 [label="逆かに"];
+	node9 [label="肩の"];
+	node10 [label="辺まで"];
+	node11 [label="掻き上げた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

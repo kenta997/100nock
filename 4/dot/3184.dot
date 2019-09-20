@@ -1,0 +1,25 @@
+digraph graph3184 {
+	node0 [label="この世に"];
+	node1 [label="生息すべき"];
+	node2 [label="義務を"];
+	node3 [label="有して"];
+	node4 [label="蠢動する"];
+	node5 [label="者は、"];
+	node6 [label="生息の"];
+	node7 [label="義務を"];
+	node8 [label="果す"];
+	node9 [label="ために"];
+	node10 [label="休養を"];
+	node11 [label="得ねばならぬ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

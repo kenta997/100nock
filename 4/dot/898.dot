@@ -1,0 +1,9 @@
+digraph graph898 {
+	node0 [label="「彼等は"];
+	node1 [label="食後"];
+	node2 [label="必ず"];
+	node3 [label="入浴致候。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

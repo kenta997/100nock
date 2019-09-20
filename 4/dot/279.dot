@@ -1,0 +1,29 @@
+digraph graph279 {
+	node0 [label="吾輩の"];
+	node1 [label="水彩画のごとき"];
+	node2 [label="はかか"];
+	node3 [label="ない"];
+	node4 [label="方が"];
+	node5 [label="ましであると"];
+	node6 [label="同じように、"];
+	node7 [label="愚昧なる"];
+	node8 [label="通人よりも"];
+	node9 [label="山出しの"];
+	node10 [label="大野暮の"];
+	node11 [label="方が"];
+	node12 [label="遥かに"];
+	node13 [label="上等だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

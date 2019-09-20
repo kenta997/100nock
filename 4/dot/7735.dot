@@ -1,0 +1,7 @@
+digraph graph7735 {
+	node0 [label="こっちで"];
+	node1 [label="待ってるんだ」と"];
+	node2 [label="云い放った。"];
+	node0 -> node1;
+	node1 -> node2;
+}

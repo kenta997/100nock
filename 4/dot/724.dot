@@ -1,0 +1,15 @@
+digraph graph724 {
+	node0 [label="　正月で"];
+	node1 [label="おめでたけりゃ、"];
+	node2 [label="御めえなん"];
+	node3 [label="ざあ"];
+	node4 [label="年が年中"];
+	node5 [label="おめでて"];
+	node6 [label="え方だろう。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

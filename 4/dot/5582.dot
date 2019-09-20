@@ -1,0 +1,9 @@
+digraph graph5582 {
+	node0 [label="これでも"];
+	node1 [label="実は"];
+	node2 [label="種え疱瘡を"];
+	node3 [label="したのである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

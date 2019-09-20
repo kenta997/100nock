@@ -1,0 +1,9 @@
+digraph graph6006 {
+	node0 [label="「へへへ"];
+	node1 [label="そんな"];
+	node2 [label="暇は"];
+	node3 [label="ありませんよ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

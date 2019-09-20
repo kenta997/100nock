@@ -1,0 +1,23 @@
+digraph graph9171 {
+	node0 [label="ようやく"];
+	node1 [label="頭だけ"];
+	node2 [label="浮くから"];
+	node3 [label="どこだろうと"];
+	node4 [label="見廻"];
+	node5 [label="わすと、"];
+	node6 [label="吾輩は"];
+	node7 [label="大きな"];
+	node8 [label="甕の"];
+	node9 [label="中に"];
+	node10 [label="落ちている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

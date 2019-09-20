@@ -1,0 +1,25 @@
+digraph graph8108 {
+	node0 [label="私は"];
+	node1 [label="何となく"];
+	node2 [label="犬に"];
+	node3 [label="尾"];
+	node4 [label="けられたような"];
+	node5 [label="心持で、"];
+	node6 [label="障子を"];
+	node7 [label="あけて"];
+	node8 [label="這入るのに"];
+	node9 [label="少々"];
+	node10 [label="薄気味が"];
+	node11 [label="わるかったです……」"];
+	node0 -> node11;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

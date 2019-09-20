@@ -1,0 +1,27 @@
+digraph graph7246 {
+	node0 [label="現に"];
+	node1 [label="せんだって"];
+	node2 [label="コロンバスの"];
+	node3 [label="日本訳を"];
+	node4 [label="教えろと"];
+	node5 [label="云って"];
+	node6 [label="大に"];
+	node7 [label="主人を"];
+	node8 [label="困ら"];
+	node9 [label="したは"];
+	node10 [label="まさに"];
+	node11 [label="この"];
+	node12 [label="武右衛門君である。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

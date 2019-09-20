@@ -1,0 +1,5 @@
+digraph graph6899 {
+	node0 [label="「御苦労様です"];
+	node1 [label="こと」"];
+	node0 -> node1;
+}

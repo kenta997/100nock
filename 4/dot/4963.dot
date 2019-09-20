@@ -1,0 +1,37 @@
+digraph graph4963 {
+	node0 [label="それなら"];
+	node1 [label="牛肉で"];
+	node2 [label="勘弁するから"];
+	node3 [label="早く"];
+	node4 [label="西川へ"];
+	node5 [label="行って"];
+	node6 [label="ロースを"];
+	node7 [label="一斤"];
+	node8 [label="取って来い、"];
+	node9 [label="早く"];
+	node10 [label="せんと"];
+	node11 [label="貴様から"];
+	node12 [label="食い殺すぞと"];
+	node13 [label="云ったら、"];
+	node14 [label="迷亭は"];
+	node15 [label="尻を"];
+	node16 [label="端折って"];
+	node17 [label="馳け出した。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node17;
+	node15 -> node16;
+	node16 -> node17;
+}

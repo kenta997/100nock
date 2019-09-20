@@ -1,0 +1,33 @@
+digraph graph3282 {
+	node0 [label="御三は"];
+	node1 [label="その"];
+	node2 [label="平常より"];
+	node3 [label="赤き"];
+	node4 [label="頬を"];
+	node5 [label="ますます"];
+	node6 [label="赤くして"];
+	node7 [label="洗湯から"];
+	node8 [label="帰った"];
+	node9 [label="ついでに、"];
+	node10 [label="昨夜に"];
+	node11 [label="懲りてか、"];
+	node12 [label="早くから"];
+	node13 [label="勝手の"];
+	node14 [label="戸締を"];
+	node15 [label="する。"];
+	node0 -> node15;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

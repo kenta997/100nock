@@ -1,0 +1,27 @@
+digraph graph1714 {
+	node0 [label="寒月の"];
+	node1 [label="事は"];
+	node2 [label="何でも"];
+	node3 [label="聞かなければならないが、"];
+	node4 [label="自分の"];
+	node5 [label="方の"];
+	node6 [label="事は"];
+	node7 [label="一切"];
+	node8 [label="寒月へ"];
+	node9 [label="知らしてはならないと"];
+	node10 [label="云う"];
+	node11 [label="方針と"];
+	node12 [label="見える。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

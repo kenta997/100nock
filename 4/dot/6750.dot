@@ -1,0 +1,5 @@
+digraph graph6750 {
+	node0 [label="「叔父さんが"];
+	node1 [label="？"];
+	node0 -> node1;
+}

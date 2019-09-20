@@ -1,0 +1,15 @@
+digraph graph1953 {
+	node0 [label="「随分"];
+	node1 [label="君も"];
+	node2 [label="呑気だ"];
+	node3 [label="なあ出来たの"];
+	node4 [label="かい」"];
+	node5 [label="「少し"];
+	node6 [label="出来た。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

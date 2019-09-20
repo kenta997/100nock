@@ -1,0 +1,17 @@
+digraph graph3930 {
+	node0 [label="どうも"];
+	node1 [label="二十世紀の"];
+	node2 [label="今日"];
+	node3 [label="運動せんのは"];
+	node4 [label="いかにも"];
+	node5 [label="貧民のようで"];
+	node6 [label="人聞きが"];
+	node7 [label="わるい。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

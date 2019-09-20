@@ -1,0 +1,21 @@
+digraph graph1589 {
+	node0 [label="「ちと"];
+	node1 [label="伺いたい"];
+	node2 [label="事が"];
+	node3 [label="あって、"];
+	node4 [label="参ったんですが」と"];
+	node5 [label="鼻子は"];
+	node6 [label="再び"];
+	node7 [label="話の"];
+	node8 [label="口を"];
+	node9 [label="切る。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

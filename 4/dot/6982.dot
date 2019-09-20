@@ -1,0 +1,9 @@
+digraph graph6982 {
+	node0 [label="誰なの、"];
+	node1 [label="そんな"];
+	node2 [label="事を"];
+	node3 [label="したのは」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

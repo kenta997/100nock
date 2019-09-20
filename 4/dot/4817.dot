@@ -1,0 +1,25 @@
+digraph graph4817 {
+	node0 [label="　垣の"];
+	node1 [label="出来た"];
+	node2 [label="翌日から、"];
+	node3 [label="垣の"];
+	node4 [label="出来ぬ"];
+	node5 [label="前と"];
+	node6 [label="同様に"];
+	node7 [label="彼等は"];
+	node8 [label="北側の"];
+	node9 [label="空地へ"];
+	node10 [label="ぽかりぽかりと"];
+	node11 [label="飛び込む。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

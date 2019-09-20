@@ -1,0 +1,33 @@
+digraph graph8624 {
+	node0 [label="ことに"];
+	node1 [label="表の"];
+	node2 [label="窮措大珍野苦沙弥氏の"];
+	node3 [label="ごとき"];
+	node4 [label="ものは"];
+	node5 [label="生きて"];
+	node6 [label="ござるのが"];
+	node7 [label="大分苦痛のように"];
+	node8 [label="見受けら"];
+	node9 [label="るるから、"];
+	node10 [label="一刻も"];
+	node11 [label="早く"];
+	node12 [label="殺して"];
+	node13 [label="進ぜるのが"];
+	node14 [label="諸君の"];
+	node15 [label="義務である。"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

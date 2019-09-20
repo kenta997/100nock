@@ -1,0 +1,5 @@
+digraph graph7277 {
+	node0 [label="「艶書を"];
+	node1 [label="送ったんです」"];
+	node0 -> node1;
+}

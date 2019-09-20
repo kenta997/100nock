@@ -1,0 +1,5 @@
+digraph graph5162 {
+	node0 [label="「誰を"];
+	node1 [label="連れて参ります」"];
+	node0 -> node1;
+}

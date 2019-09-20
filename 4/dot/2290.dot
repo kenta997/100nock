@@ -1,0 +1,13 @@
+digraph graph2290 {
+	node0 [label="最後に"];
+	node1 [label="その"];
+	node2 [label="猫の"];
+	node3 [label="態度が"];
+	node4 [label="もっとも"];
+	node5 [label="癪に障る。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

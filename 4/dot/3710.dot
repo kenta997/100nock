@@ -1,0 +1,15 @@
+digraph graph3710 {
+	node0 [label="人間に"];
+	node1 [label="独立心が"];
+	node2 [label="発達してくると"];
+	node3 [label="自然こんな"];
+	node4 [label="風に"];
+	node5 [label="なる"];
+	node6 [label="ものです。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

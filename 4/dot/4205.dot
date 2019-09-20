@@ -1,0 +1,9 @@
+digraph graph4205 {
+	node0 [label="少しは"];
+	node1 [label="考えて"];
+	node2 [label="見るが"];
+	node3 [label="いい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

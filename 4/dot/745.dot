@@ -1,0 +1,11 @@
+digraph graph745 {
+	node0 [label="人間なら"];
+	node1 [label="胸倉を"];
+	node2 [label="とられて"];
+	node3 [label="小突き廻される"];
+	node4 [label="ところである。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

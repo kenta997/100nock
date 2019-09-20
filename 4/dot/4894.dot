@@ -1,0 +1,15 @@
+digraph graph4894 {
+	node0 [label="また"];
+	node1 [label="ある"];
+	node2 [label="人は"];
+	node3 [label="かん徳利を"];
+	node4 [label="持って"];
+	node5 [label="鉄砲風呂へ"];
+	node6 [label="飛び込んだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

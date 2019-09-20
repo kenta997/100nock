@@ -1,0 +1,13 @@
+digraph graph6349 {
+	node0 [label="心を"];
+	node1 [label="どこに"];
+	node2 [label="置こうぞ……"];
+	node3 [label="あれも"];
+	node4 [label="少々"];
+	node5 [label="怪しいようだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

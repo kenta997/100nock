@@ -1,0 +1,17 @@
+digraph graph7728 {
+	node0 [label="　"];
+	node1 [label="東風君は"];
+	node2 [label="真面目で"];
+	node3 [label="「新体詩は"];
+	node4 [label="俳句と"];
+	node5 [label="違って"];
+	node6 [label="そう急には"];
+	node7 [label="出来ません。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

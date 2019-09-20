@@ -1,0 +1,5 @@
+digraph graph20 {
+	node0 [label="胸が"];
+	node1 [label="悪くなる。"];
+	node0 -> node1;
+}

@@ -1,0 +1,5 @@
+digraph graph7515 {
+	node0 [label="馬鹿な"];
+	node1 [label="奴だよ」"];
+	node0 -> node1;
+}

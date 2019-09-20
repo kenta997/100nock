@@ -1,0 +1,15 @@
+digraph graph3303 {
+	node0 [label="鼠は"];
+	node1 [label="旅順椀の"];
+	node2 [label="中で"];
+	node3 [label="盛に"];
+	node4 [label="舞踏会を"];
+	node5 [label="催"];
+	node6 [label="うしている。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

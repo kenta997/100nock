@@ -1,0 +1,15 @@
+digraph graph5444 {
+	node0 [label="吾輩は"];
+	node1 [label="先刻"];
+	node2 [label="申す"];
+	node3 [label="通り"];
+	node4 [label="大事件の"];
+	node5 [label="余瀾を"];
+	node6 [label="描きつつある。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

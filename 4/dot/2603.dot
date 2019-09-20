@@ -1,0 +1,9 @@
+digraph graph2603 {
+	node0 [label="活動紙幣の"];
+	node1 [label="娘なら"];
+	node2 [label="活動切手くらいな"];
+	node3 [label="ところだろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

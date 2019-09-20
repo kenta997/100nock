@@ -1,0 +1,5 @@
+digraph graph891 {
+	node0 [label="　大兄の"];
+	node1 [label="ごとくは余計だ。"];
+	node0 -> node1;
+}

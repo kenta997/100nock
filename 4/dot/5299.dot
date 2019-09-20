@@ -1,0 +1,5 @@
+digraph graph5299 {
+	node0 [label="遠慮なく"];
+	node1 [label="云い給え」"];
+	node0 -> node1;
+}

@@ -1,0 +1,5 @@
+digraph graph8085 {
+	node0 [label="「十時に"];
+	node1 [label="なったかい」"];
+	node0 -> node1;
+}

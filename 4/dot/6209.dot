@@ -1,0 +1,15 @@
+digraph graph6209 {
+	node0 [label="主人は"];
+	node1 [label="やむを得ず"];
+	node2 [label="懐手の"];
+	node3 [label="ままの"];
+	node4 [label="そりの"];
+	node5 [label="そりと"];
+	node6 [label="出てくる。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

@@ -1,0 +1,29 @@
+digraph graph3706 {
+	node0 [label="だから、"];
+	node1 [label="僕の"];
+	node2 [label="考では"];
+	node3 [label="やはり"];
+	node4 [label="泰西文明の"];
+	node5 [label="御蔭で"];
+	node6 [label="女の"];
+	node7 [label="品行も"];
+	node8 [label="よほど"];
+	node9 [label="進歩した"];
+	node10 [label="ものだろうと"];
+	node11 [label="断定するのだが、"];
+	node12 [label="どうだろう"];
+	node13 [label="寒月君」"];
+	node0 -> node13;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+}

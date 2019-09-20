@@ -1,0 +1,23 @@
+digraph graph4405 {
+	node0 [label="わたしの"];
+	node1 [label="国なぞでは"];
+	node2 [label="この"];
+	node3 [label="倍も"];
+	node4 [label="熱い"];
+	node5 [label="湯へ"];
+	node6 [label="這入ります」と"];
+	node7 [label="自慢らしく"];
+	node8 [label="説き立てる"];
+	node9 [label="ものが"];
+	node10 [label="ある。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

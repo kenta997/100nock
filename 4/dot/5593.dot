@@ -1,0 +1,27 @@
+digraph graph5593 {
+	node0 [label="この"];
+	node1 [label="歴然が"];
+	node2 [label="多少"];
+	node3 [label="気に"];
+	node4 [label="かかると"];
+	node5 [label="見えて、"];
+	node6 [label="主人は"];
+	node7 [label="往来を"];
+	node8 [label="あるく"];
+	node9 [label="度毎に"];
+	node10 [label="あばた面を"];
+	node11 [label="勘定してある"];
+	node12 [label="くそうだ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

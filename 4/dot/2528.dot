@@ -1,0 +1,13 @@
+digraph graph2528 {
+	node0 [label="「一枚も"];
+	node1 [label="書かんのにか」と"];
+	node2 [label="今度は"];
+	node3 [label="迷亭君自身が"];
+	node4 [label="質問を"];
+	node5 [label="する。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

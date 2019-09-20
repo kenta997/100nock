@@ -1,0 +1,7 @@
+digraph graph8135 {
+	node0 [label="聞く"];
+	node1 [label="事は"];
+	node2 [label="聞くよ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

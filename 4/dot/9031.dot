@@ -1,0 +1,5 @@
+digraph graph9031 {
+	node0 [label="これで"];
+	node1 [label="十七です。"];
+	node0 -> node1;
+}

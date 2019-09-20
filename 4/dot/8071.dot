@@ -1,0 +1,11 @@
+digraph graph8071 {
+	node0 [label="それで"];
+	node1 [label="今から"];
+	node2 [label="十時頃まで"];
+	node3 [label="どこかで"];
+	node4 [label="暮さなければならない。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

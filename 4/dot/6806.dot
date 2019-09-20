@@ -1,0 +1,23 @@
+digraph graph6806 {
+	node0 [label="ただし"];
+	node1 [label="これは"];
+	node2 [label="御話を"];
+	node3 [label="承"];
+	node4 [label="わると"];
+	node5 [label="云うのではない、"];
+	node6 [label="坊ばもまた"];
+	node7 [label="御話を"];
+	node8 [label="仕ると"];
+	node9 [label="云う"];
+	node10 [label="意味である。"];
+	node0 -> node10;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

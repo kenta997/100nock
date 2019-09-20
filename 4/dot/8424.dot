@@ -1,0 +1,19 @@
+digraph graph8424 {
+	node0 [label="今日"];
+	node1 [label="先生の"];
+	node2 [label="所へ"];
+	node3 [label="持って来た、"];
+	node4 [label="この"];
+	node5 [label="鰹節は"];
+	node6 [label="結婚祝に"];
+	node7 [label="親類から"];
+	node8 [label="貰ったんです」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

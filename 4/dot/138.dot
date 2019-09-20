@@ -1,0 +1,7 @@
+digraph graph138 {
+	node0 [label="地に"];
+	node1 [label="露華"];
+	node2 [label="あり。"];
+	node0 -> node2;
+	node1 -> node2;
+}

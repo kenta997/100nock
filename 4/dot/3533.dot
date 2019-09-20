@@ -1,0 +1,7 @@
+digraph graph3533 {
+	node0 [label="動かないのも"];
+	node1 [label="無理は"];
+	node2 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,9 @@
+digraph graph7310 {
+	node0 [label="顔なんか"];
+	node1 [label="見た"];
+	node2 [label="事も"];
+	node3 [label="ありません」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

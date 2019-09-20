@@ -1,0 +1,5 @@
+digraph graph7675 {
+	node0 [label="「飛んだ"];
+	node1 [label="悟道だ。"];
+	node0 -> node1;
+}

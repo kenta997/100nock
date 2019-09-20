@@ -1,0 +1,25 @@
+digraph graph1603 {
+	node0 [label="鼻子の"];
+	node1 [label="方では"];
+	node2 [label="天が下の"];
+	node3 [label="一隅に"];
+	node4 [label="こんな"];
+	node5 [label="変人が"];
+	node6 [label="やはり"];
+	node7 [label="日光に"];
+	node8 [label="照らされて"];
+	node9 [label="生活していようとは"];
+	node10 [label="夢にも"];
+	node11 [label="知らない。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

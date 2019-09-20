@@ -1,0 +1,7 @@
+digraph graph7612 {
+	node0 [label="「黒から"];
+	node1 [label="打つのが"];
+	node2 [label="法則だよ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

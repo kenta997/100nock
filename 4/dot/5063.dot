@@ -1,0 +1,19 @@
+digraph graph5063 {
+	node0 [label="これだけなら"];
+	node1 [label="まだしもであるが、"];
+	node2 [label="敲き返された"];
+	node3 [label="弾丸は"];
+	node4 [label="三度に"];
+	node5 [label="一度"];
+	node6 [label="必ず"];
+	node7 [label="臥竜窟邸内へ"];
+	node8 [label="ころがり込む。"];
+	node0 -> node1;
+	node1 -> node8;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

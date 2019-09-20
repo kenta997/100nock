@@ -1,0 +1,23 @@
+digraph graph8950 {
+	node0 [label="「僕は"];
+	node1 [label="小さな"];
+	node2 [label="海の"];
+	node3 [label="上を"];
+	node4 [label="大船で"];
+	node5 [label="乗り廻してある"];
+	node6 [label="きた"];
+	node7 [label="いんだ」と"];
+	node8 [label="迷亭君が"];
+	node9 [label="相手に"];
+	node10 [label="なる。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

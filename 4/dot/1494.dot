@@ -1,0 +1,19 @@
+digraph graph1494 {
+	node0 [label="「さて"];
+	node1 [label="いよいよ"];
+	node2 [label="本題に"];
+	node3 [label="入りまして"];
+	node4 [label="弁じます」"];
+	node5 [label="「弁じます"];
+	node6 [label="なんか"];
+	node7 [label="講釈師の"];
+	node8 [label="云い草だ。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

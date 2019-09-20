@@ -1,0 +1,7 @@
+digraph graph5971 {
+	node0 [label="「なるほど」と"];
+	node1 [label="主人は"];
+	node2 [label="かしこまっている。"];
+	node0 -> node2;
+	node1 -> node2;
+}

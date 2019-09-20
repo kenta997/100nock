@@ -1,0 +1,29 @@
+digraph graph727 {
+	node0 [label="参考の"];
+	node1 [label="ため"];
+	node2 [label="ちょっと"];
+	node3 [label="聞いておきたいが、"];
+	node4 [label="聞いたって"];
+	node5 [label="明瞭な"];
+	node6 [label="答弁は"];
+	node7 [label="得られぬに"];
+	node8 [label="極まっているから、"];
+	node9 [label="面と"];
+	node10 [label="対ったまま"];
+	node11 [label="無言で"];
+	node12 [label="立って"];
+	node13 [label="おった。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+}

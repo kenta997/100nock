@@ -1,0 +1,15 @@
+digraph graph5513 {
+	node0 [label="ナポレオンでも、"];
+	node1 [label="アレキサンダーでも"];
+	node2 [label="勝って"];
+	node3 [label="満足した"];
+	node4 [label="ものは"];
+	node5 [label="一人も"];
+	node6 [label="ないんだよ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

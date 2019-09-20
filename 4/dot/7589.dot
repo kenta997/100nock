@@ -1,0 +1,5 @@
+digraph graph7589 {
+	node0 [label="「さあ"];
+	node1 [label="行きましょう。"];
+	node0 -> node1;
+}

@@ -1,0 +1,7 @@
+digraph graph4434 {
+	node0 [label="——"];
+	node1 [label="何とか"];
+	node2 [label="云ったっけ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

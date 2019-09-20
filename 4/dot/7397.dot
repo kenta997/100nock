@@ -1,0 +1,7 @@
+digraph graph7397 {
+	node0 [label="随分"];
+	node1 [label="単純な"];
+	node2 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

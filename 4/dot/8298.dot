@@ -1,0 +1,23 @@
+digraph graph8298 {
+	node0 [label="寒月君は"];
+	node1 [label="ねぼけて"];
+	node2 [label="あんな"];
+	node3 [label="珍語を"];
+	node4 [label="弄するのだろうと"];
+	node5 [label="鑑定したから、"];
+	node6 [label="わざと"];
+	node7 [label="相手に"];
+	node8 [label="ならないで"];
+	node9 [label="話頭を"];
+	node10 [label="進めた。"];
+	node0 -> node10;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

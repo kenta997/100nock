@@ -1,0 +1,25 @@
+digraph graph3472 {
+	node0 [label="もう"];
+	node1 [label="休めるかと"];
+	node2 [label="思ったら"];
+	node3 [label="最後に"];
+	node4 [label="ぽんと"];
+	node5 [label="後ろへ"];
+	node6 [label="放げて"];
+	node7 [label="その上へ"];
+	node8 [label="堂っ"];
+	node9 [label="さりと"];
+	node10 [label="尻餅を"];
+	node11 [label="突いた。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node11;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

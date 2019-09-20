@@ -1,0 +1,11 @@
+digraph graph490 {
+	node0 [label="猫などは"];
+	node1 [label="そこへ"];
+	node2 [label="行くと"];
+	node3 [label="単純な"];
+	node4 [label="ものだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

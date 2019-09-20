@@ -1,0 +1,11 @@
+digraph graph7562 {
+	node0 [label="金田じゃ"];
+	node1 [label="名誉に"];
+	node2 [label="思って"];
+	node3 [label="きっと"];
+	node4 [label="吹聴していますよ」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,7 @@
+digraph graph311 {
+	node0 [label="美学者は"];
+	node1 [label="少しも"];
+	node2 [label="動じない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

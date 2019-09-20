@@ -1,0 +1,11 @@
+digraph graph5049 {
+	node0 [label="これから"];
+	node1 [label="ダムダム弾を"];
+	node2 [label="発射する"];
+	node3 [label="方法を"];
+	node4 [label="紹介する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

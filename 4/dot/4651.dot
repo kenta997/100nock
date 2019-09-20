@@ -1,0 +1,19 @@
+digraph graph4651 {
+	node0 [label="桂月だって、"];
+	node1 [label="梅月だって、"];
+	node2 [label="苦しい"];
+	node3 [label="思を"];
+	node4 [label="して"];
+	node5 [label="酒を"];
+	node6 [label="飲めなんて、"];
+	node7 [label="余計な"];
+	node8 [label="事ですわ」"];
+	node0 -> node8;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

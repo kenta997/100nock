@@ -1,0 +1,17 @@
+digraph graph3240 {
+	node0 [label="主人は"];
+	node1 [label="芋坂の"];
+	node2 [label="団子を"];
+	node3 [label="喰って"];
+	node4 [label="帰って来て"];
+	node5 [label="相変らず"];
+	node6 [label="書斎に"];
+	node7 [label="引き籠っている。"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

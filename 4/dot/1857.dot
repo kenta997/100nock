@@ -1,0 +1,15 @@
+digraph graph1857 {
+	node0 [label="あの"];
+	node1 [label="学校にゃ"];
+	node2 [label="国の"];
+	node3 [label="ものも"];
+	node4 [label="いるからな」"];
+	node5 [label="「誰が"];
+	node6 [label="いるの？"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

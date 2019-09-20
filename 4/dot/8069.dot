@@ -1,0 +1,5 @@
+digraph graph8069 {
+	node0 [label="「なるほどこりゃ"];
+	node1 [label="むずかしかろう」"];
+	node0 -> node1;
+}

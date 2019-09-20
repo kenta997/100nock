@@ -1,0 +1,7 @@
+digraph graph6359 {
+	node0 [label="第五は"];
+	node1 [label="金田君の"];
+	node2 [label="番だ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

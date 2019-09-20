@@ -1,0 +1,11 @@
+digraph graph8395 {
+	node0 [label="「でも"];
+	node1 [label="結婚が"];
+	node2 [label="延びて、"];
+	node3 [label="双方"];
+	node4 [label="困るだろう」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

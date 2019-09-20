@@ -1,0 +1,15 @@
+digraph graph4021 {
+	node0 [label="地面の"];
+	node1 [label="上に"];
+	node2 [label="落ちている"];
+	node3 [label="ものには"];
+	node4 [label="必ず"];
+	node5 [label="蟻が"];
+	node6 [label="ついている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

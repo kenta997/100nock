@@ -1,0 +1,21 @@
+digraph graph3380 {
+	node0 [label="丸い"];
+	node1 [label="頭へ"];
+	node2 [label="四角な"];
+	node3 [label="枠を"];
+	node4 [label="はめているから、"];
+	node5 [label="植木屋を"];
+	node6 [label="入れた"];
+	node7 [label="杉垣根の"];
+	node8 [label="写生としか"];
+	node9 [label="受け取れない。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

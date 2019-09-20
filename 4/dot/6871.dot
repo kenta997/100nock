@@ -1,0 +1,23 @@
+digraph graph6871 {
+	node0 [label="そうして"];
+	node1 [label="何も"];
+	node2 [label="しないで、また"];
+	node3 [label="何も"];
+	node4 [label="云わないで"];
+	node5 [label="地蔵の"];
+	node6 [label="周りを、"];
+	node7 [label="大きな"];
+	node8 [label="巻煙草を"];
+	node9 [label="ふかしながら"];
+	node10 [label="歩行いているんですとさ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

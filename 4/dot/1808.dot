@@ -1,0 +1,15 @@
+digraph graph1808 {
+	node0 [label="無駄骨を"];
+	node1 [label="折り、"];
+	node2 [label="無駄足を"];
+	node3 [label="汚すくらいは"];
+	node4 [label="猫として"];
+	node5 [label="適当の"];
+	node6 [label="ところである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

@@ -1,0 +1,23 @@
+digraph graph517 {
+	node0 [label="後で"];
+	node1 [label="身体が"];
+	node2 [label="綿のようになって"];
+	node3 [label="昏睡病に"];
+	node4 [label="かかったような"];
+	node5 [label="心持ちが"];
+	node6 [label="したので、"];
+	node7 [label="一度で"];
+	node8 [label="閉口して"];
+	node9 [label="やめに"];
+	node10 [label="した。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

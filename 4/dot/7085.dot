@@ -1,0 +1,7 @@
+digraph graph7085 {
+	node0 [label="分りも"];
+	node1 [label="しない"];
+	node2 [label="癖に」"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,15 @@
+digraph graph8302 {
+	node0 [label="「まず"];
+	node1 [label="弓を"];
+	node2 [label="取って、"];
+	node3 [label="切先から"];
+	node4 [label="鍔元まで"];
+	node5 [label="しらべて"];
+	node6 [label="見る……」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

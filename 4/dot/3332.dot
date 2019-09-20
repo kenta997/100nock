@@ -1,0 +1,31 @@
+digraph graph3332 {
+	node0 [label="起き上がる"];
+	node1 [label="ところを"];
+	node2 [label="隙間"];
+	node3 [label="なく"];
+	node4 [label="乗し掛れば、"];
+	node5 [label="毬を"];
+	node6 [label="蹴たるごとく、"];
+	node7 [label="吾輩の"];
+	node8 [label="鼻づらを"];
+	node9 [label="掠めて"];
+	node10 [label="釣り段の"];
+	node11 [label="縁に"];
+	node12 [label="足を"];
+	node13 [label="縮めて"];
+	node14 [label="立つ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node6;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

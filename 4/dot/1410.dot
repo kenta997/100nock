@@ -1,0 +1,21 @@
+digraph graph1410 {
+	node0 [label="なかなか"];
+	node1 [label="考えて"];
+	node2 [label="いらあハハハハ」と"];
+	node3 [label="迷亭は"];
+	node4 [label="細君の"];
+	node5 [label="訴を"];
+	node6 [label="聞いて"];
+	node7 [label="大に"];
+	node8 [label="愉快な"];
+	node9 [label="気色である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

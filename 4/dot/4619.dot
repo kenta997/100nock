@@ -1,0 +1,7 @@
+digraph graph4619 {
+	node0 [label="「ええ、"];
+	node1 [label="前の"];
+	node2 [label="関白太政大臣でしょう」"];
+	node0 -> node2;
+	node1 -> node2;
+}

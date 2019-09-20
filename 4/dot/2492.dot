@@ -1,0 +1,13 @@
+digraph graph2492 {
+	node0 [label="「そんな"];
+	node1 [label="論理が"];
+	node2 [label="どこの"];
+	node3 [label="国に"];
+	node4 [label="ある"];
+	node5 [label="ものか。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

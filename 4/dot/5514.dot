@@ -1,0 +1,31 @@
+digraph graph5514 {
+	node0 [label="人が"];
+	node1 [label="気に"];
+	node2 [label="喰わん、"];
+	node3 [label="喧嘩を"];
+	node4 [label="する、"];
+	node5 [label="先方が"];
+	node6 [label="閉口しない、"];
+	node7 [label="法庭へ"];
+	node8 [label="訴える、"];
+	node9 [label="法庭で"];
+	node10 [label="勝つ、"];
+	node11 [label="それで"];
+	node12 [label="落着と"];
+	node13 [label="思うのは"];
+	node14 [label="間違さ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

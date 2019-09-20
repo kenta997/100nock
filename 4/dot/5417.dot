@@ -1,0 +1,13 @@
+digraph graph5417 {
+	node0 [label="しかし"];
+	node1 [label="懸かり"];
+	node2 [label="きりで"];
+	node3 [label="眼が"];
+	node4 [label="覚めないと"];
+	node5 [label="困るな」"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

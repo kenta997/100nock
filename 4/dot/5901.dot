@@ -1,0 +1,13 @@
+digraph graph5901 {
+	node0 [label="遠慮せずに"];
+	node1 [label="前へ"];
+	node2 [label="出"];
+	node3 [label="たまえ」と"];
+	node4 [label="無理に"];
+	node5 [label="割り込んでくる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

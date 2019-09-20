@@ -1,0 +1,5 @@
+digraph graph8399 {
+	node0 [label="「金田の"];
+	node1 [label="令嬢さ」"];
+	node0 -> node1;
+}

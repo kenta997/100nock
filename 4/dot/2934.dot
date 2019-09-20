@@ -1,0 +1,11 @@
+digraph graph2934 {
+	node0 [label="「知りませんわ、"];
+	node1 [label="知りませんが"];
+	node2 [label="十二円五十銭なんて"];
+	node3 [label="法外です"];
+	node4 [label="もの」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

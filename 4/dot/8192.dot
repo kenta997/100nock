@@ -1,0 +1,7 @@
+digraph graph8192 {
+	node0 [label="「今日に"];
+	node1 [label="限った"];
+	node2 [label="事じゃない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

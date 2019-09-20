@@ -1,0 +1,33 @@
+digraph graph1675 {
+	node0 [label="「博士に"];
+	node1 [label="なるか"];
+	node2 [label="ならんかは"];
+	node3 [label="僕等も"];
+	node4 [label="保証する"];
+	node5 [label="事が"];
+	node6 [label="出来んから、"];
+	node7 [label="ほかの"];
+	node8 [label="事を"];
+	node9 [label="聞いていただく"];
+	node10 [label="事に"];
+	node11 [label="しよう」と"];
+	node12 [label="迷亭も"];
+	node13 [label="あまり"];
+	node14 [label="好い"];
+	node15 [label="機嫌ではない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+}

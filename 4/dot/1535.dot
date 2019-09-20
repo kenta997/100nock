@@ -1,0 +1,9 @@
+digraph graph1535 {
+	node0 [label="「それは"];
+	node1 [label="駄目に"];
+	node2 [label="極って"];
+	node3 [label="います。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

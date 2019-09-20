@@ -1,0 +1,13 @@
+digraph graph8143 {
+	node0 [label="「どうも"];
+	node1 [label="困るな、"];
+	node2 [label="東風君、"];
+	node3 [label="君だけだね、"];
+	node4 [label="熱心に"];
+	node5 [label="聞いてくれるのは。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

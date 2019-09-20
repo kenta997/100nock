@@ -1,0 +1,13 @@
+digraph graph1194 {
+	node0 [label="悪寒は"];
+	node1 [label="ますます"];
+	node2 [label="劇しくなる、"];
+	node3 [label="眼は"];
+	node4 [label="いよいよ"];
+	node5 [label="ぐらぐらする。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

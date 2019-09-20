@@ -1,0 +1,11 @@
+digraph graph5169 {
+	node0 [label="「誰でも"];
+	node1 [label="構わんから"];
+	node2 [label="呼んで来いと"];
+	node3 [label="云うのに、"];
+	node4 [label="わからんか。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

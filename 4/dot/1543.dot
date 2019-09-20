@@ -1,0 +1,19 @@
+digraph graph1543 {
+	node0 [label="それだけは"];
+	node1 [label="ちょっと"];
+	node2 [label="区別しておいて"];
+	node3 [label="貰わんと"];
+	node4 [label="名誉に"];
+	node5 [label="関係するからな」"];
+	node6 [label="「おんなし事だ」と"];
+	node7 [label="主人は"];
+	node8 [label="嘯いている。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

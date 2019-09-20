@@ -1,0 +1,7 @@
+digraph graph2741 {
+	node0 [label="痛む"];
+	node1 [label="事"];
+	node2 [label="おびただしい。"];
+	node0 -> node1;
+	node1 -> node2;
+}

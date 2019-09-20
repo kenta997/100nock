@@ -1,0 +1,5 @@
+digraph graph3339 {
+	node0 [label="吾輩は"];
+	node1 [label="危うい。"];
+	node0 -> node1;
+}

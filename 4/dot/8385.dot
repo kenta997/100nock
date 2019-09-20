@@ -1,0 +1,13 @@
+digraph graph8385 {
+	node0 [label="「好漢"];
+	node1 [label="この"];
+	node2 [label="鬼窟裏に"];
+	node3 [label="向って"];
+	node4 [label="生計を"];
+	node5 [label="営む。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

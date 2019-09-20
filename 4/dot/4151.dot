@@ -1,0 +1,11 @@
+digraph graph4151 {
+	node0 [label="次のも"];
+	node1 [label="真似を"];
+	node2 [label="して"];
+	node3 [label="阿呆と"];
+	node4 [label="云った。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

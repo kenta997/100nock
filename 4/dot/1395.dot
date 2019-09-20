@@ -1,0 +1,37 @@
+digraph graph1395 {
+	node0 [label="「あと足を"];
+	node1 [label="こう"];
+	node2 [label="ぶら下げては、"];
+	node3 [label="鼠は"];
+	node4 [label="取れそうもない、……"];
+	node5 [label="どうです"];
+	node6 [label="奥さん"];
+	node7 [label="この"];
+	node8 [label="猫は"];
+	node9 [label="鼠を"];
+	node10 [label="捕りますかね」と"];
+	node11 [label="吾輩ばかりでは"];
+	node12 [label="不足だと"];
+	node13 [label="見えて、"];
+	node14 [label="隣りの"];
+	node15 [label="室の"];
+	node16 [label="妻君に"];
+	node17 [label="話しかける。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node17;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

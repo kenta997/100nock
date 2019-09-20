@@ -1,0 +1,5 @@
+digraph graph2353 {
+	node0 [label="「何だい俳体詩と"];
+	node1 [label="云うのは」"];
+	node0 -> node1;
+}

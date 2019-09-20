@@ -1,0 +1,35 @@
+digraph graph9007 {
+	node0 [label="シャンパンが"];
+	node1 [label="いやなら、"];
+	node2 [label="こう"];
+	node3 [label="云う"];
+	node4 [label="御礼は"];
+	node5 [label="どうです」と"];
+	node6 [label="云いながら"];
+	node7 [label="上着の"];
+	node8 [label="隠袋の"];
+	node9 [label="なかから"];
+	node10 [label="七八枚の"];
+	node11 [label="写真を"];
+	node12 [label="出して"];
+	node13 [label="ばらばらと"];
+	node14 [label="畳の"];
+	node15 [label="上へ"];
+	node16 [label="落す。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node16;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

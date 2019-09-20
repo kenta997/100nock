@@ -1,0 +1,9 @@
+digraph graph7800 {
+	node0 [label="「禅学者にも"];
+	node1 [label="似合わん"];
+	node2 [label="几帳面な"];
+	node3 [label="男だ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

@@ -1,0 +1,11 @@
+digraph graph1419 {
+	node0 [label="「ところが"];
+	node1 [label="あなた大違いで……」"];
+	node2 [label="「何か"];
+	node3 [label="内々で"];
+	node4 [label="やりますかね。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

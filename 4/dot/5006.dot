@@ -1,0 +1,15 @@
+digraph graph5006 {
+	node0 [label="ちょっと"];
+	node1 [label="この"];
+	node2 [label="にやりの"];
+	node3 [label="意味を"];
+	node4 [label="説明する"];
+	node5 [label="必要が"];
+	node6 [label="ある。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

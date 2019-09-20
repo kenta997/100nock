@@ -1,0 +1,5 @@
+digraph graph2358 {
+	node0 [label="「アハハハハ随分"];
+	node1 [label="気楽だな。"];
+	node0 -> node1;
+}

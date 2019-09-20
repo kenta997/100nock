@@ -1,0 +1,29 @@
+digraph graph8110 {
+	node0 [label="「これから"];
+	node1 [label="買う"];
+	node2 [label="ところです」と"];
+	node3 [label="東風君が"];
+	node4 [label="答えると"];
+	node5 [label="「まだ"];
+	node6 [label="買わないのか、"];
+	node7 [label="実に"];
+	node8 [label="永いな」と"];
+	node9 [label="独り言のように"];
+	node10 [label="云って"];
+	node11 [label="また"];
+	node12 [label="本を"];
+	node13 [label="読み出した。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

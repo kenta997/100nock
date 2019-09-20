@@ -1,0 +1,27 @@
+digraph graph3675 {
+	node0 [label="そうして"];
+	node1 [label="二十年も"];
+	node2 [label="いっしょに"];
+	node3 [label="なっている"];
+	node4 [label="うちに"];
+	node5 [label="寺参りより"];
+	node6 [label="ほかに"];
+	node7 [label="外へ"];
+	node8 [label="出た"];
+	node9 [label="事が"];
+	node10 [label="ないと"];
+	node11 [label="云うんだから"];
+	node12 [label="情けないじゃないか。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

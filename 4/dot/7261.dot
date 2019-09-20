@@ -1,0 +1,23 @@
+digraph graph7261 {
+	node0 [label="「では"];
+	node1 [label="話しますが」と"];
+	node2 [label="いいかけて、"];
+	node3 [label="毬栗頭を"];
+	node4 [label="むくりと"];
+	node5 [label="持ち上げて"];
+	node6 [label="主人の"];
+	node7 [label="方を"];
+	node8 [label="ちょっと"];
+	node9 [label="まぼしそうに"];
+	node10 [label="見た。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,11 @@
+digraph graph8008 {
+	node0 [label="元来"];
+	node1 [label="学校から"];
+	node2 [label="して"];
+	node3 [label="寒村に"];
+	node4 [label="あるんですから……」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

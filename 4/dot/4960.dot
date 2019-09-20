@@ -1,0 +1,23 @@
+digraph graph4960 {
+	node0 [label="　ある日の"];
+	node1 [label="午後、"];
+	node2 [label="吾輩は"];
+	node3 [label="例のごとく"];
+	node4 [label="椽側へ"];
+	node5 [label="出て午睡を"];
+	node6 [label="して"];
+	node7 [label="虎に"];
+	node8 [label="なった"];
+	node9 [label="夢を"];
+	node10 [label="見ていた。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node10;
+	node3 -> node10;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

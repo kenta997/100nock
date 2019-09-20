@@ -1,0 +1,9 @@
+digraph graph7713 {
+	node0 [label="だから"];
+	node1 [label="下宿へ"];
+	node2 [label="持って来てもまた"];
+	node3 [label="やられそうでね。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

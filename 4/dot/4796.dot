@@ -1,0 +1,31 @@
+digraph graph4796 {
+	node0 [label="これらの"];
+	node1 [label="条件が"];
+	node2 [label="備われば"];
+	node3 [label="主人は"];
+	node4 [label="自から"];
+	node5 [label="からかわれ、"];
+	node6 [label="生徒は"];
+	node7 [label="自から"];
+	node8 [label="からかう、"];
+	node9 [label="誰から"];
+	node10 [label="云わしても"];
+	node11 [label="毫も"];
+	node12 [label="無理の"];
+	node13 [label="ない"];
+	node14 [label="ところである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+}

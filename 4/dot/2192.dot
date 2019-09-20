@@ -1,0 +1,15 @@
+digraph graph2192 {
+	node0 [label="しかし"];
+	node1 [label="崩れた"];
+	node2 [label="黒塀の"];
+	node3 [label="うちと"];
+	node4 [label="聞いたら"];
+	node5 [label="大概"];
+	node6 [label="分るでしょう」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

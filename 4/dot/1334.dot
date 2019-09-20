@@ -1,0 +1,29 @@
+digraph graph1334 {
+	node0 [label="大方"];
+	node1 [label="草稿を"];
+	node2 [label="書き"];
+	node3 [label="卸す"];
+	node4 [label="序開きとして"];
+	node5 [label="妙な"];
+	node6 [label="声を"];
+	node7 [label="発するのだろうと"];
+	node8 [label="注目していると、"];
+	node9 [label="やや"];
+	node10 [label="しばらくして"];
+	node11 [label="筆太に"];
+	node12 [label="「香一※」とか"];
+	node13 [label="いた。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

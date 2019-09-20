@@ -1,0 +1,13 @@
+digraph graph3109 {
+	node0 [label="「生きていらっしゃるのも"];
+	node1 [label="御嫌なんでしょう」と"];
+	node2 [label="充分"];
+	node3 [label="主人を"];
+	node4 [label="凹ましたつもりで"];
+	node5 [label="云う。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

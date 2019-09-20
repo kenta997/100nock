@@ -1,0 +1,25 @@
+digraph graph7357 {
+	node0 [label="見ず知らずの"];
+	node1 [label="人の"];
+	node2 [label="ために"];
+	node3 [label="眉を"];
+	node4 [label="ひそめたり、"];
+	node5 [label="鼻を"];
+	node6 [label="かんだり、"];
+	node7 [label="嘆息を"];
+	node8 [label="するのは、"];
+	node9 [label="決して"];
+	node10 [label="自然の"];
+	node11 [label="傾向ではない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,15 @@
+digraph graph3190 {
+	node0 [label="何でも"];
+	node1 [label="尻でも"];
+	node2 [label="端折って、"];
+	node3 [label="汗でも"];
+	node4 [label="出さないと"];
+	node5 [label="働らいていないように"];
+	node6 [label="考えている。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

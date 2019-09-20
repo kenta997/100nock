@@ -1,0 +1,9 @@
+digraph graph212 {
+	node0 [label="「己"];
+	node1 [label="れあ車屋の"];
+	node2 [label="黒よ」昂然たる"];
+	node3 [label="ものだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,29 @@
+digraph graph880 {
+	node0 [label="然る"];
+	node1 [label="所"];
+	node2 [label="孔雀は"];
+	node3 [label="動物園、"];
+	node4 [label="浅草花屋敷等には、"];
+	node5 [label="ちらほら"];
+	node6 [label="見受け候えども、"];
+	node7 [label="普通の"];
+	node8 [label="鳥屋抔には"];
+	node9 [label="一向"];
+	node10 [label="見当り"];
+	node11 [label="不申、"];
+	node12 [label="苦心此事に"];
+	node13 [label="御座候。"];
+	node0 -> node1;
+	node1 -> node13;
+	node2 -> node13;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

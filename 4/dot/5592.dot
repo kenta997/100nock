@@ -1,0 +1,7 @@
+digraph graph5592 {
+	node0 [label="今だに"];
+	node1 [label="歴然と"];
+	node2 [label="残っている。"];
+	node0 -> node2;
+	node1 -> node2;
+}

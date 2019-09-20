@@ -1,0 +1,13 @@
+digraph graph826 {
+	node0 [label="「ところで"];
+	node1 [label="君は"];
+	node2 [label="何の"];
+	node3 [label="役割でした」と"];
+	node4 [label="主人が"];
+	node5 [label="聞く。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

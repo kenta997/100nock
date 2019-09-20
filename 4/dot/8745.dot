@@ -1,0 +1,35 @@
+digraph graph8745 {
+	node0 [label="人が"];
+	node1 [label="おのれを"];
+	node2 [label="害する"];
+	node3 [label="事が"];
+	node4 [label="出来にくくなった"];
+	node5 [label="点において、"];
+	node6 [label="たしかに"];
+	node7 [label="自分は"];
+	node8 [label="強くなったのだが、"];
+	node9 [label="滅多に"];
+	node10 [label="人の"];
+	node11 [label="身の上に"];
+	node12 [label="手出しがならなくなった"];
+	node13 [label="点においては、"];
+	node14 [label="明かに"];
+	node15 [label="昔より"];
+	node16 [label="弱くなったんだろう。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node16;
+	node15 -> node16;
+}

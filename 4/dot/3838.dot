@@ -1,0 +1,15 @@
+digraph graph3838 {
+	node0 [label="全くインスピレーションで"];
+	node1 [label="書くので"];
+	node2 [label="詩人は"];
+	node3 [label="その他には"];
+	node4 [label="何等の"];
+	node5 [label="責任も"];
+	node6 [label="ないのです。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

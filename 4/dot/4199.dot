@@ -1,0 +1,13 @@
+digraph graph4199 {
+	node0 [label="十本"];
+	node1 [label="やられたなと"];
+	node2 [label="気が付くと、"];
+	node3 [label="もう"];
+	node4 [label="三十本引っ"];
+	node5 [label="懸っている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

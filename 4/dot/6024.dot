@@ -1,0 +1,7 @@
+digraph graph6024 {
+	node0 [label="「だって"];
+	node1 [label="杉原とか"];
+	node2 [label="いてあるじゃありませんか」"];
+	node0 -> node2;
+	node1 -> node2;
+}

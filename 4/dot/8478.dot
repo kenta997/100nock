@@ -1,0 +1,9 @@
+digraph graph8478 {
+	node0 [label="「それは"];
+	node1 [label="僕が"];
+	node2 [label="大分"];
+	node3 [label="考えた事だ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

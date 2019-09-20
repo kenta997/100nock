@@ -1,0 +1,9 @@
+digraph graph9173 {
+	node0 [label="行水を"];
+	node1 [label="使えば"];
+	node2 [label="水が"];
+	node3 [label="減る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

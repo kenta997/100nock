@@ -1,0 +1,13 @@
+digraph graph248 {
+	node0 [label="「いたちってけども"];
+	node1 [label="何鼠の"];
+	node2 [label="少し"];
+	node3 [label="大きい"];
+	node4 [label="ぐれえの"];
+	node5 [label="ものだ。"];
+	node0 -> node5;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

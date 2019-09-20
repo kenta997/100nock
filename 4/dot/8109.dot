@@ -1,0 +1,25 @@
+digraph graph8109 {
+	node0 [label="　"];
+	node1 [label="この"];
+	node2 [label="時"];
+	node3 [label="主人は"];
+	node4 [label="きたならしい"];
+	node5 [label="本から"];
+	node6 [label="ちょっと"];
+	node7 [label="眼を"];
+	node8 [label="はずして、"];
+	node9 [label="「おいもうヴァイオリンを"];
+	node10 [label="買ったかい」と"];
+	node11 [label="聞いた。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

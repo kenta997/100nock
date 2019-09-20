@@ -1,0 +1,29 @@
+digraph graph1523 {
+	node0 [label="「この"];
+	node1 [label="式を"];
+	node2 [label="略してしまうと"];
+	node3 [label="せっかくの"];
+	node4 [label="力学的研究が"];
+	node5 [label="まるで"];
+	node6 [label="駄目になるのですが……」"];
+	node7 [label="「何そんな"];
+	node8 [label="遠慮はいらんから、"];
+	node9 [label="ずんずん"];
+	node10 [label="略すさ……」と"];
+	node11 [label="主人は"];
+	node12 [label="平気で"];
+	node13 [label="云う。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

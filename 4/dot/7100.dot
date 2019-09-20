@@ -1,0 +1,7 @@
+digraph graph7100 {
+	node0 [label="「無用の長物でも"];
+	node1 [label="いい"];
+	node2 [label="事よ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

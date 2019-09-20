@@ -1,0 +1,13 @@
+digraph graph4826 {
+	node0 [label="主人は"];
+	node1 [label="無論"];
+	node2 [label="後架で"];
+	node3 [label="張り番を"];
+	node4 [label="している"];
+	node5 [label="訳ではない。"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+}

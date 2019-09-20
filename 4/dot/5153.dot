@@ -1,0 +1,23 @@
+digraph graph5153 {
+	node0 [label="「どこの"];
+	node1 [label="何者か"];
+	node2 [label="わからん奴が"];
+	node3 [label="垣を"];
+	node4 [label="越えて"];
+	node5 [label="邸内に"];
+	node6 [label="闖入するのを、"];
+	node7 [label="そう"];
+	node8 [label="容易く"];
+	node9 [label="許されると"];
+	node10 [label="思うか」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

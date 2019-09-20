@@ -1,0 +1,13 @@
+digraph graph3649 {
+	node0 [label="僕も"];
+	node1 [label="随分"];
+	node2 [label="呑気だが、"];
+	node3 [label="まだ"];
+	node4 [label="あれほどには"];
+	node5 [label="進化しない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+}

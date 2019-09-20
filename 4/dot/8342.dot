@@ -1,0 +1,19 @@
+digraph graph8342 {
+	node0 [label="幸い"];
+	node1 [label="工兵が"];
+	node2 [label="演習の"];
+	node3 [label="ため"];
+	node4 [label="道を"];
+	node5 [label="切り開いてくれたから、"];
+	node6 [label="登るのに"];
+	node7 [label="骨は"];
+	node8 [label="折れない。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

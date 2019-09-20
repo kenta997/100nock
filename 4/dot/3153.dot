@@ -1,0 +1,9 @@
+digraph graph3153 {
+	node0 [label="「君より"];
+	node1 [label="よほど"];
+	node2 [label="えらい"];
+	node3 [label="男だ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

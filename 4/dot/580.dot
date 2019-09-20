@@ -1,0 +1,7 @@
+digraph graph580 {
+	node0 [label="食うと"];
+	node1 [label="すれば"];
+	node2 [label="今だ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

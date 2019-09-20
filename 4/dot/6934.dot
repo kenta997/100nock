@@ -1,0 +1,7 @@
+digraph graph6934 {
+	node0 [label="「ええ、"];
+	node1 [label="まあ"];
+	node2 [label="そうよ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

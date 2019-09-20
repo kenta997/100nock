@@ -1,0 +1,7 @@
+digraph graph7883 {
+	node0 [label="「僕も"];
+	node1 [label="寒月君に"];
+	node2 [label="賛成する。"];
+	node0 -> node2;
+	node1 -> node2;
+}

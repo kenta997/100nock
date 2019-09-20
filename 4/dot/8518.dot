@@ -1,0 +1,15 @@
+digraph graph8518 {
+	node0 [label="今の"];
+	node1 [label="人は"];
+	node2 [label="己れを"];
+	node3 [label="忘れるなと"];
+	node4 [label="教えるから"];
+	node5 [label="まるで"];
+	node6 [label="違う。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

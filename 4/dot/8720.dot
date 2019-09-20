@@ -1,0 +1,11 @@
+digraph graph8720 {
+	node0 [label="「警察が"];
+	node1 [label="君に"];
+	node2 [label="あやまれと"];
+	node3 [label="命じたら"];
+	node4 [label="どうです」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

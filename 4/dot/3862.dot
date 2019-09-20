@@ -1,0 +1,9 @@
+digraph graph3862 {
+	node0 [label="「先生そこへ"];
+	node1 [label="寒月も"];
+	node2 [label="有っていると"];
+	node3 [label="つけて下さい」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

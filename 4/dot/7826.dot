@@ -1,0 +1,19 @@
+digraph graph7826 {
+	node0 [label="※独に"];
+	node1 [label="して"];
+	node2 [label="不羣なりと"];
+	node3 [label="楚辞に"];
+	node4 [label="あるが"];
+	node5 [label="寒月君は"];
+	node6 [label="全く"];
+	node7 [label="明治の"];
+	node8 [label="屈原だよ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,5 @@
+digraph graph8373 {
+	node0 [label="ギャーだ"];
+	node1 [label="もの。"];
+	node0 -> node1;
+}

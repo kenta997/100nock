@@ -1,0 +1,13 @@
+digraph graph3150 {
+	node0 [label="「どうして"];
+	node1 [label="寒月の"];
+	node2 [label="名を"];
+	node3 [label="知っているのかい」と"];
+	node4 [label="主人が"];
+	node5 [label="聞く。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

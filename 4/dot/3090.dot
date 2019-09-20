@@ -1,0 +1,9 @@
+digraph graph3090 {
+	node0 [label="主人は"];
+	node1 [label="やがて"];
+	node2 [label="話頭を"];
+	node3 [label="転じて、"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

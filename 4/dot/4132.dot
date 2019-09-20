@@ -1,0 +1,13 @@
+digraph graph4132 {
+	node0 [label="烏は"];
+	node1 [label="通称を"];
+	node2 [label="勘左衛門と"];
+	node3 [label="云うそうだが、"];
+	node4 [label="なるほど"];
+	node5 [label="勘左衛門だ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

@@ -1,0 +1,11 @@
+digraph graph1965 {
+	node0 [label="寒月は"];
+	node1 [label="「是非承りたい"];
+	node2 [label="ものです」と"];
+	node3 [label="小声で"];
+	node4 [label="云う。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

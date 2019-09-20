@@ -1,0 +1,11 @@
+digraph graph634 {
+	node0 [label="そうして"];
+	node1 [label="みんな"];
+	node2 [label="申し合せたように"];
+	node3 [label="げらげら"];
+	node4 [label="笑っている。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

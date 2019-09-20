@@ -1,0 +1,21 @@
+digraph graph8037 {
+	node0 [label="「思わず"];
+	node1 [label="馳け込んで、"];
+	node2 [label="隠"];
+	node3 [label="袋から"];
+	node4 [label="蝦蟇口を"];
+	node5 [label="出して、"];
+	node6 [label="蝦蟇口の"];
+	node7 [label="中から"];
+	node8 [label="五円札を"];
+	node9 [label="二枚出して……」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

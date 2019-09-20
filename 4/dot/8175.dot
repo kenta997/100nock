@@ -1,0 +1,7 @@
+digraph graph8175 {
+	node0 [label="「従卒でも"];
+	node1 [label="いいから"];
+	node2 [label="何だ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

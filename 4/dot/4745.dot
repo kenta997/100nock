@@ -1,0 +1,29 @@
+digraph graph4745 {
+	node0 [label="しばらく"];
+	node1 [label="すると"];
+	node2 [label="二三人の"];
+	node3 [label="職人が"];
+	node4 [label="来て"];
+	node5 [label="半日ばかりの"];
+	node6 [label="間に"];
+	node7 [label="主人の"];
+	node8 [label="屋敷と、"];
+	node9 [label="落雲館の"];
+	node10 [label="境に、"];
+	node11 [label="高さ三尺ばかりの"];
+	node12 [label="四つ目垣が"];
+	node13 [label="出来上がった。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node6;
+	node6 -> node13;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

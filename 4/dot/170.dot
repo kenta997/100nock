@@ -1,0 +1,9 @@
+digraph graph170 {
+	node0 [label="しかし"];
+	node1 [label="その"];
+	node2 [label="熱心には"];
+	node3 [label="感服せざるを得ない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

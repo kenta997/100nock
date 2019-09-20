@@ -1,0 +1,11 @@
+digraph graph1012 {
+	node0 [label="主人だけは"];
+	node1 [label="左のみ"];
+	node2 [label="浮かれた"];
+	node3 [label="気色も"];
+	node4 [label="ない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph7710 {
+	node0 [label="「そそっかしい"];
+	node1 [label="鼠だね。"];
+	node0 -> node1;
+}

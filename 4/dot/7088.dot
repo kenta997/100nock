@@ -1,0 +1,7 @@
+digraph graph7088 {
+	node0 [label="滅多に"];
+	node1 [label="有る"];
+	node2 [label="品ではないんだよ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

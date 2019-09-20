@@ -1,0 +1,19 @@
+digraph graph6461 {
+	node0 [label="ただ"];
+	node1 [label="この"];
+	node2 [label="坊やちゃんが"];
+	node3 [label="癇癪を"];
+	node4 [label="起した"];
+	node5 [label="時に"];
+	node6 [label="折々"];
+	node7 [label="ご使用に"];
+	node8 [label="なるばかりだ。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

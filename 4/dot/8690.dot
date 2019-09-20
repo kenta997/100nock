@@ -1,0 +1,7 @@
+digraph graph8690 {
+	node0 [label="「タイムスの"];
+	node1 [label="百科全書"];
+	node2 [label="見たようですね」"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,9 @@
+digraph graph3829 {
+	node0 [label="倦んじて"];
+	node1 [label="薫ずる"];
+	node2 [label="香裏に"];
+	node3 [label="君の"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

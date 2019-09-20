@@ -1,0 +1,19 @@
+digraph graph4181 {
+	node0 [label="汗で"];
+	node1 [label="むずむずするのと"];
+	node2 [label="蚤が"];
+	node3 [label="這って"];
+	node4 [label="むずむず"];
+	node5 [label="するのは"];
+	node6 [label="判然と"];
+	node7 [label="区別が"];
+	node8 [label="出来る。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

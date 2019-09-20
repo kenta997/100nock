@@ -1,0 +1,7 @@
+digraph graph6529 {
+	node0 [label="これとても"];
+	node1 [label="なかなかの"];
+	node2 [label="見物である。"];
+	node0 -> node2;
+	node1 -> node2;
+}

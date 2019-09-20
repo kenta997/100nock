@@ -1,0 +1,29 @@
+digraph graph3568 {
+	node0 [label="実は"];
+	node1 [label="先日"];
+	node2 [label="僕が"];
+	node3 [label="ある"];
+	node4 [label="用事が"];
+	node5 [label="あって"];
+	node6 [label="図書館へ"];
+	node7 [label="行って"];
+	node8 [label="帰りに"];
+	node9 [label="門を"];
+	node10 [label="出ようとしたら"];
+	node11 [label="偶然"];
+	node12 [label="老梅君に"];
+	node13 [label="出逢ったのさ。"];
+	node0 -> node13;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

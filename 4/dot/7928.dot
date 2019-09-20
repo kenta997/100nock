@@ -1,0 +1,21 @@
+digraph graph7928 {
+	node0 [label="「私が"];
+	node1 [label="毎日"];
+	node2 [label="毎日"];
+	node3 [label="店頭を"];
+	node4 [label="散歩している"];
+	node5 [label="うちに"];
+	node6 [label="とうとう"];
+	node7 [label="この"];
+	node8 [label="霊異な音を"];
+	node9 [label="三度ききました。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

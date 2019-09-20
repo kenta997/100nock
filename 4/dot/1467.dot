@@ -1,0 +1,23 @@
+digraph graph1467 {
+	node0 [label="その"];
+	node1 [label="稽古を"];
+	node2 [label="やるから"];
+	node3 [label="僕に"];
+	node4 [label="聴いてくれと"];
+	node5 [label="云うから、"];
+	node6 [label="そりゃちょうど"];
+	node7 [label="いい"];
+	node8 [label="苦沙弥にも"];
+	node9 [label="聞かしてやろうと"];
+	node10 [label="云うのでね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

@@ -1,0 +1,31 @@
+digraph graph6522 {
+	node0 [label="　"];
+	node1 [label="八っちゃんの"];
+	node2 [label="泣き声を"];
+	node3 [label="聞いた"];
+	node4 [label="主人は、"];
+	node5 [label="朝っぱらから"];
+	node6 [label="よほど"];
+	node7 [label="癇癪が"];
+	node8 [label="起ったと"];
+	node9 [label="見えて、"];
+	node10 [label="たちまち"];
+	node11 [label="がばと"];
+	node12 [label="布団の"];
+	node13 [label="上に"];
+	node14 [label="起き直った。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node14;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

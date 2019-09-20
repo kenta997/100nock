@@ -1,0 +1,37 @@
+digraph graph4918 {
+	node0 [label="　落雲館に"];
+	node1 [label="群がる"];
+	node2 [label="敵軍は"];
+	node3 [label="近日に"];
+	node4 [label="至って"];
+	node5 [label="一種の"];
+	node6 [label="ダムダム弾を"];
+	node7 [label="発明して、"];
+	node8 [label="十分の"];
+	node9 [label="休暇、もしくは"];
+	node10 [label="放課後に"];
+	node11 [label="至って"];
+	node12 [label="熾に"];
+	node13 [label="北側の"];
+	node14 [label="空地に"];
+	node15 [label="向って"];
+	node16 [label="砲火を"];
+	node17 [label="浴びせかける。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node17;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node17;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node17;
+	node12 -> node15;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

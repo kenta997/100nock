@@ -1,0 +1,31 @@
+digraph graph3523 {
+	node0 [label="迷亭先生"];
+	node1 [label="もう"];
+	node2 [label="善かろうと"];
+	node3 [label="思って"];
+	node4 [label="下を"];
+	node5 [label="見ると、"];
+	node6 [label="まだ"];
+	node7 [label="十二三本の"];
+	node8 [label="尾が"];
+	node9 [label="蒸籠の"];
+	node10 [label="底を"];
+	node11 [label="離れないで"];
+	node12 [label="簀垂れの"];
+	node13 [label="上に"];
+	node14 [label="纏綿している。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+}

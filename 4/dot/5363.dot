@@ -1,0 +1,15 @@
+digraph graph5363 {
+	node0 [label="どうしても"];
+	node1 [label="金の"];
+	node2 [label="ある"];
+	node3 [label="ものに、"];
+	node4 [label="たてを"];
+	node5 [label="突いちゃ"];
+	node6 [label="損だね。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

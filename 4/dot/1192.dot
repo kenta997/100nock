@@ -1,0 +1,13 @@
+digraph graph1192 {
+	node0 [label="四時までには"];
+	node1 [label="きっと"];
+	node2 [label="直って"];
+	node3 [label="見せるから"];
+	node4 [label="安心しているが"];
+	node5 [label="いい。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

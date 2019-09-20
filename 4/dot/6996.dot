@@ -1,0 +1,9 @@
+digraph graph6996 {
+	node0 [label="こんだ"];
+	node1 [label="寒月さんが"];
+	node2 [label="来たら、"];
+	node3 [label="知らして上げたらいいでしょう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

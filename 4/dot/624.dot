@@ -1,0 +1,21 @@
+digraph graph624 {
+	node0 [label="ここで"];
+	node1 [label="人に"];
+	node2 [label="来られては"];
+	node3 [label="大変だと"];
+	node4 [label="思って、"];
+	node5 [label="いよいよ"];
+	node6 [label="躍起と"];
+	node7 [label="なって"];
+	node8 [label="台所を"];
+	node9 [label="かけ廻る。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

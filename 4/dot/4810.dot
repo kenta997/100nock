@@ -1,0 +1,11 @@
+digraph graph4810 {
+	node0 [label="呑舟の"];
+	node1 [label="魚をも"];
+	node2 [label="洩らすべき"];
+	node3 [label="大穴が"];
+	node4 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,13 @@
+digraph graph5936 {
+	node0 [label="「ええ、"];
+	node1 [label="さよう、"];
+	node2 [label="昔は"];
+	node3 [label="そんなではなかったですな」と"];
+	node4 [label="老人らしい事を"];
+	node5 [label="云う。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

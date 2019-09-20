@@ -1,0 +1,23 @@
+digraph graph1237 {
+	node0 [label="飲もうとしては"];
+	node1 [label="茶碗を"];
+	node2 [label="置き、"];
+	node3 [label="飲もうとしては"];
+	node4 [label="茶碗を"];
+	node5 [label="置いていると"];
+	node6 [label="茶の間の"];
+	node7 [label="柱時計が"];
+	node8 [label="チンチンチンチンと"];
+	node9 [label="四時を"];
+	node10 [label="打った。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

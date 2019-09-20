@@ -1,0 +1,9 @@
+digraph graph5613 {
+	node0 [label="ただ"];
+	node1 [label="奇抜だけで"];
+	node2 [label="役に立たないのが"];
+	node3 [label="欠点である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

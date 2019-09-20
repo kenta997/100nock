@@ -1,0 +1,19 @@
+digraph graph2238 {
+	node0 [label="「なるほど"];
+	node1 [label="似ているな」と"];
+	node2 [label="主人が、"];
+	node3 [label="さも"];
+	node4 [label="感心したらしく"];
+	node5 [label="云うと"];
+	node6 [label="「何がです」と"];
+	node7 [label="細君は"];
+	node8 [label="見向きもしない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

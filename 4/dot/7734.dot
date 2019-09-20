@@ -1,0 +1,7 @@
+digraph graph7734 {
+	node0 [label="「今度は"];
+	node1 [label="君の"];
+	node2 [label="番だよ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

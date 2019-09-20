@@ -1,0 +1,11 @@
+digraph graph5221 {
+	node0 [label="鈴木にも久々だから"];
+	node1 [label="余所ながら"];
+	node2 [label="拝顔の"];
+	node3 [label="栄を"];
+	node4 [label="得ておこう。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

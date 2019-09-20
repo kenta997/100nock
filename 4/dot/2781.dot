@@ -1,0 +1,37 @@
+digraph graph2781 {
+	node0 [label="彼等"];
+	node1 [label="人間の"];
+	node2 [label="眼は"];
+	node3 [label="平面の"];
+	node4 [label="上に"];
+	node5 [label="二つ"];
+	node6 [label="並んでいるので"];
+	node7 [label="左右を"];
+	node8 [label="一時に"];
+	node9 [label="見る"];
+	node10 [label="事が"];
+	node11 [label="出来んから"];
+	node12 [label="事物の"];
+	node13 [label="半面だけしか"];
+	node14 [label="視線内に"];
+	node15 [label="這入らんのは"];
+	node16 [label="気の毒な"];
+	node17 [label="次第である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

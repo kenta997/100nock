@@ -1,0 +1,9 @@
+digraph graph5517 {
+	node0 [label="代議政体が"];
+	node1 [label="いかんから、また"];
+	node2 [label="何かに"];
+	node3 [label="したくなる。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

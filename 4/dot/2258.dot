@@ -1,0 +1,9 @@
+digraph graph2258 {
+	node0 [label="「不具なら、"];
+	node1 [label="なぜ"];
+	node2 [label="御貰いに"];
+	node3 [label="なったのです。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

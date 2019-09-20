@@ -1,0 +1,5 @@
+digraph graph5247 {
+	node0 [label="そら君の"];
+	node1 [label="旧友さ。"];
+	node0 -> node1;
+}

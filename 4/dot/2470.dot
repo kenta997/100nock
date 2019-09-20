@@ -1,0 +1,17 @@
+digraph graph2470 {
+	node0 [label="「君"];
+	node1 [label="電気鉄道へ"];
+	node2 [label="乗ったか」と"];
+	node3 [label="主人は"];
+	node4 [label="突然"];
+	node5 [label="鈴木君に対して"];
+	node6 [label="奇問を"];
+	node7 [label="発する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

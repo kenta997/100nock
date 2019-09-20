@@ -1,0 +1,31 @@
+digraph graph8501 {
+	node0 [label="「今の"];
+	node1 [label="人の"];
+	node2 [label="自覚心と"];
+	node3 [label="云うのは"];
+	node4 [label="自己と"];
+	node5 [label="他人の"];
+	node6 [label="間に"];
+	node7 [label="截然たる"];
+	node8 [label="利害の"];
+	node9 [label="鴻溝が"];
+	node10 [label="あると"];
+	node11 [label="云う"];
+	node12 [label="事を"];
+	node13 [label="知り過ぎていると"];
+	node14 [label="云う事だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node13;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+}

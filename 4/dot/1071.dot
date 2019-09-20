@@ -1,0 +1,9 @@
+digraph graph1071 {
+	node0 [label="年に"];
+	node1 [label="二三返は"];
+	node2 [label="きっと"];
+	node3 [label="ぶら下がっている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

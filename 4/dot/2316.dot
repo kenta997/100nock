@@ -1,0 +1,37 @@
+digraph graph2316 {
+	node0 [label="鈴木君は"];
+	node1 [label="頭を"];
+	node2 [label="美麗に"];
+	node3 [label="分けて、"];
+	node4 [label="英国仕立の"];
+	node5 [label="トウィードを"];
+	node6 [label="着て、"];
+	node7 [label="派手な"];
+	node8 [label="襟飾りを"];
+	node9 [label="して、"];
+	node10 [label="胸に"];
+	node11 [label="金鎖りさえピカつかせている"];
+	node12 [label="体裁、"];
+	node13 [label="どうしても"];
+	node14 [label="苦"];
+	node15 [label="沙弥君の"];
+	node16 [label="旧友とは"];
+	node17 [label="思えない。"];
+	node0 -> node17;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node16;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+	node16 -> node17;
+}

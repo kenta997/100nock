@@ -1,0 +1,11 @@
+digraph graph8442 {
+	node0 [label="「さすが"];
+	node1 [label="詩人だけ"];
+	node2 [label="あって"];
+	node3 [label="自由自在な"];
+	node4 [label="ものだね」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

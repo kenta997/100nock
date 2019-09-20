@@ -1,0 +1,11 @@
+digraph graph2964 {
+	node0 [label="これも"];
+	node1 [label="実業家の"];
+	node2 [label="芽生で、"];
+	node3 [label="鈴木藤十郎君の"];
+	node4 [label="後進生である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

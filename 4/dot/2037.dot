@@ -1,0 +1,13 @@
+digraph graph2037 {
+	node0 [label="迷亭は"];
+	node1 [label="手を"];
+	node2 [label="拍って"];
+	node3 [label="「面白い、"];
+	node4 [label="やれやれ」と"];
+	node5 [label="云う。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

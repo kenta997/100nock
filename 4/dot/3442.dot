@@ -1,0 +1,29 @@
+digraph graph3442 {
+	node0 [label="牛の"];
+	node1 [label="足跡を"];
+	node2 [label="つけたって"];
+	node3 [label="前の"];
+	node4 [label="方へ"];
+	node5 [label="あるか"];
+	node6 [label="して"];
+	node7 [label="連れて"];
+	node8 [label="行ったんじゃ"];
+	node9 [label="ありませんもの、"];
+	node10 [label="後ろへ"];
+	node11 [label="後ろへと"];
+	node12 [label="引きずって"];
+	node13 [label="行ったんですからね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node13;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

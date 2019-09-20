@@ -1,0 +1,11 @@
+digraph graph6970 {
+	node0 [label="「つくり過ぎても"];
+	node1 [label="御金の"];
+	node2 [label="ある"];
+	node3 [label="方が"];
+	node4 [label="いいじゃありませんか」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

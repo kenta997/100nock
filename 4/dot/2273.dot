@@ -1,0 +1,19 @@
+digraph graph2273 {
+	node0 [label="　細君は"];
+	node1 [label="喧嘩を"];
+	node2 [label="後日に"];
+	node3 [label="譲って、"];
+	node4 [label="倉皇針箱と"];
+	node5 [label="袖なしを"];
+	node6 [label="抱えて"];
+	node7 [label="茶の間へ"];
+	node8 [label="逃げ込む。"];
+	node0 -> node8;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

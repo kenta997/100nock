@@ -1,0 +1,15 @@
+digraph graph8853 {
+	node0 [label="これに"];
+	node1 [label="反して"];
+	node2 [label="東洋じゃ"];
+	node3 [label="昔しから"];
+	node4 [label="心の"];
+	node5 [label="修行を"];
+	node6 [label="した。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

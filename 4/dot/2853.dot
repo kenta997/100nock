@@ -1,0 +1,23 @@
+digraph graph2853 {
+	node0 [label="それから"];
+	node1 [label="細君の"];
+	node2 [label="帯上げと"];
+	node3 [label="しごきとを"];
+	node4 [label="続ぎ"];
+	node5 [label="合わせて"];
+	node6 [label="この"];
+	node7 [label="包みを"];
+	node8 [label="括って"];
+	node9 [label="片手に"];
+	node10 [label="さげる。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

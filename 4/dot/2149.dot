@@ -1,0 +1,21 @@
+digraph graph2149 {
+	node0 [label="金田君は"];
+	node1 [label="どんな"];
+	node2 [label="事を"];
+	node3 [label="客人に"];
+	node4 [label="依頼するかなと、"];
+	node5 [label="椽の"];
+	node6 [label="下から"];
+	node7 [label="耳を"];
+	node8 [label="澄して"];
+	node9 [label="聞いている。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node9;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+}

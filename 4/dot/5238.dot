@@ -1,0 +1,11 @@
+digraph graph5238 {
+	node0 [label="「私に"];
+	node1 [label="出来る"];
+	node2 [label="事なら"];
+	node3 [label="何でも"];
+	node4 [label="やりましょう。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

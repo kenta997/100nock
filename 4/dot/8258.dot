@@ -1,0 +1,9 @@
+digraph graph8258 {
+	node0 [label="「ハハハハじじいも"];
+	node1 [label="なかなか"];
+	node2 [label="眼識が"];
+	node3 [label="あるよ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

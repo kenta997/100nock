@@ -1,0 +1,15 @@
+digraph graph4604 {
+	node0 [label="「いいものか、"];
+	node1 [label="これが"];
+	node2 [label="現に"];
+	node3 [label="国語家の"];
+	node4 [label="頭脳を"];
+	node5 [label="支配している"];
+	node6 [label="大問題だ」"];
+	node0 -> node6;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

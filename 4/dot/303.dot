@@ -1,0 +1,23 @@
+digraph graph303 {
+	node0 [label="「いや"];
+	node1 [label="時々"];
+	node2 [label="冗談を"];
+	node3 [label="言うと"];
+	node4 [label="人が"];
+	node5 [label="真に"];
+	node6 [label="受けるので"];
+	node7 [label="大に"];
+	node8 [label="滑稽的美感を"];
+	node9 [label="挑撥するのは"];
+	node10 [label="面白い。"];
+	node0 -> node6;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+}

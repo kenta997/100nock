@@ -1,0 +1,19 @@
+digraph graph1211 {
+	node0 [label="早く"];
+	node1 [label="甘木君が"];
+	node2 [label="来てくれれば"];
+	node3 [label="善いがと"];
+	node4 [label="思って"];
+	node5 [label="時計を"];
+	node6 [label="見ると"];
+	node7 [label="もう"];
+	node8 [label="三時だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

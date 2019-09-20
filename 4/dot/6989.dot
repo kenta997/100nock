@@ -1,0 +1,5 @@
+digraph graph6989 {
+	node0 [label="「そりゃ"];
+	node1 [label="真面目なの？"];
+	node0 -> node1;
+}

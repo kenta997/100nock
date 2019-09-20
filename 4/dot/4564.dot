@@ -1,0 +1,9 @@
+digraph graph4564 {
+	node0 [label="主人は"];
+	node1 [label="かくのごとく"];
+	node2 [label="愚物だから"];
+	node3 [label="厭になる。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

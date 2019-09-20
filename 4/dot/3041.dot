@@ -1,0 +1,9 @@
+digraph graph3041 {
+	node0 [label="「この"];
+	node1 [label="頃でも"];
+	node2 [label="ジャムを"];
+	node3 [label="舐めなさるか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

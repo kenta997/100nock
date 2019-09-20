@@ -1,0 +1,15 @@
+digraph graph3425 {
+	node0 [label="「しかし"];
+	node1 [label="土用中あんなに"];
+	node2 [label="涼しくって、"];
+	node3 [label="今頃から"];
+	node4 [label="暑くなるのは"];
+	node5 [label="不思議ですね」"];
+	node6 [label="「ほんとでございますよ。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

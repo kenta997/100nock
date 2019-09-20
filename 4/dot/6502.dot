@@ -1,0 +1,5 @@
+digraph graph6502 {
+	node0 [label="「何だ"];
+	node1 [label="騒々しい。"];
+	node0 -> node1;
+}

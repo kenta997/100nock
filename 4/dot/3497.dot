@@ -1,0 +1,15 @@
+digraph graph3497 {
+	node0 [label="　"];
+	node1 [label="厭ですか、"];
+	node2 [label="ちょっとで"];
+	node3 [label="いいから」と"];
+	node4 [label="鋏を"];
+	node5 [label="細君に"];
+	node6 [label="渡す。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

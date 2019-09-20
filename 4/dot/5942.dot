@@ -1,0 +1,9 @@
+digraph graph5942 {
+	node0 [label="「苦沙弥君、"];
+	node1 [label="ちょっと"];
+	node2 [label="持って"];
+	node3 [label="見たまえ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

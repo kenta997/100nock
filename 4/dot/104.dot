@@ -1,0 +1,15 @@
+digraph graph104 {
+	node0 [label="台所の"];
+	node1 [label="板の間で"];
+	node2 [label="他が"];
+	node3 [label="顫えていても"];
+	node4 [label="一向"];
+	node5 [label="平気な"];
+	node6 [label="ものである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

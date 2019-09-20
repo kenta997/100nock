@@ -1,0 +1,11 @@
+digraph graph4649 {
+	node0 [label="それが"];
+	node1 [label="飲めと"];
+	node2 [label="云うのだから"];
+	node3 [label="いいに"];
+	node4 [label="極っているさ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

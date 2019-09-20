@@ -1,0 +1,7 @@
+digraph graph5468 {
+	node0 [label="「会計は"];
+	node1 [label="近頃"];
+	node2 [label="豊かかね」"];
+	node0 -> node2;
+	node1 -> node2;
+}

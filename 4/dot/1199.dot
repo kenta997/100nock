@@ -1,0 +1,11 @@
+digraph graph1199 {
+	node0 [label="僕は"];
+	node1 [label="速かに"];
+	node2 [label="細君を"];
+	node3 [label="書斎へ"];
+	node4 [label="呼んだよ。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,27 @@
+digraph graph5070 {
+	node0 [label="だから"];
+	node1 [label="平生なら"];
+	node2 [label="なるべく"];
+	node3 [label="労力を"];
+	node4 [label="避ける"];
+	node5 [label="ため、"];
+	node6 [label="拾い"];
+	node7 [label="易い"];
+	node8 [label="所へ"];
+	node9 [label="打ち落すはずであるが、"];
+	node10 [label="この際は"];
+	node11 [label="反対に"];
+	node12 [label="出る。"];
+	node0 -> node12;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

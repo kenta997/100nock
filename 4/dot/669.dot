@@ -1,0 +1,13 @@
+digraph graph669 {
+	node0 [label="「いい"];
+	node1 [label="音でしょう、"];
+	node2 [label="あたし"];
+	node3 [label="嬉しいわ」と"];
+	node4 [label="ちゃらちゃらちゃらちゃら続け様に"];
+	node5 [label="鳴らす。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

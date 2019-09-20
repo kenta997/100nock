@@ -1,0 +1,7 @@
+digraph graph7153 {
+	node0 [label="主人は"];
+	node1 [label="客間へ"];
+	node2 [label="出て行く。"];
+	node0 -> node2;
+	node1 -> node2;
+}

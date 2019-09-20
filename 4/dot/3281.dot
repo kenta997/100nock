@@ -1,0 +1,27 @@
+digraph graph3281 {
+	node0 [label="ほかの"];
+	node1 [label="部分は"];
+	node2 [label="夜目で"];
+	node3 [label="よく"];
+	node4 [label="見えんのに、"];
+	node5 [label="顔だけが"];
+	node6 [label="著"];
+	node7 [label="るしく"];
+	node8 [label="強い"];
+	node9 [label="色を"];
+	node10 [label="して"];
+	node11 [label="判然眸底に"];
+	node12 [label="落つるからである。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node12;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

@@ -1,0 +1,25 @@
+digraph graph3274 {
+	node0 [label="　それでも"];
+	node1 [label="まだ"];
+	node2 [label="心配が"];
+	node3 [label="取れぬから、"];
+	node4 [label="どう"];
+	node5 [label="云う"];
+	node6 [label="ものかと"];
+	node7 [label="だんだん"];
+	node8 [label="考えて"];
+	node9 [label="見ると"];
+	node10 [label="ようやく"];
+	node11 [label="分った。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

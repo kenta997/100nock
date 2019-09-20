@@ -1,0 +1,9 @@
+digraph graph7841 {
+	node0 [label="第一"];
+	node1 [label="あれから"];
+	node2 [label="して"];
+	node3 [label="乙だね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

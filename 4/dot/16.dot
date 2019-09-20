@@ -1,0 +1,9 @@
+digraph graph16 {
+	node0 [label="どうも"];
+	node1 [label="咽せぽくて"];
+	node2 [label="実に"];
+	node3 [label="弱った。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

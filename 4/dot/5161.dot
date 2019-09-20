@@ -1,0 +1,9 @@
+digraph graph5161 {
+	node0 [label="「落雲館へ"];
+	node1 [label="行って"];
+	node2 [label="誰か"];
+	node3 [label="連れてこい」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

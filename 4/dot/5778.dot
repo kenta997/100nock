@@ -1,0 +1,25 @@
+digraph graph5778 {
+	node0 [label="状袋が"];
+	node1 [label="紅白の"];
+	node2 [label="だんだらで、"];
+	node3 [label="飴ん"];
+	node4 [label="棒の"];
+	node5 [label="看板のごとく"];
+	node6 [label="はなやかなる"];
+	node7 [label="真中に"];
+	node8 [label="珍野苦沙弥先生虎皮下と"];
+	node9 [label="八分体で"];
+	node10 [label="肉太に"];
+	node11 [label="認めてある。"];
+	node0 -> node11;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

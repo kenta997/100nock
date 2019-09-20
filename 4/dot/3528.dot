@@ -1,0 +1,9 @@
+digraph graph3528 {
+	node0 [label="噛んじゃ"];
+	node1 [label="蕎麦の"];
+	node2 [label="味が"];
+	node3 [label="なくなる。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

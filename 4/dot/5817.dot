@@ -1,0 +1,13 @@
+digraph graph5817 {
+	node0 [label="　針作君は"];
+	node1 [label="九拝であったが、"];
+	node2 [label="この"];
+	node3 [label="男は"];
+	node4 [label="単に"];
+	node5 [label="再拝だけである。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

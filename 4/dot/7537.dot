@@ -1,0 +1,11 @@
+digraph graph7537 {
+	node0 [label="一人前の"];
+	node1 [label="西洋料理を"];
+	node2 [label="三人で"];
+	node3 [label="食うような"];
+	node4 [label="ものじゃありませんか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,25 @@
+digraph graph3446 {
+	node0 [label="午睡も"];
+	node1 [label="支那人の"];
+	node2 [label="詩に"];
+	node3 [label="出てくると"];
+	node4 [label="風流だが、"];
+	node5 [label="苦"];
+	node6 [label="沙弥君のように"];
+	node7 [label="日課として"];
+	node8 [label="やるのは"];
+	node9 [label="少々"];
+	node10 [label="俗気が"];
+	node11 [label="ありますね。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

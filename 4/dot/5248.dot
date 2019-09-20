@@ -1,0 +1,11 @@
+digraph graph5248 {
+	node0 [label="苦"];
+	node1 [label="沙弥とか"];
+	node2 [label="何とか"];
+	node3 [label="云うじゃ"];
+	node4 [label="ないか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

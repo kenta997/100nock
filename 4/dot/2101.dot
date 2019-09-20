@@ -1,0 +1,29 @@
+digraph graph2101 {
+	node0 [label="「……"];
+	node1 [label="それで"];
+	node2 [label="妻が"];
+	node3 [label="わざわざ"];
+	node4 [label="あの男の"];
+	node5 [label="所まで"];
+	node6 [label="出掛けて"];
+	node7 [label="行って"];
+	node8 [label="容子を"];
+	node9 [label="聞いたんだがね……」と"];
+	node10 [label="金田君は"];
+	node11 [label="例のごとく"];
+	node12 [label="横風な"];
+	node13 [label="言葉使である。"];
+	node0 -> node9;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node13;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+}

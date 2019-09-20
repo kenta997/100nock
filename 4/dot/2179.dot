@@ -1,0 +1,27 @@
+digraph graph2179 {
+	node0 [label="「ここの"];
+	node1 [label="前を"];
+	node2 [label="右へ"];
+	node3 [label="突き当って、"];
+	node4 [label="左へ"];
+	node5 [label="一丁ばかり"];
+	node6 [label="行くと"];
+	node7 [label="崩れかかった"];
+	node8 [label="黒塀の"];
+	node9 [label="ある"];
+	node10 [label="うちです」と"];
+	node11 [label="鼻子が"];
+	node12 [label="教える。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

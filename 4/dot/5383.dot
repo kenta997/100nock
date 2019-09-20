@@ -1,0 +1,15 @@
+digraph graph5383 {
+	node0 [label="甘木先生は"];
+	node1 [label="例のごとく"];
+	node2 [label="にこにこと"];
+	node3 [label="落ちつき"];
+	node4 [label="払って、"];
+	node5 [label="「どうです」と"];
+	node6 [label="云う。"];
+	node0 -> node6;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

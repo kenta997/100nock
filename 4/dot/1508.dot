@@ -1,0 +1,23 @@
+digraph graph1508 {
+	node0 [label="第一は、"];
+	node1 [label="彼の"];
+	node2 [label="テレマカスが"];
+	node3 [label="ユーミアス及び"];
+	node4 [label="フ※リーシャスの"];
+	node5 [label="援を"];
+	node6 [label="藉りて"];
+	node7 [label="縄の"];
+	node8 [label="一端を"];
+	node9 [label="柱へ"];
+	node10 [label="括りつけます。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

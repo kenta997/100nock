@@ -1,0 +1,23 @@
+digraph graph8845 {
+	node0 [label="昔は"];
+	node1 [label="孔子が"];
+	node2 [label="たった"];
+	node3 [label="一人だったから、"];
+	node4 [label="孔子も"];
+	node5 [label="幅を"];
+	node6 [label="利かしたのだが、"];
+	node7 [label="今は"];
+	node8 [label="孔子が"];
+	node9 [label="幾人も"];
+	node10 [label="いる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

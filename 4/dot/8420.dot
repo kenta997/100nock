@@ -1,0 +1,5 @@
+digraph graph8420 {
+	node0 [label="「子供は"];
+	node1 [label="まだですよ。"];
+	node0 -> node1;
+}

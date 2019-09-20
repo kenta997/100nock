@@ -1,0 +1,15 @@
+digraph graph7720 {
+	node0 [label="「ヴァイオリンは"];
+	node1 [label="大き過ぎるから"];
+	node2 [label="抱いて"];
+	node3 [label="寝る"];
+	node4 [label="訳には"];
+	node5 [label="行かないんですが……」と"];
+	node6 [label="云いかけると"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

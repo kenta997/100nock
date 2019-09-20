@@ -1,0 +1,9 @@
+digraph graph5395 {
+	node0 [label="「そう急には、"];
+	node1 [label="癒りません、"];
+	node2 [label="だんだん"];
+	node3 [label="利きます。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

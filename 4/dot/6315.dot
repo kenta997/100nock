@@ -1,0 +1,13 @@
+digraph graph6315 {
+	node0 [label="　"];
+	node1 [label="迷亭君は"];
+	node2 [label="「まあ"];
+	node3 [label="面白かろう、"];
+	node4 [label="見て来たまえ」と"];
+	node5 [label="云ったのみである。"];
+	node0 -> node5;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

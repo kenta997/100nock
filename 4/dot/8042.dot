@@ -1,0 +1,7 @@
+digraph graph8042 {
+	node0 [label="「なんだ、"];
+	node1 [label="まだ"];
+	node2 [label="買わないのかい。"];
+	node0 -> node2;
+	node1 -> node2;
+}

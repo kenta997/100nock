@@ -1,0 +1,17 @@
+digraph graph5620 {
+	node0 [label="この"];
+	node1 [label="帯へ"];
+	node2 [label="じゃれ付いて、"];
+	node3 [label="いきなり"];
+	node4 [label="頭を"];
+	node5 [label="張られたのは"];
+	node6 [label="こないだの"];
+	node7 [label="事である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

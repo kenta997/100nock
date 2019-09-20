@@ -1,0 +1,27 @@
+digraph graph105 {
+	node0 [label="吾輩の"];
+	node1 [label="尊敬する"];
+	node2 [label="筋向の"];
+	node3 [label="白君などは"];
+	node4 [label="逢う"];
+	node5 [label="度毎に"];
+	node6 [label="人間ほど"];
+	node7 [label="不人情な"];
+	node8 [label="ものは"];
+	node9 [label="ないと"];
+	node10 [label="言って"];
+	node11 [label="おら"];
+	node12 [label="るる。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

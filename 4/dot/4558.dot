@@ -1,0 +1,7 @@
+digraph graph4558 {
+	node0 [label="やはり"];
+	node1 [label="何ともないから、"];
+	node2 [label="じっとしていた。"];
+	node0 -> node1;
+	node1 -> node2;
+}

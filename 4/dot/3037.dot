@@ -1,0 +1,19 @@
+digraph graph3037 {
+	node0 [label="この"];
+	node1 [label="天気の"];
+	node2 [label="好いのに、"];
+	node3 [label="うちに"];
+	node4 [label="じっとして——"];
+	node5 [label="奥さん、"];
+	node6 [label="あれじゃ"];
+	node7 [label="胃病は"];
+	node8 [label="癒りませんな。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

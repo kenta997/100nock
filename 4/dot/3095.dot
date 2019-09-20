@@ -1,0 +1,25 @@
+digraph graph3095 {
+	node0 [label="ちょっと"];
+	node1 [label="泥棒に"];
+	node2 [label="逢っても、"];
+	node3 [label="すぐ"];
+	node4 [label="困る——"];
+	node5 [label="一丁"];
+	node6 [label="今から"];
+	node7 [label="考を"];
+	node8 [label="換えて"];
+	node9 [label="実業家にでも"];
+	node10 [label="なんな"];
+	node11 [label="さらんか」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node11;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,15 @@
+digraph graph3250 {
+	node0 [label="その"];
+	node1 [label="時は"];
+	node2 [label="火消壺の"];
+	node3 [label="影に"];
+	node4 [label="隠れて、"];
+	node5 [label="帰り道を"];
+	node6 [label="絶ってやる。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

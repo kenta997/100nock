@@ -1,0 +1,33 @@
+digraph graph4090 {
+	node0 [label="君等は"];
+	node1 [label="義経が"];
+	node2 [label="鵯越を"];
+	node3 [label="落とした"];
+	node4 [label="ことだけを"];
+	node5 [label="心得て、"];
+	node6 [label="義経でさえ"];
+	node7 [label="下を"];
+	node8 [label="向いて"];
+	node9 [label="下りるのだから"];
+	node10 [label="猫なんぞは"];
+	node11 [label="無論"];
+	node12 [label="下た"];
+	node13 [label="向きで"];
+	node14 [label="たくさんだと"];
+	node15 [label="思うのだろう。"];
+	node0 -> node9;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node15;
+	node10 -> node15;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

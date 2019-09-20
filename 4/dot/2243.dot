@@ -1,0 +1,5 @@
+digraph graph2243 {
+	node0 [label="超然たる"];
+	node1 [label="模範妻君である。"];
+	node0 -> node1;
+}

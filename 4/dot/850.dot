@@ -1,0 +1,25 @@
+digraph graph850 {
+	node0 [label="主人が"];
+	node1 [label="書斎から"];
+	node2 [label="印形を"];
+	node3 [label="持って"];
+	node4 [label="出て来た"];
+	node5 [label="時は、"];
+	node6 [label="東風子の"];
+	node7 [label="胃の"];
+	node8 [label="中に"];
+	node9 [label="カステラが"];
+	node10 [label="落ちついた"];
+	node11 [label="時であった。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+}

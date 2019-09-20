@@ -1,0 +1,23 @@
+digraph graph1394 {
+	node0 [label="すると"];
+	node1 [label="迷亭は"];
+	node2 [label="「イヨー大分"];
+	node3 [label="肥ったな、"];
+	node4 [label="どれ」と"];
+	node5 [label="無作法にも"];
+	node6 [label="吾輩の"];
+	node7 [label="襟髪を"];
+	node8 [label="攫んで"];
+	node9 [label="宙へ"];
+	node10 [label="釣るす。"];
+	node0 -> node10;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

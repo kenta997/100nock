@@ -1,0 +1,7 @@
+digraph graph4957 {
+	node0 [label="薬缶は"];
+	node1 [label="洩るに"];
+	node2 [label="相違ない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

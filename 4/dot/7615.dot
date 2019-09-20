@@ -1,0 +1,7 @@
+digraph graph7615 {
+	node0 [label="「定石に"];
+	node1 [label="そんなのは"];
+	node2 [label="ないよ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

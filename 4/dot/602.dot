@@ -1,0 +1,13 @@
+digraph graph602 {
+	node0 [label="歯が"];
+	node1 [label="餅の"];
+	node2 [label="肉に"];
+	node3 [label="吸収されて、"];
+	node4 [label="抜けるように"];
+	node5 [label="痛い。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

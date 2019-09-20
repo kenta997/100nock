@@ -1,0 +1,5 @@
+digraph graph3039 {
+	node0 [label="「あなたが"];
+	node1 [label="連れ出して下さい。"];
+	node0 -> node1;
+}

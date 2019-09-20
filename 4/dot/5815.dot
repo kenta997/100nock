@@ -1,0 +1,15 @@
+digraph graph5815 {
+	node0 [label="朝鮮に"];
+	node1 [label="人参"];
+	node2 [label="多し"];
+	node3 [label="先生"];
+	node4 [label="何が"];
+	node5 [label="故に"];
+	node6 [label="服せざる。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

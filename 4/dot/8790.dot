@@ -1,0 +1,7 @@
+digraph graph8790 {
+	node0 [label="その"];
+	node1 [label="説に"];
+	node2 [label="曰くさ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,5 @@
+digraph graph1950 {
+	node0 [label="「ところが"];
+	node1 [label="大違さ。"];
+	node0 -> node1;
+}

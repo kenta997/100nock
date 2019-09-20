@@ -1,0 +1,35 @@
+digraph graph4536 {
+	node0 [label="羽織を"];
+	node1 [label="脱ぎ、"];
+	node2 [label="猿股を"];
+	node3 [label="脱ぎ、"];
+	node4 [label="袴を"];
+	node5 [label="脱いで"];
+	node6 [label="平等に"];
+	node7 [label="なろうと"];
+	node8 [label="力める"];
+	node9 [label="赤裸々の"];
+	node10 [label="中には、また"];
+	node11 [label="赤裸々の"];
+	node12 [label="豪傑が"];
+	node13 [label="出て来て"];
+	node14 [label="他の"];
+	node15 [label="群小を"];
+	node16 [label="圧倒してしまう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

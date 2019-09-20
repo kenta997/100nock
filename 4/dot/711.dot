@@ -1,0 +1,11 @@
+digraph graph711 {
+	node0 [label="これで"];
+	node1 [label="雑煮の"];
+	node2 [label="元気も"];
+	node3 [label="さっぱりと"];
+	node4 [label="回復した。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

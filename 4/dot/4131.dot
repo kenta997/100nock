@@ -1,0 +1,23 @@
+digraph graph4131 {
+	node0 [label="吾輩は"];
+	node1 [label="返答を"];
+	node2 [label="待つ"];
+	node3 [label="ために、"];
+	node4 [label="彼等に"];
+	node5 [label="三分間の"];
+	node6 [label="猶予を"];
+	node7 [label="与えて、"];
+	node8 [label="垣の"];
+	node9 [label="上に"];
+	node10 [label="立っていた。"];
+	node0 -> node10;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

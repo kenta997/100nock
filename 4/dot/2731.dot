@@ -1,0 +1,9 @@
+digraph graph2731 {
+	node0 [label="勝手が"];
+	node1 [label="わるくて"];
+	node2 [label="定めし"];
+	node3 [label="不都合だろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

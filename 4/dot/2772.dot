@@ -1,0 +1,15 @@
+digraph graph2772 {
+	node0 [label="よほど"];
+	node1 [label="独創的な"];
+	node2 [label="想像力が"];
+	node3 [label="ないと"];
+	node4 [label="こんな"];
+	node5 [label="変化は"];
+	node6 [label="出来んのである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

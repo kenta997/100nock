@@ -1,0 +1,9 @@
+digraph graph6109 {
+	node0 [label="「そうかな」と"];
+	node1 [label="苦沙弥先生少々"];
+	node2 [label="腰が"];
+	node3 [label="弱くなる。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

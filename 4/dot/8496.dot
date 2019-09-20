@@ -1,0 +1,5 @@
+digraph graph8496 {
+	node0 [label="「おれが"];
+	node1 [label="探偵」"];
+	node0 -> node1;
+}

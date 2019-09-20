@@ -1,0 +1,7 @@
+digraph graph5333 {
+	node0 [label="碌々勉強も"];
+	node1 [label="出来や"];
+	node2 [label="しない。"];
+	node0 -> node2;
+	node1 -> node2;
+}

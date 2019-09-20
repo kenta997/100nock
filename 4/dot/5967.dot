@@ -1,0 +1,15 @@
+digraph graph5967 {
+	node0 [label="「玉を"];
+	node1 [label="磨りあげて"];
+	node2 [label="立派な"];
+	node3 [label="学者に"];
+	node4 [label="なれるなら、"];
+	node5 [label="誰にでも"];
+	node6 [label="出来る。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

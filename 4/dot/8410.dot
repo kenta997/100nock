@@ -1,0 +1,27 @@
+digraph graph8410 {
+	node0 [label="「まだ"];
+	node1 [label="心配する"];
+	node2 [label="ほど"];
+	node3 [label="持ち"];
+	node4 [label="あつかっ"];
+	node5 [label="てはいませんが、"];
+	node6 [label="とにかく"];
+	node7 [label="満腹の"];
+	node8 [label="同情を"];
+	node9 [label="こめ"];
+	node10 [label="た作を"];
+	node11 [label="公けに"];
+	node12 [label="するつもりです」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

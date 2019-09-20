@@ -1,0 +1,27 @@
+digraph graph3605 {
+	node0 [label="鏡花の"];
+	node1 [label="小説にゃ雪の"];
+	node2 [label="中から"];
+	node3 [label="蟹が"];
+	node4 [label="出てくるじゃないか」と"];
+	node5 [label="云ったら"];
+	node6 [label="寒月君は"];
+	node7 [label="「なるほど」と"];
+	node8 [label="云った"];
+	node9 [label="きりまた"];
+	node10 [label="謹聴の"];
+	node11 [label="態度に"];
+	node12 [label="復した。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

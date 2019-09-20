@@ -1,0 +1,31 @@
+digraph graph707 {
+	node0 [label="まさか"];
+	node1 [label="雑煮を"];
+	node2 [label="食って"];
+	node3 [label="踊りを"];
+	node4 [label="踊ったとも"];
+	node5 [label="云われないから"];
+	node6 [label="「何"];
+	node7 [label="別段の"];
+	node8 [label="事も"];
+	node9 [label="ありませんが、"];
+	node10 [label="少し"];
+	node11 [label="考え事を"];
+	node12 [label="したら"];
+	node13 [label="頭痛が"];
+	node14 [label="してね。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node14;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

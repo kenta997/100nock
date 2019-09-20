@@ -1,0 +1,9 @@
+digraph graph8987 {
+	node0 [label="今まで"];
+	node1 [label="作った"];
+	node2 [label="うちでも"];
+	node3 [label="いいです。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

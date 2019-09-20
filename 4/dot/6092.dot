@@ -1,0 +1,9 @@
+digraph graph6092 {
+	node0 [label="「しかし"];
+	node1 [label="あの"];
+	node2 [label="時分より"];
+	node3 [label="大分えらくなったようだよ」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

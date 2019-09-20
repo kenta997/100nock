@@ -1,0 +1,15 @@
+digraph graph6543 {
+	node0 [label="主人は"];
+	node1 [label="この"];
+	node2 [label="腸を"];
+	node3 [label="見ると同時に、"];
+	node4 [label="何が"];
+	node5 [label="かいてあるか"];
+	node6 [label="読みたくなった。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

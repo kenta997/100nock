@@ -1,0 +1,11 @@
+digraph graph8938 {
+	node0 [label="「いわん"];
+	node1 [label="ばってんが、"];
+	node2 [label="顔色は"];
+	node3 [label="よかな"];
+	node4 [label="かごたる。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

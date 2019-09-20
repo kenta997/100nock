@@ -1,0 +1,31 @@
+digraph graph1659 {
+	node0 [label="これでは"];
+	node1 [label="まるで"];
+	node2 [label="喧嘩を"];
+	node3 [label="しに"];
+	node4 [label="来たような"];
+	node5 [label="ものであるが、"];
+	node6 [label="そこへ"];
+	node7 [label="行くと"];
+	node8 [label="迷亭は"];
+	node9 [label="やはり"];
+	node10 [label="迷亭で"];
+	node11 [label="この"];
+	node12 [label="談判を"];
+	node13 [label="面白そうに"];
+	node14 [label="聞いている。"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node7;
+	node7 -> node14;
+	node8 -> node14;
+	node9 -> node14;
+	node10 -> node14;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

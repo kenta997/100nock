@@ -1,0 +1,9 @@
+digraph graph7108 {
+	node0 [label="ねえ、"];
+	node1 [label="叔母さん」叔母さんは"];
+	node2 [label="にやにや"];
+	node3 [label="笑っている。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

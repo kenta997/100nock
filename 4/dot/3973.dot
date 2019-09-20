@@ -1,0 +1,15 @@
+digraph graph3973 {
+	node0 [label="この"];
+	node1 [label="時の"];
+	node2 [label="蟷螂君の"];
+	node3 [label="表情が"];
+	node4 [label="すこぶる"];
+	node5 [label="興味を"];
+	node6 [label="添える。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

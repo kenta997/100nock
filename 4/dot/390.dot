@@ -1,0 +1,9 @@
+digraph graph390 {
+	node0 [label="いよいよ"];
+	node1 [label="牡蠣の"];
+	node2 [label="根性を"];
+	node3 [label="あらわしている。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

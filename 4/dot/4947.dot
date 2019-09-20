@@ -1,0 +1,25 @@
+digraph graph4947 {
+	node0 [label="そうだそうだと"];
+	node1 [label="覗を"];
+	node2 [label="定めて、"];
+	node3 [label="かの"];
+	node4 [label="亀の"];
+	node5 [label="子を"];
+	node6 [label="高い所から"];
+	node7 [label="挨拶も"];
+	node8 [label="無く"];
+	node9 [label="頭の"];
+	node10 [label="上へ"];
+	node11 [label="落した。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node11;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node11;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+}

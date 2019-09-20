@@ -1,0 +1,27 @@
+digraph graph3247 {
+	node0 [label="鼠と"];
+	node1 [label="戦争を"];
+	node2 [label="するのは"];
+	node3 [label="覚悟の"];
+	node4 [label="前だから"];
+	node5 [label="何疋"];
+	node6 [label="来ても"];
+	node7 [label="恐くは"];
+	node8 [label="ないが、"];
+	node9 [label="出てくる"];
+	node10 [label="方面が"];
+	node11 [label="明瞭でないのは"];
+	node12 [label="不都合である。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

@@ -1,0 +1,11 @@
+digraph graph683 {
+	node0 [label="「宜"];
+	node1 [label="いようだが、"];
+	node2 [label="吾輩には"];
+	node3 [label="よく"];
+	node4 [label="わからん。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

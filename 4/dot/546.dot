@@ -1,0 +1,15 @@
+digraph graph546 {
+	node0 [label="食って"];
+	node1 [label="見ると"];
+	node2 [label="妙な"];
+	node3 [label="もので、"];
+	node4 [label="大抵の"];
+	node5 [label="ものは"];
+	node6 [label="食える。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

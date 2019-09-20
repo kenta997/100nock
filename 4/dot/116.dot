@@ -1,0 +1,19 @@
+digraph graph116 {
+	node0 [label="吾輩は"];
+	node1 [label="教師の"];
+	node2 [label="家に"];
+	node3 [label="住んでいるだけ、"];
+	node4 [label="こんな"];
+	node5 [label="事に関すると"];
+	node6 [label="両君よりも"];
+	node7 [label="むしろ"];
+	node8 [label="楽天である。"];
+	node0 -> node8;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

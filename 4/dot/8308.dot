@@ -1,0 +1,13 @@
+digraph graph8308 {
+	node0 [label="独仙君は"];
+	node1 [label="困った"];
+	node2 [label="ものだと"];
+	node3 [label="云う"];
+	node4 [label="顔付を"];
+	node5 [label="する。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

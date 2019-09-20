@@ -1,0 +1,17 @@
+digraph graph4613 {
+	node0 [label="ついでに"];
+	node1 [label="その"];
+	node2 [label="隣に"];
+	node3 [label="ある"];
+	node4 [label="豚と"];
+	node5 [label="芋のに"];
+	node6 [label="ころばしを"];
+	node7 [label="食う。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

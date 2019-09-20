@@ -1,0 +1,19 @@
+digraph graph8093 {
+	node0 [label="「可哀相に"];
+	node1 [label="ヴァイオリンを"];
+	node2 [label="買うのが"];
+	node3 [label="悪い"];
+	node4 [label="事じゃ、"];
+	node5 [label="音楽学校の"];
+	node6 [label="生徒は"];
+	node7 [label="みんな"];
+	node8 [label="罪人ですよ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

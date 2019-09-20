@@ -1,0 +1,7 @@
+digraph graph8458 {
+	node0 [label="珠磨りの"];
+	node1 [label="名人理学士水島寒月で"];
+	node2 [label="さあ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

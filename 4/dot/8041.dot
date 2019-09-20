@@ -1,0 +1,11 @@
+digraph graph8041 {
+	node0 [label="まあ"];
+	node1 [label="よそうと、"];
+	node2 [label="際どい"];
+	node3 [label="ところで"];
+	node4 [label="思い留まりました」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

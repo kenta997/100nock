@@ -1,0 +1,7 @@
+digraph graph7143 {
+	node0 [label="「何の"];
+	node1 [label="真似を"];
+	node2 [label="しろ？"];
+	node0 -> node1;
+	node1 -> node2;
+}

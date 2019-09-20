@@ -1,0 +1,11 @@
+digraph graph5403 {
+	node0 [label="「どれ"];
+	node1 [label="一つ"];
+	node2 [label="拝見しましょうか」と"];
+	node3 [label="診察を"];
+	node4 [label="始める。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

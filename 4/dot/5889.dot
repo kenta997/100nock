@@ -1,0 +1,7 @@
+digraph graph5889 {
+	node0 [label="一応"];
+	node1 [label="頭を"];
+	node2 [label="さげて"];
+	node0 -> node2;
+	node1 -> node2;
+}

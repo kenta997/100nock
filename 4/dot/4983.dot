@@ -1,0 +1,5 @@
+digraph graph4983 {
+	node0 [label="「そんなら、"];
+	node1 [label="よろしい」"];
+	node0 -> node1;
+}

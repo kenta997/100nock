@@ -1,0 +1,7 @@
+digraph graph4641 {
+	node0 [label="「もう"];
+	node1 [label="一杯」と"];
+	node2 [label="出す。"];
+	node0 -> node1;
+	node1 -> node2;
+}

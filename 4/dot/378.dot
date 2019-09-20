@@ -1,0 +1,5 @@
+digraph graph378 {
+	node0 [label="今度は"];
+	node1 [label="絵端書ではない。"];
+	node0 -> node1;
+}

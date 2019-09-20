@@ -1,0 +1,7 @@
+digraph graph3463 {
+	node0 [label="「まあ"];
+	node1 [label="奇麗だ"];
+	node2 [label="事。"];
+	node0 -> node1;
+	node1 -> node2;
+}

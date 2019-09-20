@@ -1,0 +1,11 @@
+digraph graph2543 {
+	node0 [label="「ところが"];
+	node1 [label="今日の"];
+	node2 [label="珍報は"];
+	node3 [label="真の"];
+	node4 [label="珍報さ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

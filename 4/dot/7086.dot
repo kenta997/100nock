@@ -1,0 +1,15 @@
+digraph graph7086 {
+	node0 [label="「それでも"];
+	node1 [label="そんな"];
+	node2 [label="壺なら"];
+	node3 [label="吉原へ"];
+	node4 [label="行かなくっても、"];
+	node5 [label="どこにだって"];
+	node6 [label="あるじゃありませんか」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

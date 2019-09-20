@@ -1,0 +1,9 @@
+digraph graph3985 {
+	node0 [label="大概は"];
+	node1 [label="二三尺"];
+	node2 [label="飛ばされる"];
+	node3 [label="者である。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

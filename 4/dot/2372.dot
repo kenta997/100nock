@@ -1,0 +1,15 @@
+digraph graph2372 {
+	node0 [label="「それだから"];
+	node1 [label="君のように"];
+	node2 [label="そう"];
+	node3 [label="無雑作に"];
+	node4 [label="鼻を"];
+	node5 [label="馬鹿にしては"];
+	node6 [label="いかん」"];
+	node0 -> node6;
+	node1 -> node5;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

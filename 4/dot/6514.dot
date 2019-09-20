@@ -1,0 +1,31 @@
+digraph graph6514 {
+	node0 [label="怒る"];
+	node1 [label="たんびに"];
+	node2 [label="泣かせられるだけなら、"];
+	node3 [label="まだ"];
+	node4 [label="余裕も"];
+	node5 [label="あるけれども、"];
+	node6 [label="金田君が"];
+	node7 [label="近所の"];
+	node8 [label="ゴロツキを"];
+	node9 [label="傭って"];
+	node10 [label="今戸焼を"];
+	node11 [label="きめ込む"];
+	node12 [label="たびに、"];
+	node13 [label="八っちゃんは"];
+	node14 [label="泣かねばならんのである。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node14;
+	node6 -> node14;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+}

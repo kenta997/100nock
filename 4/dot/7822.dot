@@ -1,0 +1,7 @@
+digraph graph7822 {
+	node0 [label="駄目、"];
+	node1 [label="駄目、"];
+	node2 [label="駄目と。"];
+	node0 -> node1;
+	node1 -> node2;
+}

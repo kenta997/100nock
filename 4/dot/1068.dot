@@ -1,0 +1,15 @@
+digraph graph1068 {
+	node0 [label="「鴻の"];
+	node1 [label="台のは"];
+	node2 [label="鐘懸の"];
+	node3 [label="松で、"];
+	node4 [label="土手三番町のは"];
+	node5 [label="首懸の"];
+	node6 [label="松さ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

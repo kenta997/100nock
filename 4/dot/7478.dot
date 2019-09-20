@@ -1,0 +1,5 @@
+digraph graph7478 {
+	node0 [label="誰が"];
+	node1 [label="張ったんです」"];
+	node0 -> node1;
+}

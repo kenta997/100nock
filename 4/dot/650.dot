@@ -1,0 +1,15 @@
+digraph graph650 {
+	node0 [label="吾輩は"];
+	node1 [label="猫には"];
+	node2 [label="相違ないが"];
+	node3 [label="物の"];
+	node4 [label="情けは"];
+	node5 [label="一通り"];
+	node6 [label="心得ている。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

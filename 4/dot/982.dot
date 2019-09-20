@@ -1,0 +1,13 @@
+digraph graph982 {
+	node0 [label="「巨人が"];
+	node1 [label="地中に"];
+	node2 [label="住む"];
+	node3 [label="故に」と"];
+	node4 [label="母が"];
+	node5 [label="答える。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

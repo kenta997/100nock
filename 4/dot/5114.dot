@@ -1,0 +1,15 @@
+digraph graph5114 {
+	node0 [label="これが"];
+	node1 [label="普通の"];
+	node2 [label="人間の"];
+	node3 [label="考で"];
+	node4 [label="至極"];
+	node5 [label="もっともな"];
+	node6 [label="ところである。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

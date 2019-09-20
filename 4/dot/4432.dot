@@ -1,0 +1,29 @@
+digraph graph4432 {
+	node0 [label="なんでも"];
+	node1 [label="義経が"];
+	node2 [label="蝦夷から"];
+	node3 [label="満洲へ"];
+	node4 [label="渡った"];
+	node5 [label="時に、"];
+	node6 [label="蝦夷の"];
+	node7 [label="男で"];
+	node8 [label="大変学の"];
+	node9 [label="できる"];
+	node10 [label="人がくっ"];
+	node11 [label="付いて"];
+	node12 [label="行ったてえ"];
+	node13 [label="話しだね。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

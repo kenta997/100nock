@@ -1,0 +1,5 @@
+digraph graph2799 {
+	node0 [label="特徴とは"];
+	node1 [label="ほかではない。"];
+	node0 -> node1;
+}

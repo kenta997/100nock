@@ -1,0 +1,5 @@
+digraph graph7337 {
+	node0 [label="聞くのは"];
+	node1 [label="もっともだ。"];
+	node0 -> node1;
+}

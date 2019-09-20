@@ -1,0 +1,35 @@
+digraph graph8363 {
+	node0 [label="その"];
+	node1 [label="うちに"];
+	node2 [label="総身の"];
+	node3 [label="毛穴が"];
+	node4 [label="急に"];
+	node5 [label="あいて、"];
+	node6 [label="焼酎を"];
+	node7 [label="吹きかけた"];
+	node8 [label="毛脛のように、"];
+	node9 [label="勇気、"];
+	node10 [label="胆力、"];
+	node11 [label="分別、"];
+	node12 [label="沈着などと"];
+	node13 [label="号する"];
+	node14 [label="お客様が"];
+	node15 [label="すうすうと"];
+	node16 [label="蒸発して行く。"];
+	node0 -> node1;
+	node1 -> node16;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node16;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

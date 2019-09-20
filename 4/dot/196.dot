@@ -1,0 +1,5 @@
+digraph graph196 {
+	node0 [label="今でも"];
+	node1 [label="記憶している。"];
+	node0 -> node1;
+}

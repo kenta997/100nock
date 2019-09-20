@@ -1,0 +1,23 @@
+digraph graph954 {
+	node0 [label="　"];
+	node1 [label="帰って"];
+	node2 [label="見ると"];
+	node3 [label="主人は"];
+	node4 [label="書斎の"];
+	node5 [label="中で"];
+	node6 [label="何か"];
+	node7 [label="沈吟の"];
+	node8 [label="体で"];
+	node9 [label="筆を"];
+	node10 [label="執っている。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node10;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

@@ -1,0 +1,23 @@
+digraph graph3843 {
+	node0 [label="「送籍は"];
+	node1 [label="吾々仲間の"];
+	node2 [label="うちでも"];
+	node3 [label="取除けですが、"];
+	node4 [label="私の"];
+	node5 [label="詩も"];
+	node6 [label="どうか"];
+	node7 [label="心持ち"];
+	node8 [label="その"];
+	node9 [label="気で"];
+	node10 [label="読んでいただきたいので。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node10;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node9;
+	node9 -> node10;
+}

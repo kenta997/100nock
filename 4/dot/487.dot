@@ -1,0 +1,11 @@
+digraph graph487 {
+	node0 [label="　人間の"];
+	node1 [label="心理ほど"];
+	node2 [label="解し難い"];
+	node3 [label="ものは"];
+	node4 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

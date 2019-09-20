@@ -1,0 +1,27 @@
+digraph graph1330 {
+	node0 [label="これも"];
+	node1 [label="不平と"];
+	node2 [label="云えば"];
+	node3 [label="不平だが、"];
+	node4 [label="主人は"];
+	node5 [label="主人、"];
+	node6 [label="吾輩は"];
+	node7 [label="吾輩で、"];
+	node8 [label="相互の"];
+	node9 [label="見解が"];
+	node10 [label="自然異なるのは"];
+	node11 [label="致し方も"];
+	node12 [label="あるまい。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

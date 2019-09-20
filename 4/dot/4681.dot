@@ -1,0 +1,5 @@
+digraph graph4681 {
+	node0 [label="主人に対しても"];
+	node1 [label="気の毒である。"];
+	node0 -> node1;
+}

@@ -1,0 +1,9 @@
+digraph graph6232 {
+	node0 [label="ただ"];
+	node1 [label="覚えているのは"];
+	node2 [label="多々良三平の"];
+	node3 [label="山の芋だけである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

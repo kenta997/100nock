@@ -1,0 +1,9 @@
+digraph graph6858 {
+	node0 [label="「本当ね、"];
+	node1 [label="それで"];
+	node2 [label="地蔵様は"];
+	node3 [label="動いたの？"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

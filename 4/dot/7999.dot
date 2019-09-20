@@ -1,0 +1,19 @@
+digraph graph7999 {
+	node0 [label="「それは"];
+	node1 [label="好都合だ」と"];
+	node2 [label="独仙君が"];
+	node3 [label="澄まして"];
+	node4 [label="述べられたので"];
+	node5 [label="一同は"];
+	node6 [label="思わず"];
+	node7 [label="どっと"];
+	node8 [label="噴き出した。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

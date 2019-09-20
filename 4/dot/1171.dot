@@ -1,0 +1,35 @@
+digraph graph1171 {
+	node0 [label="なぜ"];
+	node1 [label="四時までに"];
+	node2 [label="行かなくては"];
+	node3 [label="駄目なんだと"];
+	node4 [label="聞き返すと、"];
+	node5 [label="その"];
+	node6 [label="くらい"];
+	node7 [label="早く"];
+	node8 [label="行って"];
+	node9 [label="場所を"];
+	node10 [label="とらなくちゃ"];
+	node11 [label="這入れないからですと"];
+	node12 [label="鈴木の"];
+	node13 [label="君代さんから"];
+	node14 [label="教えられた"];
+	node15 [label="通りを"];
+	node16 [label="述べる。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node16;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node14;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+}

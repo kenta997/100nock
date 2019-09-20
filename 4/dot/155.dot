@@ -1,0 +1,7 @@
+digraph graph155 {
+	node0 [label="欠伸が"];
+	node1 [label="したくて"];
+	node2 [label="たまらない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

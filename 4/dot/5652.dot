@@ -1,0 +1,11 @@
+digraph graph5652 {
+	node0 [label="元来鏡という"];
+	node1 [label="ものは"];
+	node2 [label="気味の"];
+	node3 [label="悪い"];
+	node4 [label="ものである。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

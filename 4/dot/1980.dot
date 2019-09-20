@@ -1,0 +1,9 @@
+digraph graph1980 {
+	node0 [label="骨は"];
+	node1 [label="出来ても"];
+	node2 [label="鼻汁は"];
+	node3 [label="出ますな。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

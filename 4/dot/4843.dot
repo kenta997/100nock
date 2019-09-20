@@ -1,0 +1,9 @@
+digraph graph4843 {
+	node0 [label="奔命に"];
+	node1 [label="疲れるとは"];
+	node2 [label="この"];
+	node3 [label="事である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

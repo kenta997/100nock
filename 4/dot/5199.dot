@@ -1,0 +1,11 @@
+digraph graph5199 {
+	node0 [label="表から"];
+	node1 [label="きて"];
+	node2 [label="ちょっと"];
+	node3 [label="断わって下されば"];
+	node4 [label="構いません。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

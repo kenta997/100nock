@@ -1,0 +1,15 @@
+digraph graph4801 {
+	node0 [label="吾輩などは"];
+	node1 [label="目の"];
+	node2 [label="間から"];
+	node3 [label="自由自在に"];
+	node4 [label="往来する"];
+	node5 [label="事が"];
+	node6 [label="出来る。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

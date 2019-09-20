@@ -1,0 +1,9 @@
+digraph graph5293 {
+	node0 [label="「別に"];
+	node1 [label="どこも"];
+	node2 [label="何とも"];
+	node3 [label="ないさ」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

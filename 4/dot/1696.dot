@@ -1,0 +1,19 @@
+digraph graph1696 {
+	node0 [label="「旧暦の"];
+	node1 [label="歳の"];
+	node2 [label="夜、"];
+	node3 [label="山の"];
+	node4 [label="狸が"];
+	node5 [label="園遊会を"];
+	node6 [label="やって"];
+	node7 [label="盛に"];
+	node8 [label="舞踏します。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

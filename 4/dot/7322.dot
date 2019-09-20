@@ -1,0 +1,11 @@
+digraph graph7322 {
+	node0 [label="「いいえ、"];
+	node1 [label="学校の"];
+	node2 [label="名なんか"];
+	node3 [label="書きゃ"];
+	node4 [label="しません」"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

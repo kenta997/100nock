@@ -1,0 +1,5 @@
+digraph graph5816 {
+	node0 [label="在巣鴨　　"];
+	node1 [label="天道公平　再拝"];
+	node0 -> node1;
+}

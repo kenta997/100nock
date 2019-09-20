@@ -1,0 +1,17 @@
+digraph graph8475 {
+	node0 [label="「人間に"];
+	node1 [label="文明の"];
+	node2 [label="角が"];
+	node3 [label="生えて、"];
+	node4 [label="金米糖のように"];
+	node5 [label="いらいらするからさ」と"];
+	node6 [label="迷亭君が"];
+	node7 [label="答える。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

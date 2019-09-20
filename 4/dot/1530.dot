@@ -1,0 +1,21 @@
+digraph graph1530 {
+	node0 [label="また"];
+	node1 [label="やり直すと"];
+	node2 [label="今度は"];
+	node3 [label="縄が"];
+	node4 [label="長過ぎて"];
+	node5 [label="足が"];
+	node6 [label="地面へ"];
+	node7 [label="着いたので"];
+	node8 [label="やはり"];
+	node9 [label="死ねなかったのです。"];
+	node0 -> node9;
+	node1 -> node7;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node9;
+	node8 -> node9;
+}

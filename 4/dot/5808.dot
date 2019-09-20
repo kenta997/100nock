@@ -1,0 +1,7 @@
+digraph graph5808 {
+	node0 [label="任意に"];
+	node1 [label="色を"];
+	node2 [label="作し来れ。"];
+	node0 -> node2;
+	node1 -> node2;
+}

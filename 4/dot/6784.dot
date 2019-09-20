@@ -1,0 +1,19 @@
+digraph graph6784 {
+	node0 [label="昨日"];
+	node1 [label="迷亭さんが"];
+	node2 [label="来て"];
+	node3 [label="悪口を"];
+	node4 [label="いった"];
+	node5 [label="ものだから、"];
+	node6 [label="思った"];
+	node7 [label="ほど"];
+	node8 [label="利かないかも知れない」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

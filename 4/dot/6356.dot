@@ -1,0 +1,5 @@
+digraph graph6356 {
+	node0 [label="第四はと……金田の"];
+	node1 [label="妻君。"];
+	node0 -> node1;
+}

@@ -1,0 +1,17 @@
+digraph graph2627 {
+	node0 [label="それでなくては"];
+	node1 [label="サヴェジ・チーなんて"];
+	node2 [label="生徒や"];
+	node3 [label="教師に"];
+	node4 [label="からかわれて"];
+	node5 [label="すまして"];
+	node6 [label="学校へ"];
+	node7 [label="出ちゃいられん訳だ。"];
+	node0 -> node7;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

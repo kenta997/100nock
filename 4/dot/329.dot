@@ -1,0 +1,13 @@
+digraph graph329 {
+	node0 [label="人が"];
+	node1 [label="来ると、"];
+	node2 [label="教師が"];
+	node3 [label="厭だ"];
+	node4 [label="厭だと"];
+	node5 [label="いう。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

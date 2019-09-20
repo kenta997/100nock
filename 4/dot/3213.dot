@@ -1,0 +1,15 @@
+digraph graph3213 {
+	node0 [label="出来得べくんば"];
+	node1 [label="混成猫旅団を"];
+	node2 [label="組織して"];
+	node3 [label="露西亜兵を"];
+	node4 [label="引っ掻いてやりたいと"];
+	node5 [label="思う"];
+	node6 [label="くらいである。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

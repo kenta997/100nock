@@ -1,0 +1,9 @@
+digraph graph6862 {
+	node0 [label="「あらそう、"];
+	node1 [label="あんな"];
+	node2 [label="顔を"];
+	node3 [label="して？"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

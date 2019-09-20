@@ -1,0 +1,25 @@
+digraph graph4945 {
+	node0 [label="あの"];
+	node1 [label="光った"];
+	node2 [label="ものの"];
+	node3 [label="上へ"];
+	node4 [label="亀の"];
+	node5 [label="子を"];
+	node6 [label="落したなら、"];
+	node7 [label="甲羅は"];
+	node8 [label="正しく"];
+	node9 [label="砕けるに"];
+	node10 [label="極わ"];
+	node11 [label="まった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

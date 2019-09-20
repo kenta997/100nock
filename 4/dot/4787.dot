@@ -1,0 +1,13 @@
+digraph graph4787 {
+	node0 [label="教師は"];
+	node1 [label="鎖で"];
+	node2 [label="繋がれておらない"];
+	node3 [label="代りに"];
+	node4 [label="月給で"];
+	node5 [label="縛られている。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

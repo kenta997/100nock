@@ -1,0 +1,15 @@
+digraph graph6275 {
+	node0 [label="君が"];
+	node1 [label="お辞儀を"];
+	node2 [label="する"];
+	node3 [label="間あいつは"];
+	node4 [label="始終"];
+	node5 [label="あのままで"];
+	node6 [label="立っていたのだぜ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

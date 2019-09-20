@@ -1,0 +1,11 @@
+digraph graph6646 {
+	node0 [label="第一に"];
+	node1 [label="鼻の"];
+	node2 [label="あたまに"];
+	node3 [label="寄寓していたのを"];
+	node4 [label="取払う。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

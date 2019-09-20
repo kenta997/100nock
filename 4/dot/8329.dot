@@ -1,0 +1,23 @@
+digraph graph8329 {
+	node0 [label="「そう"];
+	node1 [label="諸先生が"];
+	node2 [label="御まぜ返しになっては"];
+	node3 [label="はなはだ"];
+	node4 [label="遺憾の"];
+	node5 [label="至りだが、"];
+	node6 [label="東風君一人を"];
+	node7 [label="相手に"];
+	node8 [label="するより"];
+	node9 [label="致し方が"];
+	node10 [label="ない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

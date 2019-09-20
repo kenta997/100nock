@@ -1,0 +1,25 @@
+digraph graph8787 {
+	node0 [label="人は"];
+	node1 [label="失恋の"];
+	node2 [label="結果だなどと"];
+	node3 [label="騒ぐが、"];
+	node4 [label="近眼者の"];
+	node5 [label="視る"];
+	node6 [label="ところは"];
+	node7 [label="実に"];
+	node8 [label="憐れな"];
+	node9 [label="ほど"];
+	node10 [label="浅薄な"];
+	node11 [label="ものだ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,19 @@
+digraph graph144 {
+	node0 [label="どうだ"];
+	node1 [label="君も"];
+	node2 [label="画らしい"];
+	node3 [label="画を"];
+	node4 [label="かこうと"];
+	node5 [label="思うなら"];
+	node6 [label="ちと"];
+	node7 [label="写生を"];
+	node8 [label="したら」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

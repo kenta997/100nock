@@ -1,0 +1,11 @@
+digraph graph6955 {
+	node0 [label="「あの"];
+	node1 [label="人も"];
+	node2 [label="雪江さんの"];
+	node3 [label="学校へ"];
+	node4 [label="行くの？"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

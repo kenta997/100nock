@@ -1,0 +1,9 @@
+digraph graph7049 {
+	node0 [label="みんな、"];
+	node1 [label="解いて"];
+	node2 [label="洗い張を"];
+	node3 [label="してあるわ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

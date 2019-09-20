@@ -1,0 +1,17 @@
+digraph graph2841 {
+	node0 [label="しかし"];
+	node1 [label="滅多に"];
+	node2 [label="声を"];
+	node3 [label="立てると"];
+	node4 [label="危険であるから"];
+	node5 [label="じっと"];
+	node6 [label="怺"];
+	node7 [label="えている。"];
+	node0 -> node7;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

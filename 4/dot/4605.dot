@@ -1,0 +1,11 @@
+digraph graph4605 {
+	node0 [label="「あらまあ、"];
+	node1 [label="猫の"];
+	node2 [label="鳴き声がですか、"];
+	node3 [label="いやな"];
+	node4 [label="事ねえ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

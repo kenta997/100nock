@@ -1,0 +1,7 @@
+digraph graph2660 {
+	node0 [label="外面は"];
+	node1 [label="大方"];
+	node2 [label="朧であろう。"];
+	node0 -> node2;
+	node1 -> node2;
+}

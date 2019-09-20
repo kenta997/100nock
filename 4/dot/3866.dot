@@ -1,0 +1,9 @@
+digraph graph3866 {
+	node0 [label="君は"];
+	node1 [label="なかなか"];
+	node2 [label="文才が"];
+	node3 [label="あるね。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

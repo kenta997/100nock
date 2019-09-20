@@ -1,0 +1,5 @@
+digraph graph9149 {
+	node0 [label="耳が"];
+	node1 [label="ほてる。"];
+	node0 -> node1;
+}

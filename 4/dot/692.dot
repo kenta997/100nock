@@ -1,0 +1,35 @@
+digraph graph692 {
+	node0 [label="いつでも"];
+	node1 [label="そう"];
+	node2 [label="おっしゃるの」"];
+	node3 [label="「へえ元は"];
+	node4 [label="何だったんです」"];
+	node5 [label="「何でも"];
+	node6 [label="天璋院様の"];
+	node7 [label="御祐筆の"];
+	node8 [label="妹の"];
+	node9 [label="御嫁に"];
+	node10 [label="行った"];
+	node11 [label="先きの御っ"];
+	node12 [label="かさんの"];
+	node13 [label="甥の"];
+	node14 [label="娘なんだって」"];
+	node15 [label="「何で"];
+	node16 [label="すって？"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node14;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node16;
+	node15 -> node16;
+}

@@ -1,0 +1,5 @@
+digraph graph5331 {
+	node0 [label="随分"];
+	node1 [label="騒々しいだろうね」"];
+	node0 -> node1;
+}

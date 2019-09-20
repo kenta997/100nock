@@ -1,0 +1,15 @@
+digraph graph1248 {
+	node0 [label="障子の"];
+	node1 [label="蔭で"];
+	node2 [label="エヘンと"];
+	node3 [label="云う"];
+	node4 [label="細君の"];
+	node5 [label="咳払いが"];
+	node6 [label="聞える。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

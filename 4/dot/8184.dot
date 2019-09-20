@@ -1,0 +1,5 @@
+digraph graph8184 {
+	node0 [label="「そいつは"];
+	node1 [label="古物だね。"];
+	node0 -> node1;
+}

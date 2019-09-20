@@ -1,0 +1,15 @@
+digraph graph6605 {
+	node0 [label="女である"];
+	node1 [label="以上は"];
+	node2 [label="どうにか"];
+	node3 [label="片付けなくては"];
+	node4 [label="ならん"];
+	node5 [label="くらいも"];
+	node6 [label="承知している。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

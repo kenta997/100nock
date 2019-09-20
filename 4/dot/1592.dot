@@ -1,0 +1,29 @@
+digraph graph1592 {
+	node0 [label="「実は"];
+	node1 [label="宿が"];
+	node2 [label="出まして、"];
+	node3 [label="御話を"];
+	node4 [label="伺うんですが"];
+	node5 [label="会社の"];
+	node6 [label="方が"];
+	node7 [label="大変忙が"];
+	node8 [label="しいもんですから」と"];
+	node9 [label="今度は"];
+	node10 [label="少し"];
+	node11 [label="利いたろうという"];
+	node12 [label="眼付を"];
+	node13 [label="する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node13;
+}

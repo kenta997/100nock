@@ -1,0 +1,27 @@
+digraph graph7577 {
+	node0 [label="もっと"];
+	node1 [label="大きな、"];
+	node2 [label="もっと"];
+	node3 [label="分別の"];
+	node4 [label="ある"];
+	node5 [label="大僧共が"];
+	node6 [label="それどころじゃない、"];
+	node7 [label="わるい"];
+	node8 [label="いたずらを"];
+	node9 [label="して"];
+	node10 [label="知らん"];
+	node11 [label="面を"];
+	node12 [label="していますよ。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

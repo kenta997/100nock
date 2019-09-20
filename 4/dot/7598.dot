@@ -1,0 +1,11 @@
+digraph graph7598 {
+	node0 [label="かけなどで"];
+	node1 [label="勝負に"];
+	node2 [label="心を"];
+	node3 [label="奪われては"];
+	node4 [label="面白くない。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

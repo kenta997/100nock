@@ -1,0 +1,11 @@
+digraph graph298 {
+	node0 [label="あれは"];
+	node1 [label="僕の"];
+	node2 [label="ちょっと"];
+	node3 [label="捏造した"];
+	node4 [label="話だ。"];
+	node0 -> node4;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

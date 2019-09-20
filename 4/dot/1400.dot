@@ -1,0 +1,7 @@
+digraph graph1400 {
+	node0 [label="「なるほど踊りでも"];
+	node1 [label="おどりそうな"];
+	node2 [label="顔だ。"];
+	node0 -> node1;
+	node1 -> node2;
+}

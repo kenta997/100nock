@@ -1,0 +1,17 @@
+digraph graph4362 {
+	node0 [label="ところへ"];
+	node1 [label="二十五六の"];
+	node2 [label="薄い"];
+	node3 [label="髯を"];
+	node4 [label="生やした"];
+	node5 [label="男が"];
+	node6 [label="どぶんと"];
+	node7 [label="飛び込んだ。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

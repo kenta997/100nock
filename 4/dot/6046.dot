@@ -1,0 +1,17 @@
+digraph graph6046 {
+	node0 [label="老人は"];
+	node1 [label="長々と"];
+	node2 [label="挨拶を"];
+	node3 [label="して"];
+	node4 [label="チョン髷頭へ"];
+	node5 [label="山高帽を"];
+	node6 [label="いただいて"];
+	node7 [label="帰って行く。"];
+	node0 -> node7;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+}

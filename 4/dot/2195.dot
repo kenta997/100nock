@@ -1,0 +1,15 @@
+digraph graph2195 {
+	node0 [label="何でも"];
+	node1 [label="屋根に"];
+	node2 [label="草が"];
+	node3 [label="生えた"];
+	node4 [label="うちを"];
+	node5 [label="探して行けば"];
+	node6 [label="間違っこありませんよ」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

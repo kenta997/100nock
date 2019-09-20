@@ -1,0 +1,21 @@
+digraph graph7591 {
+	node0 [label="あとでは"];
+	node1 [label="細君と"];
+	node2 [label="雪江さんが"];
+	node3 [label="遠慮の"];
+	node4 [label="ない"];
+	node5 [label="声で"];
+	node6 [label="げらげら"];
+	node7 [label="けらけら"];
+	node8 [label="からからと"];
+	node9 [label="笑っていた。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node9;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+}

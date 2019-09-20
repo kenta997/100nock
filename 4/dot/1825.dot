@@ -1,0 +1,33 @@
+digraph graph1825 {
+	node0 [label="「知らねえ"];
+	node1 [label="事が"];
+	node2 [label="ある"];
+	node3 [label="もんか、"];
+	node4 [label="この"];
+	node5 [label="界隈で"];
+	node6 [label="金田さんの"];
+	node7 [label="御屋敷を"];
+	node8 [label="知らなけりゃ"];
+	node9 [label="眼も"];
+	node10 [label="耳も"];
+	node11 [label="ねえ"];
+	node12 [label="片輪だあな」"];
+	node13 [label="これは"];
+	node14 [label="抱え車夫の"];
+	node15 [label="声である。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node11;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

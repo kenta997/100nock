@@ -1,0 +1,9 @@
+digraph graph5791 {
+	node0 [label="爵禄は"];
+	node1 [label="一朝に"];
+	node2 [label="して"];
+	node3 [label="失うべし。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

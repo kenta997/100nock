@@ -1,0 +1,15 @@
+digraph graph6217 {
+	node0 [label="おや"];
+	node1 [label="今度は"];
+	node2 [label="白昼"];
+	node3 [label="公然と"];
+	node4 [label="玄関から"];
+	node5 [label="おいでに"];
+	node6 [label="なったな。"];
+	node0 -> node6;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

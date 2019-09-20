@@ -1,0 +1,27 @@
+digraph graph7943 {
+	node0 [label="今晩こそ"];
+	node1 [label="一つ出て"];
+	node2 [label="行って"];
+	node3 [label="兼て"];
+	node4 [label="望みの"];
+	node5 [label="ヴァイオリンを"];
+	node6 [label="手に"];
+	node7 [label="入れようと、"];
+	node8 [label="床の"];
+	node9 [label="中で"];
+	node10 [label="その"];
+	node11 [label="事ばかり"];
+	node12 [label="考えていました」"];
+	node0 -> node7;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

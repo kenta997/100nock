@@ -1,0 +1,9 @@
+digraph graph5390 {
+	node0 [label="「利かん事も"];
+	node1 [label="ないです」と"];
+	node2 [label="穏かに"];
+	node3 [label="答えた。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

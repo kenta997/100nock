@@ -1,0 +1,9 @@
+digraph graph3101 {
+	node0 [label="主人は"];
+	node1 [label="そうだとも、"];
+	node2 [label="そうで無いとも"];
+	node3 [label="云わない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

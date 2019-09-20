@@ -1,0 +1,33 @@
+digraph graph2582 {
+	node0 [label="しかるに"];
+	node1 [label="不思議な"];
+	node2 [label="事には"];
+	node3 [label="学者の"];
+	node4 [label="智識に対してのみは"];
+	node5 [label="何等の"];
+	node6 [label="褒美も"];
+	node7 [label="与えたと"];
+	node8 [label="云う"];
+	node9 [label="記録が"];
+	node10 [label="なかったので、"];
+	node11 [label="今日まで"];
+	node12 [label="実は"];
+	node13 [label="大に"];
+	node14 [label="怪しんでいた"];
+	node15 [label="ところさ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node15;
+	node11 -> node14;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+}

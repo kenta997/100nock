@@ -1,0 +1,27 @@
+digraph graph4282 {
+	node0 [label="聞く"];
+	node1 [label="ところに"];
+	node2 [label="よると"];
+	node3 [label="彼等は"];
+	node4 [label="胸を"];
+	node5 [label="あらわし、"];
+	node6 [label="肩を"];
+	node7 [label="あらわし、"];
+	node8 [label="腕を"];
+	node9 [label="あらわして"];
+	node10 [label="これを"];
+	node11 [label="礼服と"];
+	node12 [label="称しているそうだ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node12;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node12;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

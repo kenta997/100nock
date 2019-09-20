@@ -1,0 +1,21 @@
+digraph graph2807 {
+	node0 [label="ただ"];
+	node1 [label="鼻の"];
+	node2 [label="下に"];
+	node3 [label="薄黒く"];
+	node4 [label="髯の"];
+	node5 [label="芽生えが"];
+	node6 [label="植え付けてないので"];
+	node7 [label="さては"];
+	node8 [label="別人だと"];
+	node9 [label="気が付いた。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

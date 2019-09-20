@@ -1,0 +1,17 @@
+digraph graph1998 {
+	node0 [label="御母堂の"];
+	node1 [label="鼻は"];
+	node2 [label="シーザーの"];
+	node3 [label="それのごとく、"];
+	node4 [label="正しく"];
+	node5 [label="英姿颯爽たる"];
+	node6 [label="隆起に"];
+	node7 [label="相違ございません。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+}

@@ -1,0 +1,5 @@
+digraph graph8257 {
+	node0 [label="煙草の"];
+	node1 [label="御手際じゃ」"];
+	node0 -> node1;
+}

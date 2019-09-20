@@ -1,0 +1,21 @@
+digraph graph5426 {
+	node0 [label="先生は"];
+	node1 [label="なお"];
+	node2 [label="同じように"];
+	node3 [label="撫でおろし、"];
+	node4 [label="撫で"];
+	node5 [label="おろし"];
+	node6 [label="「だんだん"];
+	node7 [label="重くなりますよ、ようござん"];
+	node8 [label="すか」と"];
+	node9 [label="云う。"];
+	node0 -> node9;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node9;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+}

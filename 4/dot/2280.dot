@@ -1,0 +1,11 @@
+digraph graph2280 {
+	node0 [label="申すまでもなく"];
+	node1 [label="それは"];
+	node2 [label="かく"];
+	node3 [label="申す"];
+	node4 [label="吾輩である。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

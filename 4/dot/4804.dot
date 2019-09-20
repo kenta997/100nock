@@ -1,0 +1,15 @@
+digraph graph4804 {
+	node0 [label="なるほど"];
+	node1 [label="いくら"];
+	node2 [label="風通しが"];
+	node3 [label="よく"];
+	node4 [label="出来ていても、"];
+	node5 [label="人間には"];
+	node6 [label="潜れそうにない。"];
+	node0 -> node6;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+}

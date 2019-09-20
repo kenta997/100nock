@@ -1,0 +1,27 @@
+digraph graph2720 {
+	node0 [label="この"];
+	node1 [label="深夜に"];
+	node2 [label="人間が"];
+	node3 [label="案内も"];
+	node4 [label="乞わず"];
+	node5 [label="戸締を"];
+	node6 [label="外ずして"];
+	node7 [label="御光来に"];
+	node8 [label="なると"];
+	node9 [label="すれば"];
+	node10 [label="迷亭先生や"];
+	node11 [label="鈴木君ではないに"];
+	node12 [label="極っている。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node11;
+	node11 -> node12;
+}

@@ -1,0 +1,9 @@
+digraph graph7067 {
+	node0 [label="どうも"];
+	node1 [label="品数が"];
+	node2 [label="足りないようだ"];
+	node3 [label="事。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

@@ -1,0 +1,37 @@
+digraph graph326 {
+	node0 [label="三間半の"];
+	node1 [label="南向の"];
+	node2 [label="椽側に"];
+	node3 [label="冬の"];
+	node4 [label="日脚が"];
+	node5 [label="早く"];
+	node6 [label="傾いて"];
+	node7 [label="木枯の"];
+	node8 [label="吹かない"];
+	node9 [label="日は"];
+	node10 [label="ほとんど"];
+	node11 [label="稀になってから"];
+	node12 [label="吾輩の"];
+	node13 [label="昼寝の"];
+	node14 [label="時間も"];
+	node15 [label="狭められたような"];
+	node16 [label="気が"];
+	node17 [label="する。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node17;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node17;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node16;
+	node16 -> node17;
+}

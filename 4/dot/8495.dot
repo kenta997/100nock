@@ -1,0 +1,15 @@
+digraph graph8495 {
+	node0 [label="探偵も"];
+	node1 [label="そう"];
+	node2 [label="まともに"];
+	node3 [label="くると"];
+	node4 [label="可愛い"];
+	node5 [label="ところが"];
+	node6 [label="ある」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

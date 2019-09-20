@@ -1,0 +1,9 @@
+digraph graph3099 {
+	node0 [label="「先生学校を"];
+	node1 [label="卒業して"];
+	node2 [label="何年に"];
+	node3 [label="なんなさるか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

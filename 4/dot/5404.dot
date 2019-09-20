@@ -1,0 +1,17 @@
+digraph graph5404 {
+	node0 [label="診察を"];
+	node1 [label="終るのを"];
+	node2 [label="待ちかねた"];
+	node3 [label="主人は、"];
+	node4 [label="突然"];
+	node5 [label="大きな"];
+	node6 [label="声を"];
+	node7 [label="出して、"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+}

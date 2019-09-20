@@ -1,0 +1,5 @@
+digraph graph7594 {
+	node0 [label="「ただは"];
+	node1 [label="やらない。"];
+	node0 -> node1;
+}

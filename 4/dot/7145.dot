@@ -1,0 +1,11 @@
+digraph graph7145 {
+	node0 [label="「ちと"];
+	node1 [label="正直に"];
+	node2 [label="淡泊に"];
+	node3 [label="なさいと"];
+	node4 [label="云うんです」"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,5 @@
+digraph graph3087 {
+	node0 [label="何に"];
+	node1 [label="するんだ」"];
+	node0 -> node1;
+}

@@ -1,0 +1,9 @@
+digraph graph8589 {
+	node0 [label="「まあさ、"];
+	node1 [label="議論だから、"];
+	node2 [label="だまって"];
+	node3 [label="聞いていろ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

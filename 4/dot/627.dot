@@ -1,0 +1,7 @@
+digraph graph627 {
+	node0 [label="とうとう"];
+	node1 [label="小供に"];
+	node2 [label="見付けられた。"];
+	node0 -> node2;
+	node1 -> node2;
+}

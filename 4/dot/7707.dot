@@ -1,0 +1,5 @@
+digraph graph7707 {
+	node0 [label="　"];
+	node1 [label="どうして」"];
+	node0 -> node1;
+}

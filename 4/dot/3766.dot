@@ -1,0 +1,9 @@
+digraph graph3766 {
+	node0 [label="」と"];
+	node1 [label="聞き出したのは"];
+	node2 [label="やはり"];
+	node3 [label="東風君である。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

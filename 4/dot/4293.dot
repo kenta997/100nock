@@ -1,0 +1,19 @@
+digraph graph4293 {
+	node0 [label="現に"];
+	node1 [label="この"];
+	node2 [label="不合理"];
+	node3 [label="極まる"];
+	node4 [label="礼服を"];
+	node5 [label="着て"];
+	node6 [label="威張って"];
+	node7 [label="帝国ホテルなどへ"];
+	node8 [label="出懸けるではないか。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

@@ -1,0 +1,9 @@
+digraph graph8491 {
+	node0 [label="自説が"];
+	node1 [label="変らないのは"];
+	node2 [label="発達しない"];
+	node3 [label="証拠だ。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

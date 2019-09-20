@@ -1,0 +1,17 @@
+digraph graph8176 {
+	node0 [label="「まあ"];
+	node1 [label="羅甸語などは"];
+	node2 [label="あとに"];
+	node3 [label="して、"];
+	node4 [label="ちょっと"];
+	node5 [label="寒月君の"];
+	node6 [label="ご高話を"];
+	node7 [label="拝聴仕ろうじゃないか。"];
+	node0 -> node7;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node6;
+	node6 -> node7;
+}

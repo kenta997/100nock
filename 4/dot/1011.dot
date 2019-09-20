@@ -1,0 +1,15 @@
+digraph graph1011 {
+	node0 [label="「はあ、"];
+	node1 [label="そうですか」と"];
+	node2 [label="これも"];
+	node3 [label="訳の"];
+	node4 [label="分らぬ"];
+	node5 [label="挨拶を"];
+	node6 [label="する。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

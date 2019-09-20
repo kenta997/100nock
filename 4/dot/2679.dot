@@ -1,0 +1,13 @@
+digraph graph2679 {
+	node0 [label="せんだってじゅうは"];
+	node1 [label="毎晩"];
+	node2 [label="ウェブスターの"];
+	node3 [label="大字典さえ"];
+	node4 [label="抱えて来た"];
+	node5 [label="くらいである。"];
+	node0 -> node5;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

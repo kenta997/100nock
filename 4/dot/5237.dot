@@ -1,0 +1,11 @@
+digraph graph5237 {
+	node0 [label="どうでも"];
+	node1 [label="いいんだが、"];
+	node2 [label="君でないと"];
+	node3 [label="出来ない"];
+	node4 [label="事なんだ」"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

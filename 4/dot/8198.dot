@@ -1,0 +1,15 @@
+digraph graph8198 {
+	node0 [label="「それで"];
+	node1 [label="置き所だけは"];
+	node2 [label="出来た"];
+	node3 [label="訳だが、"];
+	node4 [label="今度は"];
+	node5 [label="出すのに"];
+	node6 [label="困った。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+}

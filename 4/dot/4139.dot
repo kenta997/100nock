@@ -1,0 +1,9 @@
+digraph graph4139 {
+	node0 [label="第一そう"];
+	node1 [label="待っていては"];
+	node2 [label="足が"];
+	node3 [label="つづかない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

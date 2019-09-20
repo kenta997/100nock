@@ -1,0 +1,17 @@
+digraph graph7046 {
+	node0 [label="ねえ叔母さん」叔母さんは"];
+	node1 [label="それどころではない、"];
+	node2 [label="風呂敷包を"];
+	node3 [label="解いて"];
+	node4 [label="皿眼に"];
+	node5 [label="なって、"];
+	node6 [label="盗難品を"];
+	node7 [label="検べている。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,9 @@
+digraph graph5140 {
+	node0 [label="それでなくては"];
+	node1 [label="あんなに"];
+	node2 [label="恐しく出来る"];
+	node3 [label="ものではない。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

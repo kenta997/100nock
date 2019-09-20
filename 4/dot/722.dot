@@ -1,0 +1,11 @@
+digraph graph722 {
+	node0 [label="黒は"];
+	node1 [label="尻尾を"];
+	node2 [label="立てたぎり"];
+	node3 [label="挨拶も"];
+	node4 [label="しない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

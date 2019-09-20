@@ -1,0 +1,5 @@
+digraph graph6739 {
+	node0 [label="「ホホホホ"];
+	node1 [label="旨いのね。"];
+	node0 -> node1;
+}

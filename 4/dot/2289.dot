@@ -1,0 +1,15 @@
+digraph graph2289 {
+	node0 [label="これが"];
+	node1 [label="鈴木君の"];
+	node2 [label="心の"];
+	node3 [label="平均を"];
+	node4 [label="破る"];
+	node5 [label="第二の"];
+	node6 [label="条件である。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

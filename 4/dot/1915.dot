@@ -1,0 +1,7 @@
+digraph graph1915 {
+	node0 [label="にくらしいわ」"];
+	node1 [label="「恐れ入ります」"];
+	node2 [label="「褒めたんじゃない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

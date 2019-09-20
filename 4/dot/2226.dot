@@ -1,0 +1,21 @@
+digraph graph2226 {
+	node0 [label="しかも"];
+	node1 [label="その"];
+	node2 [label="禿が"];
+	node3 [label="暖かい"];
+	node4 [label="日光を"];
+	node5 [label="反射して、"];
+	node6 [label="今や"];
+	node7 [label="時を"];
+	node8 [label="得顔に"];
+	node9 [label="輝いている。"];
+	node0 -> node9;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

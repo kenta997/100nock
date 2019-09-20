@@ -1,0 +1,11 @@
+digraph graph4294 {
+	node0 [label="その"];
+	node1 [label="因縁を"];
+	node2 [label="尋ねると"];
+	node3 [label="何にも"];
+	node4 [label="ない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

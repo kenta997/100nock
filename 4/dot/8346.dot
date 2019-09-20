@@ -1,0 +1,27 @@
+digraph graph8346 {
+	node0 [label="二十分ほど"];
+	node1 [label="茫然と"];
+	node2 [label="している"];
+	node3 [label="うちに"];
+	node4 [label="何だか"];
+	node5 [label="水晶で"];
+	node6 [label="造った"];
+	node7 [label="御殿の"];
+	node8 [label="なかに、"];
+	node9 [label="たった"];
+	node10 [label="一人住んでるような"];
+	node11 [label="気に"];
+	node12 [label="なった。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

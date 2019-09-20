@@ -1,0 +1,25 @@
+digraph graph7998 {
+	node0 [label="「では、"];
+	node1 [label="少し"];
+	node2 [label="ご無理な"];
+	node3 [label="ご注文ですが、"];
+	node4 [label="先生の"];
+	node5 [label="事ですから、"];
+	node6 [label="枉げて、"];
+	node7 [label="ここは"];
+	node8 [label="日が"];
+	node9 [label="暮れ"];
+	node10 [label="た事に"];
+	node11 [label="致しましょう」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

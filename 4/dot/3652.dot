@@ -1,0 +1,11 @@
+digraph graph3652 {
+	node0 [label="」と"];
+	node1 [label="主人が"];
+	node2 [label="不思議な"];
+	node3 [label="顔を"];
+	node4 [label="する。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

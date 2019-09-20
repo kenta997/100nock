@@ -1,0 +1,9 @@
+digraph graph4008 {
+	node0 [label="そうして"];
+	node1 [label="滋養分も"];
+	node2 [label="存外"];
+	node3 [label="少ないようである。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

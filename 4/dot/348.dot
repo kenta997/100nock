@@ -1,0 +1,33 @@
+digraph graph348 {
+	node0 [label="そんな"];
+	node1 [label="分らぬ"];
+	node2 [label="絵端書かと"];
+	node3 [label="思いながら、"];
+	node4 [label="寝ていた"];
+	node5 [label="眼を"];
+	node6 [label="上品に"];
+	node7 [label="半ば"];
+	node8 [label="開いて、"];
+	node9 [label="落ちつき"];
+	node10 [label="払って"];
+	node11 [label="見ると"];
+	node12 [label="紛れも"];
+	node13 [label="ない、"];
+	node14 [label="自分の"];
+	node15 [label="肖像だ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

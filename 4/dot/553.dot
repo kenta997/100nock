@@ -1,0 +1,11 @@
+digraph graph553 {
+	node0 [label="ところが"];
+	node1 [label="やはり"];
+	node2 [label="気に入った"];
+	node3 [label="名が"];
+	node4 [label="ない。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

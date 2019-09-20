@@ -1,0 +1,19 @@
+digraph graph6246 {
+	node0 [label="手が"];
+	node1 [label="出せないので、"];
+	node2 [label="門を"];
+	node3 [label="しめる"];
+	node4 [label="事が"];
+	node5 [label="出来ないから"];
+	node6 [label="開け放しの"];
+	node7 [label="まま"];
+	node8 [label="行ってしまった。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+}

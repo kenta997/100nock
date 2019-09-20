@@ -1,0 +1,9 @@
+digraph graph833 {
+	node0 [label="覚えず"];
+	node1 [label="咽喉仏が"];
+	node2 [label="ごろごろ"];
+	node3 [label="鳴る。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

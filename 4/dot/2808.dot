@@ -1,0 +1,27 @@
+digraph graph2808 {
+	node0 [label="寒月君は"];
+	node1 [label="苦味ば"];
+	node2 [label="しった好男子で、"];
+	node3 [label="活動小切手と"];
+	node4 [label="迷亭から"];
+	node5 [label="称せられたる、"];
+	node6 [label="金田富子嬢を"];
+	node7 [label="優に"];
+	node8 [label="吸収するに"];
+	node9 [label="足る"];
+	node10 [label="ほどな"];
+	node11 [label="念入れの"];
+	node12 [label="製作物である。"];
+	node0 -> node12;
+	node1 -> node2;
+	node2 -> node12;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+}

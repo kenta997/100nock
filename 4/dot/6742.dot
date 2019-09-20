@@ -1,0 +1,5 @@
+digraph graph6742 {
+	node0 [label="それでなくっちゃ"];
+	node1 [label="損だわ」"];
+	node0 -> node1;
+}

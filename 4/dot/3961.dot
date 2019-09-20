@@ -1,0 +1,11 @@
+digraph graph3961 {
+	node0 [label="これらは"];
+	node1 [label="吾輩の"];
+	node2 [label="いわゆる"];
+	node3 [label="旧式運動なる"];
+	node4 [label="者である。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,23 @@
+digraph graph2595 {
+	node0 [label="もし"];
+	node1 [label="智識に対する"];
+	node2 [label="報酬として"];
+	node3 [label="何物をか"];
+	node4 [label="与えんと"];
+	node5 [label="するならば"];
+	node6 [label="智識以上の"];
+	node7 [label="価値"];
+	node8 [label="ある"];
+	node9 [label="ものを"];
+	node10 [label="与えざるべからず。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node10;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

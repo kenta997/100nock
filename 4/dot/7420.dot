@@ -1,0 +1,11 @@
+digraph graph7420 {
+	node0 [label="「実は"];
+	node1 [label="ちょっと"];
+	node2 [label="先生を"];
+	node3 [label="誘いに"];
+	node4 [label="来たんですがね」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

@@ -1,0 +1,7 @@
+digraph graph9177 {
+	node0 [label="足を"];
+	node1 [label="のばしても"];
+	node2 [label="届かない。"];
+	node0 -> node1;
+	node1 -> node2;
+}

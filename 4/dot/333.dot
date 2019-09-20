@@ -1,0 +1,19 @@
+digraph graph333 {
+	node0 [label="帰ると"];
+	node1 [label="唱歌を"];
+	node2 [label="歌って、"];
+	node3 [label="毬を"];
+	node4 [label="ついて、"];
+	node5 [label="時々"];
+	node6 [label="吾輩を"];
+	node7 [label="尻尾で"];
+	node8 [label="ぶら下げる。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

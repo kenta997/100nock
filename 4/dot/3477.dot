@@ -1,0 +1,21 @@
+digraph graph3477 {
+	node0 [label="「あなたも、"];
+	node1 [label="あんな"];
+	node2 [label="帽子を"];
+	node3 [label="御買に"];
+	node4 [label="なったら、"];
+	node5 [label="いいでしょう」と"];
+	node6 [label="しばらくして"];
+	node7 [label="細君は"];
+	node8 [label="主人に"];
+	node9 [label="勧めかけた。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node9;
+	node6 -> node9;
+	node7 -> node9;
+	node8 -> node9;
+}

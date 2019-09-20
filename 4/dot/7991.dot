@@ -1,0 +1,11 @@
+digraph graph7991 {
+	node0 [label="東風君、"];
+	node1 [label="僕は"];
+	node2 [label="実に"];
+	node3 [label="情けなくって"];
+	node4 [label="泣いたよ」"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

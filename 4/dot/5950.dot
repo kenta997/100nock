@@ -1,0 +1,5 @@
+digraph graph5950 {
+	node0 [label="楠正成時代から"];
+	node1 [label="用いたようで……」"];
+	node0 -> node1;
+}

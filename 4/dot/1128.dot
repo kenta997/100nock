@@ -1,0 +1,19 @@
+digraph graph1128 {
+	node0 [label="三度目に"];
+	node1 [label="呼ばれた"];
+	node2 [label="時には"];
+	node3 [label="欄干に"];
+	node4 [label="捕まっていながら"];
+	node5 [label="膝頭が"];
+	node6 [label="がくがく"];
+	node7 [label="悸え"];
+	node8 [label="出したのです。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+}

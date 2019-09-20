@@ -1,0 +1,7 @@
+digraph graph1227 {
+	node0 [label="下女を"];
+	node1 [label="薬取りに"];
+	node2 [label="やる。"];
+	node0 -> node2;
+	node1 -> node2;
+}

@@ -1,0 +1,7 @@
+digraph graph7251 {
+	node0 [label="「少し"];
+	node1 [label="話しにくい"];
+	node2 [label="事で……」"];
+	node0 -> node1;
+	node1 -> node2;
+}

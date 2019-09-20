@@ -1,0 +1,13 @@
+digraph graph8189 {
+	node0 [label="「調和は"];
+	node1 [label="しないが、"];
+	node2 [label="句には"];
+	node3 [label="なるよ、"];
+	node4 [label="安心し"];
+	node5 [label="給え。"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

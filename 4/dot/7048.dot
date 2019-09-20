@@ -1,0 +1,5 @@
+digraph graph7048 {
+	node0 [label="泥棒も"];
+	node1 [label="進歩したのね。"];
+	node0 -> node1;
+}

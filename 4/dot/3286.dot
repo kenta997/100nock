@@ -1,0 +1,15 @@
+digraph graph3286 {
+	node0 [label="きのうは"];
+	node1 [label="山の芋、"];
+	node2 [label="今日は"];
+	node3 [label="ステッキ、"];
+	node4 [label="明日は"];
+	node5 [label="何に"];
+	node6 [label="なるだろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

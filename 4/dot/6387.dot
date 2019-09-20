@@ -1,0 +1,5 @@
+digraph graph6387 {
+	node0 [label="怖い"];
+	node1 [label="事だ。"];
+	node0 -> node1;
+}

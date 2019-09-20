@@ -1,0 +1,13 @@
+digraph graph3219 {
+	node0 [label="とれん"];
+	node1 [label="はずは"];
+	node2 [label="あるまいどころか"];
+	node3 [label="捕り損う"];
+	node4 [label="はずは"];
+	node5 [label="あるまい。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+}

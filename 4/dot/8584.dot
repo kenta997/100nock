@@ -1,0 +1,5 @@
+digraph graph8584 {
+	node0 [label="いな"];
+	node1 [label="問題であった。"];
+	node0 -> node1;
+}

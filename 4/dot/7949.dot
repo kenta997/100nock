@@ -1,0 +1,23 @@
+digraph graph7949 {
+	node0 [label="首を"];
+	node1 [label="出すと"];
+	node2 [label="烈しい"];
+	node3 [label="秋の日が、"];
+	node4 [label="六尺の"];
+	node5 [label="障子へ"];
+	node6 [label="一面にあたって、"];
+	node7 [label="かんかん"];
+	node8 [label="するには"];
+	node9 [label="癇癪が"];
+	node10 [label="起りました。"];
+	node0 -> node1;
+	node1 -> node10;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

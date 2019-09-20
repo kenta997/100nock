@@ -1,0 +1,9 @@
+digraph graph4413 {
+	node0 [label="これは"];
+	node1 [label="多分"];
+	node2 [label="垢"];
+	node3 [label="肥りだろう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

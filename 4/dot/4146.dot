@@ -1,0 +1,25 @@
+digraph graph4146 {
+	node0 [label="面倒だから、"];
+	node1 [label="いっそ"];
+	node2 [label="さよう"];
+	node3 [label="仕ろうか、"];
+	node4 [label="敵は"];
+	node5 [label="大勢の"];
+	node6 [label="事ではあるし、"];
+	node7 [label="ことには"];
+	node8 [label="あまり"];
+	node9 [label="この辺には"];
+	node10 [label="見馴れぬ"];
+	node11 [label="人体である。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node11;
+	node8 -> node11;
+	node9 -> node11;
+	node10 -> node11;
+}

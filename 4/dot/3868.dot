@@ -1,0 +1,13 @@
+digraph graph3868 {
+	node0 [label="「三角な"];
+	node1 [label="ものが"];
+	node2 [label="大和魂か、"];
+	node3 [label="四角な"];
+	node4 [label="ものが"];
+	node5 [label="大和魂か。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node4;
+	node4 -> node5;
+}

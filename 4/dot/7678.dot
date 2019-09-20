@@ -1,0 +1,5 @@
+digraph graph7678 {
+	node0 [label="君のは"];
+	node1 [label="逆だ」"];
+	node0 -> node1;
+}

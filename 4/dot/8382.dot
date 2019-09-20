@@ -1,0 +1,9 @@
+digraph graph8382 {
+	node0 [label="さぞ"];
+	node1 [label="遺憾だろう」と"];
+	node2 [label="一人で"];
+	node3 [label="説明すると、"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

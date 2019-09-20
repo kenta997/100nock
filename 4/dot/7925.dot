@@ -1,0 +1,7 @@
+digraph graph7925 {
+	node0 [label="そうさ"];
+	node1 [label="何と"];
+	node2 [label="形容していいでしょう。"];
+	node0 -> node2;
+	node1 -> node2;
+}

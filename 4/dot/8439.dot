@@ -1,0 +1,13 @@
+digraph graph8439 {
+	node0 [label="ただ"];
+	node1 [label="気の毒なのは"];
+	node2 [label="鴛鴦歌を"];
+	node3 [label="作った"];
+	node4 [label="東風君くらいな"];
+	node5 [label="ものさ」"];
+	node0 -> node1;
+	node1 -> node5;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+}

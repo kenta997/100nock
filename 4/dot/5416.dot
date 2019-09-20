@@ -1,0 +1,11 @@
+digraph graph5416 {
+	node0 [label="私も"];
+	node1 [label="とうから"];
+	node2 [label="懸かって"];
+	node3 [label="見たいと"];
+	node4 [label="思ったんです。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

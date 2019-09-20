@@ -1,0 +1,11 @@
+digraph graph5533 {
+	node0 [label="ただ"];
+	node1 [label="出来る"];
+	node2 [label="ものは"];
+	node3 [label="自分の"];
+	node4 [label="心だけだからね。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

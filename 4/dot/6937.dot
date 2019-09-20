@@ -1,0 +1,5 @@
+digraph graph6937 {
+	node0 [label="「それからが"];
+	node1 [label="演説よ」"];
+	node0 -> node1;
+}

@@ -1,0 +1,7 @@
+digraph graph656 {
+	node0 [label="曲線の"];
+	node1 [label="美を"];
+	node2 [label="尽している。"];
+	node0 -> node1;
+	node1 -> node2;
+}

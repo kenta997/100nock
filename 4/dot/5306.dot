@@ -1,0 +1,5 @@
+digraph graph5306 {
+	node0 [label="「笑うのも"];
+	node1 [label="毒だからな。"];
+	node0 -> node1;
+}

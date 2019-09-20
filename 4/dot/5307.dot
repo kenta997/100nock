@@ -1,0 +1,11 @@
+digraph graph5307 {
+	node0 [label="無暗に"];
+	node1 [label="笑うと"];
+	node2 [label="死ぬ"];
+	node3 [label="事が"];
+	node4 [label="あるぜ」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}

@@ -1,0 +1,27 @@
+digraph graph5207 {
+	node0 [label="尻が"];
+	node1 [label="切れて"];
+	node2 [label="強弩の"];
+	node3 [label="末勢だなどと"];
+	node4 [label="悪口する"];
+	node5 [label="ものが"];
+	node6 [label="あるなら、"];
+	node7 [label="これが"];
+	node8 [label="主人の"];
+	node9 [label="特色である"];
+	node10 [label="事を"];
+	node11 [label="記憶して"];
+	node12 [label="貰いたい。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node12;
+}

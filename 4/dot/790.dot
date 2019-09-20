@@ -1,0 +1,19 @@
+digraph graph790 {
+	node0 [label="先生が"];
+	node1 [label="材料は"];
+	node2 [label="何を"];
+	node3 [label="使うかねと"];
+	node4 [label="問われると"];
+	node5 [label="ボイはへへへへと"];
+	node6 [label="笑って"];
+	node7 [label="返事を"];
+	node8 [label="しないんです。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

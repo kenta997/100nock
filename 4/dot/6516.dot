@@ -1,0 +1,15 @@
+digraph graph6516 {
+	node0 [label="こう"];
+	node1 [label="なると"];
+	node2 [label="主人が"];
+	node3 [label="八っちゃんだか、"];
+	node4 [label="八っちゃんが"];
+	node5 [label="主人だか"];
+	node6 [label="判然しなくなる。"];
+	node0 -> node1;
+	node1 -> node6;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

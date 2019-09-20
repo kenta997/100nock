@@ -1,0 +1,9 @@
+digraph graph5463 {
+	node0 [label="長くなって"];
+	node1 [label="泥の"];
+	node2 [label="中に"];
+	node3 [label="埋ってるさ」"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+}

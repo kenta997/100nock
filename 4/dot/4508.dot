@@ -1,0 +1,15 @@
+digraph graph4508 {
+	node0 [label="死なない"];
+	node1 [label="程度において"];
+	node2 [label="病気と"];
+	node3 [label="云う"];
+	node4 [label="一種の"];
+	node5 [label="贅沢が"];
+	node6 [label="していたいのである。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+}

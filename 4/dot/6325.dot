@@ -1,0 +1,33 @@
+digraph graph6325 {
+	node0 [label="迷亭の"];
+	node1 [label="記述が"];
+	node2 [label="棒大の"];
+	node3 [label="ざれ言にもせよ、"];
+	node4 [label="彼が"];
+	node5 [label="瘋癲院中に"];
+	node6 [label="盛名を"];
+	node7 [label="擅ままに"];
+	node8 [label="して"];
+	node9 [label="天道の"];
+	node10 [label="主宰を"];
+	node11 [label="もって"];
+	node12 [label="自ら"];
+	node13 [label="任ずるは"];
+	node14 [label="恐らく"];
+	node15 [label="事実であろう。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node15;
+	node4 -> node8;
+	node5 -> node8;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

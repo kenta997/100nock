@@ -1,0 +1,15 @@
+digraph graph4147 {
+	node0 [label="口嘴が"];
+	node1 [label="乙に"];
+	node2 [label="尖がって"];
+	node3 [label="何だか"];
+	node4 [label="天狗の"];
+	node5 [label="啓し"];
+	node6 [label="子のようだ。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node5;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+}

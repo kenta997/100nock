@@ -1,0 +1,5 @@
+digraph graph5411 {
+	node0 [label="「先生も"];
+	node1 [label="やるんですか」"];
+	node0 -> node1;
+}

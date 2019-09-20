@@ -1,0 +1,5 @@
+digraph graph9041 {
+	node0 [label="「お見やげで"];
+	node1 [label="ござります。"];
+	node0 -> node1;
+}

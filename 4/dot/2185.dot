@@ -1,0 +1,9 @@
+digraph graph2185 {
+	node0 [label="名刺を"];
+	node1 [label="御饌粒で"];
+	node2 [label="門へ"];
+	node3 [label="貼り付けるのでしょう。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+}

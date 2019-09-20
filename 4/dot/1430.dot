@@ -1,0 +1,19 @@
+digraph graph1430 {
+	node0 [label="ふん"];
+	node1 [label="その"];
+	node2 [label="七代目樽金が"];
+	node3 [label="どうかしましたかい」"];
+	node4 [label="「あら、"];
+	node5 [label="あなたまで"];
+	node6 [label="冷かしては"];
+	node7 [label="立つ瀬が"];
+	node8 [label="ありませんわ。"];
+	node0 -> node3;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node8;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

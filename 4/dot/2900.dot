@@ -1,0 +1,7 @@
+digraph graph2900 {
+	node0 [label="それじゃ"];
+	node1 [label="帯から"];
+	node2 [label="書き付けてやろう。"];
+	node0 -> node2;
+	node1 -> node2;
+}

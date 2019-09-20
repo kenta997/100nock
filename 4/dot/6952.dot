@@ -1,0 +1,11 @@
+digraph graph6952 {
+	node0 [label="「金田の"];
+	node1 [label="富子さんて、"];
+	node2 [label="あの"];
+	node3 [label="向横町の"];
+	node4 [label="？"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

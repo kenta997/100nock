@@ -1,0 +1,37 @@
+digraph graph2632 {
+	node0 [label="高が"];
+	node1 [label="リードルの"];
+	node2 [label="先生で"];
+	node3 [label="そんな"];
+	node4 [label="大家を"];
+	node5 [label="例に"];
+	node6 [label="引くのは"];
+	node7 [label="雑魚が"];
+	node8 [label="鯨を"];
+	node9 [label="もって"];
+	node10 [label="自ら"];
+	node11 [label="喩えるような"];
+	node12 [label="もんだ、"];
+	node13 [label="そんな"];
+	node14 [label="事を"];
+	node15 [label="云うと"];
+	node16 [label="なお"];
+	node17 [label="からかわれるぜ」"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node4;
+	node4 -> node6;
+	node5 -> node6;
+	node6 -> node12;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+	node11 -> node12;
+	node12 -> node14;
+	node13 -> node14;
+	node14 -> node15;
+	node15 -> node17;
+	node16 -> node17;
+}

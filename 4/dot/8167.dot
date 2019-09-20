@@ -1,0 +1,9 @@
+digraph graph8167 {
+	node0 [label="「羅甸語は"];
+	node1 [label="分ってるが、"];
+	node2 [label="何と"];
+	node3 [label="読むのだい」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

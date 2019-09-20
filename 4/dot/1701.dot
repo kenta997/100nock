@@ -1,0 +1,33 @@
+digraph graph1701 {
+	node0 [label="「この"];
+	node1 [label="天女の"];
+	node2 [label="鼻が"];
+	node3 [label="少し"];
+	node4 [label="小さ過ぎるようですが」"];
+	node5 [label="「何、"];
+	node6 [label="それが"];
+	node7 [label="人並ですよ、"];
+	node8 [label="鼻より"];
+	node9 [label="文句を"];
+	node10 [label="読んで"];
+	node11 [label="御覧"];
+	node12 [label="なさい」"];
+	node13 [label="文句には"];
+	node14 [label="こう"];
+	node15 [label="ある。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node15;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node10;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+	node12 -> node15;
+	node13 -> node15;
+	node14 -> node15;
+}

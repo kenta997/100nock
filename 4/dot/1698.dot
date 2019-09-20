@@ -1,0 +1,17 @@
+digraph graph1698 {
+	node0 [label="スッポコポンノポン」"];
+	node1 [label="「何です"];
+	node2 [label="こりゃ、"];
+	node3 [label="人を"];
+	node4 [label="馬鹿にしているじゃございませんか」と"];
+	node5 [label="鼻子は"];
+	node6 [label="不平の"];
+	node7 [label="体である。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

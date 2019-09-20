@@ -1,0 +1,19 @@
+digraph graph6110 {
+	node0 [label="「この間"];
+	node1 [label="来た"];
+	node2 [label="時"];
+	node3 [label="禅宗坊主の"];
+	node4 [label="寝言"];
+	node5 [label="見たような"];
+	node6 [label="事を"];
+	node7 [label="何か"];
+	node8 [label="云ってったろう」"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node8;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+}

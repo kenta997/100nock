@@ -1,0 +1,35 @@
+digraph graph1408 {
+	node0 [label="「そんなに"];
+	node1 [label="ジャムを"];
+	node2 [label="甞めるんですか"];
+	node3 [label="まるで"];
+	node4 [label="小供のようですね」"];
+	node5 [label="「ジャムばかりじゃないんで、"];
+	node6 [label="この"];
+	node7 [label="頃は"];
+	node8 [label="胃病の"];
+	node9 [label="薬だとか"];
+	node10 [label="云って"];
+	node11 [label="大根卸しを"];
+	node12 [label="無暗に"];
+	node13 [label="甞めますので……」"];
+	node14 [label="「驚ろいたな」と"];
+	node15 [label="迷亭は"];
+	node16 [label="感嘆する。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+	node4 -> node13;
+	node5 -> node13;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node16;
+	node14 -> node15;
+	node15 -> node16;
+}

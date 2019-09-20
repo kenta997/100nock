@@ -1,0 +1,9 @@
+digraph graph7813 {
+	node0 [label="独仙君、"];
+	node1 [label="君の"];
+	node2 [label="気に入りそうな"];
+	node3 [label="話だぜ」"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+}

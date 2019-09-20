@@ -1,0 +1,7 @@
+digraph graph2886 {
+	node0 [label="届では"];
+	node1 [label="ない"];
+	node2 [label="告訴です。"];
+	node0 -> node1;
+	node1 -> node2;
+}

@@ -1,0 +1,33 @@
+digraph graph8510 {
+	node0 [label="今の"];
+	node1 [label="人は"];
+	node2 [label="どう"];
+	node3 [label="したら"];
+	node4 [label="己れの"];
+	node5 [label="利に"];
+	node6 [label="なるか、"];
+	node7 [label="損に"];
+	node8 [label="なるかと"];
+	node9 [label="寝ても"];
+	node10 [label="醒めても"];
+	node11 [label="考えつづけだから、"];
+	node12 [label="勢探偵泥棒と"];
+	node13 [label="同じく自覚心が"];
+	node14 [label="強く"];
+	node15 [label="ならざるを得ない。"];
+	node0 -> node1;
+	node1 -> node11;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node11;
+	node11 -> node15;
+	node12 -> node13;
+	node13 -> node15;
+	node14 -> node15;
+}

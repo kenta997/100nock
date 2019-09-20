@@ -1,0 +1,27 @@
+digraph graph1264 {
+	node0 [label="つい"];
+	node1 [label="うとうとと"];
+	node2 [label="して、"];
+	node3 [label="三毛子の"];
+	node4 [label="事も"];
+	node5 [label="忘れて"];
+	node6 [label="うたた寝を"];
+	node7 [label="していると、"];
+	node8 [label="急に"];
+	node9 [label="障子の"];
+	node10 [label="うちで"];
+	node11 [label="人声が"];
+	node12 [label="する。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node7;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node12;
+	node8 -> node12;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

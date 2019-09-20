@@ -1,0 +1,11 @@
+digraph graph482 {
+	node0 [label="宝丹の"];
+	node1 [label="角を"];
+	node2 [label="曲るとまた"];
+	node3 [label="一人芸者が"];
+	node4 [label="来た。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node4;
+	node3 -> node4;
+}

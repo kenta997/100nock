@@ -1,0 +1,23 @@
+digraph graph4831 {
+	node0 [label="主人が"];
+	node1 [label="書斎に"];
+	node2 [label="立て籠っていると"];
+	node3 [label="探偵した"];
+	node4 [label="時には、"];
+	node5 [label="なるべく"];
+	node6 [label="大きな"];
+	node7 [label="声を"];
+	node8 [label="出して"];
+	node9 [label="わあわあ"];
+	node10 [label="云う。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node10;
+	node9 -> node10;
+}

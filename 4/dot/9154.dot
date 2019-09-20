@@ -1,0 +1,7 @@
+digraph graph9154 {
+	node0 [label="妻君の"];
+	node1 [label="鼻を"];
+	node2 [label="食い欠きたくなる。"];
+	node0 -> node1;
+	node1 -> node2;
+}

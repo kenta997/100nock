@@ -1,0 +1,27 @@
+digraph graph961 {
+	node0 [label="　誰れの"];
+	node1 [label="文章だい」"];
+	node2 [label="「誰れのか"];
+	node3 [label="分らんよ」"];
+	node4 [label="「無名氏か、"];
+	node5 [label="無名氏の"];
+	node6 [label="作にも"];
+	node7 [label="随分"];
+	node8 [label="善いのが"];
+	node9 [label="あるから"];
+	node10 [label="なかなか"];
+	node11 [label="馬鹿に"];
+	node12 [label="出来ない。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node12;
+	node4 -> node8;
+	node5 -> node6;
+	node6 -> node8;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node12;
+	node10 -> node12;
+	node11 -> node12;
+}

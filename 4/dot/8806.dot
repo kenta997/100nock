@@ -1,0 +1,17 @@
+digraph graph8806 {
+	node0 [label="「なければ"];
+	node1 [label="結構だが、"];
+	node2 [label="今哲学者が"];
+	node3 [label="云った"];
+	node4 [label="通り"];
+	node5 [label="ちゃんと滅してしまうから"];
+	node6 [label="仕方がないと、"];
+	node7 [label="あきらめるさ。"];
+	node0 -> node1;
+	node1 -> node7;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+}

@@ -1,0 +1,33 @@
+digraph graph7150 {
+	node0 [label="主人は"];
+	node1 [label="茫乎として、"];
+	node2 [label="その"];
+	node3 [label="涙が"];
+	node4 [label="いかなる"];
+	node5 [label="心理作用に"];
+	node6 [label="起因するかを"];
+	node7 [label="研究する"];
+	node8 [label="もののごとく、"];
+	node9 [label="袴の"];
+	node10 [label="上と、"];
+	node11 [label="俯つ"];
+	node12 [label="向いた"];
+	node13 [label="雪江さんの"];
+	node14 [label="顔を"];
+	node15 [label="見つめていた。"];
+	node0 -> node1;
+	node1 -> node15;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node15;
+	node9 -> node10;
+	node10 -> node14;
+	node11 -> node13;
+	node12 -> node13;
+	node13 -> node14;
+	node14 -> node15;
+}

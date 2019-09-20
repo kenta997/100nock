@@ -1,0 +1,7 @@
+digraph graph4631 {
+	node0 [label="「出鱈目な"];
+	node1 [label="ものか、"];
+	node2 [label="希臘語だ」"];
+	node0 -> node1;
+	node1 -> node2;
+}

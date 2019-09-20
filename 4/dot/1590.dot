@@ -1,0 +1,11 @@
+digraph graph1590 {
+	node0 [label="「はあ」と"];
+	node1 [label="主人が"];
+	node2 [label="極めて"];
+	node3 [label="冷淡に"];
+	node4 [label="受ける。"];
+	node0 -> node4;
+	node1 -> node4;
+	node2 -> node3;
+	node3 -> node4;
+}

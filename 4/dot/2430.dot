@@ -1,0 +1,25 @@
+digraph graph2430 {
+	node0 [label="せんだって"];
+	node1 [label="細君の"];
+	node2 [label="来た"];
+	node3 [label="時は"];
+	node4 [label="迷亭君が"];
+	node5 [label="いて"];
+	node6 [label="妙な"];
+	node7 [label="事ばかり"];
+	node8 [label="云う"];
+	node9 [label="ものだから——いえ"];
+	node10 [label="君が"];
+	node11 [label="悪いのじゃない。"];
+	node0 -> node2;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node11;
+	node4 -> node5;
+	node5 -> node8;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

@@ -1,0 +1,7 @@
+digraph graph1516 {
+	node0 [label="どうです"];
+	node1 [label="御分りに"];
+	node2 [label="なりましたか」"];
+	node0 -> node1;
+	node1 -> node2;
+}

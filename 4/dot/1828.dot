@@ -1,0 +1,27 @@
+digraph graph1828 {
+	node0 [label="旦那の"];
+	node1 [label="事を"];
+	node2 [label="少しでも"];
+	node3 [label="知ってりゃ"];
+	node4 [label="恐れるかも知れないが、"];
+	node5 [label="駄目だよ、"];
+	node6 [label="自分の"];
+	node7 [label="小供の"];
+	node8 [label="歳さえ"];
+	node9 [label="知らないんだ"];
+	node10 [label="もの」と"];
+	node11 [label="神さんが"];
+	node12 [label="云う。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node10;
+	node6 -> node7;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+	node10 -> node12;
+	node11 -> node12;
+}

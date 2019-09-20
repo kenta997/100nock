@@ -1,0 +1,23 @@
+digraph graph3817 {
+	node0 [label="主人は"];
+	node1 [label="なお"];
+	node2 [label="不思議そうに"];
+	node3 [label="「東風さん、"];
+	node4 [label="この"];
+	node5 [label="富子と"];
+	node6 [label="云うのは"];
+	node7 [label="本当に"];
+	node8 [label="存在している"];
+	node9 [label="婦人なのですか」と"];
+	node10 [label="聞く。"];
+	node0 -> node10;
+	node1 -> node10;
+	node2 -> node10;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node9;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node10;
+}

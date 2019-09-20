@@ -1,0 +1,15 @@
+digraph graph6786 {
+	node0 [label="あんな"];
+	node1 [label="風に"];
+	node2 [label="鷹揚に"];
+	node3 [label="落ちついていれば、——"];
+	node4 [label="こないだ学校で"];
+	node5 [label="演説を"];
+	node6 [label="なすったわ」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node6;
+	node4 -> node6;
+	node5 -> node6;
+}

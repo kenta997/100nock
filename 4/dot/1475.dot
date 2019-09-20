@@ -1,0 +1,11 @@
+digraph graph1475 {
+	node0 [label="　それから"];
+	node1 [label="約七分くらいすると"];
+	node2 [label="注文通り"];
+	node3 [label="寒月君が"];
+	node4 [label="来る。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

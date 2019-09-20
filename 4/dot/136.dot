@@ -1,0 +1,11 @@
+digraph graph136 {
+	node0 [label="画を"];
+	node1 [label="かくなら"];
+	node2 [label="何でも"];
+	node3 [label="自然その物を"];
+	node4 [label="写せ。"];
+	node0 -> node1;
+	node1 -> node4;
+	node2 -> node4;
+	node3 -> node4;
+}

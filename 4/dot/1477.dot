@@ -1,0 +1,11 @@
+digraph graph1477 {
+	node0 [label="「さっきから"];
+	node1 [label="二人で"];
+	node2 [label="大待ちに"];
+	node3 [label="待った"];
+	node4 [label="ところなんだ。"];
+	node0 -> node3;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

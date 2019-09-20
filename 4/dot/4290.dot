@@ -1,0 +1,5 @@
+digraph graph4290 {
+	node0 [label="裸体信者だって"];
+	node1 [label="その通りだ。"];
+	node0 -> node1;
+}

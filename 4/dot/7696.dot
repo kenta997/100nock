@@ -1,0 +1,17 @@
+digraph graph7696 {
+	node0 [label="「食べる"];
+	node1 [label="事は"];
+	node2 [label="どうせ"];
+	node3 [label="食べるが、"];
+	node4 [label="こいつは"];
+	node5 [label="何だか"];
+	node6 [label="先が"];
+	node7 [label="欠けてるじゃないか」"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node7;
+	node5 -> node7;
+	node6 -> node7;
+}

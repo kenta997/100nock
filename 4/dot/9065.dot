@@ -1,0 +1,9 @@
+digraph graph9065 {
+	node0 [label="シャンパンの"];
+	node1 [label="三々九度や"];
+	node2 [label="春の"];
+	node3 [label="宵。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+}

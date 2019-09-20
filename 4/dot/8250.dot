@@ -1,0 +1,5 @@
+digraph graph8250 {
+	node0 [label="「貰わないで"];
+	node1 [label="偸んだ」"];
+	node0 -> node1;
+}

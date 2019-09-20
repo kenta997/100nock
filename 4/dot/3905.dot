@@ -1,0 +1,25 @@
+digraph graph3905 {
+	node0 [label="であるから"];
+	node1 [label="近頃に"];
+	node2 [label="至って"];
+	node3 [label="漸々"];
+	node4 [label="運動の"];
+	node5 [label="功能を"];
+	node6 [label="吹聴したり、"];
+	node7 [label="海水浴の"];
+	node8 [label="利益を"];
+	node9 [label="喋々して"];
+	node10 [label="大発明のように"];
+	node11 [label="考えるのである。"];
+	node0 -> node6;
+	node1 -> node2;
+	node2 -> node6;
+	node3 -> node6;
+	node4 -> node5;
+	node5 -> node6;
+	node6 -> node11;
+	node7 -> node8;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

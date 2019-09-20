@@ -1,0 +1,29 @@
+digraph graph767 {
+	node0 [label="「何ですか、"];
+	node1 [label="その"];
+	node2 [label="西洋料理へ"];
+	node3 [label="行って"];
+	node4 [label="午飯を"];
+	node5 [label="食うのについて"];
+	node6 [label="趣向が"];
+	node7 [label="あるというのですか」と"];
+	node8 [label="主人は"];
+	node9 [label="茶を"];
+	node10 [label="続ぎ足して"];
+	node11 [label="客の"];
+	node12 [label="前へ"];
+	node13 [label="押しやる。"];
+	node0 -> node5;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node5;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node13;
+	node8 -> node13;
+	node9 -> node10;
+	node10 -> node13;
+	node11 -> node12;
+	node12 -> node13;
+}

@@ -1,0 +1,25 @@
+digraph graph491 {
+	node0 [label="食いたければ"];
+	node1 [label="食い、"];
+	node2 [label="寝たければ"];
+	node3 [label="寝る、"];
+	node4 [label="怒る"];
+	node5 [label="ときは"];
+	node6 [label="一生懸命に"];
+	node7 [label="怒り、"];
+	node8 [label="泣く"];
+	node9 [label="ときは"];
+	node10 [label="絶体絶命に"];
+	node11 [label="泣く。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node7;
+	node4 -> node5;
+	node5 -> node7;
+	node6 -> node7;
+	node7 -> node11;
+	node8 -> node9;
+	node9 -> node11;
+	node10 -> node11;
+}

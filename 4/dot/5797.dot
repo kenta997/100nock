@@ -1,0 +1,11 @@
+digraph graph5797 {
+	node0 [label="人間の"];
+	node1 [label="せつな"];
+	node2 [label="糞の"];
+	node3 [label="凝結せる"];
+	node4 [label="臭骸のみ。"];
+	node0 -> node1;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+}

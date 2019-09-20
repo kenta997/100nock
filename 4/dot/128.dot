@@ -1,0 +1,23 @@
+digraph graph128 {
+	node0 [label="果して"];
+	node1 [label="翌日から"];
+	node2 [label="当分の"];
+	node3 [label="間という"];
+	node4 [label="ものは"];
+	node5 [label="毎日"];
+	node6 [label="毎日書斎で"];
+	node7 [label="昼寝も"];
+	node8 [label="しないで"];
+	node9 [label="絵ばかり"];
+	node10 [label="かいている。"];
+	node0 -> node10;
+	node1 -> node3;
+	node2 -> node3;
+	node3 -> node4;
+	node4 -> node10;
+	node5 -> node6;
+	node6 -> node10;
+	node7 -> node10;
+	node8 -> node10;
+	node9 -> node10;
+}

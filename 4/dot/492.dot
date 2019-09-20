@@ -1,0 +1,9 @@
+digraph graph492 {
+	node0 [label="第一日記などという"];
+	node1 [label="無用の"];
+	node2 [label="ものは"];
+	node3 [label="決してつけない。"];
+	node0 -> node1;
+	node1 -> node2;
+	node2 -> node3;
+}

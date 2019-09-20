@@ -1,0 +1,5 @@
+digraph graph6585 {
+	node0 [label="少々たちが"];
+	node1 [label="悪いようだ。"];
+	node0 -> node1;
+}

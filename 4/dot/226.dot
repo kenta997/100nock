@@ -1,0 +1,11 @@
+digraph graph226 {
+	node0 [label="「追って"];
+	node1 [label="そう"];
+	node2 [label="願う"];
+	node3 [label="事に"];
+	node4 [label="しよう。"];
+	node0 -> node4;
+	node1 -> node2;
+	node2 -> node3;
+	node3 -> node4;
+}
