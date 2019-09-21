@@ -1,5 +1,6 @@
 def cipher(s):
-    return "".join([str(219 - ord(x)) if x >= "a" and x <= "z" else x for x in s])
+    return "".join([str(219 - ord(x)) if "a" <= x <= "z" else x for x in s])
+
 
 s = cipher("I'm a perfect human.")
 print(s)
