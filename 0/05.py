@@ -5,3 +5,4 @@ def ngram(s, n):
 s = "I am an NLPer"
 print(ngram(s.split(), 2))
 print(ngram(s, 2))
+
