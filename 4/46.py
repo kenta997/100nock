@@ -1,6 +1,7 @@
 import CaboCha
 import os
 import pydotplus
+import numpy as np
 
 class Morph:
     def __init__(self, surface, base, pos, pos1):
@@ -48,14 +49,16 @@ for sentence in lattice:
         for morph in chunk.morphs:
             if morph.pos == "動詞" and chunk.srcs:
                 partickles = []
+                paragraphs = []
                 for src in chunk.srcs:
                     src_partickle = [x.surface for x in sentence[src].morphs if x.pos == "助詞"]
                     if src_partickle:
                         partickles.append(src_partickle[-1])
+                        paragraphs.append("".join([x.surface for x in sentence[src].morphs]))
                 if partickles:
-                    partickles.sort()
-                    result.append(morph.base + "\t" + " ".join(partickles) + "\n")
+                    sorted_index = np.argsort(partickles)
+                    result.append(morph.base + "\t" + " ".join(np.array(partickles)[sorted_index]) + "\t" + " ".join(np.array(paragraphs)[sorted_index]) + "\n")
 
-with open("45.txt", mode="w") as f:
+with open("46.txt", mode="w") as f:
     f.writelines(result)
 
