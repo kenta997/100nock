@@ -1,7 +1,3 @@
-import CaboCha
-import os
-import pydotplus
-
 class Morph:
     def __init__(self, surface, base, pos, pos1):
         self.surface = surface
@@ -45,18 +41,14 @@ for x in lattice:
 result = []
 for sentence in lattice:
     for chunk in sentence:
-        for morph in chunk.morphs:
-            if morph.pos == "動詞" and chunk.srcs:
-                partickles = []
-                for src in chunk.srcs:
-                    src_partickle = [x.surface for x in sentence[src].morphs if x.pos == "助詞"]
-                    if src_partickle:
-                        partickles.append(src_partickle[-1])
-                if partickles:
-                    partickles.sort()
-                    result.append(morph.base + "\t" + " ".join(partickles) + "\n")
-                break
+        if "名詞" in [x.pos for x in chunk.morphs]:
+            path = ["".join([x.surface for x in chunk.morphs])]
+            next_chunk = chunk
+            while next_chunk.dst > -1:
+                next_chunk = sentence[next_chunk.dst]
+                path.append("".join([x.surface for x in next_chunk.morphs]))
+            result.append(" -> ".join(path) + "\n")
 
-with open("45.txt", mode="w") as f:
+with open("48.txt", mode="w") as f:
     f.writelines(result)
 

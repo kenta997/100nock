@@ -57,7 +57,9 @@ for sentence in lattice:
                         paragraphs.append("".join([x.surface for x in sentence[src].morphs]))
                 if partickles:
                     sorted_index = np.argsort(partickles)
-                    result.append(morph.base + "\t" + " ".join(np.array(partickles)[sorted_index]) + "\t" + " ".join(np.array(paragraphs)[sorted_index]) + "\n")
+                    result.append(morph.base + "\t" + " ".join(np.array(partickles)[sorted_index]) +\
+                            "\t" + " ".join(np.array(paragraphs)[sorted_index]) + "\n")
+                break
 
 with open("46.txt", mode="w") as f:
     f.writelines(result)

@@ -1,6 +1,7 @@
 import CaboCha
 import os
 import pydotplus
+import numpy as np
 
 class Morph:
     def __init__(self, surface, base, pos, pos1):
@@ -47,16 +48,24 @@ for sentence in lattice:
     for chunk in sentence:
         for morph in chunk.morphs:
             if morph.pos == "動詞" and chunk.srcs:
-                partickles = []
-                for src in chunk.srcs:
-                    src_partickle = [x.surface for x in sentence[src].morphs if x.pos == "助詞"]
-                    if src_partickle:
-                        partickles.append(src_partickle[-1])
-                if partickles:
-                    partickles.sort()
-                    result.append(morph.base + "\t" + " ".join(partickles) + "\n")
+                for i, src in enumerate(chunk.srcs):
+                    for j in range(len(sentence[src].morphs) - 1):
+                        if sentence[src].morphs[j].pos == "名詞" and sentence[src].morphs[j].pos1 == "サ変接続" and sentence[src].morphs[j + 1].pos == "助詞" and sentence[src].morphs[j + 1].surface == "を":
+                            partickles = []
+                            paragraphs = []
+                            for k, src1 in enumerate(chunk.srcs):
+                                if k != i:
+                                    src_partickle = [x.surface for x in sentence[src1].morphs if x.pos == "助詞"]
+                                    if src_partickle:
+                                        partickles.append(src_partickle[-1])
+                                        paragraphs.append("".join([x.surface for x in sentence[src1].morphs]))
+                            if partickles:
+                                sorted_index = np.argsort(partickles)
+                                result.append(sentence[src].morphs[j].surface + sentence[src].morphs[j + 1].surface +\
+                                        morph.base + "\t" + " ".join(np.array(partickles)[sorted_index]) + "\t" +\
+                                        " ".join(np.array(paragraphs)[sorted_index]) + "\n")
                 break
 
-with open("45.txt", mode="w") as f:
+with open("47.txt", mode="w") as f:
     f.writelines(result)
 
