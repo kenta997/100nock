@@ -13,3 +13,6 @@ def download(url, name="downloaded.txt", is_bin=False):
     except requests.exceptions.RequestException as err:
         print(err)
 
+if __name__ == "__main__":
+    download("http://www.cl.ecei.tohoku.ac.jp/nlp100/data/hightemp.txt", "hightemp.txt")
+
