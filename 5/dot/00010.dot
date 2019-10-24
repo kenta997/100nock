@@ -1,0 +1,35 @@
+digraph graph10 {
+	node0 [label="ROOT"];
+	node1 [label="Using"];
+	node2 [label="almost"];
+	node3 [label="no"];
+	node4 [label="information"];
+	node5 [label="about"];
+	node6 [label="human"];
+	node7 [label="thought"];
+	node8 [label="or"];
+	node9 [label="emotion"];
+	node11 [label="ELIZA"];
+	node12 [label="sometimes"];
+	node13 [label="provided"];
+	node14 [label="a"];
+	node15 [label="startlingly"];
+	node16 [label="human-like"];
+	node17 [label="interaction"];
+	node0 -> node13;
+	node13 -> node1;
+	node4 -> node2;
+	node4 -> node3;
+	node1 -> node4;
+	node7 -> node5;
+	node7 -> node6;
+	node4 -> node7;
+	node7 -> node8;
+	node7 -> node9;
+	node13 -> node11;
+	node13 -> node12;
+	node17 -> node14;
+	node16 -> node15;
+	node17 -> node16;
+	node13 -> node17;
+}

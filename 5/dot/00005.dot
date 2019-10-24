@@ -1,0 +1,37 @@
+digraph graph5 {
+	node0 [label="ROOT"];
+	node1 [label="The"];
+	node2 [label="Georgetown"];
+	node3 [label="experiment"];
+	node4 [label="in"];
+	node5 [label="1954"];
+	node6 [label="involved"];
+	node7 [label="fully"];
+	node8 [label="automatic"];
+	node9 [label="translation"];
+	node10 [label="of"];
+	node11 [label="more"];
+	node12 [label="than"];
+	node13 [label="sixty"];
+	node14 [label="Russian"];
+	node15 [label="sentences"];
+	node16 [label="into"];
+	node17 [label="English"];
+	node0 -> node6;
+	node3 -> node1;
+	node3 -> node2;
+	node6 -> node3;
+	node5 -> node4;
+	node3 -> node5;
+	node8 -> node7;
+	node9 -> node8;
+	node6 -> node9;
+	node15 -> node10;
+	node13 -> node11;
+	node11 -> node12;
+	node15 -> node13;
+	node15 -> node14;
+	node9 -> node15;
+	node17 -> node16;
+	node9 -> node17;
+}

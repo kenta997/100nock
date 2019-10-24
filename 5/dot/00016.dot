@@ -1,0 +1,33 @@
+digraph graph16 {
+	node0 [label="ROOT"];
+	node1 [label="Up"];
+	node2 [label="to"];
+	node3 [label="the"];
+	node4 [label="1980s"];
+	node6 [label="most"];
+	node7 [label="NLP"];
+	node8 [label="systems"];
+	node9 [label="were"];
+	node10 [label="based"];
+	node11 [label="on"];
+	node12 [label="complex"];
+	node13 [label="sets"];
+	node14 [label="of"];
+	node15 [label="hand-written"];
+	node16 [label="rules"];
+	node0 -> node10;
+	node4 -> node1;
+	node4 -> node2;
+	node4 -> node3;
+	node10 -> node4;
+	node8 -> node6;
+	node8 -> node7;
+	node10 -> node8;
+	node10 -> node9;
+	node13 -> node11;
+	node13 -> node12;
+	node10 -> node13;
+	node16 -> node14;
+	node16 -> node15;
+	node13 -> node16;
+}

@@ -1,0 +1,35 @@
+digraph graph31 {
+	node0 [label="ROOT"];
+	node1 [label="NLP"];
+	node2 [label="using"];
+	node3 [label="machine"];
+	node4 [label="learning"];
+	node5 [label="Modern"];
+	node6 [label="NLP"];
+	node7 [label="algorithms"];
+	node8 [label="are"];
+	node9 [label="based"];
+	node10 [label="on"];
+	node11 [label="machine"];
+	node12 [label="learning"];
+	node14 [label="especially"];
+	node15 [label="statistical"];
+	node16 [label="machine"];
+	node17 [label="learning"];
+	node0 -> node9;
+	node9 -> node1;
+	node1 -> node2;
+	node7 -> node3;
+	node7 -> node4;
+	node7 -> node5;
+	node7 -> node6;
+	node2 -> node7;
+	node9 -> node8;
+	node12 -> node10;
+	node12 -> node11;
+	node9 -> node12;
+	node17 -> node14;
+	node17 -> node15;
+	node17 -> node16;
+	node12 -> node17;
+}

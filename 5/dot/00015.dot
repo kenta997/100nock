@@ -1,0 +1,27 @@
+digraph graph15 {
+	node0 [label="ROOT"];
+	node1 [label="During"];
+	node2 [label="this"];
+	node3 [label="time"];
+	node5 [label="many"];
+	node6 [label="chatterbots"];
+	node7 [label="were"];
+	node8 [label="written"];
+	node9 [label="including"];
+	node10 [label="PARRY"];
+	node12 [label="Racter"];
+	node14 [label="and"];
+	node15 [label="Jabberwacky"];
+	node0 -> node8;
+	node3 -> node1;
+	node3 -> node2;
+	node8 -> node3;
+	node6 -> node5;
+	node8 -> node6;
+	node8 -> node7;
+	node10 -> node9;
+	node8 -> node10;
+	node10 -> node12;
+	node10 -> node14;
+	node10 -> node15;
+}

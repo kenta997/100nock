@@ -1,0 +1,29 @@
+digraph graph36 {
+	node0 [label="ROOT"];
+	node1 [label="Many"];
+	node2 [label="different"];
+	node3 [label="classes"];
+	node4 [label="of"];
+	node5 [label="machine"];
+	node6 [label="learning"];
+	node7 [label="algorithms"];
+	node8 [label="have"];
+	node9 [label="been"];
+	node10 [label="applied"];
+	node11 [label="to"];
+	node12 [label="NLP"];
+	node13 [label="tasks"];
+	node0 -> node10;
+	node3 -> node1;
+	node3 -> node2;
+	node10 -> node3;
+	node7 -> node4;
+	node7 -> node5;
+	node7 -> node6;
+	node3 -> node7;
+	node10 -> node8;
+	node10 -> node9;
+	node13 -> node11;
+	node13 -> node12;
+	node10 -> node13;
+}
