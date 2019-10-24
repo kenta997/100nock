@@ -1,5 +1,3 @@
-import re
-
 with open("50.txt", mode="r") as f:
     nlp = f.read()
 

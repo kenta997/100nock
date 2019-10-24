@@ -8,9 +8,11 @@ with open("nlp.txt", mode="r") as f:
 
 nlp = re.sub("\n+", "\n", nlp)
 nlp = re.split("\.|;|:|\?|!\s+[A-Z]", nlp)
-for x in nlp:
-    print(x)
-print(nlp)
+
+nlp = [x.replace("\n", " ") for x in nlp]
+nlp = [x[1:] if x[0] == " " else x for x in nlp]
+
+print("\n".join(nlp))
 
 with open("50.txt", mode="w") as f:
     f.write("\n".join(nlp))

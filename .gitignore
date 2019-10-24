@@ -1,0 +1,5 @@
+3/mecab-ipadic-neologd/
+__pycache__/
+*.txt
+*.xml
+5/stanford*
