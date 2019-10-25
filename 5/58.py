@@ -7,7 +7,7 @@ root = ET.parse("nlp.txt.xml").getroot()
 result = []
 
 def get_text(sentence, idx):
-    return sentence[0][idx - 1][0].text
+    return sentence.find("./tokens/token[@id='{}']/word".format(idx)).text
 
 for sentence in tqdm(root.findall("./document/sentences/")):
     dependencies = [[dep.attrib["type"], dep[0].attrib["idx"], dep[1].attrib["idx"]]
