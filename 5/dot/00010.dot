@@ -23,7 +23,7 @@ digraph graph10 {
 	node1 -> node4;
 	node7 -> node5;
 	node7 -> node6;
-	node4 -> node7;
+	node1 -> node7;
 	node7 -> node8;
 	node7 -> node9;
 	node13 -> node11;

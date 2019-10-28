@@ -39,7 +39,7 @@ digraph graph4 {
 	node12 -> node13;
 	node12 -> node14;
 	node17 -> node16;
-	node14 -> node17;
+	node8 -> node17;
 	node21 -> node18;
 	node21 -> node19;
 	node21 -> node20;

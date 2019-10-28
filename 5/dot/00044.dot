@@ -30,9 +30,9 @@ digraph graph44 {
 	node10 -> node9;
 	node12 -> node11;
 	node10 -> node12;
-	node15 -> node13;
+	node10 -> node13;
 	node15 -> node14;
-	node12 -> node15;
+	node10 -> node15;
 	node18 -> node16;
 	node18 -> node17;
 	node15 -> node18;

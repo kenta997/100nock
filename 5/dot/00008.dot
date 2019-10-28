@@ -34,12 +34,12 @@ digraph graph8 {
 	node12 -> node11;
 	node8 -> node12;
 	node22 -> node14;
-	node20 -> node15;
-	node20 -> node16;
-	node20 -> node17;
-	node20 -> node18;
+	node18 -> node15;
+	node18 -> node16;
+	node18 -> node17;
+	node22 -> node18;
 	node20 -> node19;
-	node22 -> node20;
+	node18 -> node20;
 	node22 -> node21;
 	node12 -> node22;
 }

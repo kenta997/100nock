@@ -51,5 +51,5 @@ digraph graph38 {
 	node28 -> node25;
 	node28 -> node26;
 	node28 -> node27;
-	node24 -> node28;
+	node21 -> node28;
 }

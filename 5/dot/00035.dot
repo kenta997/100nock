@@ -33,10 +33,10 @@ digraph graph35 {
 	node12 -> node11;
 	node14 -> node13;
 	node12 -> node14;
-	node17 -> node16;
-	node14 -> node17;
+	node20 -> node16;
+	node20 -> node17;
 	node20 -> node19;
-	node17 -> node20;
+	node14 -> node20;
 	node25 -> node22;
 	node25 -> node23;
 	node25 -> node24;

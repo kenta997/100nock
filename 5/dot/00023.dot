@@ -41,19 +41,19 @@ digraph graph23 {
 	node13 -> node11;
 	node13 -> node12;
 	node10 -> node13;
-	node18 -> node15;
-	node18 -> node16;
+	node13 -> node15;
+	node15 -> node16;
 	node18 -> node17;
-	node13 -> node18;
+	node15 -> node18;
 	node21 -> node19;
 	node21 -> node20;
 	node18 -> node21;
 	node30 -> node23;
-	node26 -> node24;
+	node30 -> node24;
 	node26 -> node25;
 	node28 -> node26;
 	node28 -> node27;
 	node30 -> node28;
 	node30 -> node29;
-	node21 -> node30;
+	node13 -> node30;
 }

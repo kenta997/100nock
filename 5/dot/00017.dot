@@ -23,11 +23,11 @@ digraph graph17 {
 	node23 [label="language"];
 	node24 [label="processing"];
 	node0 -> node10;
-	node10 -> node1;
+	node5 -> node1;
 	node5 -> node2;
 	node5 -> node3;
 	node5 -> node4;
-	node1 -> node5;
+	node10 -> node5;
 	node10 -> node7;
 	node10 -> node9;
 	node12 -> node11;
@@ -36,12 +36,12 @@ digraph graph17 {
 	node12 -> node14;
 	node17 -> node15;
 	node17 -> node16;
-	node12 -> node17;
+	node10 -> node17;
 	node21 -> node18;
 	node21 -> node19;
 	node21 -> node20;
 	node17 -> node21;
 	node24 -> node22;
 	node24 -> node23;
-	node17 -> node24;
+	node21 -> node24;
 }

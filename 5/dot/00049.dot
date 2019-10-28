@@ -43,9 +43,9 @@ digraph graph49 {
 	node16 -> node13;
 	node16 -> node14;
 	node16 -> node15;
-	node12 -> node16;
-	node12 -> node18;
-	node12 -> node19;
+	node11 -> node16;
+	node16 -> node18;
+	node16 -> node19;
 	node22 -> node21;
 	node26 -> node23;
 	node26 -> node24;

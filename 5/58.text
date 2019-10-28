@@ -1,8 +1,8 @@
 processing	field	
 challenges	involve	
-understanding	involve	generation
+understanding	enabling	computers
 that	is	
-	enabling	computers
+others	involve	generation
 	derive	meaning
 history	starts	
 Turing	published	article
@@ -16,15 +16,16 @@ which	found
 research	failed	
 	fulfill	expectations
 systems	SHRDLU	
+ELIZA	written	
 ELIZA	provided	interaction
 	Using	information
 patient	exceeded	base
 ELIZA	provide	response
-head	hurts	
 you	say	
 head	hurts	
+programmers	began	
 which	structured	information
-	write	ontologies
+	write	conceptual
 Examples	MARGIE	
 revolution	was	
 This	due	
@@ -32,13 +33,14 @@ underpinnings	discouraged	sort
 that	underlies	approach
 Some	produced	systems
 	learning	algorithms
+Part	tagging	
 research	focused	
 which	make	decisions
 	introduced	use
 	attaching	weights
 	making	data
 models	examples	
-systems	rely	
+systems	rely	which
 models	robust	
 that	contains	errors
 	given	input
@@ -49,6 +51,7 @@ systems	able
 	take	advantage
 systems	depended	
 which	was	
+limitation	developed	
 deal	gone	
 research	focused	
 algorithms	able	
@@ -57,6 +60,7 @@ task	difficult
 	produces	results
 amount	is	
 which	make	
+	including	content
 	using	algorithms
 paradigm	different	
 implementations	involved	coding
@@ -78,10 +82,12 @@ Systems	have	advantages
 procedures	focus	
 it	obvious	
 	writing	rules
-procedures	make	use
+Automatic	make	use
 that	robust	
+	learning	procedures
 	produce	models
 	containing	words
+	misspelled	words
 that	make	decisions
 	handling	input
 	creating	systems
@@ -93,8 +99,6 @@ limit	is
 systems	become	
 increase	worked	
 	creating	data
-subfield	devoted	
-	learning	approaches
 	recognizing	links
 aims	is	
 NLL	overlaps	

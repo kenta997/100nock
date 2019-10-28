@@ -35,9 +35,9 @@ digraph graph39 {
 	node17 -> node14;
 	node17 -> node16;
 	node13 -> node17;
-	node17 -> node18;
+	node20 -> node18;
 	node20 -> node19;
-	node18 -> node20;
+	node13 -> node20;
 	node22 -> node21;
 	node20 -> node22;
 	node26 -> node23;

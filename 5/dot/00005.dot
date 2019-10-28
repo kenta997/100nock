@@ -33,5 +33,5 @@ digraph graph5 {
 	node15 -> node14;
 	node9 -> node15;
 	node17 -> node16;
-	node9 -> node17;
+	node6 -> node17;
 }

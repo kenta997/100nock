@@ -28,7 +28,7 @@ digraph graph29 {
 	node4 -> node3;
 	node8 -> node4;
 	node8 -> node5;
-	node7 -> node6;
+	node8 -> node6;
 	node8 -> node7;
 	node11 -> node9;
 	node11 -> node10;

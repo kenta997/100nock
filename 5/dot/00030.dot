@@ -41,13 +41,13 @@ digraph graph30 {
 	node10 -> node9;
 	node7 -> node10;
 	node10 -> node11;
-	node21 -> node13;
+	node7 -> node13;
 	node17 -> node15;
 	node17 -> node16;
-	node21 -> node17;
+	node13 -> node17;
 	node21 -> node19;
 	node21 -> node20;
-	node10 -> node21;
+	node13 -> node21;
 	node26 -> node22;
 	node26 -> node23;
 	node26 -> node24;
@@ -56,7 +56,7 @@ digraph graph30 {
 	node32 -> node29;
 	node32 -> node30;
 	node32 -> node31;
-	node10 -> node32;
+	node7 -> node32;
 	node32 -> node33;
 	node37 -> node34;
 	node37 -> node35;

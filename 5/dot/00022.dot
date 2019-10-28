@@ -47,7 +47,7 @@ digraph graph22 {
 	node10 -> node9;
 	node8 -> node10;
 	node13 -> node12;
-	node6 -> node13;
+	node10 -> node13;
 	node15 -> node14;
 	node13 -> node15;
 	node15 -> node16;
@@ -58,8 +58,8 @@ digraph graph22 {
 	node24 -> node22;
 	node24 -> node23;
 	node21 -> node24;
-	node6 -> node27;
-	node6 -> node28;
+	node8 -> node27;
+	node8 -> node28;
 	node31 -> node29;
 	node31 -> node30;
 	node28 -> node31;

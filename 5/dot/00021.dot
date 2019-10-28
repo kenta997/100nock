@@ -23,7 +23,7 @@ digraph graph21 {
 	node4 -> node2;
 	node4 -> node3;
 	node14 -> node4;
-	node6 -> node5;
+	node12 -> node5;
 	node12 -> node6;
 	node10 -> node7;
 	node10 -> node8;

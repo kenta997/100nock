@@ -35,10 +35,10 @@ digraph graph46 {
 	node7 -> node10;
 	node12 -> node11;
 	node10 -> node12;
-	node16 -> node13;
-	node13 -> node14;
+	node12 -> node13;
+	node16 -> node14;
 	node16 -> node15;
-	node7 -> node16;
+	node13 -> node16;
 	node19 -> node18;
 	node22 -> node19;
 	node21 -> node20;

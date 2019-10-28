@@ -28,7 +28,7 @@ digraph graph31 {
 	node12 -> node10;
 	node12 -> node11;
 	node9 -> node12;
-	node17 -> node14;
+	node12 -> node14;
 	node17 -> node15;
 	node17 -> node16;
 	node12 -> node17;

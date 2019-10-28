@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 
 stanford = "stanford-corenlp-full-2018-10-05/"
 
-call(["bash", stanford + "corenlp.sh", "-file", "nlp.txt"])
+call(["bash", stanford + "corenlp.sh", "-annotators", "tokenize,ssplit,pos,lemma,ner,parse,dcoref", "-file", "nlp.txt"])
 
 tree = ET.parse("nlp.txt.xml")
 root = tree.getroot()

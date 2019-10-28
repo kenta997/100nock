@@ -43,7 +43,7 @@ digraph graph7 {
 	node13 -> node10;
 	node13 -> node11;
 	node13 -> node12;
-	node7 -> node13;
+	node37 -> node13;
 	node15 -> node14;
 	node13 -> node15;
 	node18 -> node17;
@@ -60,10 +60,10 @@ digraph graph7 {
 	node29 -> node28;
 	node27 -> node29;
 	node37 -> node31;
-	node34 -> node32;
-	node34 -> node33;
-	node31 -> node34;
+	node33 -> node32;
+	node31 -> node33;
+	node37 -> node34;
 	node37 -> node35;
 	node37 -> node36;
-	node25 -> node37;
+	node7 -> node37;
 }
