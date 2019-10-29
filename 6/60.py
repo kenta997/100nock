@@ -9,7 +9,7 @@ with open("artist.json", mode="r") as f:
 r = redis.StrictRedis(connection_pool=redis.ConnectionPool(host="localhost", port=6379, db=0))
 
 for i, x in enumerate(tqdm(artist_json)):
-    r.set(x["name"] + str(x["id"]), x["area"] if "area" in x else "")
+    r.set(x["name"] + " " + str(x["id"]), x["area"] if "area" in x else "")
 
 print("{}件登録しました。".format(i + 1))
 

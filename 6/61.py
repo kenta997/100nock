@@ -2,7 +2,7 @@ import redis
 
 r = redis.StrictRedis(connection_pool=redis.ConnectionPool(host="localhost", port=6379, db=0))
 
-search = "Oasis"
+search = input("アーティスト名を入力 > ")
 
 areas = set([r.get(k).decode() for k in r.keys(search + "*") if r.get(k).decode()])
 
