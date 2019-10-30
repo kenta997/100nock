@@ -4,3 +4,4 @@ __pycache__/
 *.xml
 *.json
 5/stanford*
+7/rt-polaritydata*
