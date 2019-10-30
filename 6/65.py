@@ -1,0 +1,11 @@
+import json
+from pymongo import MongoClient, ASCENDING, DESCENDING
+from tqdm import tqdm
+
+cli = MongoClient("localhost", 27017)
+db = cli["100nock"]
+col = db["artist"]
+
+for doc in col.find(filter={"name": "Queen"}):
+    print(doc)
+
