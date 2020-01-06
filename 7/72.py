@@ -14,11 +14,14 @@ y = pd.Series(
             for sentence in tqdm(text.split("\n"), desc="make labels", leave=False)],
         name="class_label"
         ).astype("int8")
-text = re.sub(r"\(|\)|\[|\]|<[^<>]+>|\"|\+1 |\-1", "", text)
+text = re.sub(r"<[^<>]+>|[\"-\/]|[:-\>]|@|[\[-`]|\+1 |\-1 ", "", text)
+text = re.sub(r" [a-z] ", r" ", text)
 text = re.sub(r"[0-9]+", r"0", text)
-feature_words = set([stem(word) for word in tqdm(text.split(), desc="stem", leave=False)])
+feature_words = [stem(word) for word in tqdm(text.split(), desc="stem", leave=False)]
 feature_words = [word for word in tqdm(feature_words, desc="remove stop words", leave=False)
     if not is_in_stop_list(word)]
+feature_words = pd.Series(feature_words).value_counts()
+feature_words = feature_words[feature_words > 5].index.tolist()
 
 with open("columns.txt", mode="w", encoding="cp1252") as f:
     f.write("\n".join(sorted(feature_words)))

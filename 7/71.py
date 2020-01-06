@@ -7,7 +7,8 @@ from func import is_in_stop_list
 
 with open("sentiment.txt", mode="r", encoding="cp1252") as f:
     text = f.read().lower()
-text = re.sub(r"\(|\)|\[|\]|<[^<>]+>|\"|\+1 |\-1 ", "", text)
+text = re.sub(r"<[^<>]+>|[\"-\/]|[:-\>]|@|[\[-`]|\+1 |\-1 ", "", text)
+text = re.sub(r" [a-z] ", r" ", text)
 text = re.sub(r"[0-9]+", r"0", text)
 text = pd.Series(text.split()).apply(stem)
 text = text.value_counts()
