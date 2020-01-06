@@ -3,5 +3,6 @@ __pycache__/
 *.txt
 *.xml
 *.json
+*.joblib
 5/stanford*
 7/rt-polaritydata*
