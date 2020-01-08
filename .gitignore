@@ -4,5 +4,7 @@ __pycache__/
 *.xml
 *.json
 *.joblib
+*.csv
+*.mat
 5/stanford*
 7/rt-polaritydata*
