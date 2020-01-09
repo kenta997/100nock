@@ -1,9 +1,11 @@
 import numpy as np
 import pandas as pd
 from tqdm import tqdm
+import warnings
 
 
 tqdm.pandas(leave=False)
+warnings.simplefilter("ignore", RuntimeWarning)
 
 X = pd.read_csv("X300.csv", header=None, index_col=0, quoting=2, keep_default_na=False)
 v = X.loc["Spain"] - X.loc["Madrid"] + X.loc["Athens"]
