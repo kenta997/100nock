@@ -6,5 +6,6 @@ __pycache__/
 *.joblib
 *.csv
 *.mat
+*.model*
 5/stanford*
 7/rt-polaritydata*
