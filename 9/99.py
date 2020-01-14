@@ -10,5 +10,6 @@ X_tsne = TSNE(metric="euclidean", random_state=1).fit_transform(X)
 for x, y, label in zip(X_tsne[:, 0], X_tsne[:, 1], X.index):
     plt.text(x, y, label)
 plt.scatter(X_tsne[:, 0], X_tsne[:, 1])
+plt.savefig("countries_visualize.png")
 plt.show()
 
