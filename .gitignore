@@ -7,5 +7,7 @@ __pycache__/
 *.csv
 *.mat
 *.model*
+*.zip
 5/stanford*
 7/rt-polaritydata*
+9/wordsim353/
