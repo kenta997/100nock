@@ -1,5 +1,6 @@
 import requests
 
+
 def download(url, name="downloaded.txt", is_bin=False):
     try:
         r = requests.get(url)
@@ -12,6 +13,7 @@ def download(url, name="downloaded.txt", is_bin=False):
                 f.write(r.text)
     except requests.exceptions.RequestException as err:
         print(err)
+
 
 if __name__ == "__main__":
     download("http://www.cl.ecei.tohoku.ac.jp/nlp100/data/hightemp.txt", "hightemp.txt")

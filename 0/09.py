@@ -1,5 +1,4 @@
 import random
-import unittest
 
 
 random.seed(1)
