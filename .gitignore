@@ -1,5 +1,6 @@
 3/mecab-ipadic-neologd/
 __pycache__/
+.ipynb_checkpoints/
 *.txt
 *.xml
 *.json
@@ -8,6 +9,7 @@ __pycache__/
 *.mat
 *.model*
 *.zip
+1/16/
 5/stanford*
 7/rt-polaritydata*
 9/wordsim353/
